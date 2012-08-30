@@ -1,0 +1,122 @@
+1)  
+You know anything about missing meds?
+2)  
+Do you have any chalk I can borrow?
+3)  
+What do you think about Lilly?
+4)  LEE
+{thinkingA}I'm not talking about using.
+5)  DOUG
+{normalC}I don't know anything. Honest.
+6)  LEE
+{thinkingA}Do you know anything about the missing meds?
+7)  DOUG
+{fearA}No, not at all. I can't drink a cup of tea without getting the jitters.
+8)  DOUG
+{happyA}Since we're on the subject, did you know that while chalk is traditionally known to be calcium carbonate, what's often used in classrooms is actually made of gypsum, thanks to favorable domestic mining conditions?
+9)  LEE
+{thinkingB}Doug, I did not know that.
+10)  DOUG
+{happyA}Happy to be of service.
+11)  LEE
+{thinkingA}Do you have any chalk I can borrow?
+12)  DOUG
+{normalA}No, don't the kids have some? You know, a piece of charcoal is a suitable alternative, depending on your marking surface.
+13)  LEE
+{thinkingB}...Doug?
+14)  DOUG
+{normalB}I dunno, I guess I'm sad. {sadA}Nobody deserves to lose their parent like that.
+15)  LEE
+{thinkingA}You don't think that would make her delusional, do you?
+16)  DOUG
+{normalA} I think it could make you anything. {fearA}Nothing good.
+17)  LEE
+{normalA}What do you think about Lilly.
+18)  
+What are you working on?
+19)  
+Do you feel safe here?
+20)  
+You know anything about this flashlight?
+21)  DOUG
+{happyA}Well, I can tell you --
+22)  LEE
+{thinkingb}Wait wait wait -- I know you know everything about this flashlight. {normalC} I'm asking if you know how it got busted. Lilly found it in a dumpster.
+23)  DOUG
+{normalA}Oh. No. I don't. I'll keep my eye out for some suitable parts, though.
+24)  DOUG
+{happyA}That'll give me something useful to do.
+25)  LEE
+{normalD}Do you know anything about this flashlight?
+26)  DOUG
+{normalA}I'm just trying to focus on the wall. {sadA}Anything I'd like to contribute needs batteries or tools I just don't have.
+27)  LEE
+{happyA}The wall's important.
+28)  DOUG
+{sada}I guess. I feel worthless on watch because I'm not wild about guns and I just wish I was more helpful.
+29)  LEE
+{thinkingA}What are you working on?
+30)  DOUG
+{normalB}I think if we can get whoever is out there to leave us alone, this is a good place to be.
+31)  DOUG
+{thinkingA}And, you know, they sort of stopped attacking. {normalB}Maybe they forgot about us.
+32)  LEE
+{thinkingA}Do you feel safe here?
+33)  DOUG
+{thinkingA}Hmm. Safety has always been a bit of an elusive thing for me...
+34)  LEE
+{normalA}I mean at the motel, as opposed to finding somewhere new.
+35)  LEE
+{thinkingA}Or maybe someone convinced them we're worth more alive.
+36)  LEE
+{normalA}I'll catch you later, Doug.
+37)  DOUG
+{normalA}Hiya.
+49)  DOUG
+{normalA}Hiya.
+51)  DOUG
+{normalA}Hiya.
+53)  DOUG
+{normalA}Hiya.
+55)  DOUG
+{normalA}Hiya.
+57)  DOUG
+{normalA}Hiya.
+59)  DOUG
+{normalA}Hiya.
+60)  DOUG
+{normalA}Hiya.
+38)  LEE
+{normalA}Hey Doug.
+48)  LEE
+{normalA}Hey Doug.
+50)  LEE
+{normalA}Hey Doug.
+52)  LEE
+{normalA}Hey Doug.
+54)  LEE
+{normalA}Hey Doug.
+56)  LEE
+{normalA}Hey Doug.
+58)  LEE
+{normalA}Hey Doug.
+61)  LEE
+{normalA}Hey Doug.
+39)  LEE
+{thinkingA}[self] I really don't have anything else to ask him right now.
+40)  LEE
+{sadA}I wish Doug felt more useful around here.
+41)  LEE
+{thinkingA}I should show this to Lilly before making any accusations.
+42)  
+Talk to
+43)  
+Show Flashlight to
+44)  
+Show Bag to
+45)  
+Ask About Chalk
+46)  DOUG
+[pickup2] I'm tearing down this furniture to patch up the wall. If we go on like this, we'll have half the Travelier piled up out here before we know it.
+47)  
+Talk To

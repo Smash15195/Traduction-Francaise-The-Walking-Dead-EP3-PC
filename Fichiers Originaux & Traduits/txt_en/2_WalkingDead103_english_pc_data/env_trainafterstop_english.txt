@@ -1,0 +1,234 @@
+1)  
+Console
+2)  LEE
+{thinkingA}What are you thinking about?
+3)  LEE
+{sadA}You want to talk?
+4)  CLEMENTINE
+Yes.
+5)  LEE
+{sadB}You understand what happened?
+6)  LEE
+{sadA}Okay.
+7)  LEE
+[taken aback] {surpriseB}What? {angryC}The fuck he did.
+8)  LEE
+{thinkingB}What'd Chuck say?
+9)  CLEMENTINE
+What Chuck said.
+10)  CLEMENTINE
+That what happened to Duck would happen to me.
+11)  LEE
+{sadA}Sorry. {angryB}I'm gonna go talk some sense into him.
+12)  CLEMENTINE
+[that was a ] Swear.
+13)  CLEMENTINE
+Don't be mad.
+14)  LEE
+[jerked out of his own thoughts] {surpriseB}Huh?
+15)  BEN
+[needs to tell someone, horrifed to do so] {sadB}It was me.
+16)  BEN
+{disgustA}It's all my fault.
+17)  BEN
+{sadC}I was the one giving the bandits supplies.
+18)  LEE
+[dead serious] {angryC}WHAT?
+19)  
+I could kill you.
+20)  
+Jesus, Ben...
+21)  
+Why would you do that?
+22)  BEN
+[more broken up] {fearB}Oh fuck...what do I do?
+23)  BEN
+{sadC}By the time I realized they didn't it was too late... {fearB}they said they'd kill me. Kill all of us. {sadC}I'm sorry, Lee.
+29)  BEN
+{sadC}By the time I realized they didn't it was too late... {fearB}they said they'd kill me. Kill all of us. {sadC}I'm sorry, Lee.
+24)  BEN
+[really broken up] {thinkingA}Say something... {sadC}please. I deserve everything; everything I got coming to me.
+25)  BEN
+[so sad] {sadC}I'm sorry.
+26)  BEN
+[broken up] {fearA}They said they had my friend, that he was with them.
+30)  BEN
+[broken up] {fearA}They said they had my friend, that he was with them.
+39)  BEN
+[broken up] {fearA}They said they had my friend, that he was with them.
+27)  LEE
+{disgustA}What for? {angryB}Why the hell would you do this?
+28)  BEN
+{sadB}Well...no, I didn't have a good reason. {sadC}I thought I did. I fucked up. I'm sorry.
+31)  BEN
+[sad]{sadC}I know.
+32)  LEE
+{sadC}Jesus, Ben...
+33)  LEE
+{disgustA}Just...stop. {sadC}Fuck. [sigh] {angryB}Can we even trust you?
+34)  BEN
+[sad, choked up] {sadC}Okay.
+35)  LEE
+{angryB}No. Just... don't tell anybody. {angryC}You can't take any of it back so, don't, okay?
+36)  BEN
+[sad] {disgustA}Yes.
+37)  BEN
+{sadB}I just--
+38)  LEE
+{disgustA}Why'd you have to go and tell me that?
+40)  LEE
+{angryB}WHY SHOULDN'T I?
+41)  BEN
+{fearC}I...I...I... [being threatened by Lee]
+42)  LEE
+{angryD}I could kill you. [threatening]
+43)  LEE
+{angryC}Nobody can see us. I can toss you over right now and be done with it!
+44)  BEN
+[gasping for air]{sadC}
+45)  BEN
+[pickup 2] [new read: Good read, but in context it's a little too relaxed. More panicked like he almost was killed.] [destroyed] {disgustA}I had to tell someone...
+46)  BEN
+{fearC}They said they had my friend! I didn't know what to do! {fearD}LEE, PLEASE!
+47)  LEE
+{angryC}I bet you did.
+48)  BEN
+[panicked to hell] {FearD}No-- I-- LEE, PLEASE.
+49)  LEE
+{angryB}I'm going to go give that hobo a piece of my mind.
+50)  LEE
+[grumpy] {angryA}Not now.
+51)  LEE
+{sadA}It's an empty bottle.
+52)  LEE
+{thinkingB}Chuck's been through a few of these.
+53)  LEE
+{thinkingA}I can head out towards the cab.
+54)  LEE
+{thinkingA}It's the door to the cab.
+55)  LEE
+Hope we're not in this train much longer.
+56)  CLEMENTINE
+It's small.
+57)  LEE
+{normalA}And it's not trying to kill you. {sadA}It'l be harder than this, {thinkingB}but we got to start with the basics.
+58)  LEE
+{thinkingA}I don't need to mess around in there.
+59)  CLEMENTINE
+[no] Uh uh.
+60)  LEE
+{thinkingA}Empty, I think.
+61)  LEE
+{surpriseA}It's a fifth of whiskey.
+62)  LEE
+{surpriseA}Looks like Chuck has some booze left.
+63)  LEE
+{thinkingA}It's full of maps and documents.
+64)  LEE
+{thinkingB}Mind if I get by you for a second, Kenny?
+65)  KENNY
+{angryA}Can you just leave me alone?
+66)  KENNY
+{angryA}Get out of here.
+67)  KENNY
+[pissed]{angryC}What's your problem?
+68)  LEE
+{sadB}You mind if I look in there for a second?
+69)  KENNY
+{angryB}I really wish you'd just leave me alone.
+70)  LEE
+{thinkingB}There are some scissors in Chuck's pack.
+71)  LEE
+{disgustA}They look clean enough.
+72)  LEE
+{thinkingA}I found this in your pack, if you want it.
+73)  CHUCK
+{happyD}Damn, {happyB}didn't realize I had it left. Thank ya.
+74)  CHUCK
+{happyA}Want a nip?
+75)  
+Sure.
+76)  
+Nah, I'm fine.
+77)  LEE
+{thinkingA}Sure.
+78)  LEE
+[after a swig of cheap whiskey] {surpriseA}Oof.
+79)  CHUCK
+{happyB}Not known for its finish.
+80)  LEE
+{disgustA}No kidding.
+81)  LEE
+{thinkingB}Nah, I'm fine.
+82)  CHUCK
+{thinkingA}Suit yourself.
+85)  CHUCK
+{thinkingA}Suit yourself.
+83)  CHUCK
+[finishing a swig of bad whiskey] {thinkingA}Anybody in there want to share a drink, you let 'em know.
+84)  LEE
+{sadA}Will do.
+86)  
+Talk To
+88)  
+Talk To
+87)  
+Give Bottle To
+89)  
+Show Gun To
+90)  
+Show Map To
+91)  
+Take
+100)  
+Take
+92)  
+Look At
+95)  
+Look At
+96)  
+Look At
+98)  
+Look At
+101)  
+Look At
+93)  
+Bloodstain
+94)  
+Open
+97)  
+Open
+104)  
+Open
+108)  
+Open
+99)  
+Search
+102)  KENNY
+[flat] Thanks.
+103)  LEE
+The door to the boxcar.
+105)  
+Cab Door
+106)  
+Boxcar Door
+107)  
+Map Bin
+109)  
+Show Scissors To
+110)  
+Bottle of Whiskey
+111)  
+Backpack
+112)  LEE
+[pickup2] I was lucky enough to get it working ONCE.
+113)  LEE
+[pickup2] [for chucks' camp] He's lived here a while.
+114)  
+Chuck's Camp
+115)  BEN
+[pickup3] [unsure, nervous] Hey, Lee...
+116)  BEN
+[pickup3] [unsure, nervous] Back at the Motor Inn, you trusted me with your past...
+117)  BEN
+[pickup3] [unsure, nervous] I... I need to tell you...

@@ -1,0 +1,30 @@
+1)  
+Have you found anything else?
+2)  
+You didn't break the flashlight, did you?
+3)  
+You seem to know a bit about all this...
+4)  LEE
+{normalA}Have you found anything else?
+5)  DUCK
+{normalA}Just the chalk. {thinkingA}I also found some bugs underneath the stairs. {sadA}Don't tell Clementine.
+6)  LEE
+{thinkingA}[confused] Okay, I won't.
+7)  LEE
+{normalB}You didn't break the flashlight, did you Duck?
+8)  DUCK
+{sadB}No. Mom and Dad won't let me touch any of their stuff. Lilly neither.
+9)  LEE
+{normalC}That's probably for the best.
+10)  DUCK
+{happyC}No! I'm a good guy.
+11)  LEE
+{thinkingA}You seem to know a bit about all of this...{thinkingB} the chalk, you found the scuff here, this is going to sound crazy but you're not involved, are you?
+12)  LEE
+{angrya}Stay inside the gate.
+13)  DUCK
+{sadB}I will, I will.
+14)  
+Talk To
+15)  
+Show Flashlight to

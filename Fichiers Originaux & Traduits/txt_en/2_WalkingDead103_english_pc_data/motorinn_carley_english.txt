@@ -1,0 +1,336 @@
+1)  CARLEY
+{normalA}What I wanted to say was, {happyA}I've been thinking a lot. {happyb}About you.
+2)  
+I think about you too.
+3)  
+What about?
+4)  
+I'm fine.
+5)  LEE
+{happya}I think about you too.
+6)  CARLEY
+{happya}[nervously smitten, just a touch] Our group is small.
+7)  LEE
+[pickup 2] [new read note: This could be more flirty. As is, it's a bit flat.] {happyb}[flirting "our group is small"]You're small.
+8)  LEE
+{normalA}What about?
+9)  LEE
+{normalD}I'm fine.
+10)  CARLEY
+{thinkingA}Don't brood. I know you're "fine."
+11)  LEE
+{AngryA}Carley, Jesus...
+12)  CARLEY
+{normalC}People need to know because we're hanging by a {sadA}thread here and I can't see Lilly talk about you without thinking it's the next thing she's gonna say.
+13)  CARLEY
+{normalB}You're a convicted killer.
+14)  CARLEY
+{normalC}[stepping closer] And I think people should know.
+15)  CARLEY
+{sadA}Not because they deserve to and not because you're a bad man. {normalA}I think the opposite of those two things.
+16)  
+It's a lifetime ago.
+17)  
+You're probably right.
+18)  
+Forget it.
+19)  LEE
+{sadA}It was a lifetime ago.
+20)  CARLEY
+{angryA}Which is only going to make the feeling that you hid it and that there was even more to hide that much worse.
+21)  LEE
+{angrya}[sigh]
+22)  LEE
+{normald}You're probably right.
+23)  CARLEY
+{happyb}[flirty] Of course I'm probably right.
+24)  LEE
+{normalC}Forget it. I have. You should too.
+25)  CARLEY
+{angryA}God, I hate it when you do that. Don't you hear what I'm saying?
+26)  CARLEY
+{angrya}[Frustrated] Larry's gone, but he knew. If he didn't tell Lilly outright, he probably said enough to make her wonder.
+27)  CARLEY
+{normalB}And I know you told Kenny we met in your parent's drugstore, even though the first thing I ever said to you was keep a damn lid on it.
+28)  CARLEY
+{normalB}I'll tell you what I would tell anybody, apocalypse or not -- there comes a time when you can get out ahead of something like this and discuss it on your terms.
+29)  CARLEY
+{sadA}Do it before that chance is taken away.
+30)  CARLEY
+{normalb}People might be pissed. {normalC}And telling them might cause some trouble, but it will be a far cry from what'll happen if they don't hear it from you.
+31)  LEE
+{normalD}Yeah.
+32)  CARLEY
+{normalB}So you'll do it then?
+33)  
+I'll let people know.
+34)  
+No.
+35)  LEE
+{thinkingA}I'll let people know. {NormalB}You're totally right.
+36)  CARLEY
+[warm] {happyA}Good. I think it's {fearA}for the best.
+37)  CARLEY
+[whispers, like in your boyfriend's ear] {happyC}Don't call me small.
+38)  CARLEY
+[whisper in ear] {happyC}Try not to play stoic. It makes your forehead crinkle.
+39)  CARLEY
+[whispered in lee's ear] {happyC}You're gonna have to be more talkative if this is gonna work.
+40)  CARLEY
+[whispered in lee's ear] {happyC}You'll thank me later.
+41)  LEE
+{AngryA}No. I'm not doing that. {NormalD}People have enough to worry about.
+42)  CARLEY
+{fearA}What are you so afraid of? {ThinkingA}Three months ago I told you to tell no one and now I'm telling you to tell everyone. Do you think it's because they'll turn on you? {AngryC}We almost got eaten for fuck's sake.
+43)  CARLEY
+{normalA}Things are different now.
+44)  CARLEY
+{fearA}I hope you change your mind.
+45)  CARLEY
+{NormalA}Now. Um, {fearA}is there anything else you want to talk about?
+46)  LEE
+{thinkingA}No, actually, I'm going to go.
+47)  CARLEY
+{normalA}Okay.
+161)  LEE
+{normalA}Okay.
+48)  CARLEY
+{normalb}Good idea.
+49)  LEE
+{thinkingA}I'm going to look into this thing.
+50)  LEE
+{normalA}I'll talk to you later.
+51)  CARLEY
+{happyA}I'll talk to YOU later.
+52)  
+You know anything about missing meds?
+53)  
+Do you have any chalk I can borrow?
+54)  
+You have any thoughts about Lilly?
+55)  LEE
+{normalA}Hey Car.
+56)  
+You think people are ready to hear about me?
+57)  
+I talked to Kenny.
+62)  
+I talked to Kenny.
+58)  
+I talked to Katjaa
+63)  
+I talked to Katjaa
+59)  
+I talked to Clementine.
+64)  
+I talked to Clementine.
+60)  
+I told Ben.
+65)  
+I told Ben.
+61)  
+I told Lilly.
+66)  
+I told Lilly.
+67)  
+Do you feel safe here?
+68)  LEE
+{normalD}I talked to Kenny about who I am.
+110)  LEE
+{normalD}I talked to Kenny about who I am.
+69)  LEE
+{normalA}I changed my mind.
+77)  LEE
+{normalA}I changed my mind.
+92)  LEE
+{normalA}I changed my mind.
+100)  LEE
+{normalA}I changed my mind.
+102)  LEE
+{normalA}I changed my mind.
+70)  CARLEY
+{normalA}I thought you weren't going to do that.
+78)  CARLEY
+{normalA}I thought you weren't going to do that.
+93)  CARLEY
+{normalA}I thought you weren't going to do that.
+101)  CARLEY
+{normalA}I thought you weren't going to do that.
+126)  CARLEY
+{normalA}I thought you weren't going to do that.
+71)  CARLEY
+{thinkingA}And?
+79)  CARLEY
+{thinkingA}And?
+104)  CARLEY
+{thinkingA}And?
+111)  CARLEY
+{thinkingA}And?
+72)  CARLEY
+{happyA}That wasn't so hard, was it tough guy?
+112)  CARLEY
+{happyA}That wasn't so hard, was it tough guy?
+73)  LEE
+{happyA}He was cool. He just worries about his family.
+113)  LEE
+{happyA}He was cool. He just worries about his family.
+74)  LEE
+{sadA}I don't know. Feels like I just gave him ammo if we ever have to make any tough decisions when it comes to a head count.
+114)  LEE
+{sadA}I don't know. Feels like I just gave him ammo if we ever have to make any tough decisions when it comes to a head count.
+75)  CARLEY
+{normalC}Ah. Well, don't worry.
+115)  CARLEY
+{normalC}Ah. Well, don't worry.
+76)  LEE
+{normalA}I talked to Katjaa.
+116)  LEE
+{normalA}I talked to Katjaa.
+80)  CARLEY
+{normalA}Talk to Lilly yet?
+81)  CARLEY
+{happyA}Thanks for doing that.
+82)  CARLEY
+{thinkingA}Really?
+83)  LEE
+{normalA}Yeah. {sadA}She thinks supplies have been walking away.
+84)  LEE
+{thinkingA}There's some broken equipment too. {normalA}I'll look into it.
+85)  LEE
+{normalb}No, not yet. {normalA} I will.
+86)  LEE
+{sadA}She was fine, I guess. I think she's more upset about Kenny.
+121)  LEE
+{sadA}She was fine, I guess. I think she's more upset about Kenny.
+87)  CARLEY
+{sadA}Because of the St. Johns? What exactly did he do back there?
+119)  CARLEY
+{sadA}Because of the St. Johns? What exactly did he do back there?
+88)  LEE
+{normalC}Don't you start, now.
+120)  LEE
+{normalC}Don't you start, now.
+89)  CARLEY
+{normalA}She adores you. {happyA}Don't worry.
+122)  CARLEY
+{normalA}She adores you. {happyA}Don't worry.
+90)  LEE
+{sadA}I don't know. {thinkingA}She's tough to read.
+123)  LEE
+{sadA}I don't know. {thinkingA}She's tough to read.
+91)  CARLEY
+{thinkingA}How'd she handle it?
+124)  CARLEY
+{thinkingA}How'd she handle it?
+94)  LEE
+{thinkingb}Not even a little.{normalA} He's just happy I told him [emph] something.
+132)  LEE
+{thinkingb}Not even a little.{normalA} He's just happy I told him [emph] something.
+95)  CARLEY
+{normalB}You told Ben?
+127)  CARLEY
+{normalB}You told Ben?
+96)  CARLEY
+{thinkingb}I take it he didn't know what to do with the information.
+130)  CARLEY
+{thinkingb}I take it he didn't know what to do with the information.
+97)  LEE
+{normalA}Low risk.
+129)  LEE
+{normalA}Low risk.
+98)  CARLEY
+{thinkingA}Funny you picked him.
+131)  CARLEY
+{thinkingA}Funny you picked him.
+99)  LEE
+{normalA} I told Ben.
+128)  LEE
+{normalA} I told Ben.
+103)  LEE
+{normalB}I told Lilly.
+133)  LEE
+{normalB}I told Lilly.
+105)  LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+109)  LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+135)  LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+138)  LEE
+{thinkingb}You were right, she and Larry spoke, {normalB}obviously.
+106)  CARLEY
+{thinkingA}Well, you're about all she's got left.
+134)  CARLEY
+{thinkingA}Well, you're about all she's got left.
+107)  LEE
+{normalA} She was all right, though.
+136)  LEE
+{normalA} She was all right, though.
+108)  LEE
+{feara}It went about as well as you would expect.
+137)  LEE
+{feara}It went about as well as you would expect.
+117)  LEE
+{thinkingA}I talked to Clementine about things.
+125)  LEE
+{thinkingA}I talked to Clementine about things.
+118)  CARLEY
+{normalB}How'd she take it?
+139)  LEE
+{thinkingA}You really think people are ready to hear about me?
+140)  CARLEY
+{thinkingA}It's not a matter of ready or not. {normalB}There's never going to be a good time {sadA}but there are going to be a lot of bad ones. {normalC}Right now doesn't seem like one of them.
+141)  CARLEY
+{thinkingA}I don't know, this place is fine but we all know that that could change any second.
+142)  LEE
+{thinkingA}Do you feel safe here?
+143)  CARLEY
+{normalB}Show me a bath with a heated floor in a highrise apartment and hand me a full-bodied Malbec, and then I'll feel safe.
+144)  LEE
+{thinkingA}You have any thoughts about Lilly?
+145)  CARLEY
+{sadA}I worry about her. That's about it. {normalb}She keeps trying to run things but it's just not working.
+146)  LEE
+{normalC}So you don't have any?
+147)  LEE
+{thinkingA}Do you have any chalk I can borrow?
+148)  CARLEY
+{thinkingA}What, Clementine holding out on you?
+149)  CARLEY
+{normalA}No, why would I?
+150)  LEE
+{thinkingA}Do you know anything about the missing meds?
+151)  CARLEY
+{thinkingA}Are you serious?
+152)  LEE
+{normalB}Hey, I gotta ask.
+153)  CARLEY
+[putting it on] {thinkingA}No, detective, I don't know anything about that.
+154)  LEE
+{happyA}Shut up.
+155)  
+Do you know anything about this flashlight?
+156)  LEE
+{normalD}Do you know anything about this flashlight?
+157)  LEE
+It uses just one.
+158)  CARLEY
+{normalC}Everything should. [beat] {normalA}What was the question?
+159)  LEE
+{sadA}Did you break the flashlight?
+160)  CARLEY
+{normalA}No.
+162)  LEE
+{angrya}I know it's broken.
+163)  CARLEY
+{normalA}And the batteries might be in backwards.
+164)  CARLEY
+{normalA}It's broken.
+165)  CARLEY
+[pickup2] But everyone's different. Who knows how each person would take it, you know? Maybe it's worth thinking about who you want to tell.
+166)  CARLEY
+[pickup2] You don't have to tell everyone, but think about who you trust and take the opportunity while you have it.
+167)  
+Look At
+168)  
+Talk To

@@ -1,0 +1,52 @@
+1)  
+Game Title
+2)  
+Game Details
+3)  
+desc_achieved_StatsItem_Chapter1
+4)  
+desc_unachieved_StatsItem_Chapter1
+5)  
+desc_achieved_StatsItem_Chapter2
+6)  
+desc_unachieved_StatsItem_Chapter2
+7)  
+Hit the Road
+8)  
+desc_achieved_StatsItem_Chapter3
+9)  
+desc_unachieved_StatsItem_Chapter3
+10)  
+What Now?
+11)  
+desc_achieved_StatsItem_Chapter4
+12)  
+desc_unachieved_StatsItem_Chapter4
+13)  
+desc_achieved_StatsItem_Chapter5
+14)  
+desc_unachieved_StatsItem_Chapter5
+15)  
+desc_achieved_StatsItem_Chapter6
+16)  
+desc_unachieved_StatsItem_Chapter6
+17)  
+desc_achieved_StatsItem_Chapter7
+18)  
+desc_unachieved_StatsItem_Chapter7
+19)  
+desc_achieved_StatsItem_Chapter8
+20)  
+desc_unachieved_StatsItem_Chapter8
+21)  
+Goodbye, She Quietly Says
+22)  
+Bad Blood
+23)  
+Handle It
+24)  
+Unexpected Delay
+25)  
+Look Behind You
+26)  
+Lend Me Your Ears

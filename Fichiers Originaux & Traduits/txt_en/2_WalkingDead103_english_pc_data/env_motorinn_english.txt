@@ -1,0 +1,344 @@
+1)  DUCK
+{thinkingA}[to himself] A mystery...!
+2)  LEE
+{angryB}Jesus, Duck!
+3)  DUCK
+{sadA}I'm sorry, {normalA}I heard you guys talking.
+4)  LEE
+{angryA}You need to un-hear all of that.
+5)  DUCK
+{happyC}Can I help?
+6)  LEE
+{angryb}What did I just say?
+7)  DUCK
+{happyC}You're the greatest detective and I can be Dick Grayson! Your ward!
+8)  DUCK
+{happya}That's Robin.
+9)  LEE
+{angryb}[annoyed] I know who it is.
+10)  
+You can help. Don't tell anyone.
+11)  
+No. If you tell anybody, there will be trouble.
+12)  
+Fine, you're Robin.
+13)  DUCK
+{happya}Secrecy!
+20)  DUCK
+{happya}Secrecy!
+14)  LEE
+{NormalC} You can help. {angryA}Don't tell anybody.
+15)  LEE
+{normalC}Yeah. Good.
+16)  DUCK
+{fearA}[small] What do I do?
+27)  DUCK
+{fearA}[small] What do I do?
+17)  LEE
+{thinkingA}I don't know. {normalC}Go look around. Let me know if you find anything {disgustA}weird.
+28)  LEE
+{thinkingA}I don't know. {normalC}Go look around. Let me know if you find anything {disgustA}weird.
+18)  DUCK
+{happyA}I'm on the case!
+29)  DUCK
+{happyA}I'm on the case!
+19)  LEE
+{angryA}You can't help. {thinkingA}And if you tell anybody, {normalC}it will be trouble.
+21)  DUCK
+{thinkingA}I will live in the shadows!
+30)  DUCK
+{thinkingA}I will live in the shadows!
+22)  LEE
+{angryB}Did you hear what I just said?
+23)  DUCK
+I won't tell a soul.
+24)  LEE
+{angryb}The part about not helping. {angryC}You can't help.
+25)  DUCK
+{happyB}Yes!
+26)  LEE
+{ThinkingB}Okay, you're Robin.
+31)  LEE
+{thinkingA} There's some broken glass on the ground there.
+32)  LEE
+{thinkingA}Hmm.
+33)  LEE
+{thinkingB}There's something drawn there...
+34)  DUCK
+{happyA}A clue!
+35)  LEE
+{angryA}[frustrated] Maybe.
+36)  DUCK
+{normalA}What do you think it is?
+37)  LEE
+{thinkingA}Huh. Chalk.
+38)  DUCK
+{thinkingA}[whispering] Pink. Hmm.
+39)  LEE
+{angryB}[surprised]Duck!
+40)  LEE
+{angryC}I thought I told you couldn't help.
+41)  DUCK
+{sadA}I'm curious.
+42)  LEE
+{thinkingB}You don't say.
+43)  LEE
+{thinkingB}I don't think it's anything.
+44)  DUCK
+{happyb}Maybe it's a sign!
+45)  LEE
+{normalB}It could be. {thinkingA}It's pink chalk, which is {thinkingb}weird.
+46)  DUCK
+{thinkingA}Okay, {happyA}back to investigating!
+47)  LEE
+{thinkingA}More chalk...
+48)  LEE
+{normalC}Somebody was over here too.
+49)  LEE
+{normalA}Yeah, Duck, you did.
+50)  DUCK
+{happya}See, I did good, huh.
+51)  DUCK
+{normalA}Okay.
+52)  LEE
+{thinkingA}I suppose I should go out there and look around.
+53)  LEE
+{normalA}You stay here this time. {normalC}Seriously.
+54)  LEE
+{normalB}Not gonna shoot that.
+55)  LEE
+{thinkingA}Huh. There's {fearA}something in there... [worried]
+56)  LEE
+{normalB}There's a grate down there.
+57)  LEE
+{thinkingB}[tiny effort] Hmmph.
+58)  LEE
+{normalB}It's a bag of something.
+59)  LEE
+{fearA}[disbelief, quiet] Son of a bitch...
+60)  LEE
+{thinkingA}Sounds like Kenny actually has that thing running. {HappyA}I'll believe it when I see it.
+61)  LEE
+{normalA} It's Lilly's room.
+62)  LEE
+{normalB}I don't need to go in there.
+63)  LEE
+{normalB}It's locked up.
+64)  DUCK
+{happyA}I found something.
+65)  LEE
+{thinkingA}What is it?
+66)  LEE
+{thinkingA}Yeah, Duck, I got it. {normalA}Good job.
+67)  DUCK
+{happyc}Cool!
+68)  DUCK
+{happyb}I found this piece of pink chalk and a scuff of it over by the gate!
+69)  LEE
+{normalA}Really?
+70)  DUCK
+{happyc}Totally!
+71)  DUCK
+{normalA}Psst, Lee.
+72)  DUCK
+{happya}I was combing the scene for clues and--
+73)  KATJAA
+{sadA}Would you?
+103)  KATJAA
+{sadA}Would you?
+74)  KENNY
+{normalC}I'd do what it takes.
+105)  KENNY
+{normalC}I'd do what it takes.
+75)  KENNY
+{sadA}She's gonna have to let this go...
+104)  KENNY
+{sadA}She's gonna have to let this go...
+76)  LEE
+{normalB}Yep. {thinkingA} I've just been calling 'em "days" lately.
+108)  LEE
+{normalB}Yep. {thinkingA} I've just been calling 'em "days" lately.
+77)  DOUG
+And now if she's paranoid? That's a bad mix.
+106)  DOUG
+And now if she's paranoid? That's a bad mix.
+78)  DOUG
+I don't know what it is but it's probably worth talking to Lilly about things going missing. Ever since her dad died she's been a live wire.
+109)  DOUG
+I don't know what it is but it's probably worth talking to Lilly about things going missing. Ever since her dad died she's been a live wire.
+79)  DOUG
+Uh, rough day, I guess.
+107)  DOUG
+Uh, rough day, I guess.
+80)  LEE
+{normalD}No question.
+115)  LEE
+{normalD}No question.
+81)  LEE
+{sadA}You could say that.
+110)  LEE
+{sadA}You could say that.
+82)  CARLEY
+Well, I think you did good today. And I find myself thinking that most days.
+117)  CARLEY
+Well, I think you did good today. And I find myself thinking that most days.
+83)  CARLEY
+It's probably worth following up with Lilly about what she was saying about missing supplies.
+112)  CARLEY
+It's probably worth following up with Lilly about what she was saying about missing supplies.
+84)  CARLEY
+With her wound up the way she is, I don't want to see her paranoid.
+114)  CARLEY
+With her wound up the way she is, I don't want to see her paranoid.
+85)  LEE
+{normalA}Thanks.
+116)  LEE
+{normalA}Thanks.
+86)  CARLEY
+Oof. Things are coming to a head.
+111)  CARLEY
+Oof. Things are coming to a head.
+87)  CARLEY
+And I'd like to talk, when you've got a minute.
+113)  CARLEY
+And I'd like to talk, when you've got a minute.
+88)  
+She'll get over it.
+118)  
+She'll get over it.
+89)  KATJAA
+{normalB}You understand, Ken.
+120)  KATJAA
+{normalB}You understand, Ken.
+90)  LEE
+{normalC}She'll get over it.
+119)  LEE
+{normalC}She'll get over it.
+91)  KENNY
+{angryA}She's riling everybody up, otherwise.
+121)  KENNY
+{angryA}She's riling everybody up, otherwise.
+92)  
+She's right.
+122)  
+She's right.
+93)  LEE
+{angryA}She's right, you know. {normalC}Shit's just getting worse by the day.
+125)  LEE
+{angryA}She's right, you know. {normalC}Shit's just getting worse by the day.
+94)  KENNY
+{angryA}Whatever, Lee. You've picked your sides.
+123)  KENNY
+{angryA}Whatever, Lee. You've picked your sides.
+95)  KATJAA
+{sadA}Ken, that's not fair.
+124)  KATJAA
+{sadA}Ken, that's not fair.
+96)  
+Happy, Kenny?
+126)  
+Happy, Kenny?
+97)  LEE
+{AngryA} Happy, Kenny?
+127)  LEE
+{AngryA} Happy, Kenny?
+98)  KATJAA
+{sadA}Everyone is under great stress.
+128)  KATJAA
+{sadA}Everyone is under great stress.
+99)  KENNY
+{normalC}My family's alive and that RV is runnin.' You're goddamn right I am.
+129)  KENNY
+{normalC}My family's alive and that RV is runnin.' You're goddamn right I am.
+100)  
+silence
+130)  
+silence
+101)  KENNY
+{angryb}All I know is whenever this shit happens I'm the fucking bad guy. {angryA}I'd like a thank you for once. {angryB}FOR ONCE.
+102)  KENNY
+{sadA}She's right about one thing. None of this is gettin' any easier.
+131)  
+Look At
+133)  
+Look At
+136)  
+Look At
+138)  
+Look At
+139)  
+Look At
+141)  
+Look At
+144)  
+Look At
+167)  
+Look At
+168)  
+Look At
+169)  
+Look At
+132)  
+Inspect
+134)  
+Inspect
+140)  
+Inspect
+135)  
+Open
+137)  
+Open
+142)  
+Open
+143)  
+Climb
+145)  
+Pick Up
+146)  
+Lilly's Door
+147)  
+Chalk Scuff
+148)  
+Chalk X
+149)  
+Broken Glass
+150)  
+Gate
+151)  
+Grate
+152)  
+Inventory
+153)  
+RV
+154)  
+Bag
+155)  
+Stairs
+156)  
+High Five
+157)  LEE
+[pickup2] It's the chalk mark Duck found.
+158)  LEE
+[pickup2] Hmm. Definitely weird.
+159)  LEE
+[pickup2] Someone was probably just clumsy.
+160)  LEE
+[pickup2] It can't just be a coincidence.
+161)  KENNY
+[pickup2] [alt] Hey, man -- she's not helping, is she?
+162)  KATJAA
+[pickup2][alt] Now, Kenny, she's been through so much.
+163)  LEE
+[pickup2] Duck's favorite[game].
+164)  LEE
+[pickup2] We've been here too long already.
+165)  LEE
+[pickup2] Still the safest place for us.
+166)  LEE
+[pickup2] Those bandits gave us hell, but they've been quiet for days now.
+170)  
+Hopscotch Course
+171)  
+Fence
+172)  
+Motel Sign

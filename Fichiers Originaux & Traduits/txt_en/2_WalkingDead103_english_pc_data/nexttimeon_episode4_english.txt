@@ -1,0 +1,36 @@
+1)  KENNY
+We're almost at the river! You want to get on a boat, or you want to wait around until the walkers figure out we're here?
+2)  KENNY
+Or leave him.
+3)  CHRISTA
+I don't know how much longer he can keep on like this. If his leg gets any worse we're going to have to carry him.
+4)  LEE
+[aggressive] Who the hell is this? Answer me, dammit!
+5)  CAMPMAN
+If I were you, I'd get out of the street. Now.
+6)  CHRISTA
+So, when were you going to tell us about the radio?
+7)  LEE
+[forceful/angry] Who have you been talking to?
+8)  LEE
+[shouting, aggressive] You come back here, I'll kill you! You understand? I will kill kill you!
+9)  BEN
+[urgent/freaked out] Lee, you need to get up here now.
+10)  LEE
+What's wrong?
+11)  BEN
+It's Kenny.
+12)  KENNY
+You have no idea what I'm going through. And you sure as shit don't know a damn thing about grief.
+13)  BEN
+I've been thinking about telling him the truth. That it's my fault Duck and Katjaa got killed.
+14)  KENNY
+[still fuming/drunk] This is the only fucking thing I have left, and you want to take that from me, too? Fuck you!
+15)  VERNON
+Who are you?
+16)  LEE
+We need to focus on finding a boat right now, Clem. Like we talked about on the train.
+17)  LEE
+I know I promised that we'd find your parents. But Savannah's more dangerous than I thought it would be.
+18)  LEE
+We can still leave, Clem. Just you and me. But Savannah's more dangerous than I thought.

@@ -1,0 +1,648 @@
+1)  KENNY
+[cautious optimism] {Body-A}{HappyA}Looks like this is our lucky day.
+2)  
+This might go smoothly.
+3)  
+Maybe.
+4)  
+I don't like it.
+5)  LEE
+[cautiously optimistic]{Body-B} {HappyA}Yeah, this might actually go smoothly.
+6)  LEE
+[doubtful] {Body-B}{HappyA}Maybe, {ThinkingA}they tend to take us by surprise.
+7)  LEE
+[mildly irritated] {Body-B}{AngryA}I don't like it. {ThinkingA}Keep your eyes open, all right?
+8)  KENNY
+{Body-A}{ThinkingA}We deserve it after last time.
+9)  KENNY
+{Body-A}{HappyA}Yeah, {ThinkingA}well, the less I see, {HappyB}the happier I am.
+10)  LEE
+{AngryA}Let's just get inside.
+11)  KENNY
+{Body-A}{ThinkingA}Well, {NormalC}let's just get to it then.
+12)  KENNY
+{Body-A}{ThinkingA}Okay, just like last time. {DisgustA}Over the rig, {ThinkingA}into the pharmacy and scrape {NormalC}together whatever supplies are left.
+13)  LEE
+{Body-B}{ThinkingA}We didn't leave much in there.
+14)  KENNY
+{ThinkingA}We're out of options. {HappyA}Somethin's better than nothin'.
+15)  KENNY
+[Grunts with exertion / pain as he climbs] {Body-A}{AngryB}Urrgh...
+16)  LEE
+{Body-B}{SurpriseA}You okay?
+17)  KENNY
+{ThinkingA}No kiddin'.
+18)  KENNY
+{SurprisedA}The ladder's come loose. {AngryB}I'm not sure how many more trips she's got in her.
+19)  LEE
+{SadA}I'm not sure how many more trips we've got in US.
+20)  KENNY
+{AngryC}Shit!
+21)  LEE
+{Body-B}{ThinkingA}Looks like she's had it.
+22)  KENNY
+{Body-A}{ThinkingA}What now?
+23)  KENNY
+{AngryA}Better get a move-on.
+24)  LEE
+{Body-B}{ThinkingA}Are you sure you can't reach me?
+272)  LEE
+{Body-B}{ThinkingA}Are you sure you can't reach me?
+283)  LEE
+{Body-B}{ThinkingA}Are you sure you can't reach me?
+25)  KENNY
+{Body-A}{HappyB}Listen, {ThinkingA}you're either gonna have to get a hell of a lot taller, {AngryA}or my arms are gonna have to get a hell of a lot longer.
+271)  KENNY
+{Body-A}{HappyB}Listen, {ThinkingA}you're either gonna have to get a hell of a lot taller, {AngryA}or my arms are gonna have to get a hell of a lot longer.
+281)  KENNY
+{Body-A}{HappyB}Listen, {ThinkingA}you're either gonna have to get a hell of a lot taller, {AngryA}or my arms are gonna have to get a hell of a lot longer.
+26)  LEE
+{NormalD}I get it. {ThinkingA}I'll keep looking.
+273)  LEE
+{NormalD}I get it. {ThinkingA}I'll keep looking.
+282)  LEE
+{NormalD}I get it. {ThinkingA}I'll keep looking.
+27)  LEE
+{ThinkingB}I'll find another way up.
+241)  LEE
+{ThinkingB}I'll find another way up.
+28)  KENNY
+Dammit, {DisgustA}I can't reach.
+247)  KENNY
+Dammit, {DisgustA}I can't reach.
+256)  KENNY
+Dammit, {DisgustA}I can't reach.
+29)  KENNY
+{SadB}Sorry, pal.
+249)  KENNY
+{SadB}Sorry, pal.
+258)  KENNY
+{SadB}Sorry, pal.
+30)  LEE
+{SadB}[Lee sighs]
+248)  LEE
+{SadB}[Lee sighs]
+257)  LEE
+{SadB}[Lee sighs]
+31)  LEE
+All right, {ThinkingA}stay put.
+250)  LEE
+All right, {ThinkingA}stay put.
+259)  LEE
+All right, {ThinkingA}stay put.
+32)  LEE
+{Body-B}{HappyA}Kenny, c'mon.
+245)  LEE
+{Body-B}{HappyA}Kenny, c'mon.
+254)  LEE
+{Body-B}{HappyA}Kenny, c'mon.
+33)  KENNY
+[grunt of pain] {Body-A}{DisgustA}Unngh...{AngryB}shit.
+246)  KENNY
+[grunt of pain] {Body-A}{DisgustA}Unngh...{AngryB}shit.
+255)  KENNY
+[grunt of pain] {Body-A}{DisgustA}Unngh...{AngryB}shit.
+34)  KENNY
+{Body-A}{DisgustA}Not gonna happen pal.
+35)  KENNY
+{Body-A}{ThinkingA}Not while you're standing there.
+252)  KENNY
+{Body-A}{ThinkingA}Not while you're standing there.
+261)  KENNY
+{Body-A}{ThinkingA}Not while you're standing there.
+36)  LEE
+[grunting with exertion while pushing] {Body-B}{AngryC}Urgh...
+37)  LEE
+{Body-B}{ThinkingA}You sure{SadB} you're up for this?
+38)  KENNY
+{Body-A}{HappyA}Lee, {HappyB}I'm fine. I've got this. {ThinkingA}Gimme your hand.
+39)  LEE
+{Body-B}{SurpriseB}SHI-[gets cut off as he hits the windshield]
+40)  KENNY
+[in intense pain] {Body-A}{AngryC}ARRG!
+41)  
+Nice one.
+42)  
+What the hell happened?
+43)  
+Are you okay?
+44)  LEE
+[wincing] {Body-B}{DisgustA}Nice one. {AngryC}Next time I'm bringing Ben! {ThinkingB}Help me get up.
+45)  LEE
+{Body-B}{AngryC}What the hell happened? {AngryD}I thought you said you could handle it!
+46)  KENNY
+[defensive] {Body-A}{DisgustA}You ever been shot before? {SadB}I'm sorry, {AngryA}Christ. {AngryC}You'd think you-
+47)  LEE
+{Body-B}{SadB}You're lucky it wasn't any worse.... {ThinkingA}You cou-
+48)  LEE
+{Body-B}{SurpriseA}Jesus, {DisgustA}are you okay?
+107)  LEE
+{Body-B}{SurpriseA}Jesus, {DisgustA}are you okay?
+49)  KENNY
+[wincing] {Body-A}{DisgustA}I'm fine. {AngryB}Shit, {SadB}I'm sorry, pal, {ThinkingA}I thought it'd be healed up better.
+50)  LEE
+[curt] {AngryB}I'm fine, {DisgustA}forget it. {ThinkingB}Let's just-
+51)  LEE
+[wincing]{Body-B}{AngryC}
+52)  KENNY
+I'm sorry. {SadB}I just...
+53)  KENNY
+{Body-A}{AngryC}Sonofabitch! {SadB}You all right?
+54)  KENNY
+{Body-A}{SurprisedA}What the--{FearC}what the hell is that!? {AngryB}A walker?!
+55)  LEE
+{Body-B}{SurpriseB}Walkers don't scream! {FearC}Do they?
+56)  KENNY
+{FearC}Jesus! {SurprisedA}I don't think so.
+57)  LEE
+{AngryA}Okay, {ThinkingA}okay.
+58)  LEE
+{Body-B}{ThinkingB}Maybe if you just lean down {HappyB}far enough...
+59)  
+Still sore?
+60)  
+Think we'll find anything left?
+61)  
+I'm coming up.
+62)  LEE
+{ThinkingA}Maybe you shoulda stayed behind.
+63)  KENNY
+{Body-A}{DisgustA}I took a bullet to the gut, {ThinkingA}what do you think?
+64)  KENNY
+{NormalC}I'll be all right.
+65)  KENNY
+{Body-A}{AngryA}If we'd hit the road like I suggested, {DisgustA}we wouldn't be in this situation.
+66)  KENNY
+{Body-A}{ThinkingA}Ladder's right there.
+67)  LEE
+{Body-B}{NormalC}I'm coming up.
+68)  LEE
+{Body-B}{NormalC}Hey.
+69)  KENNY
+{Body-A}{ThinkingA}Yeah?
+70)  LEE
+{Body-B}{HappyA}Still can't reach?
+251)  LEE
+{Body-B}{HappyA}Still can't reach?
+260)  LEE
+{Body-B}{HappyA}Still can't reach?
+71)  KENNY
+{Body-A}Just tryin' to be optimistic.
+72)  KENNY
+{Body-A}{SadA}Lilly's not doin' so good, huh.
+73)  
+You slaughtered her dad.
+74)  
+Well, we killed her dad.
+75)  
+She'll be fine.
+76)  
+It's not good. I'm worried.
+77)  KENNY
+{Body-A}{ThinkingA}Your girl still upset with you for agreeing to take that stuff from the station wagon?
+78)  KENNY
+{Body-A}{ThinkingA}Your girl still upset with me for taking stuff out of that car last week?
+79)  
+I think she understands.
+110)  LEE
+I think she understands.
+80)  
+I wouldn't blame her.
+81)  
+I haven't asked.
+111)  LEE
+I haven't asked.
+113)  LEE
+I haven't asked.
+82)  
+I hope not.
+117)  LEE
+I hope not.
+118)  LEE
+I hope not.
+83)  
+What'd he say?
+294)  
+What'd he say?
+84)  
+He'll get over it.
+301)  
+He'll get over it.
+85)  
+Still?
+306)  
+Still?
+86)  
+It was a scary situation for him.
+291)  
+It was a scary situation for him.
+87)  
+We should go.
+88)  KENNY
+[grumpy] {Body-A}{ThinkingA}You made up your mind yet?
+89)  KENNY
+{HappyA}Yeah. We've been talking about it, {ThinkingA}but you made up your mind yet?
+90)  LEE
+{Body-B}{NormalC}You mean {ThinkingA}packing up the motel and getting in the RV?
+91)  KENNY
+{Body-A}{NormalC}Lee, where do you come down on stayin' or goin'?
+92)  
+We should stay.
+93)  
+We could split up.
+94)  LEE
+{Body-B}{ThinkingA}We should go. {ThinkingB}The motel's run its course and it's not safe.
+95)  LEE
+{Body-B}{ThinkingA}We should stay, Kenny. {HappyA}We've made an all right go of it so far.
+96)  LEE
+{Body-B}{ThinkingA}Maybe we split up, then.
+97)  KENNY
+[grumpy] {Body-A}{AngryA}Well if that's what you think {AngryB}you should probably fuckin' speak up. {DisgustA}Lilly's dug in.
+98)  KENNY
+{Body-A}{AngryA}You're damn right it has. {ThinkingA}We pile into the RV and don't pull over 'til we see water. {DisgustA}And if Lilly's deadset on staying, then, {HappyA}well, {ThinkingA}that's the way it goes.
+99)  KENNY
+{DisgustA}Fucking figures. {AngryB}It's only a matter'a time til you and Lilly put a white picket fence around that shit hole.
+100)  KENNY
+{Body-A}{DisgustA}Lee, you know that's bullshit. {AngryA}Those folks in the woods keep giving us hell{SadA}... {ThinkingA}it's only a matter of time.
+101)  KENNY
+We should get in the RV and get to the ocean. {HappyA}I need you with me on this, pal.
+102)  KENNY
+{Body-A}{DisgustA}So you stay with Lilly? {AngryA}And Doug'll stick with your ass because you saved him {AngryB}ONE time, and I get, {ThinkingA}who? {SurprisedA}Ben? {AngryB}That gangly shit for brains?
+103)  KENNY
+{Body-A}{DisgustA}So you stay with Lilly, then? {AngryA}And Carley'll stick with your ass because you saved her {AngryB}ONE time, and I get, {ThinkingA}who? {SurprisedA}Ben? {AngryB}That gangly shit for brains?
+104)  KENNY
+{Body-A}{SadB}Split up? {SadA}If I thought that wasn't suicide {ThinkingA}I'd have been gone a long time ago.
+105)  KENNY
+[grumbly] {Body-A}{AngryA}Fine, {AngryB}I'll take that as a yes then. {DisgustA}I swear, Lee, {ThinkingA}I'd be on my boat right this goddamn minute if I {AngryB}didn't think splitting up was suicide.
+106)  KENNY
+{Body-A}{SadA}I know it's a tough call, {ThinkingA}but come on, man. {HappyA}You know it's the way to go.
+108)  KENNY
+{Body-A}{AngryC}No, dick. {AngryD}I'm shot. {DisgustA}Now get off your--
+109)  KENNY
+[grumpy] {Body-A}{AngryB}No shit. {DisgustA}There's a lot to be worried about. {AngryA}She's gonna snap.
+112)  KENNY
+[grumpy] You even TALK to that girl anymore?
+114)  LEE
+Right.
+115)  KENNY
+Hope so. Not like we had much of a choice.
+116)  KENNY
+Christ, I've heard your opinion. What's done is done.
+119)  KENNY
+Hopin' ain't worth a damn.
+120)  KENNY
+She'll get there.
+121)  KENNY
+[grumpy] Guess so.
+122)  KENNY
+Well, I hope not.
+123)  LEE
+{Body-B}He'll get over it. Hershel's son is one of how many, now? We've all seen a lot worse.
+302)  LEE
+{Body-B}He'll get over it. Hershel's son is one of how many, now? We've all seen a lot worse.
+124)  LEE
+{Body-B}{ThinkingA}Still? What happened to {HappyA}"water off a duck's back?"
+307)  LEE
+{Body-B}{ThinkingA}Still? What happened to {HappyA}"water off a duck's back?"
+125)  KENNY
+[grumpy, sarcastic] {Body-A}{AngryB}He wanted to know if Hershel's son somehow made it. {SadA}Pretty sure he knows he didn't. [catches a glance from Lee]{AngryC}Don't worry, you made out like a hero in his eyes.
+296)  KENNY
+[grumpy, sarcastic] {Body-A}{AngryB}He wanted to know if Hershel's son somehow made it. {SadA}Pretty sure he knows he didn't. [catches a glance from Lee]{AngryC}Don't worry, you made out like a hero in his eyes.
+126)  KENNY
+{Body-A}{ThinkingA}He just {SadA}woke up in the middle of the night,{SadB} screamin' his head off. {FearB}He thinks he killed Hershel's son.
+300)  KENNY
+{Body-A}{ThinkingA}He just {SadA}woke up in the middle of the night,{SadB} screamin' his head off. {FearB}He thinks he killed Hershel's son.
+127)  LEE
+{Body-B}{SadB}It was a scary situation for him; {SadA}Shawn dying and all.
+293)  LEE
+{Body-B}{SadB}It was a scary situation for him; {SadA}Shawn dying and all.
+128)  KENNY
+{Body-A}{SadB}I'm just worried he'll {FearB}always think it was his fault. [with regret]
+292)  KENNY
+{Body-A}{SadB}I'm just worried he'll {FearB}always think it was his fault. [with regret]
+129)  KENNY
+[grumpy] That's a fucking thing to say. I'm talkin' about my kid here.
+303)  KENNY
+[grumpy] That's a fucking thing to say. I'm talkin' about my kid here.
+130)  KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+147)  KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+148)  KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+304)  KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+309)  KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+313)  KENNY
+He's a tough kid, ya know. Like I said, not much phases him, but it's startin' to add up. The farm, the dairy...
+131)  LEE
+{Body-B}{SurpriseA}Christ... {SadB}I'm sorry.
+299)  LEE
+{Body-B}{SurpriseA}Christ... {SadB}I'm sorry.
+132)  KENNY
+Fact of the matter is {AngryB}we[emphasis on we] did.
+298)  KENNY
+Fact of the matter is {AngryB}we[emphasis on we] did.
+133)  KENNY
+I need to get to the coast. Get him out of all this madness.
+146)  KENNY
+I need to get to the coast. Get him out of all this madness.
+149)  KENNY
+I need to get to the coast. Get him out of all this madness.
+305)  KENNY
+I need to get to the coast. Get him out of all this madness.
+310)  KENNY
+I need to get to the coast. Get him out of all this madness.
+312)  KENNY
+I need to get to the coast. Get him out of all this madness.
+134)  KENNY
+[grumpy] We're dealin' with a little more than water here.
+308)  KENNY
+[grumpy] We're dealin' with a little more than water here.
+135)  LEE
+{Body-B}{SadB}You murdered her dad.
+136)  LEE
+{Body-B}{SadA}Well, we killed her dad.
+137)  LEE
+{Body-B}{ThinkingA}She'll be fine.
+138)  LEE
+{Body-B}{ThinkingA}It's not good. {SadB}I'm worried.
+139)  LEE
+What do you think?
+140)  KENNY
+Just gonna let it stew, huh.
+141)  KENNY
+[grumpy] {AngryB}Of course it did.
+315)  KENNY
+[grumpy] {AngryB}Of course it did.
+322)  KENNY
+[grumpy] {AngryB}Of course it did.
+142)  LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+143)  LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+316)  LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+318)  LEE
+{Body-B}{SurpriseA}Really? {ThinkingA}I wasn't sure it phased him.
+144)  LEE
+{Body-B}{AngryA}It's not like that.
+297)  LEE
+{Body-B}{AngryA}It's not like that.
+145)  LEE
+{Body-B}{ThinkingA}What'd he say?
+295)  LEE
+{Body-B}{ThinkingA}What'd he say?
+150)  KENNY
+[grumpy] You know, don't worry about it.
+311)  KENNY
+[grumpy] You know, don't worry about it.
+151)  KENNY
+{Body-A}{SadA}No. {SadB}It's not. I hope she doesn't snap. {ThinkingA}I might've saved our lives in that meat locker, {SadA}you know?
+152)  KENNY
+{Body-A}{ThinkingA}If you say so. You're the only one she seems to {AngryA}give a damn about anymore. {SadA}Well, {NormalC}you and Clem.
+153)  KENNY
+{Body-A}{ThinkingA}You really think so? {SadA}I dunno, man. {ThinkingA}I've been thinking and, {SurprisedA}huh, {SadA}I just don't know.
+154)  KENNY
+[grumpy] {Body-A}{SadB}I did what I had to, {AngryA}and you know it.
+155)  KENNY
+[lead in: "well, we killed her dad." sort of coming to terms with those words by repeating them. yep. we did do THAT.] {Body-A}{ThinkingA}We did kill her dad.
+156)  LEE
+{Body-B}{HappyA}Still sore?
+157)  LEE
+{Body-B}{HappyA}Think we'll find anything? {ThinkingA}Ain't much left in there.
+158)  KENNY
+{Body-A}{ThinkingA}We'll see. {NormalC}Station wagon stuff's not gonna last as long as we thought.
+159)  KENNY
+{Body-A}{HappyA}You're right. {ThinkingA}We're lucky we found that station wagon, {DisgustA}despite you getting all high and mighty about it.
+160)  
+It doesn't matter. We must keep moving.
+161)  
+It's a girl, she's going to get us killed.
+162)  
+It's a girl, we have to help.
+164)  KENNY
+You can't kill all of 'em!
+165)  KENNY
+You're wasting bullets! JESUS!
+166)  KENNY
+{DisgustA}"Split up." Hmmph.
+167)  KENNY
+{DisgustA}"Split up." Hmmph.
+168)  KENNY
+{Body-A}{ThinkingA}How?! {FearC}There's no gettin' to her.
+169)  LEE
+{Body-B}{SadB}It's a girl. {FearC}We have to help her.
+170)  KENNY
+[urgent but hiding] {AngryC}Think about it! {FearB}We're always worryin' about the ones we can't see -- {SurprisedA}she stays alive and brings them all out of their holes!
+171)  LEE
+[urgent but hiding] {SurpriseB}What do you mean?
+172)  LEE
+[urgent but hiding] {SurpriseC}Ken...[disbelief]
+173)  LEE
+[urgent but hiding] {Body-B}{SurpriseB}It's a girl! {FearD}She's going to get us killed!
+174)  KENNY
+[urgent but hiding] {ThinkingA}I mean, {DisgustA}we leave her alive and she draws them all to her, {FearB}buying us time.
+175)  KENNY
+[urgent but hiding]  {Body-A}{FearC}No shi...{DisgustA}actually...
+176)  KENNY
+[urgent but hiding--realizing] {Body-A}{DisgustA}They don't know we're here.
+177)  LEE
+[pickup 2] [new read: Wrong emphasis - should be We gotta do SOMETHIN' not We gotta DO somethin'.] {DisgustA}We gotta do somethin'.
+178)  LEE
+[urgent but hushed] {Body-B}{AngryB}Fuck, {AngryC}we gotta shoot her. {FearB}Put her out of this misery.
+179)  BEATRICE
+[SHRIEK in pain]
+180)  KENNY
+This could be our last time back here -- we need all the time we can get!
+181)  LEE
+[urgent, hushed] {Body-B}{FearC}It doesn't matter, {AngryB}we gotta keep moving. {DisgustB}Let's just leave her.
+182)  KENNY
+[urgent, hushed] {Body-A}{AngryB}Let's think about this...
+183)  KENNY
+[hushed, urgent] Leave her, Lee! Let's go!
+184)  KENNY
+[hushed, urgent] COME ON, MAN!
+185)  KENNY
+{Body-A}{AngryB}GO. NOW.
+186)  KENNY
+[hushed angry] {AngryD}Now look what you done. {DisgustA}Let's MOVE.
+187)  KENNY
+[hushed, angry]  {Body-A}{AngryC}God dammit.
+188)  KENNY
+[hushed] {Body-A}{AngryB}Good, {ThinkingA}let's go -- {DisgustA}she'll keep 'em busy.
+189)  KENNY
+Stop it, man! They're gonna see us!
+190)  KENNY
+Knock it the fuck off!!
+191)  BEATRICE
+[ear piercing scream1]
+192)  BEATRICE
+[ear piercing scream 2]
+193)  BEATRICE
+[animalistic scream]
+194)  BEATRICE
+[bitten scream]
+195)  BEATRICE
+[sad, "help me" scream]
+196)  KENNY
+[grumpy] {AngryA}When it comes to the gettin' the hell out of Macon. {DisgustA}I bet you're in the "let's stay put" camp, {AngryA}considerin' I been pushin' everyone to leave.
+197)  LEE
+{Body-B}{ThinkingA}About what?
+198)  KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+199)  KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+314)  KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+317)  KENNY
+[pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck was asking about that guy at Hershel's farm last night.
+200)  KENNY
+Fuck, man! You're not hitting anything!
+201)  KENNY
+Knock it off! Jesus, if you're gonna shoot at least fucking hit something!
+202)  LEE
+[pickup2] {Body-B}{NormalB}Huh.{ThinkingA} Looks like it still works.
+203)  LEE
+[pickup2] {Body-B}{ThinkingA}It's completely flat.
+284)  LEE
+[pickup2] {Body-B}{ThinkingA}It's completely flat.
+286)  LEE
+[pickup2] {Body-B}{ThinkingA}It's completely flat.
+204)  LEE
+[pickup2][struggling vainly to move a stuck car] {Body-B}{AngryC}Urrghhhh. [exhausted exhale]
+288)  LEE
+[pickup2][struggling vainly to move a stuck car] {Body-B}{AngryC}Urrghhhh. [exhausted exhale]
+205)  LEE
+[pickup2] {Body-B}{ThinkingA}Hmm.
+206)  
+Look At
+208)  
+Look At
+210)  
+Look At
+227)  
+Look At
+228)  
+Look At
+229)  
+Look At
+230)  
+Look At
+253)  
+Look At
+275)  
+Look At
+285)  
+Look At
+207)  
+Push
+287)  
+Push
+209)  
+Grab
+215)  
+Grab
+211)  
+Use
+212)  
+Attach Winch
+213)  
+Climb On
+240)  
+Climb On
+290)  
+Climb On
+214)  
+Talk To
+216)  
+Climb
+217)  
+Jeep
+218)  
+Winch
+219)  
+Power Switch
+220)  KENNY
+[pickup2] [hushed urgent]That's enough of that! You're just causing more trouble!
+221)  KENNY
+[pickup2] [hushed urgent]'Nother one of those and we gotta move, jackass!
+222)  KENNY
+[pickup2][working over a sore part of your body, your bullet wound] Mmph, man.
+223)  KENNY
+[pickup2][working over a sore part of your body, your bullet wound] Mmph, man.
+224)  LEE
+[pickup2][under his breath, urgent frustration] I know.
+225)  KENNY
+[pickup2] [empathic, final explanation] Saving her is impossible.
+226)  KENNY
+[pickup2] [empathic, final explanation] So we do the next best thing. Do NOT put her out of her misery, you understand?
+231)  LEE
+[pickup2] {Body-B}{NormalC}So much for the military.
+232)  LEE
+[pickup2] {Body-B}{ThinkingA}There's no safe way through that mess.
+233)  
+Helicopter
+234)  
+Debris Under Truck
+235)  
+Sign
+236)  
+Windows
+243)  
+Windows
+237)  LEE
+[pickup2] {Body-B}{NormalD}Blocked by all the fallen concrete.
+238)  LEE
+{ThinkingA}No good.
+289)  LEE
+{ThinkingA}No good.
+239)  
+Attach
+242)  LEE
+312483909
+244)  
+Wrecked Car
+262)  LEE
+[pickup2] I have no idea what to do with these.
+276)  LEE
+[pickup2] I have no idea what to do with these.
+263)  LEE
+[pickup2]  That's one hell of a mess.
+277)  LEE
+[pickup2]  That's one hell of a mess.
+264)  LEE
+[pickup2] There's gotta be something useful in here....
+278)  LEE
+[pickup2] There's gotta be something useful in here....
+265)  LEE
+{thinkingB}I don't think it's anything.
+279)  LEE
+{thinkingB}I don't think it's anything.
+266)  LEE
+[pickup2] We've been here too long already.
+280)  LEE
+[pickup2] We've been here too long already.
+267)  
+Barrel
+268)  
+Debris
+319)  
+Debris
+269)  
+Rubble
+270)  
+Grocery Cart
+274)  
+Tire
+320)  
+Winch Control
+321)  
+Trailer Axle
+323)  LEE
+{ThinkingB}Hmm.
+324)  LEE
+{thinkingA}Hmm.
+325)  
+Ladder

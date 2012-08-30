@@ -1,0 +1,172 @@
+1)  
+I need to tell you something.
+2)  LEE
+{normalD}Hey Ben, I need to tell you something.
+3)  BEN
+{normalb}Sure, Lee. {thinkingA} Is it about my watch? {fearA}I'm trying to do a good job.
+4)  LEE
+{normalD}You're doing fine.
+5)  
+I'm a convicted murderer.
+6)  
+I was on my way to prison before this.
+7)  
+Never mind.
+8)  LEE
+{sadA}I'm a {normalD}convicted murderer.
+9)  BEN
+{surprisedA}Whoa, {sadB}seriously?
+19)  BEN
+{surprisedA}Whoa, {sadB}seriously?
+10)  LEE
+{thinkingA}Why would I joke about that?
+11)  BEN
+{surprisedA}I dunno,{feara} uh...{sadA} wow.
+12)  LEE
+{normalD}You're a part of this group and you should know.
+13)  BEN
+{fearb}I've never met a murderer before. {sadB}Well, I hadn't I mean.
+14)  LEE
+{normalD}I know what you meant.
+15)  BEN
+{normalb}Thanks for trusting me, man.{fearA} I, uh, I...
+24)  BEN
+{normalb}Thanks for trusting me, man.{fearA} I, uh, I...
+16)  LEE
+{normalC}Ben, relax.
+25)  LEE
+{normalC}Ben, relax.
+17)  BEN
+[anxious] {fearA}Okay.
+26)  BEN
+[anxious] {fearA}Okay.
+18)  LEE
+{normalc}I was on my way to prison before this.
+20)  BEN
+{feara}What, uh, were you in for?
+21)  LEE
+{normalb}It's not important.
+22)  BEN
+{surpriseda}Oh.
+23)  LEE
+{thinkinga}Just, if you hear anything, {normalb}it's probably true and now you know.
+27)  LEE
+{sadA}Never mind.
+28)  BEN
+{fearA}Oh, okay.
+29)  LEE
+{normalA}It wasn't important.
+30)  BEN
+{fearb}Did I do something wrong?
+31)  LEE
+{sadA}No, Ben, {normalA}you're fine.
+32)  BEN
+{thinkingA}What is it?
+33)  BEN
+{fearB}Did I screw up?
+34)  BEN
+{thinkingb}Okay, I'm just gonna go...back...then.
+35)  BEN
+{normalA}What's up, Lee?
+36)  LEE
+{normalA}Hey, Ben.
+37)  
+Do you feel useful to the group?
+38)  LEE
+{normalA}What do you think about Lilly?
+39)  BEN
+{fearb}She scares the crap out of me.
+40)  LEE
+{thinkingA}That's a {normalc}reasonable thing to feel.
+41)  BEN
+{fearA}I'm just worried she's going to snap.
+42)  
+What do you think about Lilly?
+43)  LEE
+{normalA}Yeah. How's your spirits.
+44)  BEN
+{thinkingA}I'm fine. {feara}I'm helping, right?
+45)  LEE
+{happya}For sure, Ben.
+46)  LEE
+{thinkingA}You feel useful to the group?
+47)  BEN
+{sadA}What? {thinkinga}Useful?
+48)  
+See anything weird on watch?
+49)  LEE
+{thinkingA}Really.
+50)  BEN
+{happyb}Yeah, totally. {happya}Which is good.
+51)  LEE
+{thinkingA}Have you seen anything weird on watch? Is there anybody out there up to anything?
+52)  BEN
+{normalA}Nope. Really quiet.
+53)  
+Did you ever come down to Macon, much?
+54)  LEE
+{thinkingb}I grew up in Macon.
+55)  BEN
+{happya}It's super nice. {sadA} I mean, not now, but I bet it was. Is.
+56)  BEN
+{thinkingA}I didn't have much reason to. {normalb}My parents would let me take the car into the city on the weekend. {thinkingb}But what's in Macon? {normalA}It's kind of a waste of time compared to Atlanta.
+57)  BEN
+{surprisedA}Oh. {fearA} I didn't mean to say it's crappy or anything.
+58)  LEE
+{normalA}Did you ever come down here to Macon much?
+59)  
+Do you know anything about missing meds?
+60)  BEN
+{thinkingb}Well, it's not me. {feara}I didn't do anything.
+61)  LEE
+{normalA}The count is right, I just think things are getting little legs and walking out of here.
+62)  LEE
+{normalC}Some meds are missing. {thinkingb}Do you know anything about that?
+63)  LEE
+{normalA}All right.
+64)  BEN
+{fearA}The count isn't right?
+65)  
+A flashlight got broken. Was it you?
+66)  BEN
+{fearA}No.
+67)  LEE
+{normala}You're not in trouble if it was. {thinkingA}I know you get nervous and maybe you went out to go to the bathroom, broke it, got worried and tossed it.
+68)  BEN
+{thinkingb}What's with the third degree? {fearb}I didn't break any flashlight.
+69)  LEE
+{normalc}A flashlight was broken. {thinkingA}Was it you?
+70)  LEE
+{normalc}Okay then.
+71)  
+Do you have any chalk I can borrow?
+72)  LEE
+{normalb}That's what it's there for.
+73)  LEE
+{normalA}Just asking around.
+74)  LEE
+{normalA}Hey Ben, I need a piece of chalk. Do you know where I can get any?
+75)  BEN
+{thinkingb}Well I don't play with that stuff. I've got my... {normalb}well, my thoughts and I've been readin' the Bible I found in my room.
+76)  BEN
+{thinkingA}Why would I have any?
+77)  BEN
+{normalA}Bye.
+78)  LEE
+{normalA}Talk to you later, Ben.
+79)  BEN
+{normalA}Still fine.
+80)  LEE
+{normalA}How's it going, Ben?
+81)  LEE
+{thinkingA}I should show this to Lilly before making any accusations.
+82)  
+Talk to
+83)  
+Show Bag to
+84)  
+Show Flashlight to
+85)  
+Ask About Chalk
+86)  LEE
+[pickup2] [alt] I'm not just some guy you met in the forest. I was a prisoner, a convict, before.

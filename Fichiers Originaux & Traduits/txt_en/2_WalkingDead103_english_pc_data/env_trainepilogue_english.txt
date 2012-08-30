@@ -1,0 +1,90 @@
+1)  KENNY
+[flat] {normalC} Next stop, the Atlantic.
+2)  LEE
+{thinkingA} We have to find a boat. {normalD} We just have to.
+3)  KENNY
+{sadA} We will.
+4)  LEE
+{thinkingA} I just think it's time she and I parted ways with you. {normalD} Omid and Christa can make their own call.
+5)  LEE
+{sadA} I'm sorry, we made a plan. {thinkingA} We talked it through.
+6)  LEE
+{disgustA} We're going our own way, {normalC} Clementine and me.
+7)  KENNY
+{disgustA} What the fuck does that mean?
+8)  KENNY
+{angryA} Hmmph.
+9)  KENNY
+That's not the plan.
+10)  KENNY
+I thought they were dead.
+11)  LEE
+[pickup 2] [new read: Odd pause after 'parents' and before 'get there.'] {normalD} We're finding Clementine's parents when we get there.
+12)  LEE
+{disgustA} Well, it's ours. {normalC} She and I talked it through.
+13)  LEE
+{thinkingA} Looking for them, then.
+14)  
+You'll never get over today.
+15)  
+You'll be all right.
+16)  
+It's just gotten too bad.
+17)  KENNY
+{sadA} That's why I keep thinking it.
+18)  KENNY
+{sadC} That's all I keep thinking.
+19)  LEE
+{thinkingA} Try to think about what's ahead of you.
+20)  LEE
+{sadA} You'll never get over today.
+21)  KENNY
+{sadA} I'll be alive, I guess. {sadC} Blood in my heart, blood in my brain at least.
+28)  KENNY
+{sadA} I'll be alive, I guess. {sadC} Blood in my heart, blood in my brain at least.
+22)  LEE
+{thinkingA} You'll be all right.
+23)  LEE
+{normalD} It's gotten too bad, you know? {sadA} You, me, {thinkingB} nobody can take all this.
+24)  KENNY
+[big sigh] {sadB} Me, too.
+25)  KENNY
+{sadC} But we have.
+26)  LEE
+{sadA} What we're supposed to do isn't clear anymore. {disgustA} I'd give anything to go back to fighting over the motel.
+27)  KENNY
+{sadC} Yeah. There ain't much to say.
+29)  LEE
+{surpriseB} Holy shit...
+30)  CAMPMAN
+[radio processed] Hell...o...oo...there?...
+31)  CAMPMAN
+[radio processed] Can't wait for you to get to Savannah, Clementine. I told your parents what you're doing and they can't wait to see you. Now, what I nee--[radio cuts out]
+32)  LEE
+{thinkingA} She's out cold like I never seen.
+33)  LEE
+{disgustB} What the...?
+34)  LEE
+{normalD} I'll leave you to your thoughts.
+35)  KENNY
+[heavy] {disgustA} Ya'll might want to rethink your plan.
+36)  LEE
+{fearA} Who the fuck...
+37)  KENNY
+{thinkingA} I don't know, {angryA} but we're going to find out.
+38)  KENNY
+{disgustA} Sounds like somebody knows where we're headed.
+39)  KENNY
+[pickup2] I thought that fucking thing was broken...
+40)  LEE
+[pickup2] So did I.
+41)  KENNY
+[pickup2] [alt] Well, it sounds like somebody knows where we're headed.
+42)  KENNY
+[pickup2] I don't know. But I doubt we're going to be happy when we find out.
+43)  CAMPMAN
+[pickup2][radioprocessed] Can't wait for you to get to Savannah, Clementine. I've got your parents right here, and you be sure to find me whether Lee wants you to or not. Now, what I need-- [radio cuts out]
+44)  CAMPMAN
+[pickup2] Can't wait for you to get to Savannah. I know you said Lee wants to help, but your parents want you to come alone, Clementine. I need you to--
+45)  LEE
+[pickup2] Who the fuck was that... if he's convinced Clementine that he has her parents...

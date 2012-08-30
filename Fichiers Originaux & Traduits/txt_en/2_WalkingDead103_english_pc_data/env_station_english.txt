@@ -1,0 +1,396 @@
+1)  CLEMENTINE
+Sorry.
+2)  LEE
+{normalc}{body-B}You should wait for me before trying to open doors.
+3)  LEE
+{thinkinga}Luckily it's locked. {happya}We'll get better at working together.
+4)  CLEMENTINE
+Maybe I could look in?
+5)  LEE
+{thinkinga}{body-b}The window's open up there.
+6)  CLEMENTINE
+Sounds good.
+7)  LEE
+{happya}{body-b}Why don't I put you on my shoulders and you can peek into that window up there.
+8)  LEE
+{normalb}{body-b}We'll have to find a way in.
+9)  
+What do you see?
+10)  
+Getting this door open is going to be tough.
+11)  
+Jump in if you can.
+12)  LEE
+{sada}{body-B}What do you see?
+13)  CLEMENTINE
+Lots of crates and stuff.
+14)  CLEMENTINE
+I think I opened it.
+15)  LEE
+{surpriseb}{body-B}For real?
+16)  CLEMENTINE
+I think so.
+17)  LEE
+{happyc}Well I'll be damned.
+18)  CLEMENTINE
+Let's go. Be careful.
+19)  LEE
+{happyb}{body-B}I'm supposed to tell you that.
+20)  LEE
+{thinkinga}Maybe we can find the key or figure out a way to knock this door down. {normalb}Kenny'd probably have me pick the lock, {thinkinga}which actually might work now that we have the time... {thinkingb}Hmm....
+23)  LEE
+{thinkinga}Maybe we can find the key or figure out a way to knock this door down. {normalb}Kenny'd probably have me pick the lock, {thinkinga}which actually might work now that we have the time... {thinkingb}Hmm....
+21)  LEE
+{angrya}{body-B}Getting this door open is going to be tough.
+22)  CLEMENTINE
+It might not be that hard.
+24)  LEE
+{normala}{body-B}Jump in if you can.
+25)  CLEMENTINE
+What about staying together?
+26)  LEE
+{angrya}If there aren't any walkers in there, {happya}you'll be fine.
+27)  CLEMENTINE
+It's too far to fall.
+28)  LEE
+{normald}Well, what do you think we should do?
+29)  CLEMENTINE
+Grr... fine. Can you get me closer, please?
+30)  CLEMENTINE
+Okay, I can see in, what do I do now?
+31)  CLEMENTINE
+Maybe I can hold the door open?
+32)  LEE
+{angryb}I don't like that. {normalb}I'll prop it open with something.
+33)  LEE
+{angrya}Goddamn it's dark in here.
+34)  CLEMENTINE
+It's way too dark.
+35)  LEE
+{angrya}{body-B}Yeah, you're right.
+36)  LEE
+{sadb}I don't like it when I only have our gun to protect us.
+107)  LEE
+{sadb}I don't like it when I only have our gun to protect us.
+110)  LEE
+{sadb}I don't like it when I only have our gun to protect us.
+37)  CLEMENTINE
+The noise, right?
+108)  CLEMENTINE
+The noise, right?
+112)  CLEMENTINE
+The noise, right?
+38)  LEE
+{happya}Exactly.
+109)  LEE
+{happya}Exactly.
+111)  LEE
+{happya}Exactly.
+39)  LEE
+{angryc}{body-b}[shoulder shove into door]
+40)  LEE
+{sada}Yeah, won't budge.
+41)  LEE
+{thinkinga}{body-b}I can't see in there.
+42)  LEE
+{happyb}{body-b}How we doin'?
+43)  CLEMENTINE
+Good. What do we need?
+44)  LEE
+{normalb}Something to help us deal with the tanker out there.
+45)  LEE
+{sada}{body-b}You okay going over the top of this fence?
+46)  CLEMENTINE
+Yeah, definitely.
+47)  LEE
+{normalb}{body-b}The keys are on the opposite wall. {angrya}Grab them and get this gate open.
+48)  LEE
+{thinkinga}{body-b}It's locked up good, {normalc}but there's some space at the top.
+49)  CLEMENTINE
+We're lucky I'm so little.
+50)  LEE
+{happyb}Yeah, we are.
+51)  LEE
+{angryb}{body-b}Goddammit, it's locked!
+52)  LEE
+{angrya}{body-b}Locked up good.
+53)  LEE
+{angryc}{body-b}Fuck, it's still locked!
+54)  LEE
+{angrya}That's exactly {happya}what we need.
+55)  CLEMENTINE
+Over there?
+56)  LEE
+{normalb}Yeah. We need to get in there and get that blowtorch.
+57)  LEE
+[phew]  {happyb}{body-b}We got it.
+58)  CLEMENTINE
+Let's go outside now.
+59)  LEE
+{normalb}What did we learn?
+60)  CLEMENTINE
+I'm not ready for a gun.
+61)  LEE
+{angrya}No, Clem. We learned that everything we will ever do is dangerous. {normalc}We'll get better, smarter and faster. {happya}Okay?
+62)  CLEMENTINE
+Okay.
+63)  LEE
+{normalb}{body-b}There are keys over there.
+64)  CLEMENTINE
+For the gate?
+65)  LEE
+{sada}I hope so.
+66)  LEE
+{angrya}{body-b}Can't reach 'em from here.
+67)  LEE
+{sada}{body-b}Wish that thing was in my hands instead of over there.
+68)  CLEMENTINE
+It's too dark otherwise.
+69)  LEE
+{happyb}{body-b}Go on and grab the keys, Clem.
+70)  LEE
+{normalb}Come on, scoot.
+71)  CLEMENTINE
+{fearb}{body-stand}Behind you!
+72)  LEE
+{surpriseB}Fuck!
+73)  LEE
+{angryC}[UGH!]
+74)  LEE
+{sada}{body-b}It's okay...it's okay... everything's fine.
+75)  LEE
+{angryC}KEYS! NOW!
+76)  LEE
+{angryd}SHIIIT!
+77)  LEE
+{sadc}{body-b}[recovering]
+78)  LEE
+{angryb}God...damn...
+79)  CLEMENTINE
+That didn't go so good.
+80)  LEE
+{sada}No, it did {surpriseb}not go so good. {normalb}But we're okay. {happya}Everything's okay.
+81)  
+Talk To
+84)  
+Talk To
+82)  
+Grab
+83)  
+Boost
+85)  
+Boost
+86)  
+Pick Up
+117)  
+Pick Up
+120)  
+Pick Up
+122)  
+Pick Up
+87)  
+Look At
+99)  
+Look At
+100)  
+Look At
+113)  
+Look At
+118)  
+Look At
+119)  
+Look At
+121)  
+Look At
+88)  
+Door
+89)  
+Shoot
+90)  
+Punch
+160)  
+Punch
+91)  
+Hit
+92)  
+Hit
+93)  
+Hit
+94)  
+Hit
+95)  
+Hit
+96)  
+Hit
+97)  CLEMENTINE
+[Pickup2]It's too dark in there.
+98)  LEE
+[Pickup2]Yeah, we should prop the door open with something.
+101)  
+Open
+103)  
+Open
+114)  
+Open
+102)  
+Shove
+104)  
+Prop
+105)  
+Prop
+106)  
+Prop
+115)  
+Unlock
+116)  
+Take
+123)  CHRISTA
+[through a door] {angrya}What's going on? I thought I heard a gunshot.
+124)  LEE
+[pickup2] [unnerved] We're fine.
+125)  LEE
+[pickup2] [not sure what to say] We found some walkers.
+126)  CHRISTA
+{thinkinga}You and an eight year old versus three of them, huh?
+127)  
+We handled it.
+128)  
+Mind your own business.
+129)  
+It was stupid.
+130)  LEE
+[pickup2] Mind your own business. If we wanted you to help out we would've asked.
+131)  CHRISTA
+{angrya}If you two were to die in here, three dead turns to five and THAT'S my business.
+132)  LEE
+[pickup2] Good thing it didn't happen, then.
+133)  LEE
+[pickup2] It was stupid.
+134)  CHRISTA
+{normalb}You think? [sarc but stern]
+135)  LEE
+[pickup2] What do you want me to say? I'm trying to teach her how to take care of herself. We're getting used to working together.
+136)  LEE
+[pickup2] We handled it.
+137)  CHRISTA
+{normalb}Yeah, it looks like. {angrya}What if you hadn't?
+138)  CHRISTA
+{thinkinga}....Looks like it worked out for you. {normalb}Probably ought to be a little more careful when using a gun. Noise and all.
+139)  CLEMENTINE
+[pickup2] We know.
+140)  CHRISTA
+{normalb}I'm going to go make sure the noise didn't cause us any problems.
+141)  CLEMENTINE
+[pickup2] That's a good idea.
+142)  CHRISTA
+{angryA}I hope you know what you're doing with her.
+143)  
+We're still alive, aren't we?
+144)  
+Me too.
+145)  
+I don't.
+146)  LEE
+[pickup2]We're still alive, aren't we?
+147)  CHRISTA
+{normala}Yes, you are.
+148)  LEE
+[pickup2]Me too.
+149)  CHRISTA
+{sada}For her sake.
+150)  LEE
+[pickup2]I don't.
+151)  CHRISTA
+{thinkinga}Then she's more impressive than I thought.
+152)  CHRISTA
+{angryb}[frustrated exhale, short, upon exit]
+153)  
+Window
+154)  
+Cage Door
+155)  
+Blowtorch
+156)  
+Key
+157)  
+Monkey Wrench
+158)  
+Spanner
+159)  
+Spike Remover
+161)  
+We learned everything is dangerous.
+162)  
+You have to learn to pull the trigger.
+163)  
+We learned not to be afraid.
+164)  CLEMENTINE
+[pickup2] I'll try.
+165)  LEE
+[pickup2] No, you just have to learn to pull the trigger.
+166)  CLEMENTINE
+[pickup2] It's so hard.
+167)  LEE
+[pickup2] Don't think, just do it. Live with what happens.
+168)  LEE
+[pickup2] We learned not to be afraid. They shoulda got us, but we got them.
+169)  CLEMENTINE
+[pickup2] Yeah, you're right.
+170)  LEE
+[pickup2] Fear is the thing that will kill us, you understand?
+171)  LEE
+[pickup2] Me, neither.
+172)  CLEMENTINE
+[pickup2] I'm sorry. I'll get better. I don't want us to die.
+173)  LEE
+[pickup2] [to Clem] Ready to go?
+174)  CLEMENTINE
+[pickup2] Uh huh.
+175)  LEE
+[pickup2] [to Clem, concerned]You sure you're okay?
+176)  CLEMENTINE
+[pickup2] Yeah. I'm a little shaky.
+177)  LEE
+[pickup2][to Clem] It'll pass.
+178)  LEE
+{fearA}You okay?
+179)  LEE
+[pickup2] Somebody was doing some painting.
+180)  LEE
+[pickup2] Somebody was doing A LOT of painting...
+181)  LEE
+[pickup2] That paint has been dry for months.
+182)  LEE
+[pickup2] Doesn't look like that thing's worked for years.
+183)  LEE
+[pickup2] There's gotta be something useful in here....
+184)  LEE
+[pickup2] They didn't have much business back then.
+185)  LEE
+[pickup2] Somebody must have been pretty desperate....
+186)  LEE
+[pickup2] There's some space up there, but not much.
+187)  
+Forklift
+188)  
+Paint Cans
+189)  
+Survivors Sign
+190)  
+Gap
+191)  
+Sign
+195)  
+Sign
+196)  
+Sign
+197)  
+Sign
+198)  
+Sign
+192)  
+Empty Shelf
+193)  
+Overpass
+194)  LEE
+{thinkingA}Hmm.

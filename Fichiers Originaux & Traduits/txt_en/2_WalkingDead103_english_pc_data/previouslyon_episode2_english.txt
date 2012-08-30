@@ -1,0 +1,63 @@
+1)  LEE
+Get the gates open!  We've got wounded!
+2)  LILLY
+I want to know why you thought bringing more mouths to feed was a good idea?
+30)  LILLY
+I want to know why you thought bringing more mouths to feed was a good idea?
+3)  KENNY
+You've been good to me and my family.
+4)  KENNY
+I gotta look out for my family.  I gotta know that whoever I take with me is gonna be looking out for Kat and Duck.
+5)  LEE
+Wait, I know that-
+6)  KENNY
+Lee, you left Duck in danger twice!
+7)  DUCK
+Ahhhh!!
+8)  KENNY
+I won't forget that.
+9)  LEE
+Word's gettin' out that you wanna leave the motor inn.
+10)  KENNY
+Well, "here" isn't doing us any good.  You should think about coming with us.  You and Clem.
+11)  BANDIT2
+No one's trying to cut you outta anything!
+12)  BEN
+Those look like the people who raided my camp!
+13)  BANDIT2
+Calm down...Your paranoia is-
+Bandit1 shoot bandit 2
+14)  BANDIT1
+FUCK YOU!
+15)  CARLEY
+Did you tell anyone out there who you were?  Or that you were tied to this place?
+16)  LARRY
+That's right.  I know who you are.  And I know you're a killer.
+17)  LILLY
+HE'S NOT DEAD!  Somebody help me!
+18)  KENNY
+Come on!  We know this guy's not gonna make it!
+19)  KENNY
+Nnnggh!!
+20)  LILLY
+Noooo!!
+21)  KENNY
+Sounds like a car...
+22)  KENNY
+There is a shit load of food and supplies back here!
+23)  LEE
+We have to take this Clementine.  We need it to survive.
+24)  JOLENE
+Don't worry little girl.  Bandits got their eye on that dairy.  As long as they keep getting food from them,  you'll be safe.
+25)  LEE
+[to Clementine]You're right. We shouldn't take this.
+26)  KENNY
+The rest of us are taking this stuff.
+27)  KENNY
+You saved Duck from those monsters...
+28)  KENNY
+And ya stood up to Larry at the drugstore.
+29)  LEE
+[Kenny smashed Larrys head]KENNY!  WHAT THE FUCK!?!
+31)  LEE
+Previously on The Walking Dead...

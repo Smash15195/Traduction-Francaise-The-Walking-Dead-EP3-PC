@@ -1,0 +1,486 @@
+1)  CHUCK
+{normalA}{body-a}Got to be hard on ya, eh? Three adults taking care of three kids; [to Ben who is 17 and sensitive to being called a kid] no disrespect, son.
+2)  
+There were more of us.
+3)  
+It is.
+4)  
+We'll be fine.
+5)  CHUCK
+{Normala}{Body-A}Dead get'em?
+6)  LEE
+{NormalD}{Body-B}There were more of us.
+7)  LEE
+{AngryA}{Body-B}It is.
+8)  CHUCK
+{Normala}{Body-A}Your daughter's something else.
+9)  CHUCK
+{Normala}{Body-A}This one's [points to Ben] gonna grow up quick.
+10)  CHUCK
+{Normala}{Body-A}I don't doubt it, son.
+14)  CHUCK
+{Normala}{Body-A}I don't doubt it, son.
+11)  LEE
+{SadA}{Body-B}We'll be fine. {ThinkingA}We've gone through just as much as anybody else.
+12)  BEN
+{SadA}{Body-A}I already am.
+15)  BEN
+{SadA}{Body-A}I already am.
+13)  CHUCK
+{Normala}{Body-A}Well, it looks like this one's [points to Ben] gonna have to grow up quick.
+16)  CHUCK
+{Normala}{Body-A}[sincere] [That's a] Shame.
+17)  LEE
+{AngryA}{Body-B}[stern. he does NOT want to talk] Yes.
+18)  
+Yes.
+19)  
+No.
+20)  LEE
+{SadA}{Body-B}[regretful] No.
+21)  CHUCK
+{Normala}{Body-A}Ah. Livin' got ‘em.
+22)  CHUCK
+{Normala}{Body-A}[giving his question a second thought] Not that it matters much.
+23)  
+She's a survivor.
+24)  
+She's not my daughter.
+25)  LEE
+{NormalB}{Body-B}She's a survivor. {HappyA}Has been from day one.
+26)  CHUCK
+{Normala}{Body-A}Takes after her dad, looks like.
+28)  CHUCK
+{Normala}{Body-A}Takes after her dad, looks like.
+29)  CHUCK
+{Normala}{Body-A}Takes after her dad, looks like.
+27)  LEE
+{ThinkingA}{Body-B}She's not...{FearA}[was going to say she's not my daughter] {NormalD}She's a survivor.
+30)  KATJAA
+{FearB}{Body-A}[sharp] LEE! [bringing it down, as Duck is in your arms, dying] {FearA}Lee. I need you. {SadB}Right now. I need you to go get Ken.
+31)  LEE
+[confused] {FearA}{Body-B}What's...
+32)  KATJAA
+{FearA}[your son is dying but you are in control] Would you get that off of his face? My hands are full here.
+33)  DUCK
+[coughing up blood. you're dying, kid]
+34)  KATJAA
+[son dying] {SadA}There's a rag right there, Lee.
+35)  KATJAA
+[son dying] {SadB}Would you hand me that rag, please?
+36)  KATJAA
+[son dying] {FearA}Lee, please.
+37)  KATJAA
+{SadB}{Body-A}[son dying] Forget it. Just go.
+38)  KATJAA
+{SadB}{Body-A}[son dying] Thank you. Could you just get that off of his face, please?
+39)  KATJAA
+{FearA}{Body-A}[your son is dying but you are trying to hold it together] He's out of time. {FearB}We need to stop this train.
+40)  KATJAA
+{SadB}[your son is dying and you need your husband] Please.
+41)  LEE
+{FearA}{Body-B}[somber but firm] Okay.
+42)  KATJAA
+{FearA}Lee, please go get him.
+43)  KATJAA
+{SadB}There isn't much time. He's in the cab. Go.
+44)  KATJAA
+{SadA}LEE. GO.
+45)  KATJAA
+{SadB}[urging him to go] LEE.
+46)  CLEMENTINE
+{SadB}[urging Lee, small] Please.
+47)  LEE
+[somber but stern] {normalD}{body-b}Kenny.
+48)  KENNY
+{NormalB}{body-A}What.
+49)  LEE
+[more stern] {AngryA}KEN.
+50)  KENNY
+[flat] {DisgustA}What the hell's that?
+51)  
+Your son's blood.
+52)  
+The beginning of a walker.
+53)  
+Nothing you seem to care about.
+54)  LEE
+{SadA}{Body-B}Your son's blood.
+55)  KENNY
+{DisgustA}{Body-A}Get out of here, Lee.
+56)  LEE
+{FearB}You know he's dying.
+57)  LEE
+{AngryB}{body-b}The beginning of a walker.
+58)  KENNY
+[mad at the inference] {AngryC}{Body-A}He'll be FINE. {AngryB}We can get to the coast and maybe meet up with people who have this shit figured out.
+59)  KENNY
+{Angryb}Nobody knows shit! {FearA}He'll be fine.
+60)  LEE
+{DisgustA}{Body-B}Nothing you seem to care about.
+61)  KENNY
+{AngryC}{Body-a}Fuck you! {DisgustA}You don't KNOW what I care about. {FearA}I care about saving my son and getting {AngryB}ALL OF US to the ocean.
+62)  KENNY
+{AngryD}{Body-A}Get that crap out of my face. {DisgustA}I know the boy's sick. {AngryB}But he'll be fine. {AngryC}Watch.
+94)  KENNY
+{AngryD}{Body-A}Get that crap out of my face. {DisgustA}I know the boy's sick. {AngryB}But he'll be fine. {AngryC}Watch.
+63)  
+I'm sorry. I know you care.
+64)  
+The same way you cared about Hershel's boy?
+65)  LEE
+{AngryA}{Body-B}You need to stop the train.
+66)  
+You're right, I don't know.
+67)  LEE
+{SadA}{Body-B}I'm sorry. [comma]
+68)  KENNY
+[a mess] {FearB}We just gotta focus and {FearA}get to Savannah as fast as we can.
+69)  LEE
+{SadB}We're out of time, Kenny.
+70)  LEE
+{AngryA}{Body-B}The same way you cared about Hershel's son?
+71)  KENNY
+{AngryA}{Body-A}[heavy]No. I won't.
+72)  LEE
+{AngryA}{Body-B}Will YOU?
+73)  KENNY
+{DisgustA}{Body-A}[burned, upset]You're never gonna forget that, huh pal?
+74)  KENNY
+{AngryB}{Body-A}[burned, hurt] That's on BOTH of us.
+75)  KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+83)  KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+91)  KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+95)  KENNY
+{AngryC}{Body-A}Go back there and tell my wife everything will be fine.
+76)  LEE
+{AngryB}{Body-B}It is. {AngryA}But you never got over it.
+77)  KENNY
+{SadB}Who gives a shit.
+78)  LEE
+{AngryA}{Body-B}You're right, I don't know.
+79)  LEE
+{DisgustB}{Body-B}You've killed people. {DisgustA}Larry's blood is on your hands. {AngryA}And you can't fucking handle it.
+80)  KENNY
+{AngryB}{body-A}Leave me alone.
+82)  KENNY
+{AngryB}{body-A}Leave me alone.
+81)  LEE
+{FearA}Kenny...
+84)  LEE
+{SadB}I know you care. {FearA}But man... [look at you.]
+85)  
+He won't be.
+86)  
+I'm sorry.
+87)  
+Wake the fuck up, man.
+88)  
+Silent
+89)  LEE
+{SadA}{Body-B}He won't be. {FearA}He's going, Kenny.
+90)  LEE
+{SadB}{Body-B}I'm sorry. I shouldn't talk like that right now.
+92)  LEE
+{AngryB}{Body-B}Wake the fuck up, man. This is over. {FearA}He's dead.
+93)  KENNY
+{AngryC}{Body-A}Don't tell ME to wake up. {DisgustA}I've got a REAL family I'm trying to protect. Not that fucking {AngryD}sham you're runnin' {AngryC}back there.
+96)  
+I said stop the train.
+97)  
+Duck's just about gone back there.
+98)  
+Katjaa needs you.
+99)  LEE
+{AngryC}{Body-B}I said stop the train.
+100)  KENNY
+{DisgustA}{Body-A}Make me.
+112)  KENNY
+{DisgustA}{Body-A}Make me.
+101)  LEE
+{SadB}{Body-B}Duck's just about gone back there, man.
+102)  KENNY
+{Angryc}{Body-A}Don't feed me that bullshit.
+103)  LEE
+{SadA}{Body-B}Katjaa needs you, Kenny.
+104)  KENNY
+{AngryC}{Body-A}Duck will be fine.
+105)  KENNY
+{AngryC}{Body-a}[cold] Quit hoverin' and get out of here.
+106)  KENNY
+{AngryD}{Body-a}Get your hands off of me.
+107)  
+I'm sorry, I just want to talk.
+108)  
+No. You're gonna start listening.
+109)  KENNY
+{AngryB}{Body-a}The hell you will. {FearA}We're gettin' to the coast and Duck'll pull through.
+110)  LEE
+{Angryb}{Body-b}No. You're gonna listen to me. {AngryA}Your wife and kid need you and {AngryB}I'm going to make sure you stop this train.
+111)  LEE
+{AngryC}Stop the goddamn train and come deal with this.
+113)  LEE
+{FearB}{Body-B}I'm sorry. {FearA}I just want to talk. {SadB}We gotta stop this train because Kat needs you, Kenny. {SadA}Duck doesn't have much time left.
+114)  KENNY
+{Angryb}He'll be fine.
+115)  KENNY
+{Angryb}He'll be fine.
+116)  KENNY
+{DisgustA}{Body-a}How the fuck do you {AngryC}"calm down" {AngryA}after a day like today?
+117)  LEE
+{FearA}{Body-B}Calm down and...
+118)  LEE
+{FearB}{Body-B}I don't know what the hell is wrong with you {AngryA}but you need to lock it up. {AngryC}Be a man here.
+119)  KENNY
+{AngryC}{Body-A}You want a piece of me, {AngryD}is that it?
+120)  
+Yeah, I do.
+121)  
+I just want to talk.
+122)  LEE
+{FearA}{Body-b}I just want to talk, Ken. Relax.
+123)  KENNY
+{Angryc}Then TALK.
+124)  KENNY
+{DisgustA}{Body-a}That's what I figured.
+130)  KENNY
+{DisgustA}{Body-a}That's what I figured.
+125)  LEE
+{AngryC}You're acting like nothing's wrong and {AngryD}somebody's gotta knock some sense into you.
+128)  LEE
+{AngryC}You're acting like nothing's wrong and {AngryD}somebody's gotta knock some sense into you.
+126)  LEE
+{AngryC}Yeah. I do.
+127)  KENNY
+[getting shoved, hard, into a wall]
+129)  KENNY
+[getting shoved, hard, into a wall]
+131)  KENNY
+{AngryB}{Body-A}What's the goddamn deal? {FearA}He's a little sick, but we can't just quit.
+132)  
+Stop. The. Train.
+133)  KENNY
+{AngryB}It's a scratch! {AngryA}He's not like the others. Jesus, {AngryC}all ya'll are just makin' it worse.
+134)  
+You're in denial!
+135)  
+This isn't about Duck.
+136)  LEE
+{AngryC}You're gonna listen.
+145)  LEE
+{AngryC}You're gonna listen.
+137)  KENNY
+{AngryD}Or what?
+143)  KENNY
+{AngryD}Or what?
+138)  LEE
+{AngryD}STOP IT GODDAMMIT.
+146)  LEE
+{AngryD}STOP IT GODDAMMIT.
+139)  KENNY
+{AngryC}{Body-A}Fuck you, Lee.
+144)  KENNY
+{AngryC}{Body-A}Fuck you, Lee.
+140)  LEE
+{AngryB}{Body-B}[intimidating] Stop the train.
+141)  LEE
+{AngryA}{Body-B}You're in denial!
+142)  KENNY
+{AngryC}{Body-A}And you've given up! On Duck, {AngryD}on EVERYONE!
+147)  LEE
+{FearA}{Body-B}This isn't about Duck.
+148)  KENNY
+{DisgustA}You sure as shit haven't done anything for me.
+149)  LEE
+{SadA}{Body-B}I don't hate you.
+150)  KENNY
+{DisgustA}{Body-A}It's not about my son dying? {AngryB}The hell do you know? {AngryC}You're not my friend.
+151)  LEE
+{SadB}{Body-B}It's not like that.
+152)  KENNY
+{AngryC}The fuck it isn't.
+153)  KENNY
+{AngryB}You think we're pals and you know me? {DisgustA}You're some elitist prick with a fancy education who can pick me apart?
+154)  LEE
+{SurpriseB}{Body-B}[getting shoved] Hey!
+155)  LEE
+{AngryC}{Body-B}DAMMIT KENNY, OPEN THIS DOOR!
+156)  
+By getting beat up, I guess.
+157)  
+By talking to your friend.
+158)  LEE
+{FearA}{Body-B}Let's just talk, man.
+159)  KENNY
+{AngryB}{Body-A}Whatever.
+160)  KENNY
+{DisgustA} Hmmph.
+226)  KENNY
+{DisgustA} Hmmph.
+161)  LEE
+{DisgustA}{Body-B}By getting beaten up, I guess.
+162)  LEE
+{SadA}{Body-B}By talking to your friend.
+163)  KENNY
+{Angryb}{Body-A}So you want to fight then.
+164)  LEE
+{AngryC}{Body-B}Knock this shit off.
+165)  KENNY
+{DisgustA}{Body-B}You smug son of a bitch.
+166)  
+You think you're the reason Duck was bitten.
+167)  KENNY
+{AngryC}{Body-A}The hell it's not.
+168)  
+You couldn't save Shawn OR Duck.
+169)  
+How many sons are you going to let die?
+170)  LEE
+{AngryA}{Body-B}You couldn't save Hershel's son then, and {AngryB}you can't save Duck now!
+171)  KENNY
+{AngryC}{Body-A}Shut your mouth!
+176)  KENNY
+{AngryC}{Body-A}Shut your mouth!
+172)  LEE
+{AngryC}So you're runnin! Like a coward!
+173)  
+You need to get over it.
+174)  
+You didn't kill Hershel's son.
+175)  
+Stop thinking about yourself.
+177)  LEE
+{AngryC}{Body-B}How many sons are you going to let die?
+178)  KENNY
+You're an asshole, you know? You just say shit and then stand there...
+179)  KENNY
+What do you know about a dead son? Nothin'. Now get the fuck out of here.
+180)  LEE
+{SadB}That's not what went down. {SadA}You looked out for your kid {SadB}and a bad thing happened to someone else's.
+181)  LEE
+{SadB}{Body-B}You didn't kill Hershel's son.
+182)  KENNY
+{sadC}{Body-a}[broken] Yes, I did. {FearA}And now it's catching up to me.
+183)  LEE
+{SadB}{Body-B}And I'm sorry I said otherwise.
+184)  LEE
+{NormalC}{Body-B}I'm going to go get Kenny. {ThinkingA}Hold on tight in case the train stops fast.
+185)  CHUCK
+{NormalA}{Body-B}Oughta' get this train stopped right quick.
+186)  LEE
+[angry] I told Katjaa I'd get you to stop this and you bet your ass I'm gonna.
+187)  LEE
+[firm] I've had your back, Kenny. What you're goin' through now is hell on earth and you need your friends.
+188)  LEE
+[firm] I know you don't give a fuck about what I have to say but I can't let you do this to your family.
+189)  LEE
+[angry] I've had your back! Don't make me fucking regret it!
+190)  LEE
+[angry] I don't give a fuck that we don't get along! I'm not letting you do this to Kat and Duck!!!
+191)  KENNY
+[gasping for air having been choked]
+192)  LEE
+[a little out of breath, having just choked the life out of Kenny] I'm sorry.
+193)  LEE
+You're not a bad man. Fuck, that doesn't even mean anything anymore. A man isn't bad... a man just is.
+194)  LEE
+All we can do is take care of who we can and keep moving forward.
+195)  LEE
+[final] Now, let's stop the train.
+196)  LEE
+[angry] You want to hurt people because you're afraid?! Losin' Duck ain't enough for you?! Because you'll fucking LOSE EVERYTHING actin' like this!
+197)  LEE
+[angry] I'll fucking kill you before I let that happen!!!
+198)  LEE
+[angry -- pressing your forearm deep into a guy's throat]
+199)  KENNY
+[punched blocked 1]
+200)  LEE
+[block punch1]
+201)  KENNY
+[throw punch1]
+202)  LEE
+[block punch2]
+203)  KENNY
+[punched blocked 2]
+204)  KENNY
+[throw punch2]
+205)  KENNY
+[punching lee] Just leave me -- the fuck -- alone!
+206)  KENNY
+[punching lee] I don't need -- you -- and Duck doesn't -- need you!
+207)  KENNY
+[punching lee] You're not helping my family! You're not helping Clementine! You're not helping ANYBODY!
+208)  KENNY
+[punching lee] You don't even HAVE a child, you don't know what this is like! You fucker!
+209)  KENNY
+I fucking hate you, Lee! DO YOU HEAR ME?
+210)  KENNY
+I...I... [you see Lee, battered to shit, a big emotional realization about your life] I don't know what to do.
+211)  LEE
+[having had the shit kicked out of you] Stop the train...
+212)  KENNY
+[small, giving in] Okay.
+213)  LEE
+[spitting out some blood, small]
+214)  KENNY
+{FearC}There ain't no way this world let's my son live when {FearB}I helped put someone else's in the ground.
+220)  KENNY
+{FearC}There ain't no way this world let's my son live when {FearB}I helped put someone else's in the ground.
+215)  LEE
+{NormalD}{Body-B}That's not the way it works. {SadA}You know that.
+216)  LEE
+{SadB}Stop the train, man.
+217)  LEE
+{ThinkingA}{Body-B}You think you're the reason Duck was bitten.
+218)  LEE
+{ThinkingB}Like you had this coming, or something.
+219)  KENNY
+{FearB}{Body-A}I do have it comin'.
+221)  LEE
+{FearB}{body-b}You need to just get over it. {disgustA}Fuck, man.
+222)  LEE
+{FearA}There's no room anymore for feeling bad about things. {ThinkingB}Bad shit's going to happen for the rest {FearA}of our lives. {AngryA}That's just the way it is.
+223)  LEE
+{AngryB}So stop the goddamn train.
+224)  LEE
+{DisgustA}Well, there's no room for that shit. {DisgustB}This isn't about you. {AngryB}It's about a woman back there who needs her husband and a {AngryC}boy who needs his dad.
+225)  LEE
+{FearA}{body-B}Stop thinking about yourself, man. {ThinkingB}You feel guilty; {AngryA}like you killed any chance of a miracle for Duck {AngryB}when you ran away from Shawn Greene.
+227)  LEE
+{SadA}I know you care for Kat and Duck more than anything {AngryA}so what the fuck is this?
+228)  
+Talk To
+229)  
+Show Rag To
+230)  
+Grab
+231)  
+Rag
+232)  
+Cab Door
+233)  
+Clean
+234)  
+Boxcar Door
+235)  LEE
+{NormalC}{Body-B}[pickup2] I'm not going back in there until I've talked to Kenny.
+236)  
+Fist
+237)  LEE
+[pickup2] I'm stopping the train. Stay put.
+238)  BEN
+[pickup2][dejected] Okay.
+239)  
+Calm down.
+240)  
+(Fight him)
+241)  
+(Back off)
+242)  
+I don't know what's wrong with you.
+243)  
+Knock this shit off.

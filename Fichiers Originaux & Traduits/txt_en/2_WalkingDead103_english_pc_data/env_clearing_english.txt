@@ -1,0 +1,340 @@
+1)  KATJAA
+{sadB}{body-a}Ken. It's... I think it's time.
+2)  KENNY
+{sadA}{body-A}The boy's been bit. {disgustA}In case you haven't figured that out.
+3)  
+What do you need?
+4)  
+We shouldn't waste time.
+5)  
+Take as long as you need.
+6)  LEE
+{NormalD}{body-B}What do you need?
+7)  KENNY
+{sadB}{body-A}I... I... [i don't know]
+8)  LEE
+{sadA}{body-A}Katjaa?
+9)  KATJAA
+It's time to... this is not possible. [dealign with your son who will turn]
+15)  KATJAA
+It's time to... this is not possible. [dealign with your son who will turn]
+10)  LEE
+{sadB}{body-B}We shouldn't waste time.
+11)  KENNY
+[upset] {disgustA}{body-A}There ain't none left to waste.
+12)  LEE
+{sadA}{body-A}I'm saying we shouldn't stay put.
+13)  LEE
+{sadB}{body-B}Take as long as you need.
+14)  KENNY
+[upset] {fearA}{body-A}There ain't no time left to take.
+16)  KATJAA
+No.
+17)  KATJAA
+Kenny, I love you very much. I love our son more than life itself.
+18)  KENNY
+{disgustA}{body-A}But--
+19)  KENNY
+{fearA}{body-A}What are we gonna do?
+20)  KENNY
+{fearA}{body-A}But {fearB}{body-A}what if...
+21)  KATJAA
+We can't allow him to become one of those things.
+22)  
+Katjaa should do it.
+23)  
+Kenny should do it.
+24)  
+I'll do it.
+25)  KENNY
+{disgustA}{body-A}There's...
+26)  KATJAA
+If you think of one, you let me know.
+27)  KENNY
+{fearB}{body-A}Isn't there some sort of pill, {fearB}or something we can just give him....
+28)  KATJAA
+Stop it.
+29)  KENNY
+{sadA}{body-A}He can just drift off to sleep,{sadB} right, hon? {disgustA}I mean, Jesus, {sadB}this is our son.
+30)  KATJAA
+I KNOW. But we know it's... here[points to the brain]. Or nothing.
+31)  KENNY
+{disgustA}{body-A}Well...{angryC} fuck...{angryA} just... {fearB} who then? {sadB}You want me to?
+32)  KATJAA
+You don't have to.
+33)  KENNY
+{FearA}I'll do it.
+34)  KATJAA
+No. You don't HAVE to.
+35)  KENNY
+{AngryC}Katjaa, fuck, [gets panicky choked up] {SadA}I can. {SadB}I can do this. [he can't]
+36)  KATJAA
+You can't. I love you, Ken. But this is beyond you.
+37)  KATJAA
+Lee, be with him?
+38)  KATJAA
+No, hon. Stay with Lee. Your son loves you and you should remember him as the silly boy we used to have. Not this.
+39)  KENNY
+{fearA}{body-A}I can't...
+40)  KENNY
+[emotional collapse]
+41)  KENNY
+[an idle of you with your face in your hands knowing your son is dying offscreen]
+42)  CLEMENTINE
+What's happening?
+43)  
+Duck is dying.
+44)  
+Nothing, everything is fine.
+45)  LEE
+{SadA}{body-F}Duck is dying.
+46)  CLEMENTINE
+[duck is dying] I know.
+47)  LEE
+{SadA}{body-F}Katjaa's {SadB}taking care of Duck.
+48)  CLEMENTINE
+I thought he was going to die.
+96)  CLEMENTINE
+I thought he was going to die.
+49)  CLEMENTINE
+What is Katjaa doing?
+50)  LEE
+{SadA}{body-F}Nothing, {NormalD}everything is fine.
+51)  CLEMENTINE
+No it's not.
+52)  
+She's killing him.
+53)  
+She's making sure he's okay.
+54)  
+She's putting him out of his misery.
+55)  LEE
+{SadA}{body-f}Look, Clem. Things will --{surpriseB}
+102)  LEE
+{SadA}{body-f}Look, Clem. Things will --{surpriseB}
+56)  KENNY
+[face in hands, just a total wreck] NOOO, GOD....!
+57)  
+This will never happen to you.
+58)  
+It had to be done.
+59)  
+People die.
+60)  CLEMENTINE
+Not anymore.
+61)  CLEMENTINE
+The walkers aren't dead. People don't die anymore. Not right away at least.
+62)  LEE
+{NormalD}{body-F}People die.
+63)  LEE
+{disgustB}Well, Katjaa made sure Duck did.
+64)  CLEMENTINE
+[small, kinda dark] I know.
+65)  KENNY
+[over his shoulder. flat, cold] {fearA}{body-A}I'm gonna go get her. {disgustA}She's probably a mess.
+66)  LEE
+[pickup 2] [ new read: - A little too 'by the book' order. Duck just was killed, could be more empathatic.] {DisgustB}{body-F}Ben, get Clementine on the train, all right? {AngryA}{body-B}And keep your eyes open.
+67)  KENNY
+{SurprisedA}{body-A}[horrified] Guh!
+68)  KENNY
+{FearC}{body-A}KAT! KAT! KATJAA!
+70)  
+We still have to deal with Duck.
+72)  KENNY
+{SadA}{body-A}[emotionally dead] What do we do.
+73)  KENNY
+{FearC}{body-A}Why, Kat? Honey, oh fuckin' God...
+74)  KENNY
+{SadB}{body-A}[whatever you feel like "saying," you're over the body of your dead wife]
+75)  KENNY
+{FearC}{body-A}You said you could do it, Kat, {SadB} god dammit, you said you could do it!
+76)  
+Give me the gun. I'll do it.
+77)  
+You do it. End this, Kenny.
+78)  LEE
+{AngryA}{body-b}Give me the gun, Ken. I'll do it.
+79)  LEE
+[pickup 2] [new read: Read too quickly. This is a tough thing to say to a friend, could be more sad.] {SadB}{body-b}You're his dad. You've gotta do this. {disgustB}Just put an end to it, man.
+80)  LEE
+{disgustA}{body-B}Katjaa should do it, Ken. {disgustB}{body-B}She can handle it.
+81)  KENNY
+{angryC}{body-A}Shut up, Lee.
+82)  KATJAA
+He's right.
+83)  KATJAA
+Shush.
+84)  KENNY
+{normalC}{body-A}Lee's right. {sadA}{body-A}And don't give me that {sadB}"I brought him into this world" junk. [with a pained smile]
+85)  KATJAA
+And I'm his mother.
+86)  LEE
+{fearA}{body-B}Kenny, {fearB}you're his dad. {sadA}You do it.
+87)  LEE
+{AngryA}{body-B}I'll do it.
+88)  KENNY
+{fearB}{body-A}Lee's right, Kat. {fearA}{body-A}We can say our goodbyes and{sadA}...
+89)  KATJAA
+I don't know...
+90)  KATJAA
+No. It should be a parent.
+91)  LEE
+{AngryB}{body-B}No parent should have to do something like this.
+92)  KATJAA
+Give us a moment to say goodbye?
+93)  KATJAA
+Why don't we take him into the forest. So Clementine doesn't have to see.
+94)  KENNY
+{sadB}{body-A}Yeah. [very sad]
+95)  LEE
+{sadB}{body-B}Of course.
+97)  LEE
+{SadA}{body-F}I'm {NormalD}going to take care of Duck.
+98)  CLEMENTINE
+What are you doing?
+99)  
+I'm killing him.
+100)  
+I'm going to make sure he's okay.
+101)  
+I'm putting him out of his misery.
+103)  KENNY
+[processed to be far far away] NOOO!
+104)  LEE
+[urgent] {FearA}{body-B}Ben! {AngryA}Take Clementine into the train!
+105)  LEE
+[urgent, to clem] {FearA}Go, {AngryA}it'll be fine.
+106)  LEE
+[shocked] {surpriseA}What the --
+107)  LEE
+{NormalD}{body-f}Yes. {SadA}So he doesn't come back.
+126)  LEE
+{NormalD}{body-f}Yes. {SadA}So he doesn't come back.
+108)  LEE
+[pickup 2] [new read: - Read too fast; he sounds almost happy that it's happening.] {NormalD}{body-B}She's killing him.
+109)  CLEMENTINE
+For good?
+128)  CLEMENTINE
+For good?
+110)  CLEMENTINE
+Oh.
+115)  CLEMENTINE
+Oh.
+132)  CLEMENTINE
+Oh.
+133)  CLEMENTINE
+Oh.
+111)  CLEMENTINE
+But how... he's bitten.
+131)  CLEMENTINE
+But how... he's bitten.
+112)  LEE
+{SadA}She's {SadB}making sure he doesn't come back.
+113)  LEE
+{FearA}{body-B}She's {NormalD}making sure he's okay.
+114)  LEE
+[responding to a question that wasn't asked] {SadA}Yeah.
+135)  LEE
+[responding to a question that wasn't asked] {SadA}Yeah.
+116)  LEE
+{FearA}{body-B}She's putting him out of his misery.
+117)  CLEMENTINE
+I'm not stupid. I just want you to tell me. Like my dad would.
+136)  CLEMENTINE
+I'm not stupid. I just want you to tell me. Like my dad would.
+118)  LEE
+{FearA}{body-B}Yes I do.
+119)  CLEMENTINE
+You don't know that.
+120)  LEE
+{FearB}{body-F}[emphatic] This will never happen to you.
+121)  LEE
+{normalD}There was no other choice.
+122)  CLEMENTINE
+[another, sort of flat] Okay.
+123)  CLEMENTINE
+[kind of in shock, flat] Okay.
+124)  LEE
+{disgustB}{body-F}It had to be done.
+125)  CLEMENTINE
+[ a really small cry, pull it together fast]
+127)  LEE
+{angryA}{body-f}I'm killing him.
+129)  LEE
+{disgustB}By making sure he doesn't come back.
+130)  LEE
+{disgustA}{body-f}I'm going to make sure he's okay.
+134)  LEE
+{AngryA}{body-f}I'm putting him out of his misery.
+137)  
+What the hell happened?
+138)  LEE
+[pickup 2] [new read: What the hell happened is shouted a little bit. The way the scene is set up, he's standing right next to Kenny. Also there's a weird disconnect between 'happened' and 'what'.] {SurpriseB}{body-B}What the hell happened? {FearA}What did you--
+148)  LEE
+[pickup 2] [new read: What the hell happened is shouted a little bit. The way the scene is set up, he's standing right next to Kenny. Also there's a weird disconnect between 'happened' and 'what'.] {SurpriseB}{body-B}What the hell happened? {FearA}What did you--
+139)  KENNY
+{SadB}{body-A}She couldn't, she just, fuck, oh fuck...
+140)  KENNY
+{SadB}{body-A}She couldn't, she just, fuck, oh fuck...
+144)  KENNY
+{SadB}{body-A}She couldn't, she just, fuck, oh fuck...
+141)  LEE
+{FearA}{Body-B}I'm so sorry.
+142)  LEE
+{FearA}{Body-B}We still have to deal with Duck.
+143)  LEE
+[pickup 2'] [ new read: 'by herself' is a weird read, almost angrily choked off, but it reads strange, not emotional. Could be more sad/angry.] {SadB}{body-B}Shouldn't have let her come out here {AngryA}by herself.
+145)  DUCK
+[an idle of really small, sick breathing]
+146)  DUCK
+[a couple small, pained weezes]
+147)  KENNY
+[exhale, dropping the gun that you were pointing at your son's head]
+149)  KENNY
+{FearC}{body-A}I..I..couldn't....{FearB}so Kat took the gun..{SadA}and...{SadB}oh God, oh fuck....[choked up]
+150)  KENNY
+{SadB}{Body-A}I...can't. Let's just go.
+151)  
+DO IT!
+152)  
+It'll be okay...
+153)  LEE
+{AngryD}{Body-B}[emotional] DO IT!
+154)  LEE
+{SadB}{Body-B}It'll be okay... {SadC}it'll be--
+155)  KENNY
+[pickup2] I...I...
+156)  LEE
+[pickup2] Oh my God...
+157)  
+I'm so sorry.
+158)  
+Shouldn't have let her come out here by herself.
+159)  
+Oh my God...
+160)  KENNY
+[pickup2][Your wife just told you she would be the one to put your kid down]Then I'm coming with you.
+161)  KATJAA
+Stay with Lee. Your son loves you and you should remember him as the silly boy we used to have. Not this.
+162)  LEE
+[pickup2] Let's go.
+163)  KENNY
+[pickup2] [saying goodbye to his zombie son he's leaving in the woods] Goodbye... Duck.
+164)  KENNY
+[pickup2] [saying goodbye to his dead family] Goodbuh... God. Goodbye, guys. I love you so much. [pull it back if you want, it's obviously so emotional a lot of words may not even come.]
+165)  KENNY
+{sadB}come on, Kat...
+166)  KATJAA
+I need you to hear me. What you are saying, that he may not turn, is foolish.
+167)  KATJAA
+He's still a baby boy.
+168)  KATJAA
+It would be different if he were older.
+169)  KATJAA
+Let me do this.
+170)  KENNY
+What if he doesn't?
+171)  KENNY
+...just let that be it.
+172)  KATJAA
+Lee, you'd be doing this family a great service.

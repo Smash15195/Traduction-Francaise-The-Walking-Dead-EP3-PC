@@ -1,0 +1,86 @@
+1)  KENNY
+{thinkingA}You and me. We...uh. [sigh] {angryA}Fuck it. {sadA}Let's just get to the ocean.
+2)  KENNY
+It'll be good to get to the water.
+3)  LEE
+{sadB}Hey, man.
+4)  LEE
+[delicate]{sadA}Hey.
+5)  KENNY
+[dead inside]Hey.
+6)  LEE
+{sadA}Hey.
+7)  KENNY
+Yeah?
+8)  
+About my past...
+9)  
+Are there any maps in here?
+10)  LEE
+{thinkingA}Are there any maps up here?
+11)  KENNY
+{sadA}I don't know.
+12)  LEE
+{thinkingB}I just, uh, want to look over one with Clem so she has a lay of the land once we get to Savannah.
+13)  
+If you ever need to talk...
+14)  LEE
+{sadB}It should.
+15)  KENNY
+{sadC}I don't see that needin' to happen.
+16)  LEE
+{sadC}If you ever need to talk...
+17)  LEE
+{sadB}I wanted to talk you about keeping my past from you all.
+18)  KENNY
+{thinkingA}You told us it was your parents' store back in Macon. That was enough personal information.
+19)  LEE
+{sadB}Okay.
+20)  KENNY
+{sadA}I'm sure [hard swallow, you haven't said your dead wife's name much] {sadC}Kat would be uh... {sadA}okay with you. So, forget it.
+21)  KENNY
+[di] {sadB}It doesn't matter a lick to me. Fuck. Just gotta move forward.
+22)  LEE
+{sadB}I'll talk to you later, Kenny. [kat/duck dead]
+23)  LEE
+{thinkingA}Let me know if we're getting close or you see anything.
+24)  LEE
+{sadB}Ken--
+25)  LEE
+{thinkingB}You still want to get a boat?
+26)  KENNY
+[di] {angryA}It's still the best plan.
+27)  KENNY
+[di] [firm] {angryB}It's the best plan.
+28)  
+You still want to get a boat?
+29)  
+Chuck wanted to know if you needed a drink.
+30)  
+Have another with Chuck?
+31)  
+Why don't you head outside again.
+32)  LEE
+{sadA}Chuck wanted to know if you needed a drink.
+33)  KENNY
+{thinkingA}He's got some?
+34)  LEE
+{sadB}Yeah.
+35)  KENNY
+{sadC}Yeah, that'd help.
+36)  LEE
+{sadA}Sure.
+37)  KENNY
+{thinkingA}You'll keep an eye out up here?
+38)  LEE
+{thinkingA}Have another with Chuck?
+39)  KENNY
+{sadC}Okay, then.
+40)  LEE
+{thinkingB}Why don't you head outside again. Clear your head.
+41)  KENNY
+{sadC}I don't know ...
+42)  KENNY
+{sadA}Okay.
+43)  KENNY
+[flat] Thanks.

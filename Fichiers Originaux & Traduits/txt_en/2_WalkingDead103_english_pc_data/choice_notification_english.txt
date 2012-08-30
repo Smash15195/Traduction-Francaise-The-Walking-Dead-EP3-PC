@@ -1,0 +1,360 @@
+1)  
+Your backpack is empty.
+2)  
+Your backpack has a few supplies.
+3)  
+Your backpack has lots of supplies.
+4)  
+Your backpack is stuffed with supplies.
+5)  
+Kenny will remember that.
+6)  
+Kenny will remember that.
+23)  
+Kenny will remember that.
+34)  
+Kenny will remember that.
+105)  
+Kenny will remember that.
+167)  
+Kenny will remember that.
+168)  
+Kenny will remember that.
+169)  
+Kenny will remember that.
+170)  
+Kenny will remember that.
+171)  
+Kenny will remember that.
+175)  
+Kenny will remember that.
+180)  
+Kenny will remember that.
+7)  
+Kenny does not agree with you on this.
+8)  
+You have collected 1 item.
+9)  
+You have collected 2 items.
+10)  
+You have collected 3 items.
+11)  
+You have collected 4 items.
+12)  
+You have collected 5 items.
+13)  
+You have collected 6 items.
+14)  
+You have collected 9 items.
+15)  
+You have collected 7 items.
+16)  
+You have collected 8 items.
+17)  
+You have collected 10 items.
+18)  
+You have collected 11 items.
+19)  
+You have collected 12 items.
+20)  
+You have collected 13 items.
+21)  
+You have collected 14 items.
+22)  
+You have collected 15 items.
+24)  
+Kenny noticed your interest.
+25)  
+Kenny didn't appreciate that.
+26)  
+Kenny didn't appreciate that.
+27)  
+Kenny noticed your indifference.
+28)  
+You chose to shoot the girl.
+29)  
+You chose to leave the girl.
+30)  
+You weren't able to save the girl.
+31)  
+Kenny noticed that you changed your mind.
+32)  
+Lilly will remember that you want to leave.
+33)  
+You told Lilly you want to stay.
+35)  
+Kenny heard that you want to stay put.
+36)  
+Duck will help.
+37)  
+Duck heard that you didn't want his help.
+38)  
+Carley will remember that.
+52)  
+Carley will remember that.
+115)  
+Carley will remember that.
+39)  
+Carley is not pleased with your decision.
+40)  
+Kenny appreciates your honesty.
+41)  
+You kept your past hidden from Kenny.
+42)  
+Katjaa will remember that.
+43)  
+You didn't tell Katjaa about your past.
+44)  
+Clementine understands what you did.
+45)  
+You chose to keep your past from Clementine.
+46)  
+Ben won't forget that.
+51)  
+Ben won't forget that.
+66)  
+Ben won't forget that.
+176)  
+Ben won't forget that.
+47)  
+You didn't reveal your past to Ben.
+48)  
+Lilly won't forget that.
+172)  
+Lilly won't forget that.
+174)  
+Lilly won't forget that.
+49)  
+You didn't tell Lilly about your past.
+50)  
+You don't want Duck's help, but he isn't really listening.
+53)  
+Ben was hurt by your accusation.
+54)  
+Carley won't forget that.
+55)  
+You made Lilly stay behind.
+56)  
+You let Lilly back on the RV.
+57)  
+Katjaa is thankful for your help.
+58)  
+Katjaa appreciates your concern.
+59)  
+You told Lilly you'd go with her.
+60)  
+You told Lilly you wouldn't leave the group.
+61)  
+You told him the truth.
+112)  
+You told him the truth.
+62)  
+You lied to Chuck.
+63)  
+You avoided Chuck's question.
+64)  
+Chuck noticed your interest in his story.
+65)  
+Clementine noticed how you feel about Lilly.
+67)  
+You knocked some sense into Kenny.
+69)  
+You knocked some sense into Kenny.
+68)  
+You were able to talk some sense to your friend.
+70)  
+You talked Kenny into stopping the train.
+71)  
+Katjaa agrees with your suggestion.
+72)  
+Kenny agrees.
+73)  
+Kenny and Katjaa appreciate your kindness.
+74)  
+Clementine will remember your honesty.
+75)  
+You chose to tell her nothing.
+76)  
+You decided to let the father finish it.
+77)  
+You chose to do it yourself.
+78)  
+You chose to let Kenny shoot Duck.
+79)  
+Chuck doesn't like that.
+80)  
+You came down hard and threatened Ben
+81)  
+Ben feels how disappointed you are.
+82)  
+You threatened Ben.
+83)  
+You shared a drink with Chuck.
+84)  
+You decided not to share a drink with Chuck.
+85)  
+You taught Clementine to protect herself.
+86)  
+Clementine's hair is a lot safer now.
+121)  
+Clementine's hair is a lot safer now.
+87)  
+You really hurt Clementine's feelings.
+88)  
+That really upset Clementine.
+89)  
+You and Clementine formed a plan to find a boat.
+90)  
+You and Clementine formed a plan to find her parents.
+91)  
+You and Clementine formed a plan to go your own way.
+92)  
+They'll remember that.
+164)  
+They'll remember that.
+165)  
+They'll remember that.
+93)  
+The strangers don't seem pleased by your answer.
+94)  
+The strangers seem wary of you.
+95)  
+The strangers we
+96)  
+You bonded with Omid over some Southern history.
+97)  
+Omid and Christa will remember what you said about Ben.
+98)  
+They will remember what you said about Kenny.
+99)  
+They will remember what you said.
+100)  
+They will remember what you said about Chuck.
+101)  
+Christa won't forget that.
+102)  
+You made a risky decision in order to slow them down.
+103)  
+You pushed Omid.
+104)  
+Lilly will remember that.
+154)  
+Lilly will remember that.
+173)  
+Lilly will remember that.
+106)  
+High five!
+107)  
+You left Duck hanging.
+108)  
+You made Duck's day.
+109)  
+Lilly noticed that.
+155)  
+Lilly noticed that.
+110)  
+He noticed you didn't answer his question.
+111)  
+Chuck saw through your lie.
+113)  
+Clementine noticed your silence.
+114)  
+Ben is thankful for your loyalty.
+116)  
+You convinced Kenny to stop the train.
+117)  
+Kenny will remember this.
+118)  
+Kenny will remember this.
+119)  
+Neither of you could do it.
+120)  
+You left Duck in the woods.
+122)  
+Ben will remember that.
+123)  
+Clementine will remember that.
+124)  
+You learned that Omid is interested in Southern history.
+125)  
+Christa and Omid will both remember what you said.
+126)  
+Christa noticed your silence.
+127)  
+Christa didn't appreciate you prying into her business.
+128)  
+You chose to save the injured Omid.
+129)  
+You saved Christa first.
+130)  
+You saved Omid first.
+131)  
+You didn't help.
+132)  
+Kenny noticed you changed your mind.
+133)  
+They will remember that.
+166)  
+They will remember that.
+178)  
+They will remember that.
+134)  
+You chose to tell them Kenny's story.
+135)  
+You have collected 16 items.
+136)  
+You have collected 16 items.
+137)  
+You have collected 17 items.
+138)  
+You have collected 18 items.
+139)  
+You have collected 19 items.
+140)  
+You have collected 20 items.
+141)  
+You told Lilly you want to leave.
+142)  
+Looks like Duck is going to help you anyway.
+143)  
+You didn't tell Kenny about your past.
+144)  
+Duck thinks you are incredibly awesome.
+145)  
+You lied to him.
+146)  
+You  were honest with Clementine about Lilly.
+147)  
+Clementine noticed that.
+148)  
+Kenny appreciates your optimism.
+149)  
+Kenny noted your caution.
+151)  
+Kenny noted your caution.
+150)  
+Kenny noticed your pessisism.
+152)  
+Kenny noticed that.
+153)  
+Kenny will remeber that.
+156)  
+Everyone noticed you sided with Lilly.
+157)  
+Everyone noticed that.
+158)  
+You tried to let it go.
+159)  
+You chose to remain silent on this.
+160)  
+You voted against Ben.
+161)  
+You and Lilly agree on this one.
+162)  
+Clementine will remember your silence.
+163)  
+Kenny will remember your compassion.
+177)  
+Clementine won't forget that.
+179)  
+Ben noticed your reaction.

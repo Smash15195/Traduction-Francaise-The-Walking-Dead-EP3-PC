@@ -1,0 +1,256 @@
+1)  CHUCK
+[outside train] {thinkingA}How ya doin?
+2)  LEE
+[firm][outside train] {normalD}Hey.
+3)  
+Don't talk to my girl anymore.
+4)  
+Why did you say what you said to Clementine?
+5)  
+Say what you said to ME, asshole.
+6)  LEE
+[outside train]{angryA}Don't talk to my girl. Just stay away from her.
+7)  CHUCK
+[outside train] {angryA}Excuse me, son?
+13)  CHUCK
+[outside train] {angryA}Excuse me, son?
+8)  LEE
+[outside train] {angryB}I heard you told her she was going to die; that she was gonna end up like Duck. {angryC}Why'd you go and do that?
+9)  CHUCK
+[outside train] {sadB}‘Cause she is.
+11)  CHUCK
+[outside train] {sadB}‘Cause she is.
+10)  LEE
+[outside train]{angryA}I don't care what reasons you had for doing it, {angryB}no reason to go and tell my girl she's gonna end up dead!
+12)  LEE
+[outside train] {angryA}Say it to me asshole, what you said to my girl.
+14)  LEE
+[outside train] {angryA}Telling a little girl she's gonna die. {angryC}You want to scare people? Scare me, {angryA}mother fucker.
+15)  CHUCK
+[outside train]{happyB}Okey dokey. {angryA}She's gonna die.
+16)  LEE
+[outside train] {angryB}Son of a bitch.
+17)  CHUCK
+[outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} How was that?
+18)  LEE
+[outside train] {angryC}How about I throw your sorry ass off this fucking train?
+19)  CHUCK
+[outside train] {thinkingB}Now we're both scared.
+20)  CHUCK
+{happyA}Now I've gone and done it. I've ticked off the papa goose.
+21)  CHUCK
+{thinkingB}Ya always hear about the mama goose but the papa goose is the one that'll sneak up and put a real dent in your behind.
+22)  CHUCK
+{thinkingA}This because I told her she was gonna be walkin' if she weren't careful?
+23)  CHUCK
+{thinkingA}I don't know much about you folks, but I can tell you, sure as the sun gon' come up tomorrow, that {sadA}ya'll keep going on like this and that girl ain't gonna make it.
+24)  LEE
+{angryB}What do you know?
+25)  CHUCK
+{angryA}I'll tell ya, long as you don't toss me over the rail.
+26)  CHUCK
+{angryA}Oh, now you wanna talk.
+27)  CHUCK
+{angryB}I know that you don't have a goddamn plan. We get to Savannah and then what?
+28)  
+I figure it out.
+29)  
+We find a boat.
+30)  
+We do what's best for Clementine.
+31)  LEE
+{angryA}I figure it out.
+32)  CHUCK
+{angryA}Well get to figurin' because it'll be on top of us before ya know it.
+33)  LEE
+{angryA}We find a boat.
+34)  CHUCK
+{thinkingB}You think that's a new idea? {angryA}You got even the foggiest idea 'bout where you're gonna find one of those?
+35)  LEE
+{angryA}We do what's best for Clementine.
+36)  CHUCK
+{happyA}Oh! Well then! You do have it all figured out! {angryA}Nevermind.
+37)  CHUCK
+{angryA}That's what I reckoned.
+38)  CHUCK
+{fearA}Look, sit down with the girl and hash it out. Find a map for Christ's sake -- I'd give you one if I had it.
+39)  CHUCK
+{thinkingA}And if something were to happen to you...
+40)  LEE
+{angryA}It won't.
+41)  CHUCK
+{fearC}If it WERE, {fearA}you gotta prepare the girl. Teach her to use a weapon and {fearB}for criminy, cut that hair.
+42)  
+Like a gun? Are you kidding me?
+43)  
+She's a little girl.
+44)  
+I'm not a barber.
+45)  CHUCK
+{angryA}Are you listenin to me? For fuck's sake -- I shouldn't even have to be telling you this.
+46)  CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+52)  CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+62)  CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+68)  CHUCK
+{thinkingA}Find some scissors in my pack and take care of that hair before a walker does it for you.
+47)  CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+53)  CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+63)  CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+69)  CHUCK
+{sadB}And then show her how to use a gun because like it or not, that's what saves your life from here on out.
+48)  LEE
+{angryA}All right. I'll do what you're saying.
+49)  CHUCK
+You're gonna live with the consequences either way.
+50)  LEE
+{thinkingB}I'm not a barber.
+51)  CHUCK
+{thinkingA}It ain't gotta be STYLED, {thinkingB}Jesus.
+54)  LEE
+{sadA}Okay.
+55)  CHUCK
+{sadA}Explain to her how they work and to not be afraid.
+56)  LEE
+{thinkingB}She's a little girl.
+57)  CHUCK
+{angryA}She'll die a little girl if you treat her like one.
+58)  CHUCK
+{angryA}You gotta consider her a living person. That's it. You're either living or you're not. You ain't little, you ain't a girl, you ain't a boy, you ain't strong or smart. You're alive.
+66)  CHUCK
+{angryA}You gotta consider her a living person. That's it. You're either living or you're not. You ain't little, you ain't a girl, you ain't a boy, you ain't strong or smart. You're alive.
+59)  CHUCK
+{fearA}Look at her hair.
+67)  CHUCK
+{fearA}Look at her hair.
+60)  CHUCK
+{thinkingA}You got her running around with a mop that's gonna act like velcro to any hands swingin' its way.
+61)  CHUCK
+{thinkingA}You got her running around with a mop that's gonna act like velcro to any hands swingin' its way.
+64)  LEE
+{thinkingB}Like a gun? {angryA}Are you kidding me?
+65)  CHUCK
+{sadA}What? She's too young to handle one? There ain't too young, not anymore.
+70)  CHUCK
+{sadA}I don't mean to tell you how to do your job, but too many people have died already...
+71)  LEE
+{sadB}They have.
+72)  CHUCK
+{sadB}And seein' another little girl die might just do me in.
+73)  LEE
+{thinkingB}I hear you. A plan, a haircut and a gun. It's good advice.
+74)  CHUCK
+{sadA}It's something.
+75)  LEE
+{thinkingA}I found those scissors in your pack.
+76)  CHUCK
+{happyB}Oh, good. Get to snippin'.
+77)  LEE
+{thinkingB}There was a map of Savannah in the cab.
+78)  CHUCK
+{thinkingB}That's where I woulda looked.
+79)  LEE
+{thinkingA}I'll talk it over with Clementine and make sure she's got a sense of things by the time we arrive.
+80)  CHUCK
+{normalC}Good.
+81)  CHUCK
+{happyA}That's what I like to hear.
+82)  LEE
+{happyA}Hey.
+83)  CHUCK
+Yo.
+84)  LEE
+{happyB}Between finding a boat and looking for her parents, I think Clem and I have a decent plan heading into Savannah.
+85)  LEE
+{happyA}Well, the girl can shoot.
+86)  CHUCK
+{sadA}It doesn't have to be pretty.
+87)  LEE
+{thinkingB}Probably will be before too long.{sadB}
+88)  CHUCK
+{sadA}She will.
+89)  CHUCK
+{thinkingA}You get that hair sorted?
+90)  LEE
+{normalD}Yeah. I don't think she cares for it.
+91)  CHUCK
+{thinkingA}What's on your mind?
+92)  
+I shot the kid, you know.
+93)  
+Kenny ended up shooting his son.
+94)  
+We left him. The boy, back in the woods.
+95)  
+Where you headed?
+96)  LEE
+{thinkingB}You have any family?
+97)  CHUCK
+{sadA}Out there, somewhere.
+98)  CHUCK
+{thinkingA}Been sorta on my own the past fourteen years now.
+99)  LEE
+{sadA}I'm sorry to hear that.
+100)  CHUCK
+{sadA}No one to blame.
+101)  
+You got any family?
+102)  
+You're homeless then.
+103)  CHUCK
+{sadA}Darn.
+104)  CHUCK
+{happyA}Got any?
+105)  LEE
+{thinkingB}No.
+106)  LEE
+{thinkingA}You're homeless then.
+107)  CHUCK
+{thinkingB}Suppose.  {sadA}I've had homes here and there and they just don't work out.
+108)  CHUCK
+{thinkingA}I like a drink, you know.
+109)  LEE
+{normalD}Yeah.
+110)  LEE
+{sadB}I shot the kid, you know.
+111)  CHUCK
+{sadA}I suppose someone had to.
+115)  CHUCK
+{sadA}I suppose someone had to.
+112)  LEE
+[sad] {sadC}What a mess.
+116)  LEE
+[sad] {sadC}What a mess.
+113)  CHUCK
+[agreeing] {sadB}You said it.
+117)  CHUCK
+[agreeing] {sadB}You said it.
+114)  LEE
+{sadB}Kenny ended up shooting his son out there.
+118)  LEE
+{sadC}We left him. Kenny's boy, back in the woods.
+119)  CHUCK
+{sadB}Criminy...
+120)  CHUCK
+[alt] Damn...
+121)  LEE
+{sadB}Couldn't shoot him... {sadC}couldn't do anything.
+122)  CHUCK
+{sadA}And now he's just roaming around out there.
+123)  LEE
+{thinkingB}Where are you headed?
+124)  CHUCK
+{thinkingB}Uh, that way.
+125)  LEE
+{normalD}I mean, when we get to Savannah.
+126)  CHUCK
+{thinkingA}Got a few ideas. {sadA}We'll have a talk when we get there about whether or not you folks want company.
+127)  LEE
+{thinkingA}Be safe up here.
+128)  CHUCK
+{happyA}You betcha.

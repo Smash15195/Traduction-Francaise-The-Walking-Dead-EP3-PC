@@ -1,0 +1,336 @@
+1)  
+Run To
+2)  
+Left Side Of RV
+3)  
+Right Side Of RV
+4)  LEE
+[temp] Uh, okay.
+5)  CLEMENTINE
+[temp] OMG I'm scared! Shoot that guy!!1!1
+6)  BANDITLEADER
+[pickup1] Enough of this bullshit! Drew, start putting your boot to these doors.
+7)  BANDIT1
+[pickup1] [gleeful] Yeah!
+8)  BANDITLEADER
+[pickup1][spotting Lee] Hold it asshole!
+9)  LEE
+[pickup1] Take it easy...
+10)  
+We can keep the deal going.
+11)  
+Why are you doing this?
+12)  
+You assholes better get out of here.
+13)  LEE
+[pickup1] We have more supplies. We can keep the deal going.
+14)  LEE
+[pickup1] Why are you doing this? Just leave us the fuck alone!
+15)  LEE
+[pickup1][aggressive, threatening] You think this shit is going to get you what you want? You best get the fuck out of here.
+16)  BANDITLEADER
+[pickup1] [condescending laughter] Listen to this hard motherfucker!
+17)  BANDITLEADER
+[pickup1] Why?! This fucking guy! WHY?! Because we gotta, that's why!
+18)  BANDITLEADER
+[pickup1][over-the-top] YOU PEOPLE THINK THIS IS A FUCKIN' JOKE!?
+19)  
+We can split the supplies.
+20)  
+We'll leave you everything.
+21)  
+What will it take to reach a deal?
+22)  LEE
+[pickup1] We can split the supplies. Spread them around!
+23)  LEE
+[pickup1] We'll leave you everything. Just let us walk out of here.
+24)  LEE
+[pickup1] What will it take to reach a deal?
+25)  BANDITLEADER
+[pickup1][surprised] What the fuck?
+26)  BANDITLEADER
+[pickup1] You son of a bitch!
+27)  BANDITLEADER
+[pickup1][really irritated] All right, I've had enough of this shit! Drew, take these motherf-
+28)  BANDIT2
+Oh shit!
+153)  BANDIT2
+Oh shit!
+29)  BANDIT1
+Christ!
+154)  BANDIT1
+Christ!
+30)  BANDIT1
+[pickup1][getting shot, dying] Uugh!
+118)  BANDIT1
+[pickup1][getting shot, dying] Uugh!
+31)  BANDIT2
+[pickup1][getting shot, dying] Augh!
+32)  BANDIT3
+[pickup1][getting shot in the shoulder] Auugh!
+115)  BANDIT3
+[pickup1][getting shot in the shoulder] Auugh!
+33)  BANDITLEADER
+[pickup1] Things you ain't got. [CUT THIS LINE]
+34)  BANDITLEADER
+[pickup1] [irritated] So you can try to pay US a little visit later? Fuck that!
+35)  BANDITLEADER
+[pickup1] [irritated] Or we could just kill you and take it ALL.
+36)  BANDITLEADER
+[pickup1] Too late shithead! We ain't giving second chances!
+37)  KENNY
+[pickup1] We gotta get out of here!
+38)  LEE
+[pickup1] [being shot at] No shit!
+39)  KENNY
+[pickup1] Get those bastards! Cover our people and get them to the RV!
+40)  BEN
+[pickup1][high-energy, you are being shot at]Help! Jesus!
+41)  LEE
+[pickup1][high-energy, people are being shot at] Ben! Stay down!
+42)  LEE
+[pickup1][high-energy, people are being shot at] Hang on Ben!
+43)  BEN
+[pickup1][high-energy, you are being shot at] Hurry up!
+44)  LEE
+[pickup1][high-energy, people are being shot at] I've got you Ben!
+45)  BEN
+[pickup1][panicking, you are being shot at] Get me out of here! Please!
+46)  LEE
+[pickup1][high-energy, people are being shot at] Doug, stay put!
+47)  DOUG
+[pickup1][high-energy, you are being shot at] Lee! Help!
+48)  LEE
+[pickup1][high-energy, people are being shot at] Hold on Doug!
+49)  DOUG
+[pickup1][panicking, people are being shot at] Not good, oh man!
+50)  LEE
+[pickup1][high-energy, people are being shot at] Doug!
+51)  DOUG
+[pickup1][panicking, you are being shot at] Help!
+52)  LEE
+[pickup1][high-energy, people are being shot at] Carley! Keep your head down!
+53)  CARLEY
+[pickup1][high-energy, you are being shot at] Could use a little help!
+54)  LEE
+[pickup1][high-energy, people are being shot at] Carley! Stay there!
+55)  CARLEY
+[pickup1][high-energy, you are being shot at] Lee, help me!
+56)  LEE
+[pickup1][high-energy, people are being shot at] Carley!
+57)  CARLEY
+[pickup1][high-energy, you are being shot at] Any time now!
+58)  LEE
+[pickup1][high-energy, people are being shot at] Kenny!
+59)  LEE
+[pickup1][high-energy, people are being shot at] Kat! Hold on!
+60)  KATJAA
+[pickup1][high-energy, you are being shot at] Please hurry!
+61)  KATJAA
+[pickup1][high-energy, yoy are being shot at] Help!
+62)  LEE
+[pickup1][high-energy, people are being shot at] Kat! Keep them down!
+63)  LEE
+[pickup1][high-energy, people are being shot at] Katjaa!
+64)  KATJAA
+[pickup1][high-energy, you are being shot at] Oh, God!
+65)  LEE
+[pickup1][high-energy, people are being shot at] Stay down, Clem! Everything's gonna be okay!
+66)  CLEMENTINE
+[pickup1][crying, you are being shot at] Help!
+67)  LEE
+[pickup1][high-energy, people are being shot at] I won't let them hurt you!
+68)  CLEMENTINE
+[pickup1][crying, you are being shot at] I'm scared!
+69)  LEE
+[pickup1][high-energy, people are being shot at] Clem! Stay down!
+70)  CLEMENTINE
+[pickup1][crying, you are being shot at] Lee!
+71)  LEE
+[pickup1][high-energy, people are being shot at] Hang on!
+72)  DUCK
+[pickup1][scared, you are being shot at] Mommy!
+73)  DUCK
+[pickup1][crying, you are being shot at] Wahhh!
+74)  LEE
+[pickup1][high-energy, people are being shot at] Duck, don't worry!
+75)  LEE
+[pickup1][high-energy, people are being shot at] Stay down, Duck!
+76)  DUCK
+[pickup1][crying, people are being shot at] Stop them!
+77)  LEE
+[pickup1][high-energy, people are being shot at] Lilly!
+78)  BANDIT1
+[pickup1] GET IN THERE SHIT FOR BRAINS!
+79)  BANDIT1
+[pickup1] THE ROOMS! FIND OUR SHIT!
+80)  BANDIT1
+[pickup1] SHIT! WATCH IT!
+81)  BANDIT2
+[pickup1] THESE ASSHOLES GOT TEETH!
+82)  BANDIT2
+[pickup1] ROUND THE SIDE! OVER THERE!
+83)  BANDIT2
+[pickup1] SHIT! SHIT!
+84)  BANDIT3
+[pickup1] BEHIND THERE! THERE!
+85)  BANDIT3
+[pickup1] GET THAT MOTHERFUCKER!
+86)  BANDIT3
+[pickup1] BEHIND THE RV!
+87)  BANDIT1
+[pickup1] GO! NOW!
+88)  BANDIT2
+[pickup1] KILL THAT BITCH!
+89)  BANDIT3
+[pickup1] STOP THAT ASSHOLE!
+90)  BEN
+[pickup1][shot, dying] Ugggh!
+91)  BANDIT2
+Asshole!
+92)  DOUG
+[pickup1][shot, dying] Achkkk!
+93)  LEE
+[pickup1] Nooo!
+94)  LEE
+[pickup1] Now! Get over here! Hurry!
+95)  BEN
+[pickup1] Man, you saved our asses!
+96)  LEE
+[pickup1] Get inside!
+97)  BANDIT1
+[pickup1] [being killed by a zombie] Urrgghhh!
+98)  KATJAA
+Help!
+99)  LEE
+[pickup1] Katjaa! Hang on!
+100)  LEE
+[pickup1][seeing Clementine get killed] Nooo!
+101)  LEE
+[pickup1] It's gonna be okay. Go!
+102)  LEE
+[pickup1] [high-energy, concerned] Clem! Get inside the RV!
+103)  LEE
+[pickup1] Katjaa! Hurry! Come on!
+104)  CLEMENTINE
+[pickup1] Lee!
+105)  KENNY
+Kat! Oh Christ!
+106)  LEE
+Lilly! Get in the RV!
+116)  LEE
+Lilly! Get in the RV!
+107)  KENNY
+Screw her! Let her stay!
+117)  KENNY
+Screw her! Let her stay!
+108)  DOUG
+[pickup1] It's the solenoid!
+109)  LEE
+[pickup1] Doug?
+110)  LEE
+[pickup1] Lilly! Last chance! Get down here!
+111)  LILLY
+[pickup1][under her breath] Shit.
+112)  LEE
+[pickup1][surprised by a zombie, overpowered] Uh..ah! Oh shit! Auugh!
+145)  LEE
+[pickup1][surprised by a zombie, overpowered] Uh..ah! Oh shit! Auugh!
+113)  CARLEY
+[pickup1][horrified] Lee!
+143)  CARLEY
+[pickup1][horrified] Lee!
+114)  LEE
+[pickup1] [overpowered by zombies, dying] Unghhh!
+144)  LEE
+[pickup1] [overpowered by zombies, dying] Unghhh!
+119)  LILLY
+{SadA}You haven't come up with anything, have you?
+120)  LEE
+{AngryA}I came up with this.
+121)  LEE
+{ThinkingA}It's got a bunch of meds in it. {NormalD}It was in a grate {DisgustB}on the outside wall {AngryB}and there's a sign on the other one.
+122)  LILLY
+{AngryA}Holy fuck.
+123)  LEE
+{AngryA}Yeah.
+124)  LILLY
+{AngryE}Okay. {ThinkingA}We line everybody up. {AngryC}Everybody.
+125)  LILLY
+{AngryE}Somebody is killing us. {ThinkingA}Stealing from that supply is the same as {AngryB}slipping into your room at night and {AngryA}cutting your throat while you sleep.
+126)  LILLY
+{AngryA}You die. {DisgustB}What is the difference? {SadA}What if Clementine gets sick {AngryB}and we don't have what we need --
+127)  LILLY
+[pickup2] [new read: A little too weak, she's tired sure, but it needs to be a little more surprised.] [can't believe what she's seeing] {FearB}What the hell?
+128)  BANDITLEADER
+[pickup1] [far away, through a door] YOU DON'T FUCKING STEAL FROM US!
+129)  LEE
+{AngryC}Who the fuck is that?!
+130)  LILLY
+[pickup1] Oh shit!
+131)  LEE
+[pickup1] They've got our people out there!
+132)  BANDITLEADER
+[pickup1][far away, through a door] Y'ALL BETTER GET YOUR ASSES OUT HERE! WE AIN'T FUCKIN' AROUND!
+133)  LILLY
+[pickup1] They're gonna start kicking in doors any second!
+134)  LEE
+[pickup1] What do we do? Lilly?
+135)  LEE
+[pickup1] Lilly? What the hell are you...
+136)  LILLY
+[pickup1] Stall them.
+137)  LEE
+[pickup1] What?
+138)  LILLY
+[pickup1] Just keep them talking.
+139)  BANDITLEADER
+[pickup1] [far away, through a door]YOU MADE THE BIGGEST MISTAKE OF YOUR LIVES!
+140)  LILLY
+[pickup1] Do whatever it takes to stop him pulling the trigger!
+141)  LEE
+[pickup1] Shit.
+142)  LEE
+[pickup1] [A deep, exasperated breath]
+146)  LEE
+[pickup2] [negotiating] It was a mix-up! We'll make it worth your while.
+147)  BANDITLEADER
+[pickup2] ...I'm listenin.
+148)  LEE
+[pickup2] And what about when they run out? When you don't have us out there collecting them for you?
+149)  LEE
+[pickup2] You got it. Done.
+150)  BANDITLEADER
+[pickup2] ...Is that so?
+151)  BANDITLEADER
+[pickup2] 'Bout twice as much as you been giving us!
+152)  BANDITLEADER
+[pickup2] SHUT UP OR I'LL--
+155)  BANDITLEADER
+[pickup2] Well... I suppose we oughta hash out some terms, then!
+156)  BANDIT1
+[pickup2] I don't like no hash!
+157)  BANDIT2
+[pickup3] He's hidin' behind that van! Get your asses around behind!
+158)  BANDIT2
+[pickup3] Go around shit for brains! He's back there!
+159)  LEE
+[pickup2] Shit! Kenny! Hurry up with that thing!
+160)  DOUG
+[pickup3] Lee! Walkers!
+161)  BANDIT1
+[pickup3] Where is he?
+162)  BANDIT3
+[pickup3] Get back there! Smoke him out!
+163)  DOUG
+[pickup3] [hears his bell system] Lee! The bells! Left side! Left!
+164)  DOUG
+[pickup3] [hearing his bell system] Left! Left side!
+165)  DOUG
+[pickup3] [hearing his bell system] Lee! Left!
+166)  DOUG
+[pickup3] [hearing his bell system] Right side! Walkers on the right!
+167)  DOUG
+[pickup3] [hearing his bell system] The right bells!
+168)  DOUG
+[pickup3] [hearing his bell system] Watch the right!

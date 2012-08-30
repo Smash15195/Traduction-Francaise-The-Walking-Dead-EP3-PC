@@ -1,0 +1,1042 @@
+1)  
+No way. It was somebody else.
+74)  
+No way. It was somebody else.
+2)  
+I'm not doing this.
+78)  
+I'm not doing this.
+3)  
+You're not coming with us.
+4)  
+Get in and we'll figure out what to do with you.
+5)  KENNY
+{AngryA}God dammit. {ThinkingA}Everyone, {DisgustA}keep your eyes peeled.
+6)  LILLY
+{ThinkingA}Kenny, {DisgustA}the RV has some surface damage {DisgustB}but there's a walker trapped underneath.
+7)  BEN
+[anxious] {SadE}I think you should {SadB}chill out.
+69)  BEN
+[anxious] {SadE}I think you should {SadB}chill out.
+8)  KENNY
+[to himself] {AngryC}[Fucking thing {AngryD}ripped in half...]
+70)  KENNY
+[to himself] {AngryC}[Fucking thing {AngryD}ripped in half...]
+9)  LILLY
+{HappyC}You know what, we {AngryB}shouldn't just kick you out, {AngryE}we should hear what everybody thinks.
+71)  LILLY
+{HappyC}You know what, we {AngryB}shouldn't just kick you out, {AngryE}we should hear what everybody thinks.
+10)  
+I think he probably did it.
+11)  LEE
+{DisgustB}I think he probably {thinkingB}did it.
+12)  DOUG
+{FearA}Lee, {AngryA}come on...
+13)  LILLY
+{NormalC}Okay, that's the two of us. {AngryC}Kenny?
+73)  LILLY
+{NormalC}Okay, that's the two of us. {AngryC}Kenny?
+14)  LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+23)  LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+83)  LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+99)  LILLY
+[projecting] {FearA}Well your vote counts for you {AngryB}and Katjaa.
+15)  KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+24)  KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+84)  KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+98)  KENNY
+[preocuppied, trying to deal with something] {ThinkingA}I don't know! {AngryB}Fuck! {SadA}Just, {AngryB}stop, would ya?!
+16)  DOUG
+{AngryA}Leave him alone.
+17)  BEN
+{SadB}Please, look, {FearB}it wasn't me,{SadE} please stop accusing me.
+18)  BEN
+{AngryB}No!
+93)  BEN
+{AngryB}No!
+19)  LILLY
+{AngryB}Ben, {AngryC}you have no other options here.
+89)  LILLY
+{AngryB}Ben, {AngryC}you have no other options here.
+20)  LILLY
+{AngryE}I'm really sorry you're upset, Ben. {AngryC}Just tell us you did it.
+21)  LILLY
+{AngryA}I think you both are {ThinkingA}protesting a bit much.
+22)  LILLY
+[projecting] {DisgustA}Don't you think so, {AngryC}Kenny?
+88)  LILLY
+[projecting] {DisgustA}Don't you think so, {AngryC}Kenny?
+25)  LILLY
+{AngryE}That's ridiculous. {AngryA}That's what you think?
+77)  LILLY
+{AngryE}That's ridiculous. {AngryA}That's what you think?
+26)  LEE
+[empathic]{DisgustB}Yes.
+76)  LEE
+[empathic]{DisgustB}Yes.
+27)  LEE
+{SadA}No way it was Ben. {AngryA}It was somebody else. {ThinkingB}It could've even been someone {NormalD}sneaking into our camp.
+28)  LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+35)  LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+75)  LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+79)  LILLY
+{AngryE}Okay, fine then. {AngryC}Kenny?
+29)  KENNY
+[struggling to deal with half a zombie corpse] {DisgustA}Ugh, this {AngryD}dumb fuck walker...
+92)  KENNY
+[struggling to deal with half a zombie corpse] {DisgustA}Ugh, this {AngryD}dumb fuck walker...
+30)  KENNY
+{AngryB}Yeah, yeah... {DisgustA}son of a bitch...
+90)  KENNY
+{AngryB}Yeah, yeah... {DisgustA}son of a bitch...
+31)  LEE
+{ThinkingA}You okay over there?
+91)  LEE
+{ThinkingA}You okay over there?
+32)  LILLY
+{ThinkingB}Come on, Lee. {ThinkingA}You're the one who found them! {AngryC}You can't just abstain.
+82)  LILLY
+{ThinkingB}Come on, Lee. {ThinkingA}You're the one who found them! {AngryC}You can't just abstain.
+33)  LEE
+{DisgustA}Fuck all that; {AngryC}this is nuts. {AngryB}We're out here {AngryD}on the side of the road!
+81)  LEE
+{DisgustA}Fuck all that; {AngryC}this is nuts. {AngryB}We're out here {AngryD}on the side of the road!
+34)  LEE
+{AngryA}I'm not {AngryC}doing this.
+80)  LEE
+{AngryA}I'm not {AngryC}doing this.
+36)  LILLY
+{AngryA}Ben, {AngryE}you have until Kenny kills that walker to {AngryB}tell me it was you.
+37)  KENNY
+[dealing with a zombie] {AngryB}Just give me a damn minute!
+100)  KENNY
+[dealing with a zombie] {AngryB}Just give me a damn minute!
+38)  BEN
+[on the verge of tears] {SadD}No...
+124)  BEN
+[on the verge of tears] {SadD}No...
+39)  KENNY
+[off screen, still struggling to deal with something] {AngryB}There we go, {DisgustA}you ugly shit.
+122)  KENNY
+[off screen, still struggling to deal with something] {AngryB}There we go, {DisgustA}you ugly shit.
+40)  LILLY
+{AngryB}This is about trust and I've {AngryC}never trusted you.
+125)  LILLY
+{AngryB}This is about trust and I've {AngryC}never trusted you.
+41)  DOUG
+{FearA}LILLY.
+42)  LILLY
+{AngryD}BEN.
+123)  LILLY
+{AngryD}BEN.
+43)  
+Tell her.
+103)  
+Tell her.
+44)  
+Lilly, lay off.
+109)  
+Lilly, lay off.
+45)  
+I did it.
+115)  
+I did it.
+46)  BEN
+{SadE}Tell her what?! {FearC}She'll kick me out of the group!
+106)  BEN
+{SadE}Tell her what?! {FearC}She'll kick me out of the group!
+47)  LILLY
+{AngryC}Tell me. {AngryD}Now.
+53)  LILLY
+{AngryC}Tell me. {AngryD}Now.
+108)  LILLY
+{AngryC}Tell me. {AngryD}Now.
+114)  LILLY
+{AngryC}Tell me. {AngryD}Now.
+48)  LEE
+{SadA}We won't.
+54)  LEE
+{SadA}We won't.
+104)  LEE
+{SadA}We won't.
+113)  LEE
+{SadA}We won't.
+49)  LEE
+{AngryA}Tell her. {NormalD}Just do it, Ben.
+107)  LEE
+{AngryA}Tell her. {NormalD}Just do it, Ben.
+50)  LEE
+{AngryA}Lilly, {FearA}lay off.
+111)  LEE
+{AngryA}Lilly, {FearA}lay off.
+51)  LILLY
+{AngryE}I can't Lee, {AngryA}you know I {AngryD}can't.
+110)  LILLY
+{AngryE}I can't Lee, {AngryA}you know I {AngryD}can't.
+52)  BEN
+{SadD}Please, don't kick me out of the group.
+112)  BEN
+{SadD}Please, don't kick me out of the group.
+55)  LEE
+{FearB}We'll understand.
+105)  LEE
+{FearB}We'll understand.
+56)  LILLY
+[bullshit] {AngryC}What?
+119)  LILLY
+[bullshit] {AngryC}What?
+57)  LEE
+{AngryC}I did it.
+118)  LEE
+{AngryC}I did it.
+58)  LEE
+{AngryA}Yeah, {AngryC}it was me. {AngryB}That get you to {DisgustA}lay off the kid?
+117)  LEE
+{AngryA}Yeah, {AngryC}it was me. {AngryB}That get you to {DisgustA}lay off the kid?
+59)  LILLY
+{AngryB}I think you're capable of being a real {AngryC}piece of shit, {ThinkingB}but I know {ThinkingA}it wasn't you. {AngryE}Not with her [clementine] in your life.
+116)  LILLY
+{AngryB}I think you're capable of being a real {AngryC}piece of shit, {ThinkingB}but I know {ThinkingA}it wasn't you. {AngryE}Not with her [clementine] in your life.
+60)  DOUG
+{SadB}Please, stop.
+61)  DOUG
+{FearB}LEE.
+62)  DOUG
+{FearC}NO!
+63)  DOUG
+{SadB}I can't handle this!
+64)  KENNY
+{HappyB}THERE, {HappyC}I got 'im.
+128)  KENNY
+{HappyB}THERE, {HappyC}I got 'im.
+65)  KENNY
+{NormalB}Now {ThinkingA}what the fuck's the problem?
+129)  KENNY
+{NormalB}Now {ThinkingA}what the fuck's the problem?
+66)  BEN
+{SadB}Please, {SadD}let's just get back in the RV.
+127)  BEN
+{SadB}Please, {SadD}let's just get back in the RV.
+67)  CLEMENTINE
+{FearD}BEN!
+68)  LILLY
+{AngryE}That's not happening.
+126)  LILLY
+{AngryE}That's not happening.
+72)  
+I think she probably did it.
+85)  CARLEY
+[disbelief] Lee, what the fuck?
+86)  LEE
+{SadA}I think {ThinkingB}she probably did it.
+87)  LEE
+{ThinkingA}There's no way {AngryA}it was Carley. {DisgustA}It was somebody else. {SadA}It could've even been someone {DisgustB}sneaking into our camp.
+94)  LILLY
+{DisgustA}You can tell me it was Carley {AngryE}and then everything will be {AngryC}right as rain.
+95)  LILLY
+{AngryE}I'm really sorry you feel that way. {AngryA}I'm starting to think maybe it was {AngryB}both of you.
+96)  CARLEY
+{AngryC}I'm not going to take this. {AngryB}You can push Ben around {AngryC}but you can't push me around.
+97)  CARLEY
+{AngryC}Leave him alone.
+101)  LILLY
+{AngryC}Ben, {AngryB}you have until that walker is dealt with {AngryA}to tell me it was her and{AngryD} not you.
+102)  CARLEY
+{AngryC}Stop this. {AngryB}You're torturing him!
+120)  CARLEY
+{FearC}Lee! {AngryD}Jesus, who are you right now?
+121)  CARLEY
+{ThinkingA}Thank you, Lee. {AngryA}Please, listen to him.
+130)  CARLEY
+{AngryD}STOP.
+131)  CARLEY
+{ThinkingA}You think you're some {AngryB}tough bitch, {ThinkingB}don't you? {AngryC}Like nothing can hurt you, {ThinkingA}but you're just {AngryA}a scared little girl. {ThinkingB}Get the fuck over it.
+132)  CARLEY
+{AngryB}Take a page from Lee's book and try{AngryC} helping somebody for once.
+133)  LEE
+{AngryD}DROP IT.
+134)  KENNY
+{FearC}Holy fuck...
+135)  KENNY
+{FearB}Keep Duck away from the windows! {SadB}Jesus CHRIST!
+136)  LILLY
+{FearD}[breathing sort of in shock]
+137)  KATJAA
+[inside] {FearC}KENNY, {FearD}What's happening?!
+138)  KENNY
+{AngryB}GET IN. {AngryC}We're leaving this {AngryD}crazy bitch!
+139)  LILLY
+{SadB}I didn't mean to... {SadC}it wasn't supposed to be him.
+140)  BEN
+{SadB}What...what...wh...{DisgustA}are we going to do with her?
+212)  BEN
+{SadB}What...what...wh...{DisgustA}are we going to do with her?
+141)  KENNY
+{DisgustA}Leave her for the walkers.
+210)  KENNY
+{DisgustA}Leave her for the walkers.
+142)  KATJAA
+{FearC}KEN! LEE!
+211)  KATJAA
+{FearC}KEN! LEE!
+143)  LEE
+[to himself, through grit teeth] {AngryA}Why. {SadB}Why Lilly?
+213)  LEE
+[to himself, through grit teeth] {AngryA}Why. {SadB}Why Lilly?
+144)  LEE
+{DisgustB}You're not coming with us.
+145)  LILLY
+{SadC}I'll die out here.
+146)  LEE
+{AngryB}I don't care.
+147)  KENNY
+{FearB}You're a murderer, Lilly. {AngryA}We can't have you with us.
+148)  LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+162)  LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+168)  LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+180)  LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+193)  LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+194)  LILLY
+{FearC}I'm a murderer?! {SadC}You've had Lee with you {SadB}this whole time!
+149)  KENNY
+{AngryA}I don't care {AngryB}what he did before.
+163)  KENNY
+{AngryA}I don't care {AngryB}what he did before.
+179)  KENNY
+{AngryA}I don't care {AngryB}what he did before.
+192)  KENNY
+{AngryA}I don't care {AngryB}what he did before.
+150)  LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+157)  LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+160)  LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+181)  LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+185)  LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+191)  LILLY
+{sadC}I was trying to protect {Sadb}all of us. [pathetic]
+151)  LILLY
+{SadC}I don't have anything left.
+156)  LILLY
+{SadC}I don't have anything left.
+161)  LILLY
+{SadC}I don't have anything left.
+174)  LILLY
+{SadC}I don't have anything left.
+182)  LILLY
+{SadC}I don't have anything left.
+183)  LILLY
+{SadC}I don't have anything left.
+188)  LILLY
+{SadC}I don't have anything left.
+201)  LILLY
+{SadC}I don't have anything left.
+152)  KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+158)  KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+159)  KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+167)  KENNY
+{ThinkingA}Get in, Lee. {SadC}Let's go you guys.
+153)  KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+164)  KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+178)  KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+187)  KENNY
+{AngryB}If we keep {AngryC}you with us, {DisgustA}how long until you get {AngryD}ME?
+154)  LILLY
+{FearC}Murderer? {AngryA}Lee's killed before and {SadC}I forgave him. {AngryB}You've killed before and {SadC}I'll forgive YOU. {FearC}You both know {SadB}we do what {SadC}has to be done!
+184)  LILLY
+{FearC}Murderer? {AngryA}Lee's killed before and {SadC}I forgave him. {AngryB}You've killed before and {SadC}I'll forgive YOU. {FearC}You both know {SadB}we do what {SadC}has to be done!
+155)  KENNY
+{AngryC}Bullshit you will. {AngryB}You've been planning to get me {AngryD}this entire time.
+186)  KENNY
+{AngryC}Bullshit you will. {AngryB}You've been planning to get me {AngryD}this entire time.
+165)  LILLY
+[surprised] {FearC}You know?!
+189)  LILLY
+[surprised] {FearC}You know?!
+166)  KENNY
+{AngryA}Yeah, he told me. {SadA}I don't give a shit.
+190)  KENNY
+{AngryA}Yeah, he told me. {SadA}I don't give a shit.
+169)  KENNY
+{ThinkingA}To hell with it.
+198)  KENNY
+{ThinkingA}To hell with it.
+170)  KENNY
+{SadB}Is that true, Lee?
+197)  KENNY
+{SadB}Is that true, Lee?
+171)  KENNY
+{FearC}Fucking hell, {AngryA}were you ever going to get around {AngryC}to telling me that? {FearB}You've got a {AngryB}little girl with you!
+199)  KENNY
+{FearC}Fucking hell, {AngryA}were you ever going to get around {AngryC}to telling me that? {FearB}You've got a {AngryB}little girl with you!
+172)  LEE
+{NormalD}Yes.
+200)  LEE
+{NormalD}Yes.
+173)  LILLY
+{FearC}He didn't tell you? {SadC}He killed someone before {ThinkingA}ALL of this. {DisgustA}He was a convicted {AngryA}murderer.
+196)  LILLY
+{FearC}He didn't tell you? {SadC}He killed someone before {ThinkingA}ALL of this. {DisgustA}He was a convicted {AngryA}murderer.
+175)  KENNY
+{DisgustA}What are you talking about?
+195)  KENNY
+{DisgustA}What are you talking about?
+176)  LEE
+{AngryA}Just get in. {ThinkingB}We'll figure out {AngryA}what to do with you.
+177)  KENNY
+{DisgustA}That's a bad idea, Lee. {FearA}She's a murderer {AngryB}for shit's sake!
+202)  LEE
+It'll be fine. I'll make sure of it.
+203)  KENNY
+{DisgustA}Whatever. {AngryB}Just get in.
+204)  KENNY
+{DisgustA}Whatever. {AngryB}Just get in.
+205)  KENNY
+{DisgustA}Whatever. {AngryB}Just get in.
+206)  KENNY
+{AngryC}I don't want to hear it. {DisgustA}From either of you. {AngryB}Just get in.
+207)  KENNY
+{AngryC}She's a murderer. {AngryA}That's the {AngryD}end of it.
+208)  KENNY
+{AngryA}We're leaving her! {AngryB}Let's go!
+209)  LEE
+{ThinkingB}Okay.
+214)  LILLY
+{FearA}She couldn't be trusted, Lee. {SadB}I swear. {SadC}Please.
+215)  KENNY
+{AngryA}Dammit. {SadA}Road's blocked.
+216)  KENNY
+{ThinkingA}We got something up ahead.
+217)  KENNY
+{SadB}Now we gotta deal with this.
+218)  LEE
+{FearC}[gasp, waking from a bad dream]
+219)  LEE
+{ThinkingA}You okay?
+220)  CLEMENTINE
+{FearB}Katjaa needs you for something.
+221)  CLEMENTINE
+{NormalA}See what they want?
+222)  KATJAA
+We need to speak to you up here.
+223)  KATJAA
+Lee.
+224)  KATJAA
+{SadA}Lee, {SadC}a word, please?
+225)  KATJAA
+{SadA}Lee, {SadC}a word, please?
+226)  KENNY
+[flat, d.i.] {SadA}Happened during the raid.
+227)  LEE
+[floored] {FearB}What the {FearA}fuck...
+228)  LEE
+{SadA}Is Duck feeling all right?...
+229)  LEE
+{NormalD}What's up?
+230)  KATJAA
+[flat] {NormalA}Anyway, {DisgustA}if you could tell Clementine {NormalB}we would appreciate it.
+231)  
+What's the plan?
+232)  KENNY
+{sadA}We keep the same plan {DisgustA}unless something changes. {AngryA}East.
+239)  KENNY
+{sadA}We keep the same plan {DisgustA}unless something changes. {AngryA}East.
+247)  KENNY
+{sadA}We keep the same plan {DisgustA}unless something changes. {AngryA}East.
+233)  KATJAA
+{NormalB}I'm going to keep an eye on him {DisgustA}and see what I can do, {NormalA}from a medical perspective.
+246)  KATJAA
+{NormalB}I'm going to keep an eye on him {DisgustA}and see what I can do, {NormalA}from a medical perspective.
+234)  LEE
+{SadA}What's the plan? {DisgustB}We've never had a bite victim {NormalD}in the group before.
+235)  
+He's going to turn.
+236)  KATJAA
+{NormalB}I'm going to monitor him {AngryA}and focus on the wound and {SadA}see if his condition changes.
+237)  LEE
+{SadB}He's going to turn.
+238)  LEE
+{AngryA}Katjaa...
+240)  KATJAA
+{SadA}What do we {FearA}really know? {AngryA}None of us have been bitten. {AngryB}We don't know {SadA}what the timeframe is {SadB}for a child. {AngryB}We know nothing.
+241)  KATJAA
+{AngryB}We don't know that.
+242)  
+Stop the RV!
+243)  KENNY
+{SadA}We don't think they just turn. {AngryA}That guy we dragged out of the woods {NormalC}had to full-on {DisgustA}die.
+244)  LEE
+{AngryB}Stop the RV, now. {FearB}What if he turns?!
+245)  KATJAA
+{NormalC}I don't see any signs of that. {AngryA}He is tired. {NormalB}His breathing is fine.
+248)  KATJAA
+{NormalA}We know it's shocking. {DisgustA}Please try and keep {SadA}Ben and Clementine calm.
+249)  KATJAA
+[snaps] {AngryB}What else is there {AngryC}to do?! {DisgustA}We thought you should know.
+250)  LEE
+{FearC}Guys...
+251)  KENNY
+{SadA}Important to stay honest {SadB}with each other.
+252)  KENNY
+{DisgustA}Not that you've ever afforded {AngryC}us {AngryB}that type o' luxury.
+253)  KATJAA
+There's nothing more to say right now.
+254)  KENNY
+We'd like some space.
+255)  CLEMENTINE
+I don't feel good.
+256)  CLEMENTINE
+{SadC}Huh?
+257)  LEE
+{SadA}He got bit by a walker {ThinkingB}trying to escape the motel.
+258)  LEE
+{NormalD}Duck is bitten.
+259)  CLEMENTINE
+[a small little sleep yawn]
+260)  LEE
+[zombie struggle] {FearC}Clem! {FearD}FUCK!
+261)  CLEMENTINE
+[zombie noises]
+520)  CLEMENTINE
+[zombie noises]
+521)  CLEMENTINE
+[zombie noises]
+262)  LEE
+[zombie struggle] {FearC}What happened?!? HOLY SHIT!!!
+263)  LEE
+[zombie struggle] {SadC}GET OFF OF ME!
+264)  
+I miss my parents.
+265)  LEE
+{NormalA}My mom played the tuba.
+266)  CLEMENTINE
+{SadB}Me, too.
+267)  CLEMENTINE
+{HappyA}Really?
+268)  LEE
+{HappyA}She was a really small lady. {ThinkingB}It was strange.
+269)  LEE
+{NormalC}I miss my parents.
+270)  LEE
+{SadA}I know.
+271)  
+This one time...
+302)  
+This one time...
+272)  CLEMENTINE
+{SadC}What happened? [tired]
+273)  LEE
+{HappyA}This one time {NormalD}my brother thought it would be {AngryA}funny to {NormalC}fill her tuba {HappyA}full of flour on April Fool's day.
+274)  LEE
+{HappyB}Yeah. {NormalD}I don't know why I remembered that.
+275)  LEE
+{HappyC}Just about what you'd expect.
+276)  CLEMENTINE
+[a really small laugh] {HappyB}That's funny.
+277)  LEE
+{NormalA}And that same day {HappyA}she thought it'd be funny to wake me up for school by {HappyB}playing it right in my face.
+278)  
+Never mind.
+308)  
+Never mind.
+279)  CLEMENTINE
+{ThinkingB}Okay. {NormalA}It doesn't sound that bad.
+310)  CLEMENTINE
+{ThinkingB}Okay. {NormalA}It doesn't sound that bad.
+280)  LEE
+[sleepy] {ThinkingA}It's not.
+311)  LEE
+[sleepy] {ThinkingA}It's not.
+281)  LEE
+{NormalB}Anyway. {NormalD}Let's...{ThinkingA}let's try not to worry about Duck too much yet.
+309)  LEE
+{NormalB}Anyway. {NormalD}Let's...{ThinkingA}let's try not to worry about Duck too much yet.
+282)  
+I'm glad I have you.
+283)  CLEMENTINE
+{SadC}I heard you outside my treehouse that day {SadB}and thought about {ThinkingA}dropping a hammer on your head.
+284)  CLEMENTINE
+{HappyA}Me, too.
+285)  LEE
+{HappyC}I'm glad I have you.
+286)  
+What? Why?
+287)  LEE
+{HappyA}The door was open.
+288)  CLEMENTINE
+{HappyA}He was dumb.
+289)  CLEMENTINE
+{ThinkingA}He wanted to take the TV and {NormalB}tried to break the glass door with a rock.
+290)  CLEMENTINE
+{FearB}In case you were up to no good.
+291)  LEE
+{ThinkingB}What? {HappyB}Why?
+292)  CLEMENTINE
+{NormalC}Then some walkers came {ThinkingB}and scared him away.
+293)  CLEMENTINE
+Before you there was this other guy. He was yelling and trying to get into my house.
+294)  
+Hmm. That's nice.
+295)  CLEMENTINE
+{HappyA}I didn't though.
+296)  LEE
+{ThinkingB}Hmm. {DisgustB}That's nice.
+297)  LEE
+{AngryA}Thanks.
+298)  
+My brother almost died, once.
+299)  LEE
+{HappyA}Oh yeah. {NormalD}It was scary though.
+300)  CLEMENTINE
+{FearA}But he lived?
+301)  LEE
+{NormalC}My brother almost died, once.
+303)  LEE
+{HappyC}He teaches all three of 'em a lesson. {ThinkingB}But the truck's still moving, you see, and {NormalD}just as he stands up to {NormalC}jump out, {ThinkingA}it zooms underneath a tree and a {AngryA}branch hits him square in the face and he goes {NormalD}flying out the back.
+304)  LEE
+{NormalD}This one time, these {AngryA}boys from the other side of town were {DisgustB}hassling him.
+305)  LEE
+{AngryA}He was on his bike and {SadA}they were in a truck throwing things at him, {NormalD}calling him names; {ThinkingB}stuff like that.
+306)  LEE
+{HappyC}And this tough son of a gun, {HappyB}he peddles up after them and {NormalD}he catches them. {HappyA}He pulls his bike up alongside the truck {HappyB}and jumps into the back and {FearA}starts beating on 'em.
+307)  LEE
+{AngryA}Anyway, if he can live {HappyA}through that, {ThinkingA}I'm sure Duck {HappyA}can live through this.
+312)  LEE
+{ThinkingA}Yeah it is.
+313)  CLEMENTINE
+{SadC}Everything is bad right now.
+314)  BEN
+[hyperventilating] {SadD}Oh shit oh shit oh--
+315)  KATJAA
+[interrupting] {SadB}I'm fine, {FearA}I'm fine!
+316)  BEN
+[hyperventilating] {FearB}I'm sorry.
+317)  KENNY
+{FearB}KAT! Jesus, {FearC}are you okay?!
+318)  LILLY
+{AngryA}We just lost everything.
+319)  LILLY
+{AngryA}This is different.
+320)  LILLY
+{AngryE}Somebody in here caused this.
+321)  KENNY
+{AngryB}Settle down back there; {ThinkingA}the bandits {AngryA}have had our number {AngryB}for weeks!
+322)  KATJAA
+{DisgustA}I'm fine!
+325)  KATJAA
+{DisgustA}I'm fine!
+323)  DOUG
+{AngryA}But we have our health!
+324)  KENNY
+{AngryC}Kat's head is split open!
+326)  KENNY
+{AngryC}Kat's head is split open!
+327)  KENNY
+{ThinkingA}Well we're lucky as shit {SadA}to have this RV!
+328)  CARLEY
+[high energy] {ThinkingA}And nobody died.
+329)  LILLY
+{AngryE}Calm down. {AngryA}We need to figure out {NormalB}why this happened.
+330)  DOUG
+{FearA}Nobody died. {SadA}We're okay, right? {FearB}Katjaa, you're okay?
+331)  CARLEY
+{SadB}Everything's fine, Ben.
+332)  LILLY
+{AngryA}Everything's {AngryB}not fine. {ThinkingB}We need to figure out {AngryA}how this happened.
+333)  LILLY
+{NormalB}Lee found a bag of supplies {AngryE}hidden outside the wall!
+334)  LILLY
+[seething] {AngryE}Somebody was working with them. {AngryA}Whoever it was {ThinkingA}was slipping them our meds. {AngryA}They didn't get {AngryC}their last package, {AngryB}so they attacked.
+335)  KENNY
+{AngryB}Calm down back there! {DisgustA}That's nuts!
+336)  LEE
+{SadA}It's true.
+337)  LILLY
+{DisgustA}LOGICALLY? {AngryA}The new guy who could have {AngryB}EASILY been a plant? {AngryE}I think that's pretty LOGICAL, {ThinkingA}DOUG.
+338)  LILLY
+{AngryE}So, {AngryA}Ben. {AngryB}I think we need to talk.
+339)  BEN
+{FearA}Whoa, {FearC}WHAT!?
+340)  DOUG
+{FearA}Uh, Lilly, {FearB}let's think about this logically, {FearA}no?
+341)  BEN
+{FearB}You think I'd do anything to hurt you guys?
+342)  DOUG
+{ThinkingA}Lilly, come on.
+343)  LILLY
+{AngryA}Don't play {AngryB}dumb. {ThinkingB}Were you hoping they'd eventually {AngryB}kill us all {AngryE}and you could {AngryC}join them?
+344)  BEN
+[desperate] You guys are like my family!
+345)  KENNY
+{DisgustA}Chill out back there.
+346)  BEN
+[pleading] Lee, please.
+347)  DOUG
+{FearB}I know I don't get wrapped in the politics around here, {FearA}but we really need to think {AngryA}before we start {FearB}stringing somebody up!
+348)  LILLY
+{ThinkingA}Doug, {AngryE}I appreciate your concern {ThinkingB}but we have all the evidence we need.
+349)  KENNY
+{ThinkingA}Signaling system?!
+350)  KENNY
+[from up front] {AngryA}You have evidence?
+351)  LILLY
+{DisgustA}No. Not {ThinkingA}HERE, {AngryB}but Lee found the meds, {ThinkingA}we found an entire SIGNALING system, {FearA}CHALK--
+352)  LILLY
+{DisgustA}I know it sounds crazy.
+353)  BEN
+{SadE}Just let me out of the car! {AngryB}I'll go! {SadB}I didn't do it, but I'll {AngryB}GO!
+378)  BEN
+{SadE}Just let me out of the car! {AngryB}I'll go! {SadB}I didn't do it, but I'll {AngryB}GO!
+354)  BEN
+{FearA}It {SadE}IS crazy!
+355)  DOUG
+{ThinkingA}Lilly, {FearA}look at him.
+356)  LILLY
+{AngryE}Good, {AngryA}that sounds {AngryB}great.
+357)  BEN
+{FearB}I--
+358)  KENNY
+[energetic] {AngryA}I hit something, {DisgustA}we gotta stop!
+414)  KENNY
+[energetic] {AngryA}I hit something, {DisgustA}we gotta stop!
+359)  KENNY
+[energetic]{SurprisedA}SHIT!
+424)  KENNY
+[energetic]{SurprisedA}SHIT!
+360)  KENNY
+[energetic] {HappyA}Should be.
+429)  KENNY
+[energetic] {HappyA}Should be.
+361)  LILLY
+{AngryE}All right, well, {AngryC}we can deal with this now, then.
+423)  LILLY
+{AngryE}All right, well, {AngryC}we can deal with this now, then.
+362)  LILLY
+{AngryB}Everybody out.
+415)  LILLY
+{AngryB}Everybody out.
+363)  LILLY
+{AngryE}Look me in the eyes and {AngryB}tell me you didn't.
+364)  LILLY
+[energetic]{FearB}What's going on up there?
+427)  LILLY
+[energetic]{FearB}What's going on up there?
+365)  LILLY
+{AngryD}Out.
+419)  LILLY
+{AngryD}Out.
+366)  LEE
+[energetic]Kenny, is it safe?
+425)  LEE
+[energetic]Kenny, is it safe?
+367)  LEE
+{AngryA}Lilly...
+416)  LEE
+{AngryA}Lilly...
+368)  BEN
+{SadB}I... {SadD}fuck... {SadC}Jesus, {SadE}I didn't.
+369)  
+We need to act NOW.
+370)  LEE
+{SadA}Guys, {AngryA}we have to act {AngryB}NOW. {NormalD}I know it {SadA}sounds nuts, {ThinkingA}but we have {DisgustB}a traitor here. {ThinkingB}Do you guys{DisgustA} get that? {AngryA}Someone who puts their {AngryB}insidious shit {AngryC}above everyone else.
+435)  LEE
+{SadA}Guys, {AngryA}we have to act {AngryB}NOW. {NormalD}I know it {SadA}sounds nuts, {ThinkingA}but we have {DisgustB}a traitor here. {ThinkingB}Do you guys{DisgustA} get that? {AngryA}Someone who puts their {AngryB}insidious shit {AngryC}above everyone else.
+371)  LILLY
+{AngryE}Thank you, Lee.
+436)  LILLY
+{AngryE}Thank you, Lee.
+372)  
+Doug's right.
+373)  LEE
+{AngryA}Doug's right. {SadA}Let's just get on{NormalC} down the road. {ThinkingA}We can {ThinkingB}talk this out {DisgustB}like adults.
+374)  LILLY
+{SadB}Why give someone who almost killed us {AngryB}the opportunity? Lee, {AngryD}you know what we found.
+375)  
+Let's just let it go.
+437)  
+Let's just let it go.
+376)  LILLY
+{AngryC}Then what do we {AngryE}NOT forgive? {AngryC}Honestly, tell me. {AngryB}Kenny can kill my dad; {ThinkingA}Ben can steal from us? {AngryC}Where's the line?
+377)  LEE
+{AngryA}Let's just {SadA}let it go. {SadB}People make mistakes and {AngryA}yeah, this is {AngryC}a fucking doozy, {DisgustA}but it's not worth it, {DisgustB}Lilly.
+438)  LEE
+{AngryA}Let's just {SadA}let it go. {SadB}People make mistakes and {AngryA}yeah, this is {AngryC}a fucking doozy, {DisgustA}but it's not worth it, {DisgustB}Lilly.
+379)  
+Ben's a good guy.
+380)  BEN
+{SadE}I didn't do it. {SadC}Really, honest!
+393)  BEN
+{SadE}I didn't do it. {SadC}Really, honest!
+381)  LEE
+[pickup2] [new read: Emphasis is 'good guy' rather than 'GOOD guy.' Also, Lee would sound more urgent, he's currently sounding very casual.] {NormalD}Ben's {AngryA}a good guy.
+382)  LILLY
+{ThinkingA}Well then who? {AngryE}Being a "good guy" is enough to {ThinkingB}clear your name on this?
+383)  DOUG
+{FearA}Totally.
+384)  
+Why Ben?
+385)  LEE
+{ThinkingB}Why Ben? {DisgustB}What makes you think {NormalD}it was him?
+386)  LILLY
+{AngryE}So you're saying you did it?
+387)  BEN
+{SadE}Nobody did anything!
+388)  LILLY
+{AngryA}He's always {AngryE}SO eager to see what supplies we found. {NormalB}He came into this crew {ThinkingA}a stranger from the woods. {AngryB}It's pretty cut and dry to me.
+389)  DOUG
+{AngryA}I came into this crew as a stranger.
+390)  
+No one's at fault.
+391)  LEE
+{HappyC}No one's at fault. {ThinkingA}No one is {DisgustA}selling us out.
+392)  LILLY
+{AngryA}Somebody did this, Lee.
+394)  LILLY
+{AngryA}Then how do you explain {AngryE}what you found?
+395)  LEE
+{ThinkingB}I don't know.
+396)  CARLEY
+{AngryC}Back off.
+397)  LILLY
+{AngryA}We have to get it {AngryE}out of you then?
+398)  CARLEY
+{AngryC}Please.
+399)  LILLY
+{DisgustA}You're in no position{AngryA} to make demands.
+400)  LILLY
+{ThinkingB}So, Carley, {AngryE}is there something you want to say?
+401)  KENNY
+{AngryA}Probably not the best time, Lilly!
+402)  CARLEY
+{ThinkingA}Whoa, whoa, whoa {AngryB}you're just pointing fingers.
+403)  LILLY
+{AngryA}If not now, {AngryB}when?{AngryD} Look at what just happened!
+404)  LILLY
+{AngryA}I didn't just come up with this, {ThinkingA}I've had my suspicions.
+405)  BEN
+{SadE}We're all okay now, though.
+406)  LILLY
+{AngryE}You and I {AngryA}have very different definitions {AngryB}of "okay."
+407)  BEN
+{DisgustA}Like, {SadE}look, {ThinkingA}maybe we should, uh, {FearB}vote or something like that.
+408)  BEN
+{FearA}Yeah, {SadE}let's do that.
+409)  CARLEY
+{AngryB}Okay?
+410)  LILLY
+{FearB}Vote? {AngryC}What?
+411)  CARLEY
+{AngryC}We need to look at the facts. {DisgustA}Let's calm down, {AngryA}we'll eat and {ThinkingA}we'll deal with it.
+412)  BEN
+{SadB}Just, look, {SadE}Carley's a stand-up gal and {SadD}maybe this was all just a mistake.
+413)  BEN
+{SadE}Nobody was stealing {FearC}ANYTHING!
+440)  BEN
+{SadE}Nobody was stealing {FearC}ANYTHING!
+417)  LILLY
+{AngryB}I've seen you two together. {AngryA}Was it {AngryC}both of you?
+418)  BEN
+{FearB}I --
+420)  BEN
+{FearC}WHAT?!
+421)  LILLY
+{AngryA}Look me in the eyes and tell me you didn't have {AngryB}anything to do with it.
+422)  BEN
+{SadE}Look, {SadB}just let me out. {FearB}I didn't do it, {SadD}but I don't like this; {SadB}I don't like where it's headed.
+426)  CARLEY
+{AngryA}Lilly, {ThinkingA}lay off of him.
+428)  LILLY
+{AngryE}Was it both of you?
+430)  
+Stop waving your finger around, Lilly.
+431)  LEE
+{AngryA}I know, Lilly. {ThinkingB}I know.
+432)  LILLY
+[almost upset, tears] {ThinkingA}I know what {AngryB}we found.
+433)  LEE
+{NormalD}Lilly, {DisgustB}stop waving the finger {DisgustA}at everybody. We know something's going on {AngryC}and we can get to the bottom of it {DisgustB}if we keep our heads.
+434)  
+You're right. Deal with this now.
+439)  LILLY
+{AngryB}Then what do we {AngryC}NOT forgive? {SadB}Honestly, tell me. {ThinkingA}Kenny can kill my dad; {SadB}Carley can {SadC}steal from us? {DisgustA}Where's the line?
+441)  
+Carley's trustworthy.
+442)  LEE
+{ThinkingB}Carley's trustworthy. {AngryA}She's not a {DisgustA}traitor, Lilly.
+443)  CARLEY
+{ThinkingA}Thank you, Lee.
+444)  CARLEY
+{AngryB}Don't be ridiculous.
+445)  LILLY
+{AngryA}She can fight her own battles. {DisgustB}Unless there's something going on here {ThinkingB}that implicates you both.
+446)  
+Why her?
+447)  CARLEY
+{FearB}Whoa, {AngryD}my family's {AngryC}not a bunch of meth-riddled {DisgustA}forest people. {AngryD}They're fucking Lutheran!
+448)  CARLEY
+{AngryC}It wasn't ME.
+449)  LILLY
+{AngryE}She's always {AngryB}SO eager to see {ThinkingB}what supplies we found. {AngryE}She never talks about her family. {AngryA}She could be {AngryB}related to those bastards for all we know.
+450)  LEE
+{ThinkingB}Why her? {AngryA}This seems like {DisgustB}a stab in the dark, Lilly.
+451)  LILLY
+{ThinkingA}You're not saying it wasn't you.
+452)  
+Maybe it was her.
+453)  LEE
+{ThinkingB}Maybe it was her.
+454)  CARLEY
+{FearB}Lee. Come on. {AngryA}I don't have anything to hide.
+455)  CARLEY
+YES.
+456)  LILLY
+{DisgustB}Are you saying someone does?
+457)  LEE
+{AngryA}I don't have shit to hide {AngryC}and you know it.
+458)  LEE
+{AngryA}I said {AngryB}MAYBE it was you.
+459)  KATJAA
+{HappyA}He might be fine.
+460)  CLEMENTINE
+{SadC}Before you {NormalC}there was this other guy. {NormalB}He was yelling and {SadB}trying to get into my house.
+461)  CLEMENTINE
+[pickup2] [small, empty inside. after watching a bunch of horrific shit]What about Doug?
+462)  CLEMENTINE
+[pickup2] [small, empty inside. after watching a bunch of horrific shit]What about Carley?
+463)  
+There was no time for a burial.
+464)  
+Gone. But won't come back.
+465)  
+There's nothing to say.
+466)  LEE
+[pickup2] Yeah. Horrible.
+467)  CLEMENTINE
+[pickup2] Walkers?
+468)  LEE
+[pickup2] There was no time for a burial.
+469)  LEE
+[pickup2] Gone. But won't come back.
+470)  CLEMENTINE
+[pickup2] Yeah, it is.
+471)  LEE
+[pickup2] That's right. It's horrible.
+472)  CLEMENTINE
+[pickup2] Because he was shot in the head.
+473)  CLEMENTINE
+[pickup2] Because she was shot in the head.
+474)  CLEMENTINE
+[pickup2] I'm sorry...if I...
+475)  LEE
+[pickup2] No. You don't apologize; you had nothing to do with it, sweet pea.
+476)  LEE
+[pickup2] There's nothing to say. It's horrible.
+477)  CLEMENTINE
+[pickup2] [small] I really don't feel good.
+478)  BEN
+[pickup2] We don't need all these VOTES! What do I have to do for you to TRUST me? I'll do ANYTHING!
+499)  BEN
+[pickup2] We don't need all these VOTES! What do I have to do for you to TRUST me? I'll do ANYTHING!
+479)  BEN
+[pickup2] I'll get more food, more medicine, anything, just--
+504)  BEN
+[pickup2] I'll get more food, more medicine, anything, just--
+480)  LILLY
+[pickup2] You're pathetic. Look at you.
+501)  LILLY
+[pickup2] You're pathetic. Look at you.
+481)  BEN
+[pickup2] JUST LET ME STAY PLEASE! GOD PLEASE.
+503)  BEN
+[pickup2] JUST LET ME STAY PLEASE! GOD PLEASE.
+482)  LILLY
+[pickup2][rv argument] Ha the HELL you will.
+502)  LILLY
+[pickup2][rv argument] Ha the HELL you will.
+483)  LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+493)  LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+500)  LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+516)  LILLY
+[pickup2][projecting] Kenny! What's it going to be?
+484)  BEN
+[pickup2] I'll do watches for months!
+506)  BEN
+[pickup2] I'll do watches for months!
+485)  LILLY
+[pickup2] You think any of that is good now?!
+505)  LILLY
+[pickup2] You think any of that is good now?!
+486)  
+Stop panicking.
+507)  
+Stop panicking.
+487)  
+You're making it worse on yourself.
+509)  
+You're making it worse on yourself.
+488)  
+He's broken, Lilly.
+513)  
+He's broken, Lilly.
+489)  DOUG
+[pickup2] Evidence or not this isn't any way to treat one of US.
+490)  LILLY
+[pickup2] I've heard enough out of you, okay, Doug?
+491)  LEE
+[pickup2]Stop panicking. Seriously Ben, you need to stop and just take a breath.
+508)  LEE
+[pickup2]Stop panicking. Seriously Ben, you need to stop and just take a breath.
+492)  LILLY
+[pickup2] Do we need any more evidence than this?!
+517)  LILLY
+[pickup2] Do we need any more evidence than this?!
+494)  LILLY
+[pickup2] You should've thought of that.
+510)  LILLY
+[pickup2] You should've thought of that.
+495)  BEN
+[pickup2] I just don't want to be on my own!
+511)  BEN
+[pickup2] I just don't want to be on my own!
+496)  LEE
+[pickup2] You're making it worse on yourself.
+512)  LEE
+[pickup2] You're making it worse on yourself.
+497)  LILLY
+[pickup2] I can see that.
+514)  LILLY
+[pickup2] I can see that.
+498)  LEE
+[pickup2] He's broken, Lilly.
+515)  LEE
+[pickup2] He's broken, Lilly.
+518)  CARLEY
+[pickup2] Fuck EVIDENCE. Stop treating him like this.
+519)  LILLY
+[pickup2] Shut up, Carley -- I've heard enough out of you.

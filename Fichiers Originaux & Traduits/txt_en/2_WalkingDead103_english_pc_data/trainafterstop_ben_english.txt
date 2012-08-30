@@ -1,0 +1,135 @@
+2)  
+Carley didn't have to die.
+3)  
+Doug saved your life.
+4)  
+Anything ELSE you need to say?
+5)  
+Aren't many of us left.
+6)  LEE
+{thinkingA}What are you doing out here?
+7)  LEE
+{thinkingB}Anything else?
+8)  BEN
+{fearA}I guess not.
+9)  BEN
+{fearA}I, uh, couldn't be back there anymore. {sadB}I needed some air.
+10)  BEN
+{sadC}I was thinking about talking to Kenny...
+11)  BEN
+{sadA}Yeah... {thinkingA}you, me and Kenny. Clementine. {fearB}The homeless dude, if he sticks around.
+12)  LEE
+{sadA}Aren't many of us left.
+13)  
+We're all homeless.
+14)  
+I don't know if we can count on Kenny.
+15)  
+You going to be able to step up?
+16)  BEN
+{sadA}Yeah... I guess not.
+17)  LEE
+{sadB}There's not much use in describing people by who they were.
+18)  LEE
+{sadA}We're all homeless.
+19)  BEN
+{disgustA}You know what I mean.
+20)  LEE
+{sadC}We just don't know.
+21)  LEE
+{thinkingA}Why didn't you try to find them?
+22)  BEN
+{thinkingA}I guess.
+23)  LEE
+{angryA}Well, what happened to Kenny is different.
+24)  BEN
+[pickup 2] [new read:Emphasis is off. Should be 'nobody would GO with me' not 'nobody would go WITH 
+me.']{fearA}I...{fearB}nobody would go with me. {sadB}It was a while ago.
+25)  BEN
+{thinkingA}He's driving the train okay.
+26)  LEE
+{sadB}I don't know if we can count on Kenny.
+27)  BEN
+{sadA}I lost everybody I've known 'cause of this. {sadB}I didn't even get back to my house. {sadC}Who knows what's up with my parents.
+28)  LEE
+{thinkingB}Are you going to be able to step up?
+29)  LEE
+[a little firm] {angryA}Good. I hope that's true.
+30)  BEN
+{thinkingA}I can do just as much as anyone else.
+31)  BEN
+{sadA}...I wish it was more than that. {fearA}Just us guys and Clementine. {sadB}It's not great.
+32)  BEN
+{sadA}Yeah.
+33)  LEE
+{thinkingA}See ya.
+34)  LEE
+{thinkingA}Hey, Ben.
+35)  BEN
+{fearA}Hey.
+36)  LEE
+{angryA}You got anything else you want to say?
+37)  BEN
+{sadB}...No.
+38)  LEE
+{angryB}Good. You can never tell Kenny, you understand?
+39)  BEN
+{fearB}But--
+40)  LEE
+{angryC}Do NOT. You don't sell us out to the bandits, they never attack, Duck never gets bitten. He'll kill you.
+41)  BEN
+{sadC}I just... I want him to know --
+42)  LEE
+{angryB}Bullshit. You want to feel better.
+43)  LEE
+[pickup2] {angryB}Doug saved your life, you know.
+44)  LEE
+[pickup2][cont] {sadB}Even if Clementine was the one he was actually worried about.
+45)  BEN
+[pickup2] [distraught]{sadC} I know, I know... {sadD}I don't know if I can go on like this, man.
+46)  LEE
+[pickup2] {angryA}Well, you're gonna. That's just the way it is.
+47)  LEE
+[pickup2] {angryB}Carley didn't have to die, you know.
+48)  BEN
+[pickup2] {fearB}She would've killed me instead.
+49)  LEE
+[pickup2] [heavy] {sadB}Yeah, maybe.
+50)  BEN
+[pickup2]{fearA} ...You still want to talk to me?
+51)  
+Not really.
+52)  
+Not much choice.
+53)  
+Yeah.
+54)  LEE
+[pickup2] [cold and dissmissive, do you still want to talk to me after i got everyone killed?] {angryA}Not really.
+55)  BEN
+[pickup2][sad] {sadC}I didn't think so.
+56)  LEE
+[pickup2]{angryA}I don't have a lot of choice, unless you're going somewhere.
+57)  BEN
+[pickup2]{fearA}I...I guess I'm not. [are you going anywhere? like, are you leaving the group since you fucked up so bad?]
+58)  LEE
+[pickup2] {angryA}Yeah, I do. [want to talk to you, even though ben doesnt think you would want to]
+59)  BEN
+[pickup2] {sadC}I'm real sorry.
+60)  LEE
+[pickup2] {sadB}Let's drop it for now, okay?
+61)  BEN
+[pickup2] [maybe change to this?] Just thinking about talking to Kenny...
+62)  
+What are you doing out here?
+63)  
+I'm serious about keeping your shit to yourself.
+64)  LEE
+[pickup2] {angryB}I'm dead serious about you keeping your mistakes to yourself.
+65)  BEN
+[pickup2] {sadB}I can tell. [being reprimanded]
+66)  LEE
+[pickup2]{angryA} You get why, right?
+67)  BEN
+[pickup2] {sadC}I guess.[small]
+68)  LEE
+[pickup2] {angryB}You better.

@@ -1,0 +1,190 @@
+1)  
+I need to tell you something.
+2)  LEE
+{normalC}Clem, {normalA}I need to talk to you for a second.
+3)  CLEMENTINE
+{normalA}Okey dokey.
+4)  
+I was going to prison the day I met you.
+5)  
+You should know I killed someone once.
+6)  
+Nevermind.
+7)  LEE
+{normalB}The day you and I met, I was in a car accident.
+8)  CLEMENTINE
+{normalA}I remember, {sadA}your leg was bleeding.
+9)  LEE
+{sadA}The car I was in was a police car and I was on my way to jail for committing a crime.
+10)  LEE
+{normalB}I need to tell you now {sadA} 'cause I don't want you to hear it any other way.
+11)  CLEMENTINE
+{sadA}Okay.
+12)  LEE
+{normalA}Do you have anything to say?
+13)  CLEMENTINE
+{sada}I don't think so.
+14)  LEE
+{normalB}You can go on back to your things.
+15)  LEE
+{sadA}Before I met you and before the plague I killed somebody.
+16)  CLEMENTINE
+{surprisedA}Oh. {sadA}So that's what...
+17)  LEE
+{normalD}Yeah, that's it.
+18)  LEE
+{sadA}It was a bad thing and there's no explaining it.
+19)  CLEMENTINE
+{sadA}Why are you telling me?
+20)  LEE
+{normalb}Because I didn't want to keep it to myself any more.
+21)  LEE
+{normalD}Do you have any questions?
+22)  LEE
+{normalD}You can go on back to your things.
+23)  LEE
+{thinkingA}Never mind, actually.
+24)  CLEMENTINE
+{fearA}Am I in trouble?
+25)  LEE
+{fearA}No, sweet pea.
+26)  CLEMENTINE
+{normalA}Okay. I'm going back to my chalk before Duck breaks more of it.
+29)  CLEMENTINE
+{normalA}Okay. I'm going back to my chalk before Duck breaks more of it.
+27)  CLEMENTINE
+{fearA}Lee?
+28)  CLEMENTINE
+{thinkingA}You said you wanted to say something...
+30)  CLEMENTINE
+{happyA}Hey, Lee.
+87)  CLEMENTINE
+{happyA}Hey, Lee.
+89)  CLEMENTINE
+{happyA}Hey, Lee.
+91)  CLEMENTINE
+{happyA}Hey, Lee.
+93)  CLEMENTINE
+{happyA}Hey, Lee.
+95)  CLEMENTINE
+{happyA}Hey, Lee.
+31)  LEE
+{normalA}Hey, Clementine.
+86)  LEE
+{normalA}Hey, Clementine.
+88)  LEE
+{normalA}Hey, Clementine.
+90)  LEE
+{normalA}Hey, Clementine.
+92)  LEE
+{normalA}Hey, Clementine.
+94)  LEE
+{normalA}Hey, Clementine.
+32)  
+What do you think about Doug?
+33)  CLEMENTINE
+{normalD}I'm okay.
+34)  LEE
+{normalA}What do you think about Doug?
+35)  LEE
+{normalD}You?
+36)  CLEMENTINE
+{sadA}Everyone is.
+37)  LEE
+{normalD}Yeah.
+38)  LEE
+{thinkingB}Cool?
+39)  LEE
+{thinkingA}You don't think he seems down?
+40)  CLEMENTINE
+{happya}He knows things.
+41)  CLEMENTINE
+{normalA}He's cool.
+42)  CLEMENTINE
+{thinkingA}Like sad?
+43)  
+Do you have any pink chalk?
+44)  LEE
+{normalA}Do you have any pink chalk?
+45)  CLEMENTINE
+{thinkingb}[annoyed] No. {thinkingA}It's gone somewhere.
+46)  LEE
+{thinkingA}Hmm.
+47)  CLEMENTINE
+{normalB}Do you want blue?
+48)  LEE
+{normalA}No, no, it's okay.
+49)  
+Have you seen anything weird going on?
+50)  LEE
+{thinkingA}Have you seen anything strange going on?
+51)  CLEMENTINE
+{normalA}No, nothing then.
+52)  LEE
+{normalA}Okay.
+53)  LEE
+{normalB}I mean, other than everything that's happening out there.
+54)  
+You didn't break a flashlight, accidentally?
+55)  LEE
+{normalB}Like what?
+56)  CLEMENTINE
+{sadA}Putting a bug on his pillow.
+57)  CLEMENTINE
+{sadA}No, {thinkingB}did Duck say I did?
+58)  LEE
+{thinkingA}Did you do that?
+59)  LEE
+{normalA}No. {thinkingA}Did Duck break the flashlight?
+60)  CLEMENTINE
+{thinkingA}I don't think so. He's just always blaming me for stuff.
+61)  LEE
+{normalC}You didn't accidentally break a flashlight, did you?
+62)  CLEMENTINE
+[shy/embarassed] {sadA}Yes.
+64)  CLEMENTINE
+{thinkingA}I don't LIKE it here.
+65)  CLEMENTINE
+{fearA}I don't know. {thinkingA}Maybe if I knew where.
+66)  CLEMENTINE
+{normalA}Where are we going?
+67)  LEE
+{normalD}Do you like it here?
+68)  LEE
+{thinkingA}Do you want to leave?
+69)  LEE
+{normalA}Somewhere else.
+70)  LEE
+{normalD}Yeah, that'd be a good thing to know.
+71)  CLEMENTINE
+{happyA}Okay.
+72)  LEE
+{normalA}I'll talk to you later, Clem.
+73)  LEE
+{normalA}How's the drawing?
+74)  CLEMENTINE
+{happyA}Good.
+75)  
+Do you like it here?
+76)  
+Whatcha doin' there?
+77)  LEE
+[pickup2]What's that you're working on, Clem?
+78)  CLEMENTINE
+[pickup2]It's called a leaf rubbing. My teacher Miss Moore showed us how to
+do ‘em when we went to the Botanical Garden once.
+79)  CLEMENTINE
+[pickup2][holds up a half-completed rubbing in one hand and the leaf in the
+other] See? It's the same! Uhm, kind of.
+80)  LEE
+[pickup2][smiles and chuckles] [pickup2]That's really something.
+81)  CLEMENTINE
+[beams] I'll make one for you, too!
+82)  
+Talk To
+83)  
+Show Bag to
+84)  
+Ask About Chalk
+85)  
+Show Flashlight To

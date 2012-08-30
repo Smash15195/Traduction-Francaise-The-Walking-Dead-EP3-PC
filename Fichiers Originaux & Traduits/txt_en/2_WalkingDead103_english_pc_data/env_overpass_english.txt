@@ -1,0 +1,880 @@
+1)  KENNY
+[yelling up. presumably to god] {angryD}FUUUUCK YOUUUUU.
+2)  BEN
+[small] Maybe we could walk?
+3)  KENNY
+[head in his hands] {angryA}That's fucking stupid, Ben.
+4)  BEN
+I'm just sayin...
+5)  CHUCK
+Hmm. I dunno; I ain't got much experience with yall's fortitude but we could probably deal with that. We got a goddamn train.
+6)  KENNY
+{angryB}That thing's not full of milk, Charles. {thinkingA}That's gas or diesel; something that's going to explode.
+7)  CHUCK
+YOU gotta get ahold of yourself. This is a crew here.
+8)  KENNY
+{disgustA}This ain't shit.
+9)  CHUCK
+This--
+10)  OMID
+Yo, you keep screaming like that and you're gonna get your face chewed off.
+11)  CHRISTA
+[pickup 2] [new read: - Second sentence is a little dry and quiet; she's yelling down to those guys, trying to sound intimidating.] Are you guys going to be trouble? Because we could've just kept walking.
+12)  
+No, we're friendly.
+13)  
+Could be. Who are you?
+14)  
+Define "trouble."
+15)  LEE
+{happyB}No, we're friendly. [hushed] Put your hand down, Ken.
+16)  CHRISTA
+That's what everybody says.
+17)  LEE
+{normalD}We know.
+18)  LEE
+{angryA}Could be. Who are you?
+19)  CHRISTA
+Two people who have a strategic position on you.
+20)  OMID
+Come on, hon.
+21)  LEE
+{thinkingA}Define "trouble."
+22)  CHRISTA
+Anything that gets you killed or worse and it tends to come hand in hand with groups of guys in distress.
+23)  CHRISTA
+Did you not hear me?
+24)  KENNY
+{disgustA}We heard you.
+25)  CHUCK
+We're not bad folks.
+26)  OMID
+[quiet, to someone right next to him] Let's give these guys a break.
+27)  CHRISTA
+[quiet to someone right next to you]We'll see.
+28)  OMID
+You guys got a problem with your train?
+29)  KENNY
+{disgustA}Yeah, you're standing right in front of it.
+30)  OMID
+Dude, it's a wreck. It's not so bad from up here.
+31)  OMID
+Send your buddy up to have a look.
+32)  KENNY
+{thinkingA}Anything goes sideways up there, we won't let them escape.
+33)  OMID
+[intimate talk] {happyB}A group of guys is what we need.
+34)  CHRISTA
+[intimate talk] {angryA}They're what you think we need. We're doing fine.
+35)  OMID
+[intimate talk] {thinking}For now. {sadA}What about when?
+36)  OMID
+[gathering himself] {happyA}Hey dude, I'm Omid.
+37)  LEE
+{happyA}Lee.
+38)  CHRISTA
+{angryA}Christa. What's the deal with the train?
+39)  LEE
+{happyA}We're driving it.
+40)  OMID
+{happyB}OH, MAN.
+41)  
+We could use some good people.
+42)  
+It's been a bad day.
+43)  
+We're not in the mood for new people.
+44)  LEE
+{normalD}Look, you want to help us out? We could use some able bodies and... yeah, {sadB}we really need some help.
+45)  CHRISTA
+{angryA}What's in it--
+46)  OMID
+[seeing something] {surpriseA}Oh, shit!
+47)  LEE
+{sadA}I'm not going to bullshit you. {thinkingA}Our group is a little fucked right now. We had a bite victim and then his mom took her life and before that, just... [sigh].
+48)  CHRISTA
+[sincere]{sadB}It's okay.
+49)  LEE
+{normalC}We're not really in the meetin' and greetin' mood. {thinkingA}I just came up here to see about the tanker.
+50)  CHRISTA
+{thinkingA}Well, there it is.
+51)  CHRISTA
+{thinkingA}That thing does look safe.
+52)  OMID
+{happyB}And it runs!
+53)  CHRISTA
+{angryA}I suppose we should--
+54)  OMID
+[enthusiastic] {happyD}Goddamn, you guys have a kid!
+55)  LEE
+{thinkingB}What are you doing up here?
+56)  OMID
+{happyC}Do you know how long it's been since I've seen a kid? Shit! {happyA}What's your name?
+57)  CLEMENTINE
+{happyB}Clementine.
+58)  LEE
+[to clementine] {happyA}Oh, so he gets to swear?
+59)  OMID
+{happyC}Well, this is great. [to his girlfriend] {happyD}See, things are looking up.
+60)  CHRISTA
+{thinkingA}Hmm. What's your story?
+61)  
+I found her. I was on my way to jail, day one.
+62)  
+I've been with her since this all started.
+63)  
+We've just been trying to get by.
+64)  LEE
+{thinkingA}I came across Clementine alone the first day all of this happened.
+72)  LEE
+{thinkingA}I came across Clementine alone the first day all of this happened.
+65)  LEE
+{thinkingB}I was actually incarcerated.
+66)  OMID
+{happyA}Sick, do you have any prison tats?
+67)  LEE
+{normalD}I didn't make it that far.
+68)  LEE
+{happyA}It's that obvious?
+69)  LEE
+{thinkingA}And no, he's not down there.
+70)  CHRISTA
+{angryA}You're not her dad. He down there?
+71)  CHRISTA
+{angryB}To me.
+73)  LEE
+{happyA}We've been together ever since.
+74)  LEE
+{thinkingA}We've just been trying to get by, together. Maybe find her parents.
+75)  CHRISTA
+{happyB}Hey. I'm Christa.
+76)  CLEMENTINE
+{happyB}Hi.
+77)  CHRISTA
+{happyA}Does he not answer questions a lot?
+78)  CLEMENTINE
+{normalC}Sometimes.
+79)  CHRISTA
+{normalB}Should we help you guys out?
+80)  CLEMENTINE
+{fearA}Yes, please.
+81)  CHRISTA
+{happyA}Okay then.
+82)  CHRISTA
+{angryA}And everybody down there, they're cool?
+83)  
+Kenny lost his wife and kid.
+84)  
+Ben is young and stupid.
+85)  
+We just met Chuck.
+86)  LEE
+{thinkingA}What time is it?
+87)  OMID
+{fearB}Man. {fearB}How long ago.
+88)  LEE
+{thinkingB}Maybe two hours ago.
+89)  LEE
+{sadA}Kenny lost his wife and kid.
+90)  CHRISTA
+{sadB}Goddamn...
+91)  OMID
+No sweat.
+92)  LEE
+{thinkingA}I know, we just have to keep an eye on him.
+93)  LEE
+{sadA}It's been rough for everybody down there. {thinkingA}I'm sure you can say the same.
+94)  CHRISTA
+{angryA}The first two things you said don't really go with the third.
+95)  LEE
+{thinkingA}Ben is young and stupid and,{happyA} I think, harmless.
+96)  LEE
+{thinkingA}We just met Chuck, {happyA}but he seems like an all right guy.
+97)  LEE
+{normalD}That must've been a long time ago.
+98)  CHRISTA
+{angryA}You always have to worry about new people.
+99)  OMID
+{thinking}Used to love meeting new people.
+100)  CLEMENTINE
+{happyB}They are.
+101)  CHRISTA
+{happyA}Good.
+102)  OMID
+{fearA}We're sorry for anything that's happened to you guys.
+103)  OMID
+{happyB}That train is awesome, though.
+104)  OMID
+{thinking}You can't just blast through it, I guess.
+105)  CHRISTA
+{angryA}That tank is your real problem. We'll help you with it, {angryB}but if we see anything we don't like, we're moving on down the road. Alone.
+106)  CHRISTA
+{thinkingA}If you could get it down, the rest would probably be pretty easy.
+107)  LEE
+{normalB}We'll start there.
+108)  CHRISTA
+{normalB}We'll come down and settle in, and see if we can help.
+109)  LEE
+{happyB}We'd appreciate the help.
+110)  OMID
+{thinking}I don't know. {sadA}Four?
+111)  LEE
+{happyA}Guys, this is Omid and Christa.
+112)  CHRISTA
+{angryA}So says the quiet conductor over here.
+113)  OMID
+{thinking}Not big on welcomes...
+114)  LEE
+{happyA}Like I said, we could use some good people.
+115)  LEE
+{sadA}Like I said, it's been a bit of a day.
+116)  LEE
+{thinkingA}Like I said, we're not really up for meeting folks.
+117)  OMID
+{thinking}I get it.
+118)  CHRISTA
+{angryA}I guess clamming up around new folks is sort of ya'lls thing?
+119)  OMID
+{surpriseA}We just wanted to say hi {happyA}and say your train is pretty cool.
+120)  CHRISTA
+{angryA}But we're not looking for charity.
+121)  OMID
+{surpriseA}We COULD help you guys, though.
+122)  CHRISTA
+[hmmph] {thinkingA}Maybe.
+123)  OMID
+{surpriseA}So, yeah... {happyA}hi, {surpriseA}uh, again.
+124)  CHUCK
+{normalC}Ya'll want some candy?
+125)  
+We're going to cut that tanker down.
+126)  
+These two are joining us.
+127)  
+It's time we move forward.
+128)  KENNY
+{sadC}Seems like plan enough to me.
+129)  LEE
+{happyA}The plan is to cut that tanker down. It'll roll down the ravine and we can be on our way.
+130)  LEE
+{happyA}I don't know what it is, but I can tell you two are good people.
+131)  LEE
+{normalB}These two are joining us.
+132)  CHUCK
+{thinkingA}Gotta be careful about newcomers, I say.
+133)  CHRISTA
+{angryA}We'll see about that.
+136)  CHRISTA
+{angryA}We'll see about that.
+134)  LEE
+{normalD}It's time we move forward. {sadA}Omid and Christa are going to help and {normalD}we're gonna get past this damned tanker.
+135)  OMID
+{happyB}We're happy to stick around.
+137)  CHRISTA
+{normalB}I'll get to know the girl for a minute, {sadA}if you don't mind.
+138)  KENNY
+[to omid] {sadC}And why don't I show you how this thing works, in case something happens.
+139)  LEE
+{thinkingA}Really, Ken?
+140)  KENNY
+{sadC}It's probably for the best.
+141)  OMID
+{happyA}Sounds great. Let's do this thing.
+142)  OMID
+{normalB}You want to start in on that tanker?
+143)  LEE
+[calling out] {HappyA}{Body-A}I found a blowtorch in the station. {ThinkingA}Should make quick work of the coupling up there.
+144)  OMID
+{HappyA}{Body-A}Excellent, I'll come up there with you to have a look.
+145)  OMID
+{DisgustB}Doh...
+146)  LEE
+{FearB}{Body-A}Just about got it.
+147)  LEE
+{SadA}Well, fuck.
+148)  OMID
+{SurpriseA}{Body-A}That is crazy, look at it go. [cutting through a thing with a welding torch]
+149)  OMID
+That's compressed shit. If there wasn't more where you found the torch, we're boned.
+150)  LEE
+Think there's any more fuel around?
+151)  LEE
+{ThinkingB}This thing's hanging by a thread. The smallest cut and it'll go.
+152)  BEN
+{FearC}WE GOTTA GO!
+153)  LEE
+[holding omid] {SurpriseB}{Body-A}There must be thousands...
+154)  LEE
+{FearC}Fuck, Omid! CUT! CUT!
+155)  OMID
+{SurpriseC}{Body-A}WHAT THE WHAT.
+156)  BEN
+[yelling] {FearA}{Body-A}Guys... there's something coming.
+157)  OMID
+{FearB}IT'S GOING! PULL ME UP!
+158)  OMID
+{FearC}I AM!
+159)  LEE
+{SurpriseB}{Body-A}KENNY, GO!
+160)  LEE
+[to omid] {SurpriseA}We gotta jump.
+161)  OMID
+{Body-A}{FearA}WHAT?! No way!
+162)  
+Jump!
+163)  
+Have it your way. [Push him]
+164)  
+You stay here and we'll go with your lady.
+165)  LEE
+{AngryA}Fine!
+166)  LEE
+{AngryC}Jump, DAMMIT!
+167)  OMID
+{AngryB}Still no!
+168)  OMID
+[jump!] {Body-A}{FearC}No!
+169)  LEE
+{Body-A}{FearB}Jump!
+170)  LEE
+[falling 20 feet] {Body-A}{AngryB}OOF.
+177)  LEE
+[falling 20 feet] {Body-A}{AngryB}OOF.
+171)  OMID
+[falling and hurting your leg on the landing] {Body-A}{FearC}AHH!
+175)  OMID
+[falling and hurting your leg on the landing] {Body-A}{FearC}AHH!
+172)  CHRISTA
+{Body-A}{FearB}Shit!
+176)  CHRISTA
+{Body-A}{FearB}Shit!
+173)  CHRISTA
+{AngryB}RUN!
+179)  CHRISTA
+{AngryB}RUN!
+174)  OMID
+[hurt] Oww...
+178)  OMID
+[hurt] Oww...
+180)  OMID
+{Body-A}{SurpriseB}I will!
+181)  LEE
+{Body-A}{DisgustB}Have it your way.
+182)  OMID
+{FearC}You son of a--!
+183)  OMID
+{Body-A}{AngryC}The hell you will!
+184)  LEE
+{Body-A}{DisgustB}Fine, you stay here and we'll go with your lady!
+185)  BEN
+[far away] {Body-A}{FearB}COME ON!
+186)  CHRISTA
+[far away] {Body-A}{FearB}GUYS!
+187)  LEE
+[shoved off a ledge] {Body-A}{FearC}Shi--
+188)  OMID
+{Body-A}{FearC}It's fucking scary, right?!
+189)  OMID
+{Body-A}{FearB}SCARIER.
+190)  LEE
+{normalB}Leads up to that wrecked tanker.
+191)  LEE
+{Body-A}{thinkingA}This thing is mangled to hell... no releasing it, no nothing.
+192)  LEE
+{Body-A}{thinkingA}Could I cut through it, maybe? I dunno...
+193)  LEE
+{Body-A}{ThinkingA}I got this blowtorch...
+194)  LEE
+{thinkingA}There's no way I'm pulling anything apart down there.
+195)  LEE
+{normalD}More big shit to move.
+196)  LEE
+{thinkingA}This would create a hell of a fireball if we tried to blast through.
+197)  LEE
+{angryA}If I come up there you better not be murderers or thieves.
+198)  CHRISTA
+{angryA}I guess you'll have to find out.
+199)  LEE
+{normalB}I guess it's good Clem's got a woman to talk to.
+201)  CHRISTA
+{angryA}Stop it.
+202)  
+What were you guys arguing about?
+203)  
+Where you from?
+204)  
+Not sure how we'll get that tank down.
+205)  LEE
+{happyA}Hey there.
+206)  CHRISTA
+{thinkingA}You got this girl shooting guns?
+207)  CHRISTA
+{angryA}You weren't getting one. It's good. {happyA}She should be able to take care of herself.
+208)  LEE
+{thinkingA}Look, I don't need a lecture.
+209)  LEE
+{happyA}Careful, she's a crack shot now.
+210)  LEE
+{fearA}Jeez, {normalB}a long way from home.
+211)  LEE
+{thinkingA}Where you from?
+212)  CHRISTA
+San Francisco.
+213)  CHRISTA
+{happyA}I blame the one in there. He wanted the great American road trip.
+214)  CHRISTA
+{happyA}Wonderful. You two will be thick as thieves.
+215)  LEE
+{happyB}He got a little more than he bargained for, huh?
+216)  CHRISTA
+[pickup 2] [new read: - Read well, but strange in context. Maybe if they added 'anyway' to the end of 'history.'] {angryA}Who the hell is into Civil War history anyway? Other than old white guys.
+217)  CHRISTA
+{angryA}Nothing.
+218)  LEE
+{thinkingA}If you're going to be around for a while {angryA}it'd be good to know what baggage ya got.
+219)  CHRISTA
+{angryA}Then maybe we won't be around for a while.
+220)  LEE
+{thinkingB}What were you two arguing about when I was coming up the ladder?
+221)  CHRISTA
+{happyA}Maybe ask Omid. He likes to break things.
+222)  LEE
+{thinkingA}Not sure how we'll get that tank down.
+223)  LEE
+{happyA}Hi, girls.
+224)  CHRISTA
+[response to hi] {happyA}Hey.
+225)  LEE
+GOTCHA.
+226)  CHRISTA
+Now Omid!
+227)  LEE
+RUN!
+271)  LEE
+RUN!
+228)  LEE
+GRAB MY HAND!
+272)  LEE
+GRAB MY HAND!
+229)  KENNY
+{angryB}I said don't touch it, jackass.
+230)  KENNY
+{sadC}The whole thing's pretty simple, really.
+231)  OMID
+{thinking}How could it not be?
+232)  
+Learning the ropes?
+233)  
+How have you guys made it this far?
+235)  
+You like Civil War history, huh?
+236)  
+How long since you've been home?
+237)  LEE
+{happyB}Talk to you later.
+238)  OMID
+There are a lot of levers I can't wait to use.
+239)  KENNY
+{angryA}We'll see.
+240)  OMID
+Maybe we can drive in shifts?
+241)  KENNY
+{angryA}I said if something WERE to happen to me.
+242)  LEE
+{happyA}Learning the ropes? Can't be too hard, right?
+243)  OMID
+Please. I've saved her ass hundreds...tens...some times.
+244)  LEE
+{thinkingA}How have you two made it this far? {angryA}You seem dangerously normal.
+245)  LEE
+[amused] {thinkingA}I got the feeling {happyB}she takes care of you.
+246)  OMID
+Christa doesn't let us join groups and I'm a fucking scrapper.
+247)  OMID
+Excellent. Don't tell Christa, though. That won't be as big a selling point for her.
+248)  OMID
+Well... yeah.
+249)  OMID
+Fuck yeah.  What do you know about some Quantrill's Raid?
+250)  LEE
+{happyB}And we're headed the other way. {normalB}But if it's somehow not crawling with the dead, there should be some cool things to see.
+251)  LEE
+{happyA}It happened about a thousand miles that way.[points]
+252)  LEE
+{happyA}You got it.
+253)  LEE
+{happyB}You like Civil War history, huh?
+254)  LEE
+{happyA}How long since you've been home?
+255)  LEE
+{normalD}That's rough.
+256)  OMID
+Like six months. We were on the road for a while and then, you know.
+257)  OMID
+Our cat is gonna be pissed.
+258)  LEE
+[ha] {ThinkingA}No, but I'm gonna lower you over the edge.
+259)  OMID
+{AngryC}The hell you are!
+260)  OMID
+{Body-A}{DisgustB}You think it'll be within mine?
+261)  LEE
+{Body-A}{ThinkingB}Here. The weak portion of the coupling is out of my reach.
+262)  OMID
+{AngryC}{Body-A}God, you're a real son of a bitch, aren't you?
+263)  LEE
+I found this hacksaw. It might be enough to finish the job.
+264)  OMID
+Yeah, it might.
+265)  LEE
+We're almost through down there.
+266)  OMID
+I'll keep on the lookout for something that could help.
+267)  OMID
+{Body-A}{HappyD}Fire that thing up.
+268)  LEE
+{Body-A}{FearA}Think this will work?
+269)  OMID
+{Body-A}{HappyD}Dude, you're cutting metal with fire. How could it not?
+270)  LEE
+I gotcha!
+273)  OMID
+You gotta get Christa!
+274)  LEE
+Let's go! Come on!
+275)  KENNY
+{normalB}We'll be down here.
+276)  LEE
+{happyA}Teaching him anything?
+277)  KENNY
+{normalB}Trying to...
+278)  BEN
+Yeah, we're good for a ways.
+279)  LEE
+{happyA}Got a clear view up there?
+280)  BEN
+{happyA}Yeah.
+281)  LEE
+{happyA}As soon as that thing comes down we'll be on our way.
+282)  LEE
+{thinkingA}And I hope we won't have any more trouble out of you.
+283)  BEN
+{fearA}I promise you won't.
+284)  LEE
+She set off any alarm bells?
+285)  LEE
+You interrogating this woman for us?
+286)  CLEMENTINE
+Yep.
+287)  CHRISTA
+[turns to lee] She's very thorough.
+288)  CLEMENTINE
+[wryly with a smile] Not yet.
+289)  LEE
+[with a smile] That's what I like to hear.
+290)  LEE
+Hurry, dammit!!!
+291)  LEE
+Watch out!
+292)  LEE
+Dammit!
+293)  LEE
+{thinkingA}Maybe I should check out that train station.
+294)  LEE
+{thinkingB}The train station's over there.
+295)  LEE
+[announces to the group] {happyA}Clementine and I are checking out this train station, all right? Hustle over if you hear anything.
+296)  LEE
+{happyc}Yeah, all right. Come on.
+297)  CLEMENTINE
+{fearA}I do. But... it's like we're a team. {happyB}Like you said.
+298)  CLEMENTINE
+{happyB}Can I follow you over there?
+299)  LEE
+{happyA}You don't like the new girl?
+300)  LEE
+{thinkingB}Whatever government work was going on here didn't seem to help.
+301)  LEE
+[out of breath]
+302)  OMID
+[out of breath]
+303)  CHRISTA
+[out of breath]
+304)  OMID
+[semi out of breath] {Body-A}{SurpriseA}That... was a LOT... of them.
+305)  CLEMENTINE
+{Body-HandOnWrist}{FearA}Are you hurt...?
+306)  LEE
+{Body-A}{HappyA}No, we're okay.
+307)  OMID
+{AngryB}Speak for yourself, my leg is fucked.
+308)  CHRISTA
+{Body-A}{HappyA}We're fine, Clementine. We're fine.
+309)  
+Look At
+311)  
+Look At
+313)  
+Look At
+317)  
+Look At
+319)  
+Look At
+322)  
+Look At
+324)  
+Look At
+327)  
+Look At
+329)  
+Look At
+390)  
+Look At
+401)  
+Look At
+310)  
+Use
+328)  
+Use
+391)  
+Use
+396)  
+Use
+312)  
+Cut
+393)  
+Cut
+314)  
+Talk To
+318)  
+Talk To
+320)  
+Talk To
+321)  
+Talk To
+323)  
+Talk To
+345)  
+Talk To
+315)  
+Yell To
+326)  
+Yell To
+316)  
+Grab
+325)  
+Grab
+330)  
+Shoot
+331)  
+Walk To
+332)  
+Hitch
+333)  
+Ladder
+334)  
+Sign
+335)  
+Train Station
+336)  LEE
+[pickup2] {Body-A}{SadA}Folks probably had their way with that van a while ago.
+337)  LEE
+[pickup2] {Body-A}{DisgustB}Empty. That's what I figured.
+338)  LEE
+[pickup2] {Body-A}{ThinkingB}That's about the only useful thing in here.
+339)  LEE
+[pickup2] {DisgustA}{Body-A}Shut up and start cutting.
+340)  OMID
+[pickup2] Well, there's all that disaster relief stuff up there.
+341)  LEE
+[pickup2] {Body-A}{HappyA}It should work now.
+342)  LEE
+[pickup2] {Body-A}{ThinkingA}Once it's fixed, it should be enough to cut the coupling.
+343)  LEE
+[pickup2] {Body-A}{DisgustA}Until I patch that hose, it's useless.
+344)  LEE
+[pickup2] {Body-A}{DisgustB}Hope this holds.
+346)  
+Give Blowtorch To
+347)  OMID
+[pickup2] Crap.
+426)  OMID
+[pickup2] Crap.
+348)  LEE
+[pickup2] I found some tape. Should be enough to patch it.
+349)  OMID
+[pickup2] Okay. I'll meet you up there.
+350)  KENNY
+{angryA}I don't know what that does yet. Don't touch it.
+351)  
+Careful, she's a crack shot now.
+352)  
+About what happened in the station...
+353)  CHRISTA
+{thinkingA}I think it's a good idea -- {fearA}figurin' stuff out for yourself -- {thinkingA}for what it's worth.
+354)  CHRISTA
+{thinkingA}But be smart about it, though, you know? {happyA}Teach her to scan the area for things. {angryA}You two should never be looking in the same spot -- that's a waste. Stay the hell out of places like that building over there, especially if you don't have more than one way to get out.
+355)  CHRISTA
+{angryB}And be more afraid of groups of living men than dead folk.
+356)  LEE
+[pickup2] That, we know.
+357)  CHRISTA
+Omid and I are still alive because we're two and not six or eight or ten. I don't believe in strength in numbers and you shouldn't either.
+358)  LEE
+[pickup2] We're trying to get used to being on our own, Clementine and I.
+359)  CHRISTA
+{thinkingA}So you take her into a dark, boarded up building to build character?
+360)  LEE
+[pickup2] Not exactly.
+361)  BEN
+[pickup2] Thank god...
+362)  
+Get used to them. It's easier.
+363)  
+No shit. Walkers, man...
+364)  
+Toughen up.
+365)  LEE
+[pickup2] Get used to them. I don't think they're going anywhere any time soon.
+366)  BEN
+[pickup2] Their numbers keep going up, and ours...
+367)  BEN
+[pickup2] I'm glad somebody else feels that way.
+368)  LEE
+[pickup2] No shit. Walkers, man. You know, sometimes you might see me take care of one, because I have to, but don't start thinking they don't horrify me.
+369)  LEE
+[pickup2] Toughen up. It's, you, me and now Chuck. Who knows what these new people have planned.
+370)  LEE
+[pickup2] There are going to be a lot more walkers to take care of.
+371)  BEN
+[pickup2] That's what I'm afraid of.
+372)  BEN
+[pickup2] [Exhale, sigh]
+373)  BEN
+[pickup2] Yeah, take myself out.
+374)  LEE
+[pickup2] Don't be dramatic.
+375)  LEE
+[pickup2] And don't let them get a hold of you.
+376)  BEN
+[pickup2] I'm telling you, Lee, if they ever get a HOLD of me... and I know I'm not getting out of it...that's it, man. I'm just, gonna... punch my own ticket.
+377)  LEE
+[pickup2] ...Punch your own ticket?
+378)  CHRISTA
+{Body-A}{AngryA}AHH! [being pulled]
+379)  LEE
+[pickup2] {Body-A}{FearA}UGH!
+387)  LEE
+[pickup2] {Body-A}{FearA}UGH!
+380)  CHRISTA
+{AngryB}You son of a bitch! Save HIM! [as in "i told you to save HIM not me]
+381)  CHRISTA
+[bigger] {FearB}OMID!
+382)  CHRISTA
+Omid!
+383)  OMID
+[pickup2] {Body-A}{AngryC}No! Her! NOT ME!
+384)  OMID
+[pickup2] {Body-A}{FearC}CHRISTA NO!!!! FUCK!
+385)  OMID
+[pickup2] {AngryC}You piece of shit! She's a woman! Don't you know--
+386)  OMID
+[pickup2] [distraught. thought he lost her] {SadA}Baby.
+388)  CHRISTA
+{Body-A}{FearA}UGH!
+389)  CHRISTA
+{SadA}It's okay, honey. I'm okay.
+392)  
+Use Tape On
+394)  
+Blowtorch
+395)  
+Tanker
+397)  LEE
+[pickup2] I'm glad someone's managed to keep their spirit.
+398)  
+FRS Truck
+399)  
+Cage
+400)  
+Open
+402)  LEE
+[pickup2] {DisgustA}{Body-A}Shit.
+403)  OMID
+[pickup2] {Thinking}{Body-A}What's up?
+404)  LEE
+[pickup2] {ThinkingB}The hose has a leak in it.
+405)  OMID
+[pickup2] {SurpriseB}Turn it off, dude! I don't want my eyebrows burned off!
+406)  OMID
+[pickup2] {FearA}Better plug that leak with something.
+407)  CHRISTA
+[pickup2][big, astonished, angry] {Body-A}{AngryB}What the hell is wrong with you? Is this how you protect your people?
+408)  
+Cab Door
+409)  KENNY
+[pickup2] Someone might want to have a look inside of that station back there, too.
+410)  LEE
+[pickup2][ha] No, but I'm gonna dangle you over that ledge.[this is just a very slight change to what we recorded already, for ref]
+411)  LEE
+[pickup2] [alt] The plan is to cut that tanker down and be on our way.
+412)  LEE
+[pickup2] Good thinking.
+413)  OMID
+[pickup2][alt]  Plus that thing is full of sweet sweet gasoline. We should be sure to siphon some off.
+414)  CHRISTA
+[pickup2] That's a pretty useful radio for her to be holding onto, no?
+415)  CHRISTA
+[pickup2] Ah, I understand.
+416)  LEE
+[pickup2] It's busted, but... it means something to her.
+417)  KENNY
+[pickup2][long, drawn out] FFFFUUUUUUUUCK YOOOOOOUUUUU!!!
+418)  KENNY
+[pickup2][start regular volume, escalating to full out screaming] Fuck! 
+Fuck! Fuck! FUCK! FUUUUUUUCK!!!
+419)  BEN
+[pickup2] [to himself] We need someone, anyone, to come along and... and... exterminate them or something.
+420)  OMID
+[pickup2][high energy] Shit! What the hell do we do now?
+421)  LEE
+[pickup2][context: this is so dangerous] Hope to God this works.
+422)  OMID
+[pickup2] Shit!
+423)  LEE
+[pickup2][context: the escape route is cut off] It's smashed to hell!
+424)  OMID
+[pickup2] Holy crap!
+425)  LEE
+[pickup2][disappointed] It's too far off the edge.
+427)  LEE
+[pickup2][frustrated] Dammit, it was just about done, too.
+428)  LEE
+[pickup2][disappointed] I can't reach it now.
+429)  OMID
+[pickup2] No sweat, man.
+430)  LEE
+[pickup2] Whoa, thanks!
+431)  CHRISTA
+[pickup2][context: what did I JUST tell you?] Omid....
+432)  OMID
+[pickup2][playful, what did I do wrong?] What?
+433)  OMID
+[pickup2][excited] Let's go talk to your people, man!
+434)  CHRISTA
+[pickup2][context: get the lead out] Am I gonna have to tell your
+people the plan or what?
+435)  LEE
+[pickup2][referring to the train] All this power and we're still stuck.
+436)  LEE
+[pickup2] It's empty.
+437)  LEE
+[pickup2] Doesn't look like it lasted.
+438)  
+Generator
+439)  
+Train
+440)  
+Railing
+441)  
+Truck
