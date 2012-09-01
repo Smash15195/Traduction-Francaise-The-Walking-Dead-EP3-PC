@@ -1,0 +1,36 @@
+1)  KENNY
+Nous sommes presque à la rivière ! Tu veux monter sur un bateau ou attendre jusqu'à ce que les marcheurs comprennent que nous sommes ici ?
+2)  KENNY
+Ou le laisser.
+3)  CHRISTA
+Je ne sais pas combien de temps il peut tenir comme ça. Si l'état de sa jambe s'aggrave nous allons devoir le porter.
+4)  LEE
+[aggressive] Putain c'est quoi ? Répondez-moi, merde !
+5)  CAMPMAN
+Si j'étais vous, je partirai de la rue. Maintenant.
+6)  CHRISTA
+Donc, tu comptais nous parler quand de la radio ?
+7)  LEE
+[forceful/angry] A qui tu as parlé ?
+8)  LEE
+[shouting, aggressive] Reviens ici, je vais te tuer ! Tu comprends ? Je vais vraiment te tuer !
+9)  BEN
+[urgent/freaked out] Lee, tu dois venir ici maintenant.
+10)  LEE
+Qu'est-ce qui ne vas pas ?
+11)  BEN
+C'est Kenny.
+12)  KENNY
+Vous n'avez aucune idée de ce j'endure. Et vous pouvez être sûr de rien savoir sur la douleur que cela provoque.
+13)  BEN
+J'ai cru devoir lui dire la vérité. C'est ma faute si Katjaa et Duck ont été tués.
+14)  KENNY
+[still fuming/drunk] C'est la seule chose qui me reste putain, et vous voulez me la prendre aussi ? Va te faire foutre !
+15)  VERNON
+Qui êtes-vous ?
+16)  LEE
+Nous devons nous concentrer sur la recherche d'un bateau pour le moment, Clém. Comme on l'avait décidé dans le train.
+17)  LEE
+Je sais que j'ai promis que nous retrouverions tes parents. Mais Savannah est plus dangereux que je ne le pensais.
+18)  LEE
+On peut encore partir, Clém. Juste toi et moi. Mais Savannah est plus dangereux que je ne le pensais.

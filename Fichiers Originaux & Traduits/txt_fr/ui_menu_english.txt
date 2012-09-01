@@ -1,0 +1,543 @@
+1)  
+Nouvelle Partie
+2)  
+Partie 3
+3)  
+CHOISIR
+4)  
+BACK
+5)  
+RETOUR
+6)  
+GRAPHISMES
+7)  
+GAMEPLAY
+8)  
+RÉGLAGES
+30)  
+RÉGLAGES
+9)  
+RÉGLAGES AUDIO
+10)  
+VOIX
+11)  
+MUSIQUE
+12)  
+SON
+13)  
+RÉGLAGES GRAPHIQUE
+14)  
+APPLI.
+15)  
+POST TRAITEMENT
+16)  
+OFF
+17)  
+FAIBLE
+18)  
+MOYEN
+19)  
+HAUT
+20)  
+QUALITÉ DES GRAPHISMES
+21)  
+TRES HAUT
+22)  
+ANTI-ALIASING
+23)  
+PLEIN ÉCRAN
+24)  
+QUALITÉ DES OMBRES
+25)  
+QUALITÉ DES TEXTURES
+26)  
+RÉSOLUTION
+27)  
+GAMMA
+28)  
+JOUER
+44)  
+JOUER
+29)  
+DÉMO
+31)  
+CONTINUER
+32)  
+ÉPISODE 1: UN NOUVEAU JOUR
+33)  
+ÉPISODE 2: LA FAIM JUSTIFIE LES MOYENS
+34)  
+ÉPISODE 3: LA ROUTE SERA LONGUE
+35)  
+ÉPISODE 4: A CHAQUE DETOUR
+36)  
+ÉPISODE 5: PLUS DE TEMPS A PERDRET
+37)  
+AIDE & OPTIONS
+38)  
+OBTENIR ÉPISODE
+39)  
+REPRENDRE LE JEU
+40)  
+MENU PRINCIPAL
+41)  
+CONTRÔLES
+42)  
+COMMENT JOUER
+43)  
+CRÉDITS
+45)  
+ACTION
+46)  
+PAUSE
+47)  
+ACTIONS
+48)  
+MOUVEMENT
+RÉTICULE
+49)  
+MOUVEMENT
+PERSONNAGE
+50)  
+Partie 1
+51)  
+Épisode 1
+245)  
+Épisode 1
+52)  
+Partie 2
+53)  
+Épisode 2
+246)  
+Épisode 2
+54)  
+Épisode 3
+247)  
+Épisode 3
+55)  
+Épisode 4
+248)  
+Épisode 4
+56)  
+Épisode 5
+249)  
+Épisode 5
+57)  
+COPIER
+198)  
+COPIER
+58)  
+SUPPRIMER
+59)  
+UN NOUVEAU JOUR
+60)  
+LA FAIM JUSTIFIE LES MOYENS
+61)  
+Disponible !
+62)  
+Installé
+63)  
+Acheté
+64)  
+ACHETER
+65)  
+OBTENIR
+87)  
+OBTENIR
+66)  
+ENLEVER
+67)  
+Prochainement
+68)  
+PANORAMA DE LA SÉRIE
+69)  
+Ok
+70)  
+MODIFIER ÉPISODES
+71)  
+Vous devez déverrouiller la version complète de The Walking Dead en achetant le premier épisode avant de pouvoir acheter un contenu supplémentaire.
+72)  
+Oui
+73)  
+Non
+74)  
+Attention: cette action est irréversible ! Etes-vous sur de vouloir supprimer cette partie sauvegardée ?
+75)  
+Attention: la copie va effacer les données précédemment sauvegardées ici. Etes-vous sur de vouloir continuer ?
+76)  
+LA ROUTE SERA LONGUE
+77)  
+A CHAQUE DETOUR
+78)  
+PLUS DE TEMPS
+79)  
+La progréssion est enregistrés chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez ou éteignez pas votre console alors que l'indicateur est sur l'écran.
+80)  
+REMBOBINER
+81)  
+Point de contrôle A
+82)  
+Point de contrôle B
+83)  
+Point de contrôle C
+84)  
+STATISTIQUES
+85)  
+PARAMETRES DE GAMEPLAY
+86)  
+SOUS-TITRES
+88)  
+Téléchargement
+89)  
+Connexion...
+90)  
+Vous avez déjà acheté cet épisode. Pour télécharger, rendez-vous à votre domicile Xbox et allez dans Parametres, Compte, l'historique de téléchargement.
+91)  
+QUITTER LE JEU
+92)  
+Achat échoué. S'il vous plaît vérifier votre connexion réseau et essayez à nouveau.
+93)  
+Impossible de se connecter au serveur.
+94)  
+Le téléchargement a échoué. S'il vous plaît vérifier votre connexion réseau et essayez à nouveau.
+95)  
+101 DECISION 1 TITLE
+96)  
+102 DECISION 1 TITLE
+97)  
+103 DECISION 1 TITLE
+98)  
+104 DECISION 1 TITLE
+99)  
+105 DECISION 1 TITLE
+100)  
+101 DECISION 2 TITLE
+101)  
+102 DECISION 2 TITLE
+102)  
+103 DECISION 2 TITLE
+103)  
+104 DECISION 2 TITLE
+104)  
+105 DECISION 2 TITLE
+105)  
+101 DECISION 3 TITLE
+106)  
+102 DECISION 3 TITLE
+107)  
+103 DECISION 3 TITLE
+108)  
+104 DECISION 3 TITLE
+109)  
+105 DECISION 3 TITLE
+110)  
+101 DECISION 4 TITLE
+111)  
+102 DECISION 4 TITLE
+112)  
+103 DECISION 4 TITLE
+113)  
+104 DECISION 4 TITLE
+114)  
+105 DECISION 4 TITLE
+115)  
+101 DECISION 5 TITLE
+116)  
+102 DECISION 5 TITLE
+117)  
+103 DECISION 5 TITLE
+118)  
+104 DECISION 5 TITLE
+119)  
+105 DECISION 5 TITLE
+120)  
+101 DECISION 1 DESC
+121)  
+102 DECISION 1 DESC
+122)  
+103 DECISION 1 DESC
+123)  
+104 DECISION 1 DESC
+124)  
+105 DECISION 1 DESC
+125)  
+101 DECISION 2 DESC
+126)  
+102 DECISION 2 DESC
+127)  
+103 DECISION 2 DESC
+128)  
+104 DECISION 2 DESC
+129)  
+105 DECISION 2 DESC
+130)  
+101 DECISION 3 DESC
+131)  
+102 DECISION 3 DESC
+132)  
+103 DECISION 3 DESC
+133)  
+104 DECISION 3 DESC
+134)  
+105 DECISION 3 DESC
+135)  
+101 DECISION 4 DESC
+136)  
+102 DECISION 4 DESC
+137)  
+103 DECISION 4 DESC
+138)  
+104 DECISION 4 DESC
+139)  
+105 DECISION 4 DESC
+140)  
+101 DECISION 5 DESC
+141)  
+102 DECISION 5 DESC
+142)  
+103 DECISION 5 DESC
+143)  
+104 DECISION 5 DESC
+144)  
+105 DECISION 5 DESC
+145)  
+101 DECISION 1 RESULT 1
+146)  
+102 DECISION 1 RESULT 1
+147)  
+103 DECISION 1 RESULT 1
+148)  
+104 DECISION 1 RESULT 1
+149)  
+105 DECISION 1 RESULT 1
+150)  
+101 DECISION 1 RESULT 2
+151)  
+102 DECISION 1 RESULT 2
+152)  
+103 DECISION 1 RESULT 2
+153)  
+104 DECISION 1 RESULT 2
+154)  
+105 DECISION 1 RESULT 2
+155)  
+101 DECISION 2 RESULT 1
+156)  
+102 DECISION 2 RESULT 1
+157)  
+103 DECISION 2 RESULT 1
+158)  
+104 DECISION 2 RESULT 1
+159)  
+105 DECISION 2 RESULT 1
+160)  
+101 DECISION 2 RESULT 2
+161)  
+102 DECISION 2 RESULT 2
+162)  
+103 DECISION 2 RESULT 2
+163)  
+104 DECISION 2 RESULT 2
+164)  
+105 DECISION 2 RESULT 2
+165)  
+101 DECISION 3 RESULT 1
+166)  
+102 DECISION 3 RESULT 1
+167)  
+103 DECISION 3 RESULT 1
+168)  
+104 DECISION 3 RESULT 1
+169)  
+105 DECISION 3 RESULT 1
+170)  
+101 DECISION 3 RESULT 2
+171)  
+102 DECISION 3 RESULT 2
+172)  
+103 DECISION 3 RESULT 2
+173)  
+104 DECISION 3 RESULT 2
+174)  
+105 DECISION 3 RESULT 2
+175)  
+101 DECISION 4 RESULT 1
+176)  
+102 DECISION 4 RESULT 1
+177)  
+103 DECISION 4 RESULT 1
+178)  
+104 DECISION 4 RESULT 1
+179)  
+105 DECISION 4 RESULT 1
+180)  
+101 DECISION 4 RESULT 2
+181)  
+102 DECISION 4 RESULT 2
+182)  
+103 DECISION 4 RESULT 2
+183)  
+104 DECISION 4 RESULT 2
+184)  
+105 DECISION 4 RESULT 2
+185)  
+101 DECISION 5 RESULT 1
+186)  
+102 DECISION 5 RESULT 1
+187)  
+103 DECISION 5 RESULT 1
+188)  
+104 DECISION 5 RESULT 1
+189)  
+105 DECISION 5 RESULT 1
+190)  
+101 DECISION 5 RESULT 2
+191)  
+102 DECISION 5 RESULT 2
+192)  
+103 DECISION 5 RESULT 2
+193)  
+104 DECISION 5 RESULT 2
+194)  
+105 DECISION 5 RESULT 2
+195)  
+Vous et
+196)  
+des joueurs
+197)  
+ANNULER
+199)  
+PROCHAINEMENT
+200)  
+Tout progrès réalisés depuis la derniere sauvegarde automatique sera perdu. Etes-vous sûr de vouloir quitter le jeu ?
+217)  
+Tout progrès réalisés depuis la derniere sauvegarde automatique sera perdu. Etes-vous sûr de vouloir quitter le jeu ?
+201)  
+STANDARD:
+202)  
+MINIMUM:
+203)  
+Affiche conseils et aide sur l'écran
+lors des choix importants.
+204)  
+CHOISIR UN STYLE D'AFFICHAGE
+205)  
+Utiliser          pour déplacer Lee et explorer le monde.
+
+          bouge le réticule et vous permet d'interagir avec les choses que vous voyez.
+
+Appuyer        ,        ,        , et        pour choisir des actions ou des réponses et parfois exploser une tête de zombie.
+206)  
+NOTIFICATIONS HISTORIQUE
+207)  
+Vous devez être connecté à un profil afin d'accéder à cette fonctionnalité.
+229)  
+Vous devez être connecté à un profil afin d'accéder à cette fonctionnalité.
+208)  
+Vous devez avoir une connexion Internet pour accéder à cette fonctionnalité.
+209)  
+ACHETER LA SAISON
+210)  
+SAISON ACHETÉE
+211)  
+AFFICHER BOUTONS MANETTE
+212)  
+Actualisation du Statut de l'Episode.
+213)  
+TROPHÉES
+214)  
+Les réglages peuvent être modifiés ultérieurement dans l'aide et le menu Options.
+215)  
+Votre console ne peut pas se connecter au Xbox LIVE. S'il vous plaît connectez-vous au Xbox LIVE pour accéder à cette fonctionnalité.
+216)  
+You must be signed into PlayStation   Network in order to access this feature.
+218)  
+DÉTECTER ZONES ACTIVES
+219)  
+Ce jeu s'adapte à vos choix, le rembobinage va supprimer tout progres réalisé apres le point de contrôle, mais conserver toutes les décisions prises avant le point de contrôle.
+
+Voulez-vous revenir à ce point de contrôle ?
+220)  
+DÉVERROUILLER ÉPISODE 1
+221)  
+LUMINOSITÉ
+222)  
+AUDIOVISUEL
+223)  
+RÉGLAGES AUDIOVISUEL
+224)  
+(Comprend un theme premium exclusif)
+225)  
+Aucune interface d'aide, d'astuce et
+de notification de choix.
+226)  
+APPUYEZ SUR START
+227)  
+CLIQUEZ POUR CONTINUER
+228)  
+Le service en ligne est désactivé sur votre compte PlayStation Network en raison des restrictions de contrôle parental.
+230)  
+Voulez-vous garder cette nouvelle résolution ? Les anciens parametres seront repris dans les 10 secondes.
+231)  
+Les réglages sont modifiable dans la catégorie Gameplay.
+232)  
+TAP POUR CONTINUER
+233)  
+SENSIBILITÉ DE LA SOURIS
+234)  
+Votre compte Telltale ne dispose pas actuellement d'une licence pour ce jeu. Aimeriez-vous aller sur le site de Telltale Games pour acheter le jeu maintenant ?
+235)  
+Le compte Telltale vous avez entré n'est pas autorisé à exécuter ce jeu. Vous pouvez essayer de ré-entrer les informations de connexion pour un compte qui possede le jeu, ou visiter le site Telltale afin d'autoriser ce compte en achetant une copie.
+236)  
+Impossible d'établir une connexion vers les serveurs de Telltale afin de vérifier le statut ce compte. S'il vous plaît assurez-vous que vous disposez d'une connexion Internet active.
+237)  
+Ressaisissez info
+238)  
+Visitez le Site Web
+239)  
+Réessayer
+240)  
+Annuler
+241)  
+Une erreur inconnue s'est produite ! Veuillez redémarrer l'application et essayez à nouveau.
+242)  
+Le contenu a été téléchargé, mais une erreur s'est produite en essayant de l'installer. Veuillez redémarrer l'application et essayez à nouveau.
+243)  
+Connexion perdue pendant le téléchargement des données. Veuillez vous assurer que vous disposez d'une connexion Internet active et ré-essayer le téléchargement.
+244)  
+STATUT DES ÉPISODES
+250)  
+SOCIAL
+251)  
+W
+252)  
+A
+253)  
+S
+254)  
+D
+255)  
+ÉPISODES
+256)  
+Etes-vous sûr de vouloir supprimer ce contenu ? Vous devrez le télécharger à nouveau plus tard.
+257)  
+ON
+258)  
+CHOISIR
+OPTION
+DIALOGUE
+259)  
+DÉFILEMENT OPTIONS
+DIALOGUE
+260)  
+Les dernières mises à jour ont été installées. Le jeu va redémarrer.
+261)  
+Impossible de terminer l'achat: ce compte n'en a pas la permission.
+262)  
+Impossible de terminer l'achat: ce compte ne peut actuellement pas faire de paiements.
+263)  
+Impossible de terminer l'achat: une erreur réseau s'est produite.
+264)  
+Il n'y a pas assez d'espace disque disponible pour télécharger cet épisode. Vous pourrez essayer de nouveau après la avoir fait de la place.
+265)  
+RÉTABLIR

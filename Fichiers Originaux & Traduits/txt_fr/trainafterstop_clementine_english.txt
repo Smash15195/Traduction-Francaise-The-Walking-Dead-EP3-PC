@@ -1,0 +1,728 @@
+1)  LEE
+{angryA}Où irait-il ?
+2)  CLEMENTINE
+[pickup 2] [new read: Good read, but the emphasis is off. Their emphasizing more 'don't be mad' rather than just making it one statement of 'I said don't be mad.'] {sadA}J'ai dit "vous êtes fou."
+3)  LEE
+[to clem] {angryA}J'ai compris.
+4)  LEE
+{angryA}Je reviens tout de suite.
+5)  LEE
+{sadB}C'est dangereux.
+6)  CLEMENTINE
+{fearA}Juste plus court, hein ?
+7)  CLEMENTINE
+[sad] {sadB}Oh non, qu'est-ce qu'il s'est passé ?
+8)  LEE
+{sadA}Alors, tu ne vas pas trop aimer ça.
+9)  CLEMENTINE
+[remembering a shitty thing]  {sadB}Ouais...
+10)  LEE
+{surpriseA}Rien. {sadA}Il faut qu'on parle de tes cheveux.
+11)  CLEMENTINE
+{angryA}C'est pas sympa.
+12)  CLEMENTINE
+{sadA}Ils sentent pas bon ?
+13)  LEE
+[puzzled] {thinkingA}Quoi ?
+14)  LEE
+{happyA}Non. [half laugh sigh]
+15)  LEE
+{thinkingA}Il faut les raccourcir pour ne pas qu'on te les attrape.
+16)  CLEMENTINE
+[disappointed sigh] {sadA}D'accord.
+17)  LEE
+{sadA}Ca pourrait se reproduire. Et si c'est par un marcheur, et bien.... On doit les couper.
+18)  CLEMENTINE
+{sadB}Parce qu'ils sentent un peu.
+19)  LEE
+{thinkingB}Tu te souviens quand Andy St. John t'a attrapé ? Et que je me suis fâché ?
+20)  
+Voilà... c'est à propos de tes cheveux.
+21)  
+Chuck a raison.
+22)  
+Je vais jeter un oeil aux alentours.
+23)  
+Parlons de Savannah.
+24)  
+Il faut apprendre à te défendre.
+25)  
+Sois prudente avec Ben.
+26)  LEE
+{thinkingA}Essaye de te reposer.
+27)  LEE
+{thinkingA}Je reviens tout de suite.
+28)  CLEMENTINE
+D'accord.
+29)  
+Tu penses quoi de Chuck ?
+30)  
+Quelle journée pourrie.
+31)  CLEMENTINE
+[relaxes] D'accord. On devrait faire quoi ?
+32)  LEE
+{thinkingA}Il faut qu'on sache quoi faire à Savannah, {happyA}que tu apprennes à te défendre et qu'on t'arrange un peu {FearA}pour ne pas qu'on t'attrape.
+33)  CLEMENTINE
+Je voudrais bien.
+34)  LEE
+{happyA}Bien.
+35)  LEE
+{sadB}Chuck a raison, tu sais.
+36)  LEE
+{thinkingA}Ecoute, on ne laissera rien t'arriver. {sadA}Mais on doit prendre des précautions.
+37)  CLEMENTINE
+Oui, c'est logique.
+38)  LEE
+{happyA}T'en fais pas, mon coeur.
+39)  LEE
+{happyA}Hé, Clém.
+49)  LEE
+{happyA}Hé, Clém.
+279)  LEE
+{happyA}Hé, Clém.
+40)  CLEMENTINE
+Tu lui as parlé ?
+41)  LEE
+{thinkingA}Oui, il, heu, {sadB}... il a soulevé des points intéressants.
+42)  LEE
+{thinkingA}Comment tu vas ?
+46)  LEE
+{thinkingA}Comment tu vas ?
+43)  CLEMENTINE
+J'ai mal aux mains et j'entend un bruit dans mes oreilles.
+44)  CLEMENTINE
+[makes a ringing noise to illustrate what she's talking about]
+45)  LEE
+{sadA}Tu t'habitueras.
+47)  CLEMENTINE
+Je suis contente qu'on ait un plan.
+48)  LEE
+{happyA}Moi aussi.
+139)  CLEMENTINE
+{happyA}Moi aussi.
+50)  CLEMENTINE
+Salut.
+51)  
+Couper Cheveux
+52)  
+Attendre
+53)  LEE
+{thinkingA}Ca t'ennuie si on le fait maintenant ?
+54)  CLEMENTINE
+{sadB}Pas trop.
+55)  LEE
+{normalD}Te bile pas. {happyA}C'est une bonne chose.
+56)  LEE
+{thinkingA}On n'est pas obligé de le faire tout de suite, tu sais.
+57)  CLEMENTINE
+{happyA}D'accord, bien.
+58)  CLEMENTINE
+Ce serait bien. J'espère que c'est sans danger.
+59)  LEE
+{sadB}Moi aussi.
+60)  LEE
+{thinkingB}Je vais fouiner un peu, histoire qu'on soit prêt quand on sera à Savannah.
+61)  CLEMENTINE
+{fearB}Tu sais faire ?
+62)  
+Nan. Du tout.
+63)  
+Ca doit pas être si compliqué.
+64)  
+Ouais, évidemment.
+65)  CLEMENTINE
+{sadC}Je préfèrerais être morte.
+66)  LEE
+{angryA}Chut !
+72)  LEE
+{angryA}Chut !
+67)  LEE
+{sadA}Nan. Aucune idée. {thinkingA}Je suis pas vraiment styliste, tu sais.
+68)  CLEMENTINE
+[flat] {sadB}Je vais ressembler à un garçon.
+70)  CLEMENTINE
+[flat] {sadB}Je vais ressembler à un garçon.
+78)  CLEMENTINE
+[flat] {sadB}Je vais ressembler à un garçon.
+69)  LEE
+{happyA}Mais tu seras plus tranquille.
+71)  LEE
+{happyA}Ca doit pas être si compliqué.
+73)  LEE
+{thinkingA}Ca veut dire que tu sais quand quelqu'un te mens, {happyA}et c'est un don de survie supplémentaire.
+74)  LEE
+{happyA}Ouais, évidemment.
+75)  CLEMENTINE
+{sadA}Je te crois pas.
+76)  LEE
+{thinkingA}Voilà... c'est bien.
+77)  CLEMENTINE
+{thinkingA}C'est bien ?
+79)  LEE
+[with regret] {sadA}Ouaip.
+80)  CLEMENTINE
+{sadA}Alors tu as déjà tué quelqu'un avant.
+81)  CLEMENTINE
+{sadA}Je suis contente que tu me l'aies dit.
+82)  LEE
+{sadB}Moi aussi.
+83)  CLEMENTINE
+{thinkingA}Tu as tué plein de gens depuis; {sadA}c'est pas grave.
+86)  CLEMENTINE
+{thinkingA}Tu as tué plein de gens depuis; {sadA}c'est pas grave.
+84)  LEE
+{sadC}Désolé.
+85)  CLEMENTINE
+{thinkingA}Tu aurais pu me le dire. {sadA}Je n'aurais pas eu peur de toi.
+87)  
+Non. C'est différent.
+88)  
+Qu'importe, tuer c'est mal.
+89)  
+Tu as raison
+90)  CLEMENTINE
+{thinkingA}Des gens vont en prison quand ils devraient pas ?
+101)  CLEMENTINE
+{thinkingA}Des gens vont en prison quand ils devraient pas ?
+91)  LEE
+{thinkingA}Tout le temps.
+102)  LEE
+{thinkingA}Tout le temps.
+92)  LEE
+{sadB}On m'a envoyé en prison.
+93)  CLEMENTINE
+{thinkingA}Mais tu le fais pour te protéger -- et me protéger.
+97)  CLEMENTINE
+{thinkingA}Mais tu le fais pour te protéger -- et me protéger.
+94)  LEE
+{sadA}Non, c'est différent.
+95)  LEE
+{thinkingB}Qu'importe, tuer c'est mal.
+96)  CLEMENTINE
+{thinkingA}Mais t'es obligé.
+98)  LEE
+{sadA}Ca n'excuse rien.
+99)  LEE
+{angryA}Je le fais par nécessité. Et les marcheurs ne sont pas humains.
+100)  LEE
+{thinkingA}Tu as raison.
+103)  LEE
+{thinkingB}Avant tout ça, on m'a envoyé en prison, tu sais.
+104)  LEE
+{happyB}Voilà, fini.
+105)  CLEMENTINE
+{happyA}Tiens, j'ai des machins pour les cheveux.
+106)  CLEMENTINE
+{thinkingA}Ouais. {happyA}Lilly m'en a donné pour dormir.
+107)  LEE
+{happyA}Voilà, j'ai presque fini. {thinkingA}Je peux sans doute attacher ceux-là avec un truc.
+108)  LEE
+{thinkingA}Vraiment ?
+109)  LEE
+{happyA}Ha, non. T'es mignonne -- {thinkingA}et plus dure à attraper.
+110)  CLEMENTINE
+{fearA}J'ai l'air idiote ?
+111)  LEE
+{thinkingB}Sois prudente avec Ben.
+112)  CLEMENTINE
+J'aime bien Ben.
+113)  LEE
+{sadA}Je sais. Il est... jeune. Et fais des erreurs.
+114)  CLEMENTINE
+Je suis jeune.
+115)  LEE
+{happyA}Tu es intelligente. {thinkingA}Ecoute ce que je te dis, d'accord ? Et sois prudente.
+116)  LEE
+{sadB}Quelle journée pourrie.
+117)  CLEMENTINE
+La plus pourrie de toutes.
+118)  LEE
+{sadA}Si j'avais su ce que tu allais vivre il y a trois mois, je sais pas si je t'aurais emmené.
+119)  CLEMENTINE
+Je n'aurais sans doute déjà plus à manger.
+120)  LEE
+{angryA}Tu es presque morte de faim avec moi.
+121)  CLEMENTINE
+Je suis contente d'être venue avec toi.
+122)  LEE
+{fearC}Quoi ?! Fais ce qu'il t'a dit ! Je reviens !
+123)  KENNY
+OH, MERDE ! ACCROCHEZ-VOUS !
+124)  LEE
+{thinkingA}Très bien. Comment tu te sens ?
+125)  CLEMENTINE
+{thinkingA}Bien. {happyA}Mieux. {happyB}Je suis contente de notre plan.
+126)  LEE
+{happyB}Et tu es une fine gachette.
+127)  CLEMENTINE
+{happyA}Merci.
+128)  LEE
+{thinkingA}Je crois qu'on devrait voir jusqu'où--
+129)  CLEMENTINE
+Je sais pas.
+130)  LEE
+{normalD}Il faut pas le juger trop vite. {sadA}Il a sans doute eu la vie dure.
+131)  CLEMENTINE
+Tu crois ?
+132)  LEE
+{thinkingB}Moi non plus. {thinkingA}Il a l'air d'être un bon bougre quand même.
+133)  LEE
+{thinkingA}Tu penses quoi de Chuck ?
+134)  CLEMENTINE
+[nervous] {fearA}Ok. Ok.
+135)  LEE
+{thinkingA}D'abord, n'aie pas peur. C'est juste un objet. Prend-le.
+136)  LEE
+{thinkingA}Mais fais tout le temps attention à ton doigt. {angryA}Et n'appuie sur la détente que pour blesser quelqu'un.
+137)  LEE
+{angryA}Il faut que tu saches te défendre.
+138)  LEE
+{thinkingA}Avec un de ces engins.
+140)  LEE
+{thinkingB}Et on fera quoi là-bas ? On ne sait pas ce qui nous attend -- {sadA}la ville peut être infestée ou {happyA}entièrement sécurisée.
+141)  LEE
+{normalD}Il faut qu'on parle de Savannah.
+142)  
+On devrait chercher tes parents.
+143)  
+Il faut qu'on trouve un bateau.
+144)  
+On devrait partir de notre côté.
+145)  CLEMENTINE
+{fearB}Ben, euh... Je veux retrouver mes parents. {fearA}Obligé. On a déjà fait tout ce chemin.
+146)  LEE
+[small] {sadA}D'accord.
+147)  LEE
+{happyB}Toi et moi, on est une équipe, tu vois ? Il nous faut un plan d'action.
+148)  LEE
+{happyB}Ha, bien.
+149)  CLEMENTINE
+Un plan. J'adore.
+150)  LEE
+{thinkingA}Ouais. {sadA}Tu dois découvrir s'ils vont bien. Ou, {sadB}ce qui leur ait arrivé.
+151)  CLEMENTINE
+{happyA}Je suis sûre qu'ils vont bien.
+152)  LEE
+{sadA}Je crois qu'on devrait chercher tes parents.
+153)  CLEMENTINE
+C'est vrai ?
+154)  
+T'enflammes pas.
+155)  
+Il parrait qu'ils sont morts.
+156)  
+Ouais, reste optimiste.
+157)  CLEMENTINE
+{FearA}Non. Le danger je m'en moque. {sadA}Je veux les retrouver.
+158)  CLEMENTINE
+{thinkingB}Ok, mais, {fearB}on sera à Savannah, LA où mes parents sont.
+159)  LEE
+{sadA}Je sais, écoute--
+160)  LEE
+{thinkingB}On doit trouver un bateau. C'est la meilleure façon de nous en tirer.
+161)  
+Ils sont morts. On doit continuer.
+168)  
+Ils sont morts. On doit continuer.
+162)  
+Ok. On les cherche et ENSUITE le bateau.
+163)  
+Où va-t-on chercher ?
+164)  LEE
+{thinkingA}On devrait partir de notre côté. {sadB}Le groupe s'effondre. On est plus forts sans eux.
+165)  LEE
+{sadA}Ca va aller.
+166)  CLEMENTINE
+{fearB}On peut au moins CHERCHER mes parents là-bas, avant de partir ?
+167)  CLEMENTINE
+{thinkingA}Et le bateau... et Ben ?
+169)  
+Ok. On va les chercher et ensuite on s'en va.
+170)  
+Où va-t-on chercher ?
+171)  LEE
+{happyA}Toi et moi, quand le train s'arrêtera, on devra savoir quoi faire sans les autres.
+172)  CLEMENTINE
+{thinkingA}D'accord.
+173)  LEE
+{sadA}T'enflamme pas trop vite.
+174)  LEE
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+180)  LEE
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+184)  LEE
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+186)  LEE
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+199)  LEE
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+228)  LEE
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+175)  CLEMENTINE
+{happyB}D'accord.
+181)  CLEMENTINE
+{happyB}D'accord.
+200)  CLEMENTINE
+{happyB}D'accord.
+226)  CLEMENTINE
+{happyB}D'accord.
+176)  CLEMENTINE
+[firm but ont he verge of tears] {sadC}Ils sont vivants.
+194)  CLEMENTINE
+[firm but ont he verge of tears] {sadC}Ils sont vivants.
+218)  CLEMENTINE
+[firm but ont he verge of tears] {sadC}Ils sont vivants.
+177)  LEE
+{sadC}Il parrait qu'ils sont morts.
+178)  CLEMENTINE
+[small] {cryingA}Ca t'arrangerait, hein ?
+195)  CLEMENTINE
+[small] {cryingA}Ca t'arrangerait, hein ?
+217)  CLEMENTINE
+[small] {cryingA}Ca t'arrangerait, hein ?
+179)  LEE
+{sadB}Ne sois pas ridicule. [revealing] {fearA}Je ne veux pas que tu souffres encore plus.
+182)  CLEMENTINE
+{happyA}C'est ce que papa disait tout le temps.
+183)  LEE
+{fearA}Ouais, vaut mieux rester optimiste.
+185)  CLEMENTINE
+[firm] {thinkingB}Je sais qu'ils vont bien.
+187)  LEE
+{sadC}Ils sont morts. On doit continuer.
+216)  LEE
+{sadC}Ils sont morts. On doit continuer.
+188)  LEE
+{happyA}Ok. Voilà le plan.
+214)  LEE
+{happyA}Ok. Voilà le plan.
+222)  LEE
+{happyA}Ok. Voilà le plan.
+238)  LEE
+{happyA}Ok. Voilà le plan.
+189)  LEE
+{sadC}Je suis désolé. Pleure pas.
+211)  LEE
+{sadC}Je suis désolé. Pleure pas.
+219)  LEE
+{sadC}Je suis désolé. Pleure pas.
+240)  LEE
+{sadC}Je suis désolé. Pleure pas.
+190)  CLEMENTINE
+[getting over crying] {cryingA}Si... on ne les trouve pas, on prend le bateau. {happyA}Sinon ils viennent avec nous.
+213)  CLEMENTINE
+[getting over crying] {cryingA}Si... on ne les trouve pas, on prend le bateau. {happyA}Sinon ils viennent avec nous.
+191)  LEE
+[sigh] {sadC}On poursuivra notre route en bateau mais d'abord on cherchera tes parents.
+210)  LEE
+[sigh] {sadC}On poursuivra notre route en bateau mais d'abord on cherchera tes parents.
+192)  CLEMENTINE
+{cryingB}[sobbing]
+208)  CLEMENTINE
+{cryingB}[sobbing]
+220)  CLEMENTINE
+{cryingB}[sobbing]
+242)  CLEMENTINE
+{cryingB}[sobbing]
+193)  LEE
+{sadB}Viens voir, ma puce.
+212)  LEE
+{sadB}Viens voir, ma puce.
+221)  LEE
+{sadB}Viens voir, ma puce.
+239)  LEE
+{sadB}Viens voir, ma puce.
+196)  LEE
+{thinkingB}Ok. On va les chercher.
+229)  LEE
+{thinkingB}Ok. On va les chercher.
+197)  LEE
+{sadA}Oui, bien sûr. Je suis désolé.
+225)  LEE
+{sadA}Oui, bien sûr. Je suis désolé.
+198)  CLEMENTINE
+{happyA}C'est vrai ?
+227)  CLEMENTINE
+{happyA}C'est vrai ?
+201)  LEE
+{sadA}Clémentine...
+236)  LEE
+{sadA}Clémentine...
+202)  CLEMENTINE
+{fearA}Je me rappelle où ils vont. Ils sont peut-être pas loin.
+232)  CLEMENTINE
+{fearA}Je me rappelle où ils vont. Ils sont peut-être pas loin.
+203)  CLEMENTINE
+{fearB}S'il te plait, Lee.
+235)  CLEMENTINE
+{fearB}S'il te plait, Lee.
+204)  LEE
+{thinkingB}Par où commencer ?
+233)  LEE
+{thinkingB}Par où commencer ?
+205)  LEE
+[relents] {sadB}Très bien. Trouvons ça sur la carte, mais le bateau c'est notre dernière option.
+206)  CLEMENTINE
+{sadA}Oui. {fearA}Ils viendront avec nous, pas vrai ?
+231)  CLEMENTINE
+{sadA}Oui. {fearA}Ils viendront avec nous, pas vrai ?
+207)  LEE
+{sadA}Oui.
+234)  LEE
+{sadA}Oui.
+209)  CLEMENTINE
+[quietly sobs, sniffles]
+243)  CLEMENTINE
+[quietly sobs, sniffles]
+215)  LEE
+[aww...] {sadC}Ecoute...
+241)  LEE
+[aww...] {sadC}Ecoute...
+223)  CLEMENTINE
+{sadB}Si on les trouve pas on s'en va. {happyB}Sinon ils viennent avec nous.
+224)  LEE
+{sadB}On doit quitter le groupe mais d'abord on va chercher tes parents.
+230)  LEE
+Mais après on s'en va.
+237)  LEE
+{sadB}Très bien. Voyons ça sur la carte. {sadC}Mais après on s'en va hors de la ville, on doit rester en mouvement.
+244)  LEE
+{thinkingB}Je suis persuadé qu'on doit rester en mouvement. Mais on peut chercher tes parents pour commencer.
+245)  CLEMENTINE
+[getting over sobbing] {sadC}Si on les trouve pas, ça va... on peut partir de Savannah comme tu dis.
+246)  LEE
+{thinkingA}Et de là, on a tout Savannah au sud-ouest de notre position.
+247)  LEE
+{thinkingA}Il semblerait qu'on se dirige droit sur la ville si rien ne nous bloque sur les voies.
+256)  LEE
+{thinkingA}Il semblerait qu'on se dirige droit sur la ville si rien ne nous bloque sur les voies.
+259)  LEE
+{thinkingA}Il semblerait qu'on se dirige droit sur la ville si rien ne nous bloque sur les voies.
+248)  LEE
+{thinkingB}On va falloir trouver un bateau ici [points], j'imagine.
+249)  CLEMENTINE
+{fearB}J'aime pas la forêt.
+250)  LEE
+{angryA}Et, sauf si Savannah est sans marcheurs on doit rester hors de la ville.
+251)  CLEMENTINE
+{happyA}Pour ne pas être surpris par les marcheurs.
+252)  CLEMENTINE
+{happyB}J'aime la plage.
+253)  CLEMENTINE
+{fearB}Est-ce qu'on va vivre dans la forêt ?
+254)  LEE
+{happyB}Bien.
+255)  LEE
+{thinkingB}Je pense que -- après avoir cherché tes parents -- on doit aller au nord en laissant l'eau -- l'océan -- sur notre droite.
+257)  LEE
+{sadA}Tu n'aimes pas la forêt ?
+258)  LEE
+{happyA}Exactement.
+260)  LEE
+{thinkingB}Voilà, on a une grosse partie de Savannah ici. T'en penses quoi ?
+261)  CLEMENTINE
+{thinkingA}Ils restent toujours au même endroit quand ils y vont. {sadA}C'est...
+262)  LEE
+{happyA}Ok. [new thought]
+263)  LEE
+{thinkingB}Le M-- ... M quelque chose. Mu...Mu...
+264)  CLEMENTINE
+{thinkingA}C'est un truc-House.
+265)  LEE
+{thinkingB}Attend, ils ont laissé une note à ta babysitter ?
+266)  CLEMENTINE
+{happyA}Ouais ! {thinkingA}Le contraire aurait été irresponsable.
+267)  LEE
+{happyA}Très bien, donc c'est là qu'on ira.
+268)  LEE
+{happyA}La Marsh House? C'est ça ? {thinkingA}Ca sonne comme --
+269)  CLEMENTINE
+{happyB}Oui ! C'est ça ! Une fois y'avait de la mousse au chocolat au restaurant !
+270)  LEE
+{happyA}Tu crois que c'est un bon plan ?
+287)  LEE
+{happyA}Tu crois que c'est un bon plan ?
+271)  CLEMENTINE
+{happyA}Oui, c'est très bien.
+286)  CLEMENTINE
+{happyA}Oui, c'est très bien.
+272)  CLEMENTINE
+{happyB}Moi aussi.
+273)  LEE
+{happyA}C'était pas si dur. {thinkingA}Content d'avoir fureté dans ta cuisine.
+274)  CLEMENTINE
+{thinkingA}Une fois.
+275)  LEE
+{happyA}Tu y es déjà allé ?
+276)  LEE
+{thinkingA}Réfléchi --  il y a pas mal d'hôtels là-dessus, si tu regardes la carte ça peut te rappeler des souvenirs.
+277)  LEE
+{thinkingA}T'en fais pas, on va trouver.
+278)  CLEMENTINE
+{happyA}Comme se cacher ou s'enfuir, j'ai compris.
+280)  LEE
+{thinkingA}Désolé pour tes cheveux. {happyB}Mais c'est mignon.
+281)  CLEMENTINE
+[grumpy]Ma maman ne va pas aimer.
+282)  CLEMENTINE
+{thinkingA}Ils ont des desserts super bons. Ca s'appelle le M... truc... Mar...
+283)  LEE
+{thinkingA}La Marsh House ? C'est ça ?
+284)  LEE
+{happyA}On ira là-bas alors.
+285)  CLEMENTINE
+{happyB}Oui, c'est ça.
+288)  CLEMENTINE
+{happyA}Oui !
+289)  LEE
+{happyA}Tu t'endurcies.
+290)  LEE
+{thinkingA}Tu vois, ça fait pas peur.
+291)  CLEMENTINE
+{sadA}C'est lourd.
+292)  LEE
+{thinkingB}Pour viser, tu regardes à travers cette encoche, en haut.
+293)  LEE
+Aligne la pointe avec ta cible.
+294)  LEE
+Bien. Ne tend pas tes coudes.
+295)  LEE
+{thinkingA}Ok, vise un peu plus à gauche.
+296)  LEE
+{thinkingA}Un peu plus à gauche.
+297)  LEE
+{thinkingA}Vise plus bas.
+298)  LEE
+{thinkingA}Un peu plus bas.
+299)  LEE
+{thinkingA}Ok, un poil plus haut.
+300)  LEE
+{thinkingA}Vise un peu plus haut.
+301)  LEE
+{thinkingA}Un chouia à droite.
+302)  LEE
+{thinkingA}Vise un peu plus à droite.
+303)  LEE
+{happyA}Excellent, bon tir.
+304)  LEE
+{happyA}Et voilà, joli.
+305)  LEE
+{angryA}Ouais, c'est ça.
+306)  CLEMENTINE
+{sadB}Je suis obligée ?
+307)  LEE
+{thinkingA}On s'y tient, d'accord ?
+308)  CLEMENTINE
+[scream/squeel] {fearC}
+309)  LEE
+{fearA}Ca va ?
+310)  CLEMENTINE
+[pickup 2] [new read: Should be My hands hurt.] {sadA}J'ai mal aux mains. J'aime pas ça.
+311)  LEE
+{thinkingA}Bon, pour commencer, presse simplement la détente doucement. Je couvre tes oreilles. C'est simple comme bonjour.
+312)  CLEMENTINE
+{thinkingA}Simple comme bonjour.
+313)  CLEMENTINE
+[pickup 2] [newread: should be nah uh - read indicates yes.] Non-non. [no]
+314)  LEE
+{happyA}Oui, c'est bien.
+315)  CLEMENTINE
+{happyB}J'y suis arrivée !
+316)  CLEMENTINE
+Ca va, je vais bien.
+317)  LEE
+Non, loin de là. Mais tu sais comment on s'en sert maintenant. On passera aux marcheurs, un jour.
+318)  LEE
+Ca fait pas si peur, non ?
+319)  CLEMENTINE
+Non mais c'est pas des marcheurs.
+320)  CLEMENTINE
+[pickup2] [nervous] C'est tout ce que je dois savoir ?
+321)  
+Presse la détente sans bouger.
+322)  
+Inspire, bloque et tire.
+323)  
+Vise la tête.
+324)  LEE
+[pickup2]Presse la détente sans bouger, d'accord ? Pas d'à-coups.
+325)  CLEMENTINE
+[pickup2] Sans bouger. D'accord.
+326)  LEE
+[pickup2] Tout le temps. Rappelle-toi de ça et tu toucheras tout ce que tu vises.
+327)  CLEMENTINE
+[pickup2] D'accord. Je suis prête.
+328)  LEE
+[pickup2] Quand tu voudras tirer, fais attention de bien respirer calmement, puis retiens ton souffle et appuie sur la gâchette.
+329)  CLEMENTINE
+[pickup2] Comme pour nager ?
+330)  LEE
+[pickup2] Non -- juste pour une seconde. J'ai l'impression d'être plus précis quand je fais ça. C'est dur mais ça aide.
+331)  CLEMENTINE
+[pickup2] Je peux le faire. 
+332)  LEE
+[pickup2] La tête ou le corps. N'importe où.
+333)  CLEMENTINE
+[pickup2] Je veux pas y penser.
+334)  LEE
+[pickup2] Tu as raison. Ca ferait un peu trop pour ton premier jour. Prête ?
+335)  CLEMENTINE
+[pickup2] Prête !
+336)  LEE
+[pickup2] Sauf si celui qui te veux du mal n'est pas un marcheur.
+337)  CLEMENTINE
+[pickup2] [after a beat] ...et ensuite ?
+338)  LEE
+[pickup2] Ce sont des bouteilles mais imagine que tu vises la tête.
+339)  CLEMENTINE
+[pickup2] Je sais. Uniquement la tête.
+340)  CLEMENTINE
+[pickup2]  Je crois que je sais tout maintenant. [grumbles] Etre une petite fille, tout ça.
+341)  CLEMENTINE
+J'ai appuyé comme tu as dit.
+342)  LEE
+J'ai vu, c'est très bien.
+343)  LEE
+Tu vois ? C'est bien.
+344)  CLEMENTINE
+J'ai retenu mon souffle et le pistolet n'a pas trop bougé.
+345)  CLEMENTINE
+J'ai fait comme si c'était des têtes de zombies.
+346)  LEE
+Très bien, c'est ce qu'il faut.
+347)  CLEMENTINE
+J'ai pas eu besoin de plus de conseil !
+348)  CLEMENTINE
+{happyB}J'ai compris !
+349)  LEE
+{happyB}[pickup2]Pour ta première fois c'est du bon travail.
+350)  
+Vise à gauche.
+351)  
+Vise à droite.
+352)  
+Vise plus bas.
+353)  
+Vise plus haut.
+354)  CLEMENTINE
+[pickup2]Je peux... le dire à mes parents ? Tu sais quoi. [the "you know," is a small, ambiguous nod to the fact that she's been talking into this "broken" walkie-talkie thinking she can communiate with her parents]
+355)  LEE
+[pickup2] Bien sûr, vas-y. [warm, but humoring clementine out of compassion]
+356)  CLEMENTINE
+[pickup2][so small. tiny. wind out of your sails.] T'as pas le droit de me dire quoi faire.
+357)  LEE
+[pickup2] CLEMENTINE. [intimate convo distance, she's said something that upset you and you're saying "don't be like that"]
+358)  CLEMENTINE
+[pickup2]Je veux plus en parler.
+359)  LEE
+[pickup2] Clém... voyons. C'est pas une bonne idée.
+360)  LEE
+[pickup2] Presque. Ne bouge pas.
+361)  LEE
+[pickup2] Ne bouge pas. Tu y es presque.
+362)  CLEMENTINE
+[pickup2] [smallish] Ils seront contents. Promis.
+363)  
+Ne bouge pas.
+364)  
+Ne bouge pas.

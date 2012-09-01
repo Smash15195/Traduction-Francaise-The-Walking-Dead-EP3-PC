@@ -1,0 +1,360 @@
+1)  
+Votre sac à dos est vide.
+2)  
+Votre sac à dos a quelques provisions.
+3)  
+Votre sac à dos a beaucoup de provisions.
+4)  
+Votre sac à dos est rempli de provisions.
+5)  
+Kenny s'en souviendra.
+6)  
+Kenny s'en souviendra.
+23)  
+Kenny s'en souviendra.
+34)  
+Kenny s'en souviendra.
+105)  
+Kenny s'en souviendra.
+167)  
+Kenny s'en souviendra.
+168)  
+Kenny s'en souviendra.
+169)  
+Kenny s'en souviendra.
+170)  
+Kenny s'en souviendra.
+171)  
+Kenny s'en souviendra.
+175)  
+Kenny s'en souviendra.
+180)  
+Kenny s'en souviendra.
+7)  
+Kenny n'est pas d'accord avec vous.
+8)  
+Vous avez récupéré 1 article.
+9)  
+Vous avez récupéré 2 articles.
+10)  
+Vous avez récupéré 3 articles.
+11)  
+Vous avez récupéré 4 articles.
+12)  
+Vous avez récupéré 5 articles.
+13)  
+Vous avez récupéré 6 articles.
+14)  
+Vous avez récupéré 9 articles.
+15)  
+Vous avez récupéré 7 articles.
+16)  
+Vous avez récupéré 8 articles.
+17)  
+Vous avez récupéré 10 articles.
+18)  
+Vous avez récupéré 11 articles.
+19)  
+Vous avez récupéré 12 articles.
+20)  
+Vous avez récupéré 13 articles.
+21)  
+Vous avez récupéré 14 articles.
+22)  
+Vous avez récupéré 15 articles.
+24)  
+Kenny a remarqué votre intérêt.
+25)  
+Kenny n'a pas apprécié.
+26)  
+Kenny n'a pas apprécié.
+27)  
+Kenny a remarqué que votre indifférence.
+28)  
+Vous avez choisi de tirer sur la jeune femme.
+29)  
+Vous avez choisi de laisser la jeune femme.
+30)  
+Vous n'étiez pas en mesure de sauver la jeune fille.
+31)  
+Kenny a remarqué que vous avez changé d'avis.
+32)  
+Lilly se souviendra que vous souhaitiez partir.
+33)  
+Vous avez dit à Lilly que vous vouliez rester.
+35)  
+Kenny a entendu dire que vous vouliez rester.
+36)  
+Duck aidera.
+37)  
+Duck a entendu que vous n'avez pas besoin de son aide.
+38)  
+Carley s'en souviendra.
+52)  
+Carley s'en souviendra.
+115)  
+Carley s'en souviendra.
+39)  
+Carley n'est pas satisfaite par votre décision.
+40)  
+Kenny apprécie votre honnêteté.
+41)  
+Vous avez caché votre passé à Kenny.
+42)  
+Katjaa s'en souviendra.
+43)  
+Vous n'avez rien dit sur votre passé à Kaatja.
+44)  
+Clémentine comprend ce que vous avez fait.
+45)  
+Vous avez choisi de rien dire de votre passé à Clémentine.
+46)  
+Ben n'oublira ça.
+51)  
+Ben n'oublira ça.
+66)  
+Ben n'oublira ça.
+176)  
+Ben n'oublira ça.
+47)  
+Vous n'avez pas révéler votre passé à Ben.
+48)  
+Lilly n'oublira ça.
+172)  
+Lilly n'oublira ça.
+174)  
+Lilly n'oublira ça.
+49)  
+Vous n'avez pas révéler votre passé à Lilly.
+50)  
+Vous ne voulez pas de l'aide de Duck, mais il ne l'a pas vraiment entendu.
+53)  
+Ben a été blessé par votre accusation.
+54)  
+Carley n'oublira ça.
+55)  
+Vous avez fait rester en arrière Lilly.
+56)  
+Vous laissez Lilly retourner au camping-car.
+57)  
+Katjaa est reconnaissante pour votre aide.
+58)  
+Katjaa apprécie votre préoccupation.
+59)  
+Vous avez dit à Lilly que vous irez avec elle.
+60)  
+Vous avez dit à Lilly que vous ne quitteriez pas le groupe.
+61)  
+Vous lui avez dit la vérité.
+112)  
+Vous lui avez dit la vérité.
+62)  
+Vous avez menti à Chuck.
+63)  
+Vous avez évité la question de Chuck.
+64)  
+Chuck a remarqué votre intérêt pour son histoire.
+65)  
+Clémentine remarqué ce que vous ressentez pour Lilly.
+67)  
+Vous avez frappé l'esprit de Kenny.
+69)  
+Vous avez frappé l'esprit de Kenny.
+68)  
+Vous avez pu faire entendre raison à votre ami.
+70)  
+Vous avez parlé a Kenny pendant l'arrêt du train.
+71)  
+Katjaa est d'accord avec votre suggestion.
+72)  
+Kenny est d'accord.
+73)  
+Kenny et Katjaa vous remercie de votre gentillesse.
+74)  
+Clémentine se souviendra de votre honnêteté.
+75)  
+Vous avez choisi de rien lui dire.
+76)  
+Vous avez décidé de laisser le père finir.
+77)  
+Vous avez choisi de le faire vous-même.
+78)  
+Vous avez choisi de laisser Kenny tirer sur Duck.
+79)  
+Chuck n'aime pas ça.
+80)  
+Vous en êtes arrivé à menacé Ben
+81)  
+Ben sent à quel point vous êtes déçu.
+82)  
+Vous avez menacé Ben.
+83)  
+Vous avez partagé un verre avec Chuck.
+84)  
+Vous avez décidé de ne pas partager de verre avec Chuck.
+85)  
+Vous avez appris à Clémentine a se protéger.
+86)  
+Les cheveux de Clémentine sont mieux protégés maintenant.
+121)  
+Les cheveux de Clémentine sont mieux protégés maintenant.
+87)  
+Vous avez vraiment blesser les sentiments de Clémentine.
+88)  
+Cela a vraiment bouleversé Clémentine.
+89)  
+Vous et Clémentine avez fait un plan pour trouver un bateau.
+90)  
+Vous et Clémentine avez fait un plan pour trouver ses parents.
+91)  
+Vous et Clémentine avez fait un plan pour trouver votre propre chemin.
+92)  
+Ils s'en souviendront.
+164)  
+Ils s'en souviendront.
+165)  
+Ils s'en souviendront.
+93)  
+Les étrangers ne semblent pas content de votre réponse.
+94)  
+Les étrangers semblent se méfier de vous.
+95)  
+Les étrangers nous
+96)  
+Vous vous rejoingnez avec Omid sur une certaine histoire du Sud.
+97)  
+Omid et Christa se souviendront de ce que vous avez dit à propos de Ben.
+98)  
+Ils se souviendront de ce que vous avez dit à propos de Kenny.
+99)  
+Ils se souviendront de ce que vous avez dit.
+100)  
+Ils se souviendront de ce que vous avez dit à propos de Chuck.
+101)  
+Christa n'oublira ça.
+102)  
+You made a risky decision in order to slow them down.
+103)  
+Vous poussé Omid.
+104)  
+Lilly s'en souviendra.
+154)  
+Lilly s'en souviendra.
+173)  
+Lilly s'en souviendra.
+106)  
+Tape m'en cinq !
+107)  
+Vous avez laissé Duck pendu.
+108)  
+Vous avez fait une journée pour Duck.
+109)  
+Lilly l'a remarqué.
+155)  
+Lilly l'a remarqué.
+110)  
+Il remarque que vous n'avez pas répondu à sa question.
+111)  
+Chuck a vu au-travers de votre mensonge.
+113)  
+Clémentine a remarqué votre silence.
+114)  
+Ben est reconnaissant pour votre loyauté.
+116)  
+Vous avez convaincu Kenny d'arrêter le train.
+117)  
+Kenny s'en souviendra.
+118)  
+Kenny s'en souviendra.
+119)  
+Aucun de vous ne pourrait le faire.
+120)  
+Vous avez laissé Duck dans les bois.
+122)  
+Ben s'en souviendra.
+123)  
+Clementine s'en souviendra.
+124)  
+Vous avez appris qu'Omid s'intéresse à l'histoire du Sud.
+125)  
+Christa et Omid se souviendront de ce que vous avez dit.
+126)  
+Christa a remarqué que votre silence.
+127)  
+Christa n'a pas apprécié que vous vous immisciez dans ses affaires.
+128)  
+Vous avez choisi de sauver Omid.
+129)  
+Vous avez sauvé Christa en première.
+130)  
+Vous avez sauvé Omid en premier.
+131)  
+Vous n'avez pas aidé.
+132)  
+Kenny a remarqué que vous avez changé d'avis.
+133)  
+Ils s'en souviendront.
+166)  
+Ils s'en souviendront.
+178)  
+Ils s'en souviendront.
+134)  
+Vous avez choisi de leur raconter l'histoire de Kenny.
+135)  
+Vous avez récupéré 16 articles.
+136)  
+Vous avez récupéré 16 articles.
+137)  
+Vous avez récupéré 17 articles.
+138)  
+Vous avez récupéré 18 articles.
+139)  
+Vous avez récupéré 19 articles.
+140)  
+Vous avez récupéré 20 articles.
+141)  
+Vous avez dit à Lilly que vous vouliez laisser.
+142)  
+On dirait que Duck va vous aider de toute manière.
+143)  
+Vous n'avez rien dit à Kenny au sujet de votre passé.
+144)  
+Duck pense que vous êtes incroyablement impressionnant.
+145)  
+Vous lui avez menti.
+146)  
+Vous avez été honnête avec Clémentine à propos de Lilly.
+147)  
+Clémentine a remarqué ça.
+148)  
+Kenny apprécie votre optimisme.
+149)  
+Kenny a pris acte de votre prudence.
+151)  
+Kenny a pris acte de votre prudence.
+150)  
+Kenny a remarqué votre pessimisme.
+152)  
+Kenny a remarqué ça.
+153)  
+Kenny s'en souviendra.
+156)  
+Tout le monde remarque que vous pris le parti de Lilly.
+157)  
+Tout le monde l'a remarqué.
+158)  
+Vous avez essayé de le laisser partir.
+159)  
+Vous avez choisi de garder le silence.
+160)  
+Vous avez voté contre Ben.
+161)  
+Vous et Lilly êtes d'accord.
+162)  
+Clémentine se souviendra de votre silence.
+163)  
+Kenny se souviendra de votre compassion.
+177)  
+Clémentine n'oubliera pas.
+179)  
+Ben a remarqué votre réaction.

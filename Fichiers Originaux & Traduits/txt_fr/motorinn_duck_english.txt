@@ -1,0 +1,30 @@
+1)  
+Tu as trouvé quelque chose d'autre ?
+2)  
+Tu n'as pas casser la lampe de poche, hein ?
+3)  
+Tu semble en savoir un peu plus sur tout ça...
+4)  LEE
+{normalA}Tu as trouvé quelque chose d'autre ?
+5)  DUCK
+{normalA}Juste de la craie. {thinkingA}J'ai aussi trouvé quelques insectes sous les escaliers. {sadA}Ne le dit pas à Clémentine.
+6)  LEE
+{thinkingA}[confused] D'accord.
+7)  LEE
+{normalB}Tu n'as pas casser la lampe de poche, hein ?
+8)  DUCK
+{sadB}Non. Papa et maman ne me laisse pas toucher leur affaire. Lilly non plus.
+9)  LEE
+{normalC}C'est surement mieux comme ça.
+10)  DUCK
+{happyC}Non ! Je suis un gentil garçon.
+11)  LEE
+{thinkingA}Tu semble en savoir un beaucoup sur tout ça...{thinkingB} la craie, tu as trouvé des éraflures ici, ça va te sembler dingue, mais tu n'as rien a voir avec tout ça, hein ?
+12)  LEE
+{angrya}Reste à l'intérieur de la porte.
+13)  DUCK
+{sadB}Oui, oui.
+14)  
+Parler à
+15)  
+Montrer Lampe de Poche à

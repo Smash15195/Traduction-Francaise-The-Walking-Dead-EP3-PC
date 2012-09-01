@@ -1,0 +1,63 @@
+1)  LEE
+Ouvrez les portes !  Il y a des blessés.
+2)  LILLY
+Je veux savoir comment vous en êtes venus à croire que ce serait une bonne idée de ramener d'autres bouches à nourrir ici ?!
+30)  LILLY
+Je veux savoir comment vous en êtes venus à croire que ce serait une bonne idée de ramener d'autres bouches à nourrir ici ?!
+3)  KENNY
+Vous avez été bon avec moi et ma famille.
+4)  KENNY
+Je dois prendre soin de ma famille. Je dois être sûr que ceux que je prends avec moi veilleront sur Kat et Duck.
+5)  LEE
+Attendez, je sais que-
+6)  KENNY
+Lee, vous avez laisser Duck en danger deux fois !
+7)  DUCK
+Ahhhh !!
+8)  KENNY
+Je ne l'oublirai pas.
+9)  LEE
+Il y des rumeurs que vous voudriez partir du motel.
+10)  KENNY
+Eh bien, "ici" n'est pas bon pour nous tous. Vous devriez penser venir avec nous. Vous et Clem.
+11)  BANDIT2
+Personne n'essayera de vous couper quoi que ce soit !
+12)  BEN
+On dirait les personnes qui ont attaqué mon camp !
+13)  BANDIT2
+Calme-toi... Ta paranoïa est-
+Bandit1 shoot bandit 2
+14)  BANDIT1
+VA TE FAIRE FOUTRE !
+15)  CARLEY
+Vous avez dit à quelqu'un là-bas qui vous étiez ? Ou pourquoi vous étiez attaché à cet endroit ?
+16)  LARRY
+C'est vrai. Je sais qui vous êtes. Et je sais que vous êtes un tueur.
+17)  LILLY
+IL EST PAS MORT !  Venez m'aider !
+18)  KENNY
+Voyons ! Nous savons que ce type ne le fera pas !
+19)  KENNY
+Nnnggh !!
+20)  LILLY
+Noooon !!
+21)  KENNY
+On dirait une voiture...
+22)  KENNY
+Il y a paquet de provisions et de matériel là-dedans !
+23)  LEE
+Nous devons les prendre Clémentine.  Nous en avons besoin pour survivre.
+24)  JOLENE
+Ne t'inquiète pas ma petite.  Les bandits n'ont d'yeux que pour cette ferme.  Aussi longtemps qu'ils leur donneront de la nourriture, tu seras en sécurité.
+25)  LEE
+[to Clementine]Vous avez raison. Nous ne devrions pas les prendre.
+26)  KENNY
+Nous autres voulont les prendre.
+27)  KENNY
+Vous avez sauvé Duck de ces monstres...
+28)  KENNY
+Et vous avez tenu tête à Larry au Drugstore.
+29)  LEE
+[Kenny smashed Larrys head]KENNY !  PUTAIN !?!
+31)  LEE
+Précédemment dans The Walking Dead...
