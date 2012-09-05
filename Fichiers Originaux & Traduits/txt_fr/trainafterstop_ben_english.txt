@@ -1,0 +1,135 @@
+2)  
+Carley n'avait pas à mourir.
+3)  
+Doug a sauvé ta vie.
+4)  
+Autre CHOSE à me dire?
+5)  
+Ne reste pas beaucoup d'entre nous.
+6)  LEE
+{thinkingA}Que fais-tu ici?
+7)  LEE
+{thinkingB}Autre chose?
+8)  BEN
+{fearA}Je ne crois pas.
+9)  BEN
+{fearA}Je, uh, ne pouvais plus revenir. {sadB}J'avais besoin d'un peu d'air.
+10)  BEN
+{sadC}Je pensais parler à Kenny...
+11)  BEN
+{sadA}Ouais... {thinkingA}Toi, moi and Kenny. Clementine. {fearB}Le vagabond, si il est par là.
+12)  LEE
+{sadA}Ne reste pas beaucoup d'entre nous..
+13)  
+Nous sommes tous des vagabonds.
+14)  
+Je ne sais pas si nous pouvons compter sur Kenny.
+15)  
+Tu vas pouvoir remonter la pente?
+16)  BEN
+{sadA}Ouais... Je ne pense pas.
+17)  LEE
+{sadB}Ce n'est pas très utile de décrire les gens par qui ils sont.
+18)  LEE
+{sadA}Nous sommes tous des vagabonds.
+19)  BEN
+{disgustA}Tu sais ce que je veux dire.
+20)  LEE
+{sadC}Nous ne savons pas.
+21)  LEE
+{thinkingA}Pourquoi n'as-tu pas essayé de les trouver?
+22)  BEN
+{thinkingA}Je suppose.
+23)  LEE
+{angryA}Bon, ce qui est arrivé à Kenny est different.
+24)  BEN
+[pickup 2] [new read:Emphasis is off. Should be 'nobody would GO with me' not 'nobody would go WITH 
+me.']{fearA}Je...{fearB}personne ne voudra aller avec moi. {sadB}C'était il y a un moment.
+25)  BEN
+{thinkingA}Il conduit le train, d'accord.
+26)  LEE
+{sadB}Je ne sais pas si nous pouvons compter sur Kenny.
+27)  BEN
+{sadA}J'ai perdu tout le monde que je connaissais à cause de ça. {sadB}Je ne retournerai jamais chez moi. {sadC}Qui c'est ce qui c'est passé avec mes parents.
+28)  LEE
+{thinkingB}Vas-tu être capable de remonter la pente?
+29)  LEE
+[a little firm] {angryA}Bien. J'espère que c'est vrai.
+30)  BEN
+{thinkingA}Je peux juste faire autant que les autres.
+31)  BEN
+{sadA}...J'espère que c'était plus que ça. {fearA}Juste nous autres et Clementine. {sadB}C'est pas super.
+32)  BEN
+{sadA}Ouais.
+33)  LEE
+{thinkingA}A plus.
+34)  LEE
+{thinkingA}Hey, Ben.
+35)  BEN
+{fearA}Hey.
+36)  LEE
+{angryA}Y a t'il autre chose que tu veux dire?
+37)  BEN
+{sadB}...Non.
+38)  LEE
+{angryB}Bien. Tu ne pourras jamais le dire à Kenny, tu comprends?
+39)  BEN
+{fearB}Mais--
+40)  LEE
+{angryC}JAMAIS. Tu nous as pas vendus aux bandites, ils n'ont jamais attaqué, Duck ne s'est jamais fait mordre. Il te tuerait.
+41)  BEN
+{sadC}Je veux... Je veux qu'il sache --
+42)  LEE
+{angryB}Conneries. Tu veux te sentir mieux.
+43)  LEE
+[pickup2] {angryB}Doug a sauvé ta vie, tu sais.
+44)  LEE
+[pickup2][cont] {sadB}Même si c'était Clementine, il était effectivement inquiet.
+45)  BEN
+[pickup2] [distraught]{sadC} Je sais, Je sais... {sadD}Je ne sais pas si je peux continuer comme ça, mon vieux.
+46)  LEE
+[pickup2] {angryA}Bien, il va falloir. Ainsi vont les choses.
+47)  LEE
+[pickup2] {angryB}Carley n'avait pas à mourir, tu sais.
+48)  BEN
+[pickup2] {fearB}Elle m'aurait plutôt tué.
+49)  LEE
+[pickup2] [heavy] {sadB}Oui, peut-être.
+50)  BEN
+[pickup2]{fearA} ...Tu veux encore me parler?
+51)  
+Pas vraiment.
+52)  
+Pas beaucoup le choix.
+53)  
+Ouais.
+54)  LEE
+[pickup2] [cold and dissmissive, do you still want to talk to me after i got everyone killed?] {angryA}Pas vraiment.
+55)  BEN
+[pickup2][sad] {sadC}Je ne pense pas.
+56)  LEE
+[pickup2]{angryA}Je n'ai pas beaucoup le choix, à moins que tu ailles quelque part.
+57)  BEN
+[pickup2]{fearA}Je...Je ne pense pas. [are you going anywhere? like, are you leaving the group since you fucked up so bad?]
+58)  LEE
+[pickup2] {angryA}Ouais, je veux. [want to talk to you, even though ben doesnt think you would want to]
+59)  BEN
+[pickup2] {sadC}Je suis vraiment désolé.
+60)  LEE
+[pickup2] {sadB}Laissons tomber ça maintenant, d'accord?
+61)  BEN
+[pickup2] [maybe change to this?] Just thinking about talking to Kenny...
+62)  
+Que fais tu ici?
+63)  
+Je suis sérieux à propos de garder ta merde pour toi.
+64)  LEE
+[pickup2] {angryB}Je suis très sérieux à propose de garder tes erreurs pour toi.
+65)  BEN
+[pickup2] {sadB}Je peux dire. [being reprimanded]
+66)  LEE
+[pickup2]{angryA} Tu comprends pourquoi, n'est-ce pas?
+67)  BEN
+[pickup2] {sadC}Je crois.[small]
+68)  LEE
+[pickup2] {angryB}Tu ferais mieux.
