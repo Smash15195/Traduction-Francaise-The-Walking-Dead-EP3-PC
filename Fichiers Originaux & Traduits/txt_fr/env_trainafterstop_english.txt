@@ -21,7 +21,7 @@ Que ce qui est arrivé à Duck pourrait m'arriver.
 11)  LEE
 {sadA}Désolé. {angryB}Je vais aller lui remettre les idées en place.
 12)  CLEMENTINE
-[that was a ] Promets moi.
+[that was a ] Juron.
 13)  CLEMENTINE
 Ne soit pas faché.
 14)  LEE
