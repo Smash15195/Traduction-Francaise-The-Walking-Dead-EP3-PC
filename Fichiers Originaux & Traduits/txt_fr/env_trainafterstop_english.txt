@@ -17,7 +17,7 @@ Oui.
 9)  CLEMENTINE
 A ce que Chuck a dit.
 10)  CLEMENTINE
-Que ce qui est arrivé à Duck m'arriverait à moi.
+Que ce qui est arrivé à Duck pourrait m'arriver.
 11)  LEE
 {sadA}Désolé. {angryB}Je vais aller lui remettre les idées en place.
 12)  CLEMENTINE
@@ -41,11 +41,11 @@ Bon Dieu, Ben...
 21)  
 Pourquoi as-tu fait ça?
 22)  BEN
-[more broken up] {fearB}Oh bon sang...Qu'ai-je fait?
+[more broken up] {fearB}Oh bon Dieu...Qu'ai-je fait?
 23)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avait pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tuer tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 29)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avait pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tuer tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 24)  BEN
 [really broken up] {thinkingA}Dit quelque chose... {sadC}S'il te plait. Je mérite tout; tout ce qui arrivé par moi.
 25)  BEN
@@ -111,7 +111,7 @@ J'espère que nous ne resterons plus longtemps dans ce train.
 56)  CLEMENTINE
 C'est petit.
 57)  LEE
-{normalA}Et ça n'essaye pas de te tuer. {sadA}It'l be harder than this, {thinkingB}mais nous devons commencer avec les bases.
+{normalA}Et ça n'essaye pas de te tuer. {sadA}Ca sera plus difficile que ça, {thinkingB}mais nous devons commencer avec les bases.
 58)  LEE
 {thinkingA}Je n'ai pas besoin d'aller par là.
 59)  CLEMENTINE
@@ -119,7 +119,7 @@ C'est petit.
 60)  LEE
 {thinkingA}Vide, je pense.
 61)  LEE
-{surpriseA}C'est quantité de whisky.
+{surpriseA}C'est un peu de whisky.
 62)  LEE
 {surpriseA}On dirait qu'il reste un peu d'alcool à Chuck.
 63)  LEE
@@ -135,7 +135,7 @@ C'est petit.
 68)  LEE
 {sadB}Ca te dérange si je regarde par là une seconde?
 69)  KENNY
-{angryB}Je souhaite vraiment que tu me laisse seul.
+{angryB}Je souhaite vraiment que tu me laisses seul.
 70)  LEE
 {thinkingB}Il y a des ciseaux dans le sac de Chuck.
 71)  LEE
@@ -165,7 +165,7 @@ Non, je vais bien.
 85)  CHUCK
 {thinkingA}Fais comme tu veux.
 83)  CHUCK
-[finishing a swig of bad whiskey] {thinkingA}Si quelqau'un ici veut partager un coup à boire, fais le moi savoir.
+[finishing a swig of bad whiskey] {thinkingA}Si quelqu'un ici veut partager un coup à boire, fais le moi savoir.
 84)  LEE
 {sadA}Je le ferai.
 86)  
