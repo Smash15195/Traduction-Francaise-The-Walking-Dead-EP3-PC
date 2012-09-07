@@ -1,5 +1,5 @@
 1)  CHUCK
-[outside train] {thinkingA}Comment vous allez ?
+[outside train] {thinkingA}Comment ça va ?
 2)  LEE
 [firm][outside train] {normalD}Hé.
 3)  
@@ -11,15 +11,15 @@ Dites MOI ce que vous lui avez dit, connard.
 6)  LEE
 [outside train]{angryA}Ne parlez plus à ma fille. Restez loin d'elle.
 7)  CHUCK
-[outside train] {angryA}Excusez-moi, petit?
+[outside train] {angryA}Excusez-moi, petit ?
 13)  CHUCK
-[outside train] {angryA}Excusez-moi, petit?
+[outside train] {angryA}Excusez-moi, petit ?
 8)  LEE
 [outside train] {angryB}J'ai entendu que vous lui avez dit qu'elle allait mourir; qu'elle allait finir comme Duck. {angryC}Pourquoi avoir fait ça ?
 9)  CHUCK
-[outside train] {sadB}Parce qu'elle mourra.
+[outside train] {sadB}Parce c'est le cas.
 11)  CHUCK
-[outside train] {sadB}Parce qu'elle mourra.
+[outside train] {sadB}Parce c'est le cas.
 10)  LEE
 [outside train]{angryA}Je m'en fous des raisons que vous avez eu de faire ça, {angryB}aucune raison d'aller dire à ma fille qu'elle va mourir!
 12)  LEE
@@ -31,7 +31,7 @@ Dites MOI ce que vous lui avez dit, connard.
 16)  LEE
 [outside train] {angryB}Fils de pute.
 17)  CHUCK
-[outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} Comment était-ce ?
+[outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} Comment c'était ?
 18)  LEE
 [outside train] {angryC}Comment est-ce que je peux balancer votre cul hors de ce foutu train ?
 19)  CHUCK
@@ -149,7 +149,7 @@ Dans tous les cas, vous devrez vivre avec les conséquences.
 75)  LEE
 {thinkingA}J'ai trouvé ces ciseaux dans votre sac.
 76)  CHUCK
-{happyB}Oh, parfait. Va couper.
+{happyB}Oh, parfait. On va couper.
 77)  LEE
 {thinkingB}Il y avait une carte de Savannah dans la cabine.
 78)  CHUCK
