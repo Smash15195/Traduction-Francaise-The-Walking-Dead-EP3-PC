@@ -1,19 +1,19 @@
 1)  
 Console
 2)  LEE
-{thinkingA}A quoi tu penses?
+{thinkingA}Tu penses à quoi ?
 3)  LEE
-{sadA}Tu veux parler?
+{sadA}Tu veux parler ?
 4)  CLEMENTINE
 Oui.
 5)  LEE
-{sadB}Tu comprends ce qui est arrivé?
+{sadB}Tu comprends ce qui est arrivé ?
 6)  LEE
 {sadA}D'accord.
 7)  LEE
-[taken aback] {surpriseB}Quoi? {angryC}Bien sur qu'il l'a fait.
+[taken aback] {surpriseB}Quoi ? {angryC}Bien sur qu'il l'a fait.
 8)  LEE
-{thinkingB}Qu'est-ce que Chuck a dit?
+{thinkingB}Qu'est-ce que Chuck a dit ?
 9)  CLEMENTINE
 A ce que Chuck a dit.
 10)  CLEMENTINE
@@ -25,7 +25,7 @@ Que ce qui est arrivé à Duck pourrait m'arriver.
 13)  CLEMENTINE
 Ne soit pas faché.
 14)  LEE
-[jerked out of his own thoughts] {surpriseB}Hein?
+[jerked out of his own thoughts] {surpriseB}Hein ?
 15)  BEN
 [needs to tell someone, horrifed to do so] {sadB}C'était moi.
 16)  BEN
@@ -33,21 +33,21 @@ Ne soit pas faché.
 17)  BEN
 {sadC}Je suis celui qui a donné les fournitures aux bandits.
 18)  LEE
-[dead serious] {angryC}QUOI?
+[dead serious] {angryC}QUOI ?
 19)  
 Je pourrai te tuer.
 20)  
 Bon Dieu, Ben...
 21)  
-Pourquoi as-tu fait ça?
+Pourquoi tu as fait ça ?
 22)  BEN
-[more broken up] {fearB}Oh bon Dieu...Qu'ai-je fait?
+[more broken up] {fearB}Oh bon Dieu...Qu'ai-je fait ?
 23)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas fait c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 29)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas fait c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 24)  BEN
-[really broken up] {thinkingA}Dit quelque chose... {sadC}S'il te plait. Je mérite tout; tout ce qui arrivé par moi.
+[really broken up] {thinkingA}Dit quelque chose... {sadC}S'il te plait. Je mérite tout; tout ce qui arrive à cause de moi.
 25)  BEN
 [so sad] {sadC}Je suis désolé.
 26)  BEN
@@ -57,27 +57,27 @@ Pourquoi as-tu fait ça?
 39)  BEN
 [broken up] {fearA}Ils ont dit qu'ils avaient mon ami, qu'il était avec eux.
 27)  LEE
-{disgustA}Pourquoi? {angryB}Pourquoi diable veux-tu faire ça?
+{disgustA}Pourquoi ? {angryB}Pourquoi diable voudrais-tu faire ça ?
 28)  BEN
-{sadB}Bien...non, Je n'ai pas eu une bonne excuse. {sadC}J'ai pensé que je devais. J'ai merdé. Je suis désolé.
+{sadB}Bien...non, Je n'ai pas une bonne excuse. {sadC}J'ai pensé que je devais. J'ai merdé. Je suis désolé.
 31)  BEN
 [sad]{sadC}Je sais.
 32)  LEE
 {sadC}Bon Dieu, Ben...
 33)  LEE
-{disgustA}Juste...Arrête. {sadC}Merde. [sigh] {angryB}Pouvons nous encore te croire?
+{disgustA}Juste...Arrête. {sadC}Merde. [sigh] {angryB}Pouvons-nous encore te faire confiance ?
 34)  BEN
 [sad, choked up] {sadC}D'accord.
 35)  LEE
-{angryB}Non. Juste... Ne dit rien à personne. {angryC}tu ne peux pas revenir en arrière, d'accord?
+{angryB}Non. Juste... Ne dit rien à personne. {angryC}tu ne peux pas revenir en arrière, d'accord ?
 36)  BEN
 [sad] {disgustA}Oui.
 37)  BEN
 {sadB}Je dois juste--
 38)  LEE
-{disgustA}Why'd you have to go and tell me that?
+{disgustA}Pourquoi tu devrais y aller et dis moi ça ?
 40)  LEE
-{angryB}POURQUOI JE NE POURRAI PAS?
+{angryB}POURQUOI JE NE POURRAI PAS ?
 41)  BEN
 {fearC}Je...Je...Je... [being threatened by Lee]
 42)  LEE
@@ -91,7 +91,7 @@ Pourquoi as-tu fait ça?
 46)  BEN
 {fearC}Ils disaient qu'ils avaient mon ami! Je ne savais pas quoi faire! {fearD}LEE, S'IL TE PLAIT!
 47)  LEE
-{angryC}Je suis sur que tu l'as fait.
+{angryC}J'en suis sur.
 48)  BEN
 [panicked to hell] {FearD}Non-- Je-- LEE, S'IL TE PLAIT.
 49)  LEE
@@ -101,7 +101,7 @@ Pourquoi as-tu fait ça?
 51)  LEE
 {sadA}C'est une bouteille vide.
 52)  LEE
-{thinkingB}Chuck's been through a few of these.
+{thinkingB}Chuck a connu un peu ça.
 53)  LEE
 {thinkingA}Je peux aller vers la cabine.
 54)  LEE
@@ -111,11 +111,11 @@ J'espère que nous ne resterons plus longtemps dans ce train.
 56)  CLEMENTINE
 C'est petit.
 57)  LEE
-{normalA}Et ça n'essaye pas de te tuer. {sadA}Ca sera plus difficile que ça, {thinkingB}mais nous devons commencer avec les bases.
+{normalA}Et ça n'essaye pas de te tuer. {sadA}Ca sera plus compliqué que ça, {thinkingB}mais nous devons commencer avec les bases.
 58)  LEE
 {thinkingA}Je n'ai pas besoin d'aller par là.
 59)  CLEMENTINE
-[no] Uh uh.
+[no] Euh, euh.
 60)  LEE
 {thinkingA}Vide, je pense.
 61)  LEE
@@ -125,27 +125,27 @@ C'est petit.
 63)  LEE
 {thinkingA}C'est rempli de cartes et de documents.
 64)  LEE
-{thinkingB}Est-ce que je peux te déranger une seconde, Kenny?
+{thinkingB}Est-ce que je peux te déranger une seconde, Kenny ?
 65)  KENNY
-{angryA}Peux-tu juste me laisser seul?
+{angryA}Tu peux juste me laisser seul ?
 66)  KENNY
 {angryA}Sort d'ici.
 67)  KENNY
-[pissed]{angryC}Quel est ton problème?
+[pissed]{angryC}C'est quoi ton problème ?
 68)  LEE
-{sadB}Ca te dérange si je regarde par là une seconde?
+{sadB}Ca te dérange si je regarde par là une seconde ?
 69)  KENNY
-{angryB}Je souhaite vraiment que tu me laisses seul.
+{angryB}Je veux que que tu me laisses seul.
 70)  LEE
 {thinkingB}Il y a des ciseaux dans le sac de Chuck.
 71)  LEE
 {disgustA}Ils sont assez court comme ça.
 72)  LEE
-{thinkingA}J'ai trouvé ça dans ton sac, si tu veux.
+{thinkingA}J'ai trouvé ça dans votre sac, si vous voulez.
 73)  CHUCK
-{happyD}Bon sang, {happyB}pas réalisé que j'avais encore ça. Merci.
+{happyD}Bon sang, {happyB}je ne savais pas que j'avais encore ça. Merci.
 74)  CHUCK
-{happyA}Une gorgée?
+{happyA}Une gorgée ?
 75)  
 Bien sur.
 76)  
@@ -161,11 +161,11 @@ Non, je vais bien.
 81)  LEE
 {thinkingB}Non, je vais bien.
 82)  CHUCK
-{thinkingA}Fais comme tu veux.
+{thinkingA}Faites comme vous voulez.
 85)  CHUCK
-{thinkingA}Fais comme tu veux.
+{thinkingA}Faites comme vous voulez.
 83)  CHUCK
-[finishing a swig of bad whiskey] {thinkingA}Si quelqu'un ici veut partager un coup à boire, fais le moi savoir.
+[finishing a swig of bad whiskey] {thinkingA}Si quelqu'un ici veut partager un coup à boire, faites le moi savoir.
 84)  LEE
 {sadA}Je le ferai.
 86)  
@@ -191,7 +191,7 @@ Regarder
 98)  
 Regarder
 101)  
-Look At
+Regarder
 93)  
 Tache de sang
 94)  
@@ -221,14 +221,14 @@ Bouteille de whisky
 111)  
 Sac à dos
 112)  LEE
-[pickup2] J'ai eu de la chance de le faire fonctionner UNE FOIS.
+[pickup2] J'ai DEJA eu de la chance de le faire fonctionner.
 113)  LEE
 [pickup2] [for chucks' camp] Il a vécu ici un moment.
 114)  
 Campement de Chuck
 115)  BEN
-[pickup3] [unsure, nervous] Hey, Lee...
+[pickup3] [unsure, nervous] Hé, Lee...
 116)  BEN
-[pickup3] [unsure, nervous] Revenant au Motor Inn, tu m'as fait confiance sur ton passé...
+[pickup3] [unsure, nervous] Au Motor Inn, tu m'as fait confiance sur ton passé...
 117)  BEN
 [pickup3] [unsure, nervous] Je... J'ai besoin de te dire...
