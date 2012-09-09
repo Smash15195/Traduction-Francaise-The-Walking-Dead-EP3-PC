@@ -41,7 +41,7 @@ Bon Dieu, Ben...
 21)  
 Pourquoi tu as fait ça ?
 22)  BEN
-[more broken up] {fearB}Oh bon Dieu...Qu'ai-je fait ?
+[more broken up] {fearB}Oh merde... Qu'est-ce que j'ai fait ?
 23)  BEN
 {sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas fait c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 29)  BEN
@@ -69,17 +69,17 @@ Pourquoi tu as fait ça ?
 34)  BEN
 [sad, choked up] {sadC}D'accord.
 35)  LEE
-{angryB}Non. Juste... Ne dit rien à personne. {angryC}tu ne peux pas revenir en arrière, d'accord ?
+{angryB}Non. Juste... Ne dit rien à personne. {angryC}Tu ne peux pas revenir en arrière, d'accord ?
 36)  BEN
 [sad] {disgustA}Oui.
 37)  BEN
 {sadB}Je dois juste--
 38)  LEE
-{disgustA}Pourquoi tu devrais y aller et dis moi ça ?
+{disgustA}Pourquoi il faudrait que tu y ailles, dis moi ?
 40)  LEE
 {angryB}POURQUOI JE NE POURRAI PAS ?
 41)  BEN
-{fearC}Je...Je...Je... [being threatened by Lee]
+{fearC}Je... Je... Je... [being threatened by Lee]
 42)  LEE
 {angryD}Je pourrai te tuer. [threatening]
 43)  LEE
