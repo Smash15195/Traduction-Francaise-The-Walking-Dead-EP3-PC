@@ -1,0 +1,340 @@
+1)  KATJAA
+{sadB}{body-a}Ken. Je... Je crois que ça y est.
+2)  KENNY
+{sadA}{body-A}Le gamin s'est fait mordre. {disgustA}Au cas où tu n'aurais pas remarqué.
+3)  
+Qu'est-ce qu'il vous faut ?
+4)  
+On devrait se dépêcher.
+5)  
+Prenez tout le temps qu'il vous faut.
+6)  LEE
+{NormalD}{body-B}Vous avez besoin de quelque chose ?
+7)  KENNY
+{sadB}{body-A}Je... J... [i don't know]
+8)  LEE
+{sadA}{body-A}Katjaa ?
+9)  KATJAA
+Il faut que... c'est impossible. [dealign with your son who will turn]
+15)  KATJAA
+Il faut que... c'est impossible. [dealign with your son who will turn]
+10)  LEE
+{sadB}{body-B}On devrait se dépêcher.
+11)  KENNY
+[upset] {disgustA}{body-A}On ne peut pas perdre du temps qu'on n'a pas.
+12)  LEE
+{sadA}{body-A}Je dis qu'il ne faut pas trainer.
+13)  LEE
+{sadB}{body-B}Prenez tout le temps qu'il vous faut.
+14)  KENNY
+[upset] {fearA}{body-A}On ne peut pas prendre le temps qu'on n'a pas.
+16)  KATJAA
+Non.
+17)  KATJAA
+Kenny, je t'aime énormément. J'aime notre fils par-dessus tout.
+18)  KENNY
+{disgustA}{body-A}Mais--
+19)  KENNY
+{fearA}{body-A}Qu'est-ce qu'on va faire ?
+20)  KENNY
+{fearA}{body-A}Mais {fearB}{body-A}si il...
+21)  KATJAA
+On ne peut pas le laisser devenir l'un de ces monstres.
+22)  
+Katjaa devrait le faire.
+23)  
+Kenny devrait le faire.
+24)  
+Je m'en charge.
+25)  KENNY
+{disgustA}{body-A}C'est...
+26)  KATJAA
+Si tu vois laquelle, fais-moi signe.
+27)  KENNY
+{fearB}{body-A}Il n'y a pas une pilule, {fearB}ou autre chose qu'on pourrait lui donner....
+28)  KATJAA
+Arrête.
+29)  KENNY
+{sadA}{body-A}Ca se trouve il va simplement s'assoupir,{sadB} hein, chérie ? {disgustA}J'veux dire, merde, {sadB}c'est notre fils.
+30)  KATJAA
+JE SAIS. Mais on sait que c'est... là[points to the brain]. C'est ça ou rien.
+31)  KENNY
+{disgustA}{body-A}Bon...{angryC} merde...{angryA} c'... {fearB} alors qui ? {sadB}Tu veux que je le fasse ?
+32)  KATJAA
+Tu n'es pas obligé.
+33)  KENNY
+{FearA}Je vais le faire.
+34)  KATJAA
+Non. Tu n'es PAS obligé.
+35)  KENNY
+{AngryC}Putain Katjaa, [gets panicky choked up] {SadA}je peux. {SadB}Je peux le faire. [he can't]
+36)  KATJAA
+Tu ne peux pas. Je t'aime, Ken. Mais c'est au-delà de tes forces.
+37)  KATJAA
+Lee, tu y vas avec lui ?
+38)  KATJAA
+Non, chérie. Reste avec Lee. Ton fils t'aime et le dernier souvenir que tu dois garder c'est notre petit garnement. Pas ça.
+39)  KENNY
+{fearA}{body-A}Je peux pas...
+40)  KENNY
+[emotional collapse]
+41)  KENNY
+[an idle of you with your face in your hands knowing your son is dying offscreen]
+42)  CLEMENTINE
+Qu'est-ce qu'il y a ?
+43)  
+Duck va mourir.
+44)  
+Rien, tout va bien.
+45)  LEE
+{SadA}{body-F}Duck va mourir.
+46)  CLEMENTINE
+[duck is dying] Je sais.
+47)  LEE
+{SadA}{body-F}Katjaa {SadB}s'occupe de Duck.
+48)  CLEMENTINE
+Je croyais qu'il allait mourir.
+96)  CLEMENTINE
+Je croyais qu'il allait mourir.
+49)  CLEMENTINE
+Qu'est-ce qu'elle fait Katjaa ?
+50)  LEE
+{SadA}{body-F}Rien, {NormalD}tout va bien.
+51)  CLEMENTINE
+Non c'est pas vrai.
+52)  
+Elle est allée le tuer.
+53)  
+Elle s'assure que tout va bien.
+54)  
+Elle le libère de ses souffrances.
+55)  LEE
+{SadA}{body-f}Ecoute, Clém. Les choses --{surpriseB}
+102)  LEE
+{SadA}{body-f}LEcoute, Clém. Les choses --{surpriseB}
+56)  KENNY
+[face in hands, just a total wreck] MON DIEU NOOON....!
+57)  
+Ca ne t'arrivera jamais.
+58)  
+On devait le faire.
+59)  
+Les gens finissent par mourir.
+60)  CLEMENTINE
+Plus maintenant.
+61)  CLEMENTINE
+Les zombies ne sont pas morts. Les gens ne meurent plus. Du moins plus comme avant.
+62)  LEE
+{NormalD}{body-F}Les gens finissent par mourir.
+63)  LEE
+{disgustB}Et bien Katjaa va s'assurer que Duck meure.
+64)  CLEMENTINE
+[small, kinda dark] Je sais.
+65)  KENNY
+[over his shoulder. flat, cold] {fearA}{body-A}Je vais la chercher. {disgustA}Elle doit être bouleversée.
+66)  LEE
+[pickup 2] [ new read: - A little too 'by the book' order. Duck just was killed, could be more empathatic.] {DisgustB}{body-F}Ben, amène Clémentine dans le train, d'accord ? {AngryA}{body-B}Et ouvre les yeux.
+67)  KENNY
+{SurprisedA}{body-A}[horrified] Guh!
+68)  KENNY
+{FearC}{body-A}KAT ! KAT ! KATJAA !
+70)  
+On doit s'occuper de Duck.
+72)  KENNY
+{SadA}{body-A}[emotionally dead] Qu'est-ce qu'on fait.
+73)  KENNY
+{FearC}{body-A}Pourquoi, Kat ? Oh bon Dieu, chérie...
+74)  KENNY
+{SadB}{body-A}[whatever you feel like "saying," you're over the body of your dead wife]
+75)  KENNY
+{FearC}{body-A}Tu as dit que tu pouvais le faire, Kat, {SadB} bordel de dieu, ytu as dit que tu pouvais le faire !
+76)  
+Donne-moi le flingue. Je vais le faire.
+77)  
+Fais-le. Finis tout ça, Kenny.
+78)  LEE
+{AngryA}{body-b}Donne-moi le flingue, Ken. Je vais le faire.
+79)  LEE
+[pickup 2] [new read: Read too quickly. This is a tough thing to say to a friend, could be more sad.] {SadB}{body-b}Tu es son père. Tu dois le faire. {disgustB}Allez mets un terme à tout ça, mec.
+80)  LEE
+{disgustA}{body-B}Katjaa devrait le faire, Ken. {disgustB}{body-B}Elle peut gérer ça.
+81)  KENNY
+{angryC}{body-A}La ferme, Lee.
+82)  KATJAA
+Il a raison.
+83)  KATJAA
+Shush.
+84)  KENNY
+{normalC}{body-A}Leea raison. {sadA}{body-A}Et me sors pas ton numéro à la {sadB}"c'est moi qui l'ai mis au monde". [with a pained smile]
+85)  KATJAA
+Et je suis sa mère.
+86)  LEE
+{fearA}{body-B}Kenny, {fearB}tu es son père. {sadA}C'est toi qui le fais.
+87)  LEE
+{AngryA}{body-B}Je vais le faire.
+88)  KENNY
+{fearB}{body-A}Lee a raison, Kat. {fearA}{body-A}On va lui dire au-revoir et{sadA}...
+89)  KATJAA
+Je ne sais pas...
+90)  KATJAA
+Non. C'est à ses parents de le faire.
+91)  LEE
+{AngryB}{body-B}Aucun parent ne devrait avoir à faire ce genre de choses.
+92)  KATJAA
+Donne-nous un moment pour nous dire au-revoir ?
+93)  KATJAA
+On a qu'à aller dans la forêt. Comme ça Clémentine ne nous verra pas.
+94)  KENNY
+{sadB}{body-A}Ouais. [very sad]
+95)  LEE
+{sadB}{body-B}Bien sûr.
+97)  LEE
+{SadA}{body-F}Je vais {NormalD}m'occuper de Duck.
+98)  CLEMENTINE
+Qu'est-ce que tu fais ?
+99)  
+Je vais le tuer.
+100)  
+Je vais m'assurer que tout se passera bien.
+101)  
+Je le soulage de ses souffrances.
+103)  KENNY
+[processed to be far far away] NOOON !
+104)  LEE
+[urgent] {FearA}{body-B}Ben ! {AngryA}Prends Clémentine et va dans le train !
+105)  LEE
+[urgent, to clem] {FearA}Allez, {AngryA}ça va aller.
+106)  LEE
+[shocked] {surpriseA}Qu'est-ce qu--
+107)  LEE
+{NormalD}{body-f}Oui. {SadA}Comme ça il ne reviendra pas.
+126)  LEE
+{NormalD}{body-f}Oui. {SadA}Comme ça il ne reviendra pas.
+108)  LEE
+[pickup 2] [new read: - Read too fast; he sounds almost happy that it's happening.] {NormalD}{body-B}Elle va le tuer.
+109)  CLEMENTINE
+Pour toujours ?
+128)  CLEMENTINE
+Pour toujours ?
+110)  CLEMENTINE
+Oh.
+115)  CLEMENTINE
+Oh.
+132)  CLEMENTINE
+Oh.
+133)  CLEMENTINE
+Oh.
+111)  CLEMENTINE
+Mais pourtant...il s'est fait mordre.
+131)  CLEMENTINE
+Mais pourtant...il s'est fait mordre.
+112)  LEE
+{SadA}Elle {SadB}va faire en sorte qu'il ne revienne pas.
+113)  LEE
+{FearA}{body-B}Elle {SadB}va faire en sorte qu'il ne revienne pas.
+114)  LEE
+[responding to a question that wasn't asked] {SadA}Mouais.
+135)  LEE
+[responding to a question that wasn't asked] {SadA}Mouais.
+116)  LEE
+{FearA}{body-B}Elle va le délivrer de ses souffrances.
+117)  CLEMENTINE
+Je ne suis pas débile. Je veux juste que tu me le dises. Comme le ferait mon père.
+136)  CLEMENTINE
+Je ne suis pas débile. Je veux juste que tu me le dises. Comme le ferait mon père.
+118)  LEE
+{FearA}{body-B}Si je sais.
+119)  CLEMENTINE
+Tu n'en sais rien.
+120)  LEE
+{FearB}{body-F}[emphatic] Ca ne t'arrivera jamais.
+121)  LEE
+{normalD}On n'avait pas le choix.
+122)  CLEMENTINE
+[another, sort of flat] D'accord.
+123)  CLEMENTINE
+[kind of in shock, flat] D'accord.
+124)  LEE
+{disgustB}{body-F}On était obligés.
+125)  CLEMENTINE
+[ a really small cry, pull it together fast]
+127)  LEE
+{angryA}{body-f}Je vais le tuer.
+129)  LEE
+{disgustB}En faisant en sorte qu'il ne revienne pas.
+130)  LEE
+{disgustA}{body-f}Je vais m'assurer que tout se passe bien.
+134)  LEE
+{AngryA}{body-f}Je vais le soulager de ses souffrances.
+137)  
+Mais qu'est-ce qui s'est passé ?
+138)  LEE
+[pickup 2] [new read: What the hell happened is shouted a little bit. The way the scene is set up, he's standing right next to Kenny. Also there's a weird disconnect between 'happened' and 'what'.] {SurpriseB}{body-B}Mais qu'est-ce qui s'est passé ? {FearA}Qu'est-ce que tu--
+148)  LEE
+[pickup 2] [new read: What the hell happened is shouted a little bit. The way the scene is set up, he's standing right next to Kenny. Also there's a weird disconnect between 'happened' and 'what'.] {SurpriseB}{body-B}Mais qu'est-ce qui s'est passé ? {FearA}Qu'est-ce que tu--
+139)  KENNY
+{SadB}{body-A}Elle n'a pas pu, elle s'est, merde, oh merde...
+140)  KENNY
+{SadB}{body-A}Elle n'a pas pu, elle s'est, merde, oh merde...
+144)  KENNY
+{SadB}{body-A}Elle n'a pas pu, elle s'est, merde, oh merde...
+141)  LEE
+{FearA}{Body-B}Je suis tellement désolé.
+142)  LEE
+{FearA}{Body-B}Il faut encore s'occuper de Duck.
+143)  LEE
+[pickup 2'] [ new read: 'by herself' is a weird read, almost angrily choked off, but it reads strange, not emotional. Could be more sad/angry.] {SadB}{body-B}Je n'aurais jamais du la laisser venir ici {AngryA}toute seule.
+145)  DUCK
+[an idle of really small, sick breathing]
+146)  DUCK
+[a couple small, pained weezes]
+147)  KENNY
+[exhale, dropping the gun that you were pointing at your son's head]
+149)  KENNY
+{FearC}{body-A}Je, je pouvais pas....{FearB}alors Kat a pris le flingue..{SadA}et...{SadB}ooh mon Dieu, oh putain....[choked up]
+150)  KENNY
+{SadB}{Body-A}Je, je ne peux pas. Allons-y.
+151)  
+FAIS-LE !
+152)  
+Ca va aller...
+153)  LEE
+{AngryD}{Body-B}[emotional] FAIS-LE !
+154)  LEE
+{SadB}{Body-B}Ca va aller... {SadC}ça va--
+155)  KENNY
+[pickup2] Je...J...
+156)  LEE
+[pickup2] Oh mon Dieu...
+157)  
+Je suis tellement navré.
+158)  
+On n'aurait pas du la laisser venir ici toute seule.
+159)  
+Oh mon Dieu...
+160)  KENNY
+[pickup2][Your wife just told you she would be the one to put your kid down]Alors je viens avec toi.
+161)  KATJAA
+Reste avec Lee. Ton fils t'aime et le dernier souvenir que tu dois garder de lui c'est notre garnement. Pas ça.
+162)  LEE
+[pickup2] Allons-y.
+163)  KENNY
+[pickup2] [saying goodbye to his zombie son he's leaving in the woods] Adieu... Duck.
+164)  KENNY
+[pickup2] [saying goodbye to his dead family] Au-rev... Ho. Salut, vous deux. Je vous aime tellement. [pull it back if you want, it's obviously so emotional a lot of words may not even come.]
+165)  KENNY
+{sadB}Ho non, Kat...
+166)  KATJAA
+Ecoute-moi bien. Ce que tu dis, qu'il pourrait ne pas se transformer, c'est insensé.
+167)  KATJAA
+Ca n'est qu'un bébé.
+168)  KATJAA
+Ca aurait été différent si il avait été plus vieux.
+169)  KATJAA
+Laisse-moi le faire.
+170)  KENNY
+Et s'il ne se transforme pas ?
+171)  KENNY
+...laisse-le comme il est.
+172)  KATJAA
+Lee, ça rendrait un grand service à notre famille.
