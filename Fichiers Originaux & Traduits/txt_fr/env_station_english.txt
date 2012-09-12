@@ -1,0 +1,396 @@
+1)  CLEMENTINE
+Pardon.
+2)  LEE
+{normalc}{body-B}Tu devrais m'attendre avant d'essayer d'ouvrir les portes.
+3)  LEE
+{thinkinga}Heureusement c'est fermé. {happya}On sera plus fort si on travaille ensemble.
+4)  CLEMENTINE
+Peut-être que je pourrais regarder à l'intérieur ?
+5)  LEE
+{thinkinga}{body-b}La fenêtre est ouverte au-dessus.
+6)  CLEMENTINE
+C'est une bonne idée.
+7)  LEE
+{happya}{body-b}Pourquoi tu ne montes pas sur mes épaules pour jeter un coup d'oeil à travers la fenêtre au-dessus.
+8)  LEE
+{normalb}{body-b}On trouvera une façon de rentrer.
+9)  
+Tu vois quoi ?
+10)  
+Ouvrir cette porte ne va pas être si facile.
+11)  
+Saute si tu peux.
+12)  LEE
+{sada}{body-B}Tu vois quoi ?
+13)  CLEMENTINE
+Tout plein de boites et de trucs.
+14)  CLEMENTINE
+Je crois que je l'ai ouverte.
+15)  LEE
+{surpriseb}{body-B}Vraiment ?
+16)  CLEMENTINE
+Oui.
+17)  LEE
+{happyc}Et bien, on a une sacrée chance.
+18)  CLEMENTINE
+Viens. Fais attention.
+19)  LEE
+{happyb}{body-B}Je suis supposé te dire ça.
+20)  LEE
+{thinkinga}Peut-être qu'on peut trouver la clé ou trouver un moyen d'enfoncer cette porte. {normalb}Kenny m'aurait probablement crocheté la serrure, {thinkinga}ce qui devrait marcher maintenant qu'on a du temps... {thinkingb}Hum....
+23)  LEE
+{thinkinga}Peut-être qu'on peut trouver la clé ou trouver un moyen d'enfoncer cette porte. {normalb}Kenny m'aurait probablement crocheté la serrure, {thinkinga}ce qui devrait marcher maintenant qu'on a du temps... {thinkingb}Hum....
+21)  LEE
+{angrya}{body-B}Ouvrir cette porte ne va pas être facile.
+22)  CLEMENTINE
+Ca ne doit pas être si dur.
+24)  LEE
+{normala}{body-B}Sautes si tu peux.
+25)  CLEMENTINE
+On reste pas ensemble ?
+26)  LEE
+{angrya}Si il n'y a pas des marcheurs ici, {happya}tu n'auras rien à craindre.
+27)  CLEMENTINE
+C'est trop haut pour sauter.
+28)  LEE
+{normald}Et bien, tu penses qu'on devrait faire quoi ?
+29)  CLEMENTINE
+Grr... bien. Tu peux me rapprocher, s'il te plait ?
+30)  CLEMENTINE
+D'accord, Je peux voir à l'intérieur, Je fais quoi maintenant ?
+31)  CLEMENTINE
+Peut-être que je peux maintenir la porte ouverte ?
+32)  LEE
+{angryb}Je n'aime pas ça. {normalb}Je vais la maintenir ouverte avec quelque chose.
+33)  LEE
+{angrya}Bon sang, il fait sombre ici.
+34)  CLEMENTINE
+C'est beaucoup trop sombre.
+35)  LEE
+{angrya}{body-B}Ouais, tu as raison.
+36)  LEE
+{sadb}Je n'aime pas ça quand j'ai seulement notre pistolet pour nous protéger.
+107)  LEE
+{sadb}Je n'aime pas ça quand j'ai seulement notre pistolet pour nous protéger.
+110)  LEE
+{sadb}Je n'aime pas ça quand j'ai seulement notre pistolet pour nous protéger.
+37)  CLEMENTINE
+Le bruit, c'est ça ?
+108)  CLEMENTINE
+Le bruit, c'est ça ?
+112)  CLEMENTINE
+Le bruit, c'est ça ?
+38)  LEE
+{happya}Exactement.
+109)  LEE
+{happya}Exactement.
+111)  LEE
+{happya}Exactement.
+39)  LEE
+{angryc}{body-b}[shoulder shove into door]
+40)  LEE
+{sada}Ouais, ça ne bouge pas.
+41)  LEE
+{thinkinga}{body-b}Je ne vois rien là-dedans.
+42)  LEE
+{happyb}{body-b}Comment on fait ?
+43)  CLEMENTINE
+Bon. On a besoin de quoi ?
+44)  LEE
+{normalb}Quelque chose qui nous aide à se débarrasser de la citerne dehors.
+45)  LEE
+{sada}{body-b}Tu es d'accord pour passer par l'ouverture là-haut ?
+46)  CLEMENTINE
+Ouais, certaine.
+47)  LEE
+{normalb}{body-b}Les clés sont sur le mur en face. {angrya}Attrappe les et ouvre la porte.
+48)  LEE
+{thinkinga}{body-b}C'est bien fermé à clé, {normalc}mais il y a une petite ouverture au-dessus.
+49)  CLEMENTINE
+On a de la chance, je suis toute petite.
+50)  LEE
+{happyb}Ouais, en effet.
+51)  LEE
+{angryb}{body-b}Bon sang, C'est fermé !
+52)  LEE
+{angrya}{body-b}Et bien fermé.
+53)  LEE
+{angryc}{body-b}Merde, C'est encore fermé !
+54)  LEE
+{angrya}C'est exactement {happya}ce dont on a besoin.
+55)  CLEMENTINE
+De l'autre côté ?
+56)  LEE
+{normalb}Ouais. On a besoin d'entrer là-dedans et de prendre ce chalumeau.
+57)  LEE
+[phew]  {happyb}{body-b}Nous l'avons.
+58)  CLEMENTINE
+Sortons maintenant.
+59)  LEE
+{normalb}Qu'est-ce qu'on a appris ?
+60)  CLEMENTINE
+Je ne suis pas prête pour le pistolet.
+61)  LEE
+{angrya}Non, Clém. Nous avons appris que tout ce qu'on fera est dangereux. {normalc}On devra être meilleurs, plus intelligents et plus rapides. {happya}D'accord ?
+62)  CLEMENTINE
+D'accord.
+63)  LEE
+{normalb}{body-b}Il y a les clés là-bas.
+64)  CLEMENTINE
+Pour la porte ?
+65)  LEE
+{sada}J'espère.
+66)  LEE
+{angrya}{body-b}Je ne peux pas les atteindre d'ici.
+67)  LEE
+{sada}{body-b}Si seulement ça pouvait être dans ma main au lieu de là-bas.
+68)  CLEMENTINE
+C'est trop sombre sinon.
+69)  LEE
+{happyb}{body-b}Vas-y et attrappe les clés, Clém.
+70)  LEE
+{normalb}Allez, file.
+71)  CLEMENTINE
+{fearb}{body-stand}Derrière toi !
+72)  LEE
+{surpriseB}Merde !
+73)  LEE
+{angryC}[UGH!]
+74)  LEE
+{sada}{body-b}C'est bon... C'est bon... Tout va bien.
+75)  LEE
+{angryC}LES CLES ! MAINTENANT !
+76)  LEE
+{angryd}MERDE !
+77)  LEE
+{sadc}{body-b}[recovering]
+78)  LEE
+{angryb}Bon... Sang...
+79)  CLEMENTINE
+Ca n'était pas si bien.
+80)  LEE
+{sada}Non, ça n'était {surpriseb}pas si bien. {normalb}Mais tu vas bien. {happya}Tout va bien.
+81)  
+Parler à
+84)  
+Parler à
+82)  
+Attrapper
+83)  
+Stimuler
+85)  
+Stimuler
+86)  
+Prendre
+117)  
+Prendre
+120)  
+Prendre
+122)  
+Prendre
+87)  
+Regarder
+99)  
+Regarder
+100)  
+Regarder
+113)  
+Regarder
+118)  
+Regarder
+119)  
+Regarder
+121)  
+Regarder
+88)  
+Porte
+89)  
+Abattre
+90)  
+Coup de poing
+160)  
+Coup de poing
+91)  
+Frapper
+92)  
+Frapper
+93)  
+Frapper
+94)  
+Frapper
+95)  
+Frapper
+96)  
+Frapper
+97)  CLEMENTINE
+[Pickup2]C'est trop sombre là-dedans.
+98)  LEE
+[Pickup2]Ouais, on devrait bloquer la porte ouverte avec quelque chose.
+101)  
+Ouvrir
+103)  
+Ouvrir
+114)  
+Ouvrir
+102)  
+Pousser
+104)  
+Supporter
+105)  
+Supporter
+106)  
+Supporter
+115)  
+Dévérouiller
+116)  
+Prendre
+123)  CHRISTA
+[through a door] {angrya}Qu'est-ce qui se passe ? Je crois que j'ai entendu un coup de feu.
+124)  LEE
+[pickup2] [unnerved] On va bien.
+125)  LEE
+[pickup2] [not sure what to say] On a trouvé quelques marcheurs.
+126)  CHRISTA
+{thinkinga}Vous et une gamine de huit ans, hein ?
+127)  
+On a géré.
+128)  
+Ce n'est pas vos affaires.
+129)  
+C'était idiot.
+130)  LEE
+[pickup2] Ce n'est pas vos affaires. Si on avait voulu de votre aide, on aurait demandé.
+131)  CHRISTA
+{angrya}Et si vous étiez tous deux morts là-dedans, trois morts se transforment en cinq et CE N'EST PAS mes affaires.
+132)  LEE
+[pickup2] Une bonne chose que ça n'est pas arrivé, alors.
+133)  LEE
+[pickup2] C'était idiot.
+134)  CHRISTA
+{normalb}Vous pensez ? [sarc but stern]
+135)  LEE
+[pickup2] Vous voulez me faire dire quoi ? J'essaye de lui apprendre comment faire attention à elle. On apprend à travailler ensemble.
+136)  LEE
+[pickup2] On a géré.
+137)  CHRISTA
+{normalb}Ouais, on dirait. {angrya}Et si vous ne l'aviez pas géré ?
+138)  CHRISTA
+{thinkinga}....On dirait que ça a marché pour vous. {normalb}Il faut probablement faire un peu plus attention dans l'utilisation du pistolet. Le bruit et tout.
+139)  CLEMENTINE
+[pickup2] On sait.
+140)  CHRISTA
+{normalb}Je vais aller vérifier que le bruit ne va pas nous causer des ennuis.
+141)  CLEMENTINE
+[pickup2] C'est une bonne idée.
+142)  CHRISTA
+{angryA}J'espère que vous savez ce que vous faites avec elle.
+143)  
+On est encore vivants, non ?
+144)  
+Moi aussi.
+145)  
+Non.
+146)  LEE
+[pickup2]On est encore vivants, non ?
+147)  CHRISTA
+{normala}Oui, en effet.
+148)  LEE
+[pickup2]Moi aussi.
+149)  CHRISTA
+{sada}Pour son intérêt.
+150)  LEE
+[pickup2]Non.
+151)  CHRISTA
+{thinkinga}Alors elle est plus impressionnante que je le pensais.
+152)  CHRISTA
+{angryb}[frustrated exhale, short, upon exit]
+153)  
+Fenêtre
+154)  
+Porte de la cage
+155)  
+Chalumeau
+156)  
+Key
+157)  
+Clé à molette
+158)  
+Obstacle
+159)  
+Arrache attache
+161)  
+On a appris que tout est dangereux.
+162)  
+Tu dois apprendre à appuyer sur la détente.
+163)  
+On a appris à ne pas avoir peur.
+164)  CLEMENTINE
+[pickup2] J'essayerai.
+165)  LEE
+[pickup2] Non, tu dois juste apprendre à appuyer sur la détente.
+166)  CLEMENTINE
+[pickup2] C'est si dur.
+167)  LEE
+[pickup2] N'y pense pas, fait le. Une vie peut en dépendre.
+168)  LEE
+[pickup2] On a appris à ne pas avoir peur. Ils auraient du nous avoir, mais on les a eus.
+169)  CLEMENTINE
+[pickup2] Ouais, tu as raison.
+170)  LEE
+[pickup2] La peur est la chose qui peut nous tuer, tu comprends ?
+171)  LEE
+[pickup2] Moi non plus.
+172)  CLEMENTINE
+[pickup2] Pardon. Je ferai mieux. Je ne veux pas qu'on meurt.
+173)  LEE
+[pickup2] [to Clem] Prête à y aller ?
+174)  CLEMENTINE
+[pickup2] Hum hum.
+175)  LEE
+[pickup2] [to Clem, concerned]Tu es sure que tu vas bien ?
+176)  CLEMENTINE
+[pickup2] Ouais. Je tremble un peu.
+177)  LEE
+[pickup2][to Clem] Ca passera.
+178)  LEE
+{fearA}Tu vas bien ?
+179)  LEE
+[pickup2] Quelqu'un a fait un peu de peinture.
+180)  LEE
+[pickup2] Quelqu'un a fait BEAUCOUP de peinture...
+181)  LEE
+[pickup2] La peinture est sèche depuis des mois.
+182)  LEE
+[pickup2] On dirait que cette chose n'a pas marchée depuis des années.
+183)  LEE
+[pickup2] Il doit y avoir quelque chose d'utile ici....
+184)  LEE
+[pickup2] Ils n'ont pas fait beaucoup d'affaires.
+185)  LEE
+[pickup2] Quelqu'un doit être bien désespéré....
+186)  LEE
+[pickup2] Il y a un peu d'espace là haut, mais pas beaucoup.
+187)  
+Chariot élévateur
+188)  
+Pots de peinture
+189)  
+Inscription Survivants
+190)  
+Espace
+191)  
+Inscriptions
+195)  
+Inscriptions
+196)  
+Inscriptions
+197)  
+Inscriptions
+198)  
+Inscriptions
+192)  
+Rayons vides
+193)  
+Pont
+194)  LEE
+{thinkingA}Hum.
