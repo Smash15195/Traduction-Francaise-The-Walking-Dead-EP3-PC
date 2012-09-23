@@ -157,9 +157,9 @@ Chuck a remarqué votre intérêt pour son histoire.
 65)  
 Clémentine remarqué ce que vous ressentez pour Lilly.
 67)  
-Vous avez frappé l'esprit de Kenny.
+Vous avez chamboulé Kenny.
 69)  
-Vous avez frappé l'esprit de Kenny.
+Vous avez chamboulé Kenny.
 68)  
 Vous avez pu faire entendre raison à votre ami.
 70)  
@@ -245,7 +245,7 @@ Lilly s'en souviendra.
 106)  
 Tape m'en cinq !
 107)  
-Vous avez laissé Duck pendu.
+Vous avez ignoré Duck.
 108)  
 Vous avez fait une journée pour Duck.
 109)  
@@ -285,7 +285,7 @@ Christa n'a pas apprécié que vous vous immisciez dans ses affaires.
 128)  
 Vous avez choisi de sauver Omid.
 129)  
-Vous avez sauvé Christa en première.
+Vous avez sauvé Christa en premier.
 130)  
 Vous avez sauvé Omid en premier.
 131)  

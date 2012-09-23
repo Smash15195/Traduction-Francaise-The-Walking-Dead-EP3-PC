@@ -1,0 +1,344 @@
+1)  DUCK
+{thinkingA}[to himself] Un mystère...!
+2)  LEE
+{angryB}Bon sang, Duck !
+3)  DUCK
+{sadA}Désolé, {normalA}je vous ai entendu parler.
+4)  LEE
+{angryA}Tu devrais plutôt désentendre tout ça.
+5)  DUCK
+{happyC}Je peux aider ?
+6)  LEE
+{angryb}Qu'est-ce que je viens de dire ?
+7)  DUCK
+{happyC}Tu es le plus grand détective du monde et je peux être Dick Grayson ! Ton Ange Gardien !
+8)  DUCK
+{happya}C'est Robin.
+9)  LEE
+{angryb}[annoyed] Je sais qui c'est.
+10)  
+Tu peux m'aider. Mais ne le dit à personne.
+11)  
+Non. Si tu dis quoi que ce soit, il y aura des problèmes.
+12)  
+Bien, tu es Robin.
+13)  DUCK
+{happya}Top secret !
+20)  DUCK
+{happya}Top secret !
+14)  LEE
+{NormalC} Tu peux m'aider. {angryA}Mais ne le dit à personne.
+15)  LEE
+{normalC}Ouais. Génial.
+16)  DUCK
+{fearA}[small] Qu'est-ce que je dois faire ?
+27)  DUCK
+{fearA}[small] Qu'est-ce que je dois faire ?
+17)  LEE
+{thinkingA}Je sais pas. {normalC}Jette un oeil. Fais moi savoir si tu trouve un truc {disgustA}bizarre.
+28)  LEE
+{thinkingA}Je sais pas. {normalC}Jette un oeil. Fais moi savoir si tu trouve un truc {disgustA}bizarre.
+18)  DUCK
+{happyA}Je suis sur l'affaire !
+29)  DUCK
+{happyA}Je suis sur l'affaire !
+19)  LEE
+{angryA}Tu ne peux pas m'aider. {thinkingA}Et Si tu dis quoi que ce soit, {normalC}ca fera des problèmes.
+21)  DUCK
+{thinkingA}Je vivrai dans l'ombre !
+30)  DUCK
+{thinkingA}Je vivrai dans l'ombre !
+22)  LEE
+{angryB}As-tu entendu ce que je viens de dire ?
+23)  DUCK
+Je ne le répéterai à personne.
+24)  LEE
+{angryb}La partie à propos de ne pas m'aider. {angryC}Tu ne m'aide pas.
+25)  DUCK
+{happyB}Ouais !
+26)  LEE
+{ThinkingB}D'accord, tu es Robin.
+31)  LEE
+{thinkingA} Il y a du verre cassé sur le sol ici.
+32)  LEE
+{thinkingA}Hmm.
+33)  LEE
+{thinkingB}Il y a quelque chose de dessiné ici...
+34)  DUCK
+{happyA}Une indice !
+35)  LEE
+{angryA}[frustrated] Peut-être.
+36)  DUCK
+{normalA}Qu'est-ce que tu penses que c'est ?
+37)  LEE
+{thinkingA}Euh. De la craie.
+38)  DUCK
+{thinkingA}[whispering] Rose. Hmm.
+39)  LEE
+{angryB}[surprised]Duck !
+40)  LEE
+{angryC}Je pensais t'avoir dis que tu ne pouvais pas aider.
+41)  DUCK
+{sadA}Je suis juste curieux.
+42)  LEE
+{thinkingB}Dis rien.
+43)  LEE
+{thinkingB}Je ne crois pas que c'est important.
+44)  DUCK
+{happyb}C'est peut-être un signe !
+45)  LEE
+{normalB}Ca se pourait. {thinkingA}C'est de la craie rose, {thinkingb}étrange.
+46)  DUCK
+{thinkingA}D'accord, {happyA}Retour à l'enquête !
+47)  LEE
+{thinkingA}Encore de la craie...
+48)  LEE
+{normalC}Quelqu'un était ici.
+49)  LEE
+{normalA}Ouais, Duck.
+50)  DUCK
+{happya}T'as vu, j'ai bien travaillé, hein.
+51)  DUCK
+{normalA}D'accord.
+52)  LEE
+{thinkingA}Je suppose que je devrais sortir et jeter un oeil.
+53)  LEE
+{normalA}Tu restes ici ce coup-ci. {normalC}Sérieusement.
+54)  LEE
+{normalB}Je peux pas tirer sur ça.
+55)  LEE
+{thinkingA}Euh. Il y a {fearA}quelque chose là-dedans... [worried]
+56)  LEE
+{normalB}Il y a une grille branlante.
+57)  LEE
+{thinkingB}[tiny effort] Hmmph.
+58)  LEE
+{normalB}Un sachet.
+59)  LEE
+{fearA}[disbelief, quiet] Putain de merde...
+60)  LEE
+{thinkingA}On dirait que Kenny a fait fonctionner cette chose. {HappyA}Je le croirai quand je le verrai.
+61)  LEE
+{normalA} C'est la chambre de Lilly.
+62)  LEE
+{normalB}Je n'ai pas besoin d'entrer là-dedans.
+63)  LEE
+{normalB}C'est fermé.
+64)  DUCK
+{happyA}J'ai trouvé un truc.
+65)  LEE
+{thinkingA}Qu'est-ce que c'est ?
+66)  LEE
+{thinkingA}Ouais, Duck, j'ai compris. {normalA}Bon Boulot.
+67)  DUCK
+{happyc}Cool !
+68)  DUCK
+{happyb}J'ai trouvé ce morceau de craie rose et une trace sous la porte !
+69)  LEE
+{normalA}Vraiment ?
+70)  DUCK
+{happyc}A donf !
+71)  DUCK
+{normalA}Psst, Lee.
+72)  DUCK
+{happya}Je passais au peigne fin la scène de crime en quête de preuve et--
+73)  KATJAA
+{sadA}Tu ferais quoi ?
+103)  KATJAA
+{sadA}Tu ferais quoi ?
+74)  KENNY
+{normalC}Je ferais ce qu'il faut.
+105)  KENNY
+{normalC}Je ferais ce qu'il faut.
+75)  KENNY
+{sadA}Elle devra laisser passer ça...
+104)  KENNY
+{sadA}Elle devra laisser passer ça...
+76)  LEE
+{normalB}Ouais. {thinkingA} Je viens de les appeler "jours" ces derniers temps.
+108)  LEE
+{normalB}Ouais. {thinkingA} Je viens de les appeler "jours" ces derniers temps.
+77)  DOUG
+Et maintenant si elle est parano ? C'est un mauvais mélange.
+106)  DOUG
+Et maintenant si elle est parano ? C'est un mauvais mélange.
+78)  DOUG
+Je ne sais pas ce que c'est, mais c'est pas la peine de parler à Lilly des choses qui disparaissent. Depuis que son père est mort, elle est sous tension.
+109)  DOUG
+Je ne sais pas ce que c'est, mais c'est pas la peine de parler à Lilly des choses qui disparaissent. Depuis que son père est mort, elle est sous tension.
+79)  DOUG
+Euh, rude journée, j'imagine.
+107)  DOUG
+Euh, rude journée, j'imagine.
+80)  LEE
+{normalD}Pas de doute.
+115)  LEE
+{normalD}Pas de doute.
+81)  LEE
+{sadA}Ce qui veut dire.
+110)  LEE
+{sadA}Ce qui veut dire.
+82)  CARLEY
+Eh bien, je pense que tu as bien agit aujourd'hui. Et je me surprends à le penser la plupart du temps.
+117)  CARLEY
+Eh bien, je pense que tu as bien agit aujourd'hui. Et je me surprends à le penser la plupart du temps.
+83)  CARLEY
+Ca vaudrait probablement la peine donner des nouvelles à Lily à propos du matériel manquant.
+112)  CARLEY
+Ca vaudrait probablement la peine donner des nouvelles à Lily à propos du matériel manquant.
+84)  CARLEY
+Avec la façon dont elle prends tout, je ne veux pas la voir devenir paranoïaque.
+114)  CARLEY
+Avec la façon dont elle prends tout, je ne veux pas la voir devenir paranoïaque.
+85)  LEE
+{normalA}Merci.
+116)  LEE
+{normalA}Merci.
+86)  CARLEY
+Ouf. Des choses me viennent en tête.
+111)  CARLEY
+Ouf. Des choses me viennent en tête.
+87)  CARLEY
+Et je voudrais te parler, quand tu auras une minute.
+113)  CARLEY
+Et je voudrais te parler, quand tu auras une minute.
+88)  
+Elle s'en remettra.
+118)  
+Elle s'en remettra.
+89)  KATJAA
+{normalB}Essai de comprendre, Ken.
+120)  KATJAA
+{normalB}Essai de comprendre, Ken.
+90)  LEE
+{normalC}Elle s'en remettra.
+119)  LEE
+{normalC}Elle s'en remettra.
+91)  KENNY
+{angryA}Sinon elle énervera tout le monde.
+121)  KENNY
+{angryA}Sinon elle énervera tout le monde.
+92)  
+Elle a raison.
+122)  
+Elle a raison.
+93)  LEE
+{angryA}Elle a raison, tu sais. {normalC}C'est de plus en plus la merde à chaque jours qui passe.
+125)  LEE
+{angryA}Elle a raison, tu sais. {normalC}C'est de plus en plus la merde à chaque jours qui passe.
+94)  KENNY
+{angryA}Quoiqu'il en soit, Lee. Tu as choisi d'être à nos côtés.
+123)  KENNY
+{angryA}Quoiqu'il en soit, Lee. Tu as choisi d'être à nos côtés.
+95)  KATJAA
+{sadA}Ken, ce n'est pas juste.
+124)  KATJAA
+{sadA}Ken, ce n'est pas juste.
+96)  
+Alors content, Kenny ?
+126)  
+Alors content, Kenny ?
+97)  LEE
+{AngryA} Alors content, Kenny ?
+127)  LEE
+{AngryA} Alors content, Kenny ?
+98)  KATJAA
+{sadA}Tout le monde est sous grande tension.
+128)  KATJAA
+{sadA}Tout le monde est sous grande tension.
+99)  KENNY
+{normalC}Ma famille est vivante et ce camping car fonctionne. Je le suis foutrement.
+129)  KENNY
+{normalC}Ma famille est vivante et ce camping car fonctionne. Je le suis foutrement.
+100)  
+silence
+130)  
+silence
+101)  KENNY
+{angryb}Tout ce que je sais, c'est que quand cette merde arrive, c'est moi le putain de méchant. {angryA}Je voudrais pouvoir te remercier une fois. {angryB}JUSTE UNE FOIS.
+102)  KENNY
+{sadA}Elle a raison sur une chose. Rien de tout cela devient plus facile.
+131)  
+Regarder
+133)  
+Regarder
+136)  
+Regarder
+138)  
+Regarder
+139)  
+Regarder
+141)  
+Regarder
+144)  
+Regarder
+167)  
+Regarder
+168)  
+Regarder
+169)  
+Regarder
+132)  
+Inspecter
+134)  
+Inspecter
+140)  
+Inspecter
+135)  
+Ouvrir
+137)  
+Ouvrir
+142)  
+Ouvrir
+143)  
+Grimper
+145)  
+Ramasser
+146)  
+Porte de Lilly
+147)  
+Traces de Craie
+148)  
+X à la Craie
+149)  
+Verre Cassé
+150)  
+Portail
+151)  
+Grille
+152)  
+Inventaire
+153)  
+Camping Car
+154)  
+Sachet
+155)  
+Escaliers
+156)  
+Taper dans la Main
+157)  LEE
+[pickup2] C'est la marque de craie que Duck a trouvé.
+158)  LEE
+[pickup2] Hmm. Aucun doute, c'est vraiment bizarre.
+159)  LEE
+[pickup2] Quelqu'un a probablement simplement été maladroit.
+160)  LEE
+[pickup2] Ca ne pas être juste une coïncidence.
+161)  KENNY
+[pickup2] [alt] Hé -- elle ne nous aide pas, hein ?
+162)  KATJAA
+[pickup2][alt] Maintenant, Kenny, elle a vécu tellement de choses.
+163)  LEE
+[pickup2] La préféré de Duck[game].
+164)  LEE
+[pickup2] Nous sommes ici depuis bien trop longtemps déjà.
+165)  LEE
+[pickup2] C'est toujours l'endroit le plus sûr pour nous.
+166)  LEE
+[pickup2] Ces bandits nous ont donné du fil à retordre, mais ils sont calmes depuis des jours maintenant.
+170)  
+Marelle
+171)  
+Clôture
+172)  
+Enseigne du Motel

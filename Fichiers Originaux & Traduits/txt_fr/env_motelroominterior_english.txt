@@ -257,7 +257,7 @@ La paranoïa ne nous servira à rien
 107)  LILLY
 {NormalB}Il n'y a pas le compte {SadA}dans les réserves importantes. {AngryE}Antibiotiques, eau oxygénée, {NormalC}merde, tout ce qui contient des opiacés.
 108)  LEE
-{NormalD}Je les compte {SadA}et tout est là.
+{NormalD}Je les ai compté {SadA}et tout est là.
 109)  LEE
 {AngryB}Donc tu veux que je regarde ?
 110)  LEE
@@ -409,7 +409,7 @@ Tu ne voudrais jamais t'en aller d'ici ?
 183)  KENNY
 {NormalC}On dirait qu'on a encore {HappyA}le gamin de garde.
 184)  KENNY
-{HappyA}On pourrait tout aussi bien mettre {ThinkingA}mettre un panneau disant {AngryA}"les hommes sont partis, {AngryB}cvenez violer nos femmes et nos enfants."
+{HappyA}On pourrait tout aussi bien {ThinkingA}mettre un panneau disant {AngryA}"les hommes sont partis, {AngryB}venez violer nos femmes et nos enfants."
 185)  LEE
 {HappyB}Hé, ma puce, {NormalC}je viens dans une minute.
 186)  LILLY
@@ -453,7 +453,7 @@ Ce qu'il restait.
 214)  KENNY
 {ThinkingA}Peut-être que tu aurais fait mieux.
 202)  KENNY
-{NormalC}Ce qui {HappyA}faisait beaucoup, en fait.
+{NormalC}Ce qui {HappyA}fait pas mal, en fait.
 203)  KENNY
 {HappyB}Regarde.
 204)  
@@ -465,9 +465,9 @@ Rien.
 217)  KENNY
 {NormalB}Bon on a du matos. {ThinkingA}Pas grand chose, {NormalC}mais pas loin.
 207)  KENNY
-{HappyD}Ha, {HappyB}Lee a du prendre un coup sur la tête. {HappyC}On en a plein, {HappyA}regarde.
+{HappyD}Ha, {HappyB}Lee a du prendre un coup sur la tête. {HappyC}On a plein de trucs, {HappyA}regarde.
 216)  KENNY
-{HappyD}Ha, {HappyB}Lee a du prendre un coup sur la tête. {HappyC}On en a plein, {HappyA}regarde.
+{HappyD}Ha, {HappyB}Lee a du prendre un coup sur la tête. {HappyC}On a plein de trucs, {HappyA}regarde.
 209)  LILLY
 {AngryE}Ha.[very funny]
 210)  CLEMENTINE
@@ -483,7 +483,7 @@ Rien.
 535)  KENNY
 {NormalA}Lee est resté planté {DisgustA}et il n'a rien ramené.
 218)  LILLY
-{AngryE}Parce qu'aller m'entasser avec toi dans ton van, {AngryA}après ce que tu as fait à mon père, {AngryC}c'est tellement tentant.
+{AngryE}Parce qu'aller m'entasser avec toi dans ton van, {AngryA}après ce que tu as fait à mon père, {AngryC}c'est tellement plus tentant.
 219)  KENNY
 {AngryA}Regarde le mur, Lilly. {ThinkingA}Ce ne sont pas des graffitis. {DisgustA}Ce sont des impacts de balles. {AngryA}Et on a assez de flèches plantées dedans {ThinkingA}pour faire sécher notre linge.
 351)  KENNY
@@ -543,7 +543,7 @@ Qu'est-ce que t'en sais ?
 409)  KATJAA
 {FearB}Quoi...?
 234)  KENNY
-{AngryA}Ton copian et moi {HappyA}on a eu de la chance et on a laissé une fille {AngryB}se faire bouffer là-bas.
+{AngryA}Ton copain et moi {HappyA}on a eu de la chance et on a laissé une fille {AngryB}se faire bouffer là-bas.
 235)  KENNY
 {AngryA}Une fille est arrivée dans la rue en hurlant. {ThinkingA}Il y avait des morts partout autour d'elle.
 397)  KENNY
@@ -557,9 +557,9 @@ Qu'est-ce que t'en sais ?
 410)  KENNY
 {AngryA}Tu sais comment{DisgustA} on a eu ces réserves ?
 237)  KENNY
-{NormalC}Elle nous a laissé assez de temps {SadA}pour prendre tout ça et filer du drugstore.
+{NormalC}Elle nous a laissé assez de temps {SadA}pour prendre ce qu'il nous fallait et filer du drugstore.
 411)  KENNY
-{NormalC}Elle nous a laissé assez de temps {SadA}pour prendre tout ça et filer du drugstore.
+{NormalC}Elle nous a laissé assez de temps {SadA}pour prendre ce qu'il nous fallait et filer du drugstore.
 238)  LILLY
 {SadB}Et vous l'avez laissé là comme, {AngryB}comme {AngryC}un appât ? {SadB}[sigh] Mon Dieu, qu'est-ce qui nous arrive...
 406)  LILLY
@@ -657,25 +657,25 @@ Elle était condamnée.
 487)  LEE
 {SadA}Elle était condamnée. {NormalC}C'était le mieux à faire à ce moment-là.
 249)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 400)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 413)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 419)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 453)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 458)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 486)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 494)  KATJAA
-{FearA}Ca nous fait tous plaisir, Ken --
+{FearA}Nous l'apprécions tous, Ken --
 250)  
-On a ce qu'il nous fallait.
+On a ce eu qu'il nous fallait.
 454)  
-On a ce qu'il nous fallait.
+On a ce eu qu'il nous fallait.
 251)  LEE
 {AngryA}On a ce qu'il nous fallait. {NormalD}Il y avait, enfin ça devait arriver.
 455)  LEE
@@ -745,9 +745,9 @@ Tu devrais remercier Lee de ne pas avoir tiré sur cette fille.
 469)  LILLY
 {ThinkingB}C'est à dire ?
 262)  KENNY
-{AngryA}Elle faisait tellement de bruit {SadA}qu'on aurait pe {DisgustA}avoir largement le temps {SadA}de prendre ce qu'il nous fallait.
+{AngryA}Elle faisait tellement de bruit {SadA}qu'on aurait pu {DisgustA}avoir largement le temps {SadA}de prendre ce qu'il nous fallait.
 471)  KENNY
-{AngryA}Elle faisait tellement de bruit {SadA}qu'on aurait pe {DisgustA}avoir largement le temps {SadA}de prendre ce qu'il nous fallait.
+{AngryA}Elle faisait tellement de bruit {SadA}qu'on aurait pu {DisgustA}avoir largement le temps {SadA}de prendre ce qu'il nous fallait.
 263)  KENNY
 {AngryB}Mais au lieu de ça, {ThinkingA}ce gros malin {DisgustA}l'a descendue.
 467)  KENNY
@@ -817,13 +817,13 @@ Vous devriez tous l'engueuler pour ne pas avoir fait ce qu'il fallait.
 499)  KENNY
 Vous devriez tous l'engueuler pour ne pas avoir fait ce qu'il fallait.
 278)  
-On a eu plein de nourriture dans ce break là-bas.
+On a eu plein de nourriture dans ce break.
 321)  
-On a eu plein de nourriture dans ce break là-bas.
+On a eu plein de nourriture dans ce break.
 279)  LEE
-{AngryA}On a eu plein de nourriture {DisgustB}dans ce break là-bas.
+{AngryA}On a eu plein de nourriture {DisgustB}dans ce break.
 380)  LEE
-AngryA}On a eu plein de nourriture {DisgustB}dans ce break là-bas.
+{AngryA}On a eu plein de nourriture {DisgustB}dans ce break.
 280)  KENNY
 {AngryA}On ne peut pas simplement espérer trouver {ThinkingA}d'autres breaks.
 379)  KENNY
@@ -833,31 +833,31 @@ AngryA}On a eu plein de nourriture {DisgustB}dans ce break là-bas.
 382)  KENNY
 {AngryA}On ne peut pas simplement espérer trouver {ThinkingA}d'autres breaks.
 281)  KENNY
-{ThinkingA}Pas grâce à toi -- tu n'as même pas voulu {AngryB}te servir -- {DisgustA}putain mais tu en serais où sans ça ?
+{ThinkingA}Pas grâce à toi -- tu n'as même pas voulu {AngryB}te servir -- {DisgustA}putain mais tu en serais où sans elle ?
 282)  
 On gère la poisse quand elle arrive.
 322)  
 On gère la poisse quand elle arrive.
 283)  LEE
-{AngryA}We deal with shit as it comes, {ThinkingB}just like we {AngryA}always do.
+{AngryA}On gère la poisse comme elle arrive, {ThinkingB}comme nous l'avons {AngryA}toujours fait.
 384)  LEE
-{AngryA}We deal with shit as it comes, {ThinkingB}just like we {AngryA}always do.
+{AngryA}On gère la poisse comme elle arrive, {ThinkingB}comme nous l'avons {AngryA}toujours fait.
 284)  KENNY
-{ThinkingA}And when fifteen bandits {AngryA}hop over that wall in the middle of the night?
+{ThinkingA}Et quand quinze bandits {AngryA}sauteront par-dessus le mur au milieu de la nuit ?
 386)  KENNY
-{ThinkingA}And when fifteen bandits {AngryA}hop over that wall in the middle of the night?
+{ThinkingA}Et quand quinze bandits {AngryA}sauteront par-dessus le mur au milieu de la nuit ?
 387)  KENNY
-{ThinkingA}And when fifteen bandits {AngryA}hop over that wall in the middle of the night?
+{ThinkingA}Et quand quinze bandits {AngryA}sauteront par-dessus le mur au milieu de la nuit ?
 390)  KENNY
-{ThinkingA}And when fifteen bandits {AngryA}hop over that wall in the middle of the night?
+{ThinkingA}Et quand quinze bandits {AngryA}sauteront par-dessus le mur au milieu de la nuit ?
 285)  KENNY
-{DisgustA}What then? {AngryA}You just gonna {AngryB}deal with that?
+{DisgustA}Alors quoi ? {AngryA}Tu vas simplement {AngryB}faire avec ?
 385)  KENNY
-{DisgustA}What then? {AngryA}You just gonna {AngryB}deal with that?
+{DisgustA}Alors quoi ? {AngryA}Tu vas simplement {AngryB}faire avec ?
 286)  
-We got all the protection we need.
+Nous avons toute la protection nécessaire.
 323)  
-We got all the protection we need.
+Nous avons toute la protection nécessaire.
 287)  LEE
 [tough. bad ass] {AngryB}On est suffisamment protégés.
 389)  LEE
@@ -867,9 +867,9 @@ We got all the protection we need.
 388)  LEE
 {DisgustA}Ils ne reviendront pas.
 290)  LILLY
-{AngryE}Tout ce qui nous arrive {AngryB}te sert d'excuse{AngryC} pour nous ressortir tes conneries sur le départ. {FearA}Tout ce que je demande c'est d'être tranquille {AngryA}une semaine; de {AngryC}ne rien entendre.
+{AngryE}Tout ce qui nous arrive {AngryB}te sert d'excuse{AngryC} pour nous ressortir tes conneries pour partir. {FearA}Tout ce que je demande c'est d'être tranquille {AngryA}une semaine; de {AngryC}ne rien entendre.
 391)  LILLY
-{AngryE}Tout ce qui nous arrive {AngryB}te sert d'excuse{AngryC} pour nous ressortir tes conneries sur le départ. {FearA}Tout ce que je demande c'est d'être tranquille {AngryA}une semaine; de {AngryC}ne rien entendre.
+{AngryE}Tout ce qui nous arrive {AngryB}te sert d'excuse{AngryC} pour nous ressortir tes conneries pour partir. {FearA}Tout ce que je demande c'est d'être tranquille {AngryA}une semaine; de {AngryC}ne rien entendre.
 291)  
 Nous sommes plus forts si nous sommes unis.
 325)  
@@ -973,7 +973,7 @@ On va mourir ici.
 338)  KENNY
 {AngryA}C'est pourquoi je répète, {SadA}sans vouloir faire mon disque rayé, {FearA}que nous devons nous barrer.
 320)  LILLY
-{AngryA}Parce que m'entasser dans ton van, {ThinkingA}après ce que tu as fait à mon père, c'est {DisgustA}TELLEMENT tentant.
+{AngryA}Parce que m'entasser dans ton van, {ThinkingA}après ce que tu as fait à mon père, c'est {DisgustA}TELLEMENT plus tentant.
 326)  LEE
 {AngryA}Nous sommes plus forts ensemble. {DisgustB}Arrête de te braquer contre nous, Lilly. {SadA}On est navrés pour ce qui ets arrivé à ton père, mais {ThinkingB}on est tous dans le même bateau maintenant.
 331)  LILLY
@@ -1007,17 +1007,17 @@ C'est pas ce que tu disais, mec.
 368)  LILLY
 {AngryB}Fais pas ton chef avec les autres.
 361)  LILLY
-{ThinkingA}Et avec moi {AngryB}non plus.
+{ThinkingA}Et moi {AngryB}non plus.
 366)  LILLY
-{ThinkingA}Et avec moi {AngryB}non plus.
+{ThinkingA}Et moi {AngryB}non plus.
 362)  LEE
 {AngryA}On ne va pas toujours tout ramener {DisgustA}au même problème.
 371)  LEE
 {AngryA}On ne va pas toujours tout ramener {DisgustA}au même problème.
 363)  KENNY
-{DisgustA}Bien sûr que si.
+{DisgustA}Bien sûr, tu est dans son camps.
 370)  LEE
-{AngryA}Les inquiétudes de Lilly {DisgustA}sont légitimes, tu vois ?
+{AngryA}Les inquiétudes de Lilly {DisgustA}sont légitimes, tu comprends ?
 372)  LEE
 {NormalD}Lilly, {SadA}Kenny a marqué des points là.
 373)  LEE
@@ -1047,14 +1047,14 @@ Les gars vous n'avez pas pu essayer de la sauver ?...
 477)  DOUG
 Les gars vous n'avez pas pu essayer de la sauver ?...
 430)  LILLY
-{AngryC}DEHORS {AngryD}tout le monde.
+{AngryC}Maintenant tout le monde {AngryD}DEHORS.
 431)  LILLY
-{AngryC}DEHORS {AngryD}tout le monde.
+{AngryC}Maintenant tout le monde {AngryD}DEHORS.
 515)  LILLY
 [pickup2] Il t'a traité comme de la merde. Il savait qui tu étais vraiment, tu avais toutes les raisons du monde pour le tuer et tu ne l'as pas fait. Tu n'as pas à t'excuser.
 528)  LILLY
 [pickup2] Il t'a traité comme de la merde. Il savait qui tu étais vraiment, tu avais toutes les raisons du monde pour le tuer et tu ne l'as pas fait. Tu n'as pas à t'excuser.
 529)  LEE
-[pickup2][alt if we use the stickers] Hé ma puce. C'est gentil, j'arrive tout de suite.
+[pickup2][alt if we use the stickers] Hé ma puce, c'est joli, j'arrive tout de suite.
 530)  CLEMENTINE
 [pickup2] [alt!] Ben a trouvé des autocollants dans un tiroir et je les ai mis sur mon talkie !

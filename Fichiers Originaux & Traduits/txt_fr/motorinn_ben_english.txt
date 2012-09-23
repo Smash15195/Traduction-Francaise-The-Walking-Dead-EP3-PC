@@ -1,0 +1,172 @@
+1)  
+J'ai besoin de te dire quelque chose.
+2)  LEE
+{normalD}Hé Ben, j'ai besoin de te dire quelque chose.
+3)  BEN
+{normalb}Bien sûr, Lee. {thinkingA} C'est à propos de la surveillance ? {fearA}j'essaie de faire de mon mieux.
+4)  LEE
+{normalD}Tu la fais bien.
+5)  
+J'ai été condamné pour meutre.
+6)  
+J'étais sur en transfert pour la prison avant tout ça.
+7)  
+Oublie ça.
+8)  LEE
+{sadA}J'ai été {normalD}condamné pour meurtre.
+9)  BEN
+{surprisedA}Ouah, {sadB}sérieusement ?
+19)  BEN
+{surprisedA}Ouah, {sadB}sérieusement ?
+10)  LEE
+{thinkingA}Pourquoi je plaisanterai avec ça ?
+11)  BEN
+{surprisedA}J'en sais rien,{feara} euh...{sadA} wouoh.
+12)  LEE
+{normalD}Tu fais parti du groupe et tu devrais le savoir.
+13)  BEN
+{fearb}J'avais jamais vu de meurtrier avant. {sadB}Eh bien, j'aurais pas dû dire ça.
+14)  LEE
+{normalD}Je compris ce que tu voulais dire.
+15)  BEN
+{normalb}Merci de me faire confiance.{fearA} Je, euh, je...
+24)  BEN
+{normalb}Merci de me faire confiance.{fearA} Je, euh, je...
+16)  LEE
+{normalC}Ben, relax.
+25)  LEE
+{normalC}Ben, relax.
+17)  BEN
+[anxious] {fearA}D'accord.
+26)  BEN
+[anxious] {fearA}D'accord.
+18)  LEE
+{normalc}J'étais en cours de transfert vers la prison avant tout ça.
+20)  BEN
+{feara}Quoi, euh, tu y allais pour... ?
+21)  LEE
+{normalb}C'est pas important.
+22)  BEN
+{surpriseda}Oh.
+23)  LEE
+{thinkinga}C'est juste que si tu entends quelque chose, {normalb}c'est probablement vrai et maitenant tu le sais.
+27)  LEE
+{sadA}Peu importe.
+28)  BEN
+{fearA}Oh, d'accord.
+29)  LEE
+{normalA}Ce n'était pas important.
+30)  BEN
+{fearb}J'ai fait quelque chose de mal ?
+31)  LEE
+{sadA}Non, Ben, {normalA}Tout va bien.
+32)  BEN
+{thinkingA}Qu'est-ce que c'est ?
+33)  BEN
+{fearB}Si je l'ai bousillée ?
+34)  BEN
+{thinkingb}D'accord, Je vais y... retourner... alors.
+35)  BEN
+{normalA}Quoi de neuf, Lee ?
+36)  LEE
+{normalA}Hé, Ben.
+37)  
+Tu te sens utile dans le groupe ?
+38)  LEE
+{normalA}Qu'est-ce que tu penses de Lilly ?
+39)  BEN
+{fearb}Elle me fout les glandes.
+40)  LEE
+{thinkingA}C'est plutôt {normalc}normal comme sentiments.
+41)  BEN
+{fearA}J'ai juste peur qu'elle craque.
+42)  
+Qu'est-ce que tu pense de Lilly ?
+43)  LEE
+{normalA}Ouais. Comment va le moral.
+44)  BEN
+{thinkingA}Je vais bien. {feara}Ca aide, hein ?
+45)  LEE
+{happya}Bien sûr, Ben.
+46)  LEE
+{thinkingA}Tu te sens utile pour le groupe ?
+47)  BEN
+{sadA}Quoi ? {thinkinga}Utile ?
+48)  
+Quelque chose de bizarre en vue ?
+49)  LEE
+{thinkingA}Vraiment.
+50)  BEN
+{happyb}Ouais, complètement. {happya}Et c'est tant mieux.
+51)  LEE
+{thinkingA}Tu as vu quelque chose de bizarre ? Il y a quelqu'un ou quelque chose ?
+52)  BEN
+{normalA}Nan. C'est vraiment très calme.
+53)  
+Tu étais déjà venu à Macon avant ?
+54)  LEE
+{thinkingb}J'ai grandi à Macon.
+55)  BEN
+{happya}C'est super génial. {sadA}Je veux dire, plus maintenant mais je pari que ça l'était.
+56)  BEN
+{thinkingA}Je n'avais pas de raisons d'y venir. {normalb}Mes parents me permettait de prendre la voiture pour aller en ville le week-end. {thinkingb}Mais faire quoi à Macon ? {normalA}C'est une pure perte de temps par rapport à Atlanta.
+57)  BEN
+{surprisedA}Oh. {fearA} Je ne voulais pas dire que c'est pourri ou quoi que ce soit.
+58)  LEE
+{normalA}Tu étais déjà venu à Macon avant ?
+59)  
+Tu sais quoi que ce soit à propos des médicaments manquants ?
+60)  BEN
+{thinkingb}Eh bien, c'est pas moi. {feara}J'ai rien fait.
+61)  LEE
+{normalA}Le compte est bon, je crois simplement que les choses ici prennent leurs petites jambes et partent.
+62)  LEE
+{normalC}Il manque plusieurs médicaments. {thinkingb}Est-ce que tu sais quoi que ce soit ?
+63)  LEE
+{normalA}Très bien.
+64)  BEN
+{fearA}Le compte n'est pas bon ?
+65)  
+Une lampe torche a été cassée. C'était toi ?
+66)  BEN
+{fearA}Non.
+67)  LEE
+{normala}Tu n'aurais pas de problèmes si c'était le cas. {thinkingA}Je sais que tu es stressé, peut-être es-tu sorti pour aller à la salle de bain, l'a cassée, eu peur et la jetée.
+68)  BEN
+{thinkingb}C'est du troisième degré ? {fearb}Je n'ai cassé aucune lampe torche.
+69)  LEE
+{normalc}Une lampe torche a été cassée. {thinkingA}C'était toi ?
+70)  LEE
+{normalc}Alors d'accord.
+71)  
+Tu aurais une craie que je pourrais t'emprunter ?
+72)  LEE
+{normalb}C'est pour ça qu'il est là.
+73)  LEE
+{normalA}Je vais demander aux autres.
+74)  LEE
+{normalA}Hé Ben, j'ai besoin d'un morceau de craie. Est-ce que tu sais ou je peux en trouver ?
+75)  BEN
+{thinkingb}Eh bien, je ne joue pas avec ces trucs. J'ai mes... {normalb}euh, mes pensées et je viens de lire la Bible que j'ai trouvé dans ma chambre.
+76)  BEN
+{thinkingA}Pourquoi j'en aurais ?
+77)  BEN
+{normalA}Bye.
+78)  LEE
+{normalA}On reparlera plus tard, Ben.
+79)  BEN
+{normalA}Toujours très bien.
+80)  LEE
+{normalA}Comment ça se passe, Ben ?
+81)  LEE
+{thinkingA}Je devrais montrer ça à Lilly avant de faire des accusations.
+82)  
+Parler à
+83)  
+Montrer Sachet à
+84)  
+Montrer Lampe Torche à
+85)  
+Interroger sur la Craie
+86)  LEE
+[pickup2] [alt] Je suis pas juste un gars que tu as rencontré dans la forêt. Avant j'étais un prisonnier, un détenu.

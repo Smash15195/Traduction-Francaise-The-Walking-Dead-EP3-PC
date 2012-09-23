@@ -63,7 +63,7 @@ Quelle journée pourrie.
 32)  LEE
 {thinkingA}Il faut qu'on sache quoi faire à Savannah, {happyA}que tu apprennes à te défendre et qu'on t'arrange un peu {FearA}pour ne pas qu'on t'attrape.
 33)  CLEMENTINE
-Je voudrais bien.
+Je veux bien.
 34)  LEE
 {happyA}Bien.
 35)  LEE
@@ -71,7 +71,7 @@ Je voudrais bien.
 36)  LEE
 {thinkingA}Ecoute, on ne laissera rien t'arriver. {sadA}Mais on doit prendre des précautions.
 37)  CLEMENTINE
-Oui, c'est logique.
+D'accord, c'est normal.
 38)  LEE
 {happyA}T'en fais pas, mon coeur.
 39)  LEE
@@ -159,7 +159,7 @@ Ouais, évidemment.
 77)  CLEMENTINE
 {thinkingA}C'est bien ?
 79)  LEE
-[with regret] {sadA}Ouaip.
+[with regret] {sadA}Oui.
 80)  CLEMENTINE
 {sadA}Alors tu as déjà tué quelqu'un avant.
 81)  CLEMENTINE
@@ -347,17 +347,17 @@ Où va-t-on chercher ?
 173)  LEE
 {sadA}T'enflamme pas trop vite.
 174)  LEE
-{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils peuvent être.
 180)  LEE
-{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils peuvent être.
 184)  LEE
-{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils peuvent être.
 186)  LEE
-{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils peuvent être.
 199)  LEE
-{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils peuvent être.
 228)  LEE
-{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils doivent être.
+{thinkingB}Regardons cette carte. On peut commencer là où on pense qu'ils peuvent être.
 175)  CLEMENTINE
 {happyB}D'accord.
 181)  CLEMENTINE
@@ -553,7 +553,7 @@ Mais après on s'en va.
 274)  CLEMENTINE
 {thinkingA}Une fois.
 275)  LEE
-{happyA}Tu y es déjà allé ?
+{happyA}Tu y es déjà allée ?
 276)  LEE
 {thinkingA}Réfléchi --  il y a pas mal d'hôtels là-dessus, si tu regardes la carte ça peut te rappeler des souvenirs.
 277)  LEE
@@ -623,13 +623,13 @@ Bien. Ne tend pas tes coudes.
 312)  CLEMENTINE
 {thinkingA}Simple comme bonjour.
 313)  CLEMENTINE
-[pickup 2] [newread: should be nah uh - read indicates yes.] Non-non. [no]
+[pickup 2] [newread: should be nah uh - read indicates yes.] Non non. [no]
 314)  LEE
 {happyA}Oui, c'est bien.
 315)  CLEMENTINE
 {happyB}J'y suis arrivée !
 316)  CLEMENTINE
-Ca va, je vais bien.
+Ca va, je me sens mieux.
 317)  LEE
 Non, loin de là. Mais tu sais comment on s'en sert maintenant. On passera aux marcheurs, un jour.
 318)  LEE
@@ -663,11 +663,11 @@ Vise la tête.
 332)  LEE
 [pickup2] La tête ou le corps. N'importe où.
 333)  CLEMENTINE
-[pickup2] Je veux pas y penser.
+[pickup2] Je veux pas penser à ça.
 334)  LEE
 [pickup2] Tu as raison. Ca ferait un peu trop pour ton premier jour. Prête ?
 335)  CLEMENTINE
-[pickup2] Prête !
+[pickup2] Ouais, prête !
 336)  LEE
 [pickup2] Sauf si celui qui te veux du mal n'est pas un marcheur.
 337)  CLEMENTINE
@@ -693,7 +693,7 @@ Très bien, c'est ce qu'il faut.
 347)  CLEMENTINE
 J'ai pas eu besoin de plus de conseil !
 348)  CLEMENTINE
-{happyB}J'ai compris !
+{happyB}Touché !
 349)  LEE
 {happyB}[pickup2]Pour ta première fois c'est du bon travail.
 350)  

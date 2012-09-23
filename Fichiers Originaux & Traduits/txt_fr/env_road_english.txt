@@ -1,7 +1,7 @@
 1)  
-Non. C'était pas moi.
+Non. C'était pas elle.
 74)  
-Non. C'était pas moi.
+Non. C'était pas elle.
 2)  
 Je ne ferai pas ça.
 78)  
@@ -239,7 +239,7 @@ Je pense que c'est sûrement elle.
 86)  LEE
 {SadA}Je pense {ThinkingB}que c'est sûrement elle.
 87)  LEE
-{ThinkingA}Ca ne pouivait pas {AngryA}être Carley. {DisgustA}C'était quelqu'un d'autre. {SadA}Ca aurait pu être quelqu'un qui {DisgustB}se serait faufilé dans le camp.
+{ThinkingA}Ca ne pouvait pas {AngryA}être Carley. {DisgustA}C'était quelqu'un d'autre. {SadA}Ca aurait pu être quelqu'un qui {DisgustB}se serait faufilé dans le camp.
 94)  LILLY
 {DisgustA}Tu peux me dire que c'était Carley {AngryE}et ensuite tout sera clair  {AngryC}comme de l'eau de roche.
 95)  LILLY
@@ -343,7 +343,7 @@ Je pense que c'est sûrement elle.
 182)  LILLY
 {SadC}Je n'ai plus rien.
 183)  LILLY
-{SadC}Je n'ai plus rien..
+{SadC}Je n'ai plus rien.
 188)  LILLY
 {SadC}Je n'ai plus rien.
 201)  LILLY
@@ -381,11 +381,11 @@ Je pense que c'est sûrement elle.
 190)  KENNY
 {AngryA}Ouais, il me l'a dit. {SadA}Mais je m'en fous.
 169)  KENNY
-{ThinkingA}Oh et puis zut.
+{ThinkingA}Oh et puis merde.
 198)  KENNY
-{ThinkingA}Oh et puis zut.
+{ThinkingA}Oh et puis merde.
 170)  KENNY
-{SadB}Is that true, Lee?
+{SadB}C'est vrai, Lee?
 197)  KENNY
 {SadB}C'est vrai, Lee?
 171)  KENNY
@@ -405,7 +405,7 @@ Je pense que c'est sûrement elle.
 195)  KENNY
 {DisgustA}De quoi est-ce que tu parles ?
 176)  LEE
-{AngryA}Allez montez. {ThinkingB}On décidera {AngryA}ce qu'on fera de toi.
+{AngryA}Allez monte. {ThinkingB}On décidera {AngryA}ce qu'on fera de toi.
 177)  KENNY
 {DisgustA}C'est une mauvais idée, Lee. {FearA}C'est une criminelle {AngryB}bordel de merde !
 202)  LEE
@@ -427,7 +427,7 @@ Ca va aller. Je m'en assurerai.
 214)  LILLY
 {FearA}On ne pouvait pas lui faire coinfiance, Lee. {SadB}Je le jure. {SadC}S'il te plaît.
 215)  KENNY
-{AngryA}Bon sang. {SadA}La route est bouchée.
+{AngryA}Bon sang. {SadA}La route est bloquée.
 216)  KENNY
 {ThinkingA}Il y a quelque chose devant.
 217)  KENNY
@@ -447,13 +447,13 @@ Lee.
 224)  KATJAA
 {SadA}Lee, {SadC}on peut discuter, s'il te plaît ?
 225)  KATJAA
-{SadA}}Lee, {SadC}on peut discuter, s'il te plaît ?
+{SadA}Lee, {SadC}on peut discuter, s'il te plaît ?
 226)  KENNY
 [flat, d.i.] {SadA}C'est arrivé pendant l'attaque.
 227)  LEE
 [floored] {FearB}Mais qu'est-ce que... {FearA}merde...
 228)  LEE
-{SadA}Duck va bien ?...
+{SadA}Duck va bien ?
 229)  LEE
 {NormalD}Ca va ?
 230)  KATJAA
@@ -461,11 +461,11 @@ Lee.
 231)  
 Qu'est-ce qu'on fait ?
 232)  KENNY
-{sadA}On s'en tient au plan {DisgustA}à moins que quelque chose ne change. {AngryA}Vers l'est.
+{sadA}On s'en tient au plan {DisgustA}à moins que quelque chose ne change. {AngryA}Plein Est.
 239)  KENNY
-{sadA}On s'en tient au plan {DisgustA}à moins que quelque chose ne change. {AngryA}Vers l'est.
+{sadA}On s'en tient au plan {DisgustA}à moins que quelque chose ne change. {AngryA}Plein Est.
 247)  KENNY
-{sadA}On s'en tient au plan {DisgustA}à moins que quelque chose ne change. {AngryA}Vers l'est.
+{sadA}On s'en tient au plan {DisgustA}à moins que quelque chose ne change. {AngryA}Plein Est.
 233)  KATJAA
 {NormalB}Je vais m'occuper de lui {DisgustA}et voir ce que je peux faire, {NormalA}au niveau médical.
 246)  KATJAA
@@ -489,19 +489,19 @@ Arrête le camping-car !
 243)  KENNY
 {SadA}On sait bien qu'ils font pas que se transformer. {AngryA}Ce type qu'on a ramené de la forêt {NormalC}est bien {DisgustA}mort.
 244)  LEE
-{AngryB}Arrête le van. {FearB}Et si il se transforme ?!
+{AngryB}Arrête le Camping car. {FearB}Et si il se transforme ?!
 245)  KATJAA
 {NormalC}Je n'en vois aucun symptome. {AngryA}Il est fatigué. {NormalB}Il respire normalement.
 248)  KATJAA
 {NormalA}On sait que c'est choquant. {DisgustA}Epargnez ça {SadA}à Clém et Ben.
 249)  KATJAA
-[snaps] {AngryB}Que {AngryC}faire d'autre ?! {DisgustA}On pensais que tu saurais.
+[snaps] {AngryB}Que {AngryC}faire d'autre ?! {DisgustA}On pensais que tu devais savoir.
 250)  LEE
 {FearC}Les gars...
 251)  KENNY
 {SadA}Il faut rester honnêtes {SadB}entre nous.
 252)  KENNY
-{DisgustA}C'est pas comme si tu ne nous avais {AngryC}caché {AngryB}quoi que ce soit.
+{DisgustA}C'est pas comme si tu ne nous avais {AngryC}caché {AngryB}quoi que ce soit, hein.
 253)  KATJAA
 Il n'y a rien d'autre à ajouter.
 254)  KENNY
@@ -553,7 +553,7 @@ Une fois...
 274)  LEE
 {HappyB}Ouais. {NormalD}Je sais pas pourquoi je me souviens de ça.
 275)  LEE
-{HappyC}C'est exactement ça.
+{HappyC}C'est exactement ce que tu penses.
 276)  CLEMENTINE
 [a really small laugh] {HappyB}C'est marrant.
 277)  LEE
@@ -607,7 +607,7 @@ Hmm. C'est intéressant.
 297)  LEE
 {AngryA}Merci.
 298)  
-Monf rère a failli mourir, un jour.
+Mon frère a failli mourir, un jour.
 299)  LEE
 {HappyA}Oh ouais. {NormalD}Mais ça faisait peur.
 300)  CLEMENTINE
@@ -643,7 +643,7 @@ Monf rère a failli mourir, un jour.
 320)  LILLY
 {AngryE}C'est la faute de quelqu'un ici.
 321)  KENNY
-{AngryB}Rester là-bas; {ThinkingA}mais les bandits {AngryA}avaient notre adresse {AngryB}depuis des lustres !
+{AngryB}Ca devait arriver ! {ThinkingA}Avec des bandits {AngryA}qui avaient notre adresse {AngryB}depuis des lustres !
 322)  KATJAA
 {DisgustA}Ca va !
 325)  KATJAA
@@ -655,7 +655,7 @@ Monf rère a failli mourir, un jour.
 326)  KENNY
 {AngryC}Kat est blessée à la tête !
 327)  KENNY
-{ThinkingA}Et ben on est foutrement chanceux {SadA}d'avoir ce van !
+{ThinkingA}Et ben on est foutrement chanceux {SadA}d'avoir ce Camping Car !
 328)  CARLEY
 [high energy] {ThinkingA}Et personne n'est mort.
 329)  LILLY
@@ -675,13 +675,13 @@ Monf rère a failli mourir, un jour.
 336)  LEE
 {SadA}C'est vrai.
 337)  LILLY
-{DisgustA}LOGICALLY? {AngryA}Le nouveau qui aurait pu {AngryB}FACILEMENT être une taupe ? {AngryE}Je dis que c'est carrément logique, {ThinkingA}DOUG.
+{DisgustA}RATIONNELLE ? {AngryA}Le nouveau qui aurait pu {AngryB}FACILEMENT être une taupe ? {AngryE}Je dis que c'est carrément logique, {ThinkingA}DOUG.
 338)  LILLY
 {AngryE}Alors, {AngryA}Ben. {AngryB}je crois qu'il faut qu'on parle.
 339)  BEN
 {FearA}Whoa, {FearC}QUOI !?
 340)  DOUG
-{FearA}Euh, Lilly, {FearB}plutôt y réfléchir de façon rationnelle, {FearA}non ?
+{FearA}Euh, Lilly, {FearB}faudrait plutôt y réfléchir de façon rationnelle, {FearA}non ?
 341)  BEN
 {FearB}Vous croyez que je vous causerai des problèmes ?
 342)  DOUG
@@ -727,9 +727,9 @@ Monf rère a failli mourir, un jour.
 424)  KENNY
 [energetic]{SurprisedA}MERDE !
 360)  KENNY
-[energetic] {HappyA}On devrait.
+[energetic] {HappyA}Ca devrait.
 429)  KENNY
-[energetic] {HappyA}On devrait.
+[energetic] {HappyA}Ca devrait.
 361)  LILLY
 {AngryE}Très bien, bon {AngryC}on va s'occuper de ça, alors.
 423)  LILLY
@@ -745,9 +745,9 @@ Monf rère a failli mourir, un jour.
 427)  LILLY
 [energetic]{FearB}Qu'est-ce qui se passe là-bas ?
 365)  LILLY
-{AngryD}Dégage.
+{AngryD}Dehors.
 419)  LILLY
-{AngryD}Dégage.
+{AngryD}Dehors.
 366)  LEE
 [energetic]Kenny, ça risque rien ?
 425)  LEE
@@ -793,7 +793,7 @@ Ben est un type bien.
 381)  LEE
 [pickup2] [new read: Emphasis is 'good guy' rather than 'GOOD guy.' Also, Lee would sound more urgent, he's currently sounding very casual.] {NormalD}Ben {AngryA}est un type bien.
 382)  LILLY
-{ThinkingA}Alors c'est qui ? {AngryE}Etre un "type bien" ça suffit pour {ThinkingB}pour que tu ne sois plus suspecté ?
+{ThinkingA}Alors c'est qui ? {AngryE}Etre un "type bien" ça suffit pour {ThinkingB}que tu ne sois plus suspecté ?
 383)  DOUG
 {FearA}Carrément.
 384)  
@@ -819,13 +819,13 @@ Ce n'est la faute de personne.
 395)  LEE
 {ThinkingB}Je n'en sais rien.
 396)  CARLEY
-{AngryC}Recule.
+{AngryC}Arrête ça.
 397)  LILLY
 {AngryA}On va te faire {AngryE}cracher le morceau alors ?
 398)  CARLEY
-{AngryC}S'il te plaît.
+{AngryC}Oh, je t'en prie !
 399)  LILLY
-{DisgustA}Tu n'est pas en position {AngryA}de réclamer.
+{DisgustA}Tu n'est pas en position {AngryA}de demander quoi que ce soit.
 400)  LILLY
 {ThinkingB}Alors, Carley, {AngryE}tu as quelque chose à dire ?
 401)  KENNY
@@ -925,7 +925,7 @@ OUI.
 461)  CLEMENTINE
 [pickup2] [small, empty inside. after watching a bunch of horrific shit]Et Doug?
 462)  CLEMENTINE
-[pickup2] [small, empty inside. after watching a bunch of horrific shit]Et Carley?
+[pickup2] [small, empty inside. after watching a bunch of horrific shit]Et Carley ?
 463)  
 On n'a pas eu le temps de l'enterrer.
 464)  

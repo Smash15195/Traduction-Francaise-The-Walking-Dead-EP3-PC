@@ -1,0 +1,336 @@
+1)  CARLEY
+{normalA}Ce que je voulais dire, c'est que,{happyA}j'ai beaucoup réfléchi. {happyb}A propos de toi.
+2)  
+Je pense à toi aussi.
+3)  
+A quel sujet ?
+4)  
+Je vais bien.
+5)  LEE
+{happya}Je pense à toi aussi.
+6)  CARLEY
+{happya}[nervously smitten, just a touch] Nous sommes un petit groupe.
+7)  LEE
+[pickup 2] [new read note: This could be more flirty. As is, it's a bit flat.] {happyb}[flirting "our group is small"]Toi tu es petite.
+8)  LEE
+{normalA}A quel sujet ?
+9)  LEE
+{normalD}Je vais bien.
+10)  CARLEY
+{thinkingA}Arrête ça. Je sais bien que tu vas "bien."
+11)  LEE
+{AngryA}Carley, bon sang...
+12)  CARLEY
+{normalC}Ils doivent savoir, parce tout ici ne tient qu'a un fil {sadA} et je n'arrête de penser que c'est la prochaine chose qu'apprendra Lilly à chaque fois que je te vois aller lui parler.
+13)  CARLEY
+{normalB}Tu as été condamné pour meurtre.
+14)  CARLEY
+{normalC}[stepping closer] Et je crois que les autres devraient le savoir.
+15)  CARLEY
+{sadA}Pas parce qu'ils le méritent et pas parce que tu es un homme mauvais. {normalA}Je pense totalement l'inverse de cela.
+16)  
+C'était dans une autre vie.
+17)  
+Tu as certainement raison.
+18)  
+Oublie ça.
+19)  LEE
+{sadA}C'était dans une autre vie.
+20)  CARLEY
+{angryA}Ca va seulement donner le sentiment que tu l'as caché et qu'il y a encore certainement pire que tu caches.
+21)  LEE
+{angrya}[sigh]
+22)  LEE
+{normald}T as certainement raison.
+23)  CARLEY
+{happyb}[flirty] Bien sûr que j'ai certainement raison.
+24)  LEE
+{normalC}Oublie ça. Je le fais et toi tu devrais aussi.
+25)  CARLEY
+{angryA}Bon dieu, je déteste quand tu fais ça. Tu n'entends pas ce que je veux dire ?
+26)  CARLEY
+{angrya}[Frustrated] Larry n'est plus, mais il savait. Si il ne l'a pas dit purement et simplement à Lilly, il lui en a probablement dit assez pour lui faire comprendre.
+27)  CARLEY
+{normalB}Et je sais ce que tu as dit à Kenny, quand nous nous sommes rencontré la première fois au Drugstore de tes parents et même si la première chose que je t'ai jamais dit de faire était de garder le silence là-dessus.
+28)  CARLEY
+{normalB}Je vais te dire ce que je voudrais dire à personne, apocalypse ou pas -- il arrive un moment où tu ne peux plus garder quelque chose comme ça et devrait en parler de toi-même.
+29)  CARLEY
+{sadA}Fais le avant que l'occasion ne se présente plus.
+30)  CARLEY
+{normalb}Ils pourraient être furieux. {normalC}Et leur dire pourrait causer quelques problèmes, mais ce ne sera rien comparé a ce qui se passera s'ils l'apprennent de quelqu'un d'autre.
+31)  LEE
+{normalD}Ouais.
+32)  CARLEY
+{normalB}Tu le feras alors ?
+33)  
+Je leurs dirais.
+34)  
+Non.
+35)  LEE
+{thinkingA}Je leurs dirais.. {NormalB}Tu as totalement raison.
+36)  CARLEY
+[warm] {happyA}Génial. Je pense que {fearA}c'est le mieux.
+37)  CARLEY
+[whispers, like in your boyfriend's ear] {happyC}Ne m'appelle pas petite.
+38)  CARLEY
+[whisper in ear] {happyC}N'essai de te la jouer stoïque. Ca plisse ton front.
+39)  CARLEY
+[whispered in lee's ear] {happyC}Il vas te falloir plus de bagout si tu veux que ça marche.
+40)  CARLEY
+[whispered in lee's ear] {happyC}Tu me remercieras plus tard.
+41)  LEE
+{AngryA}Non. Je ne ferai pas ça. {NormalD}Ils sont déjà bien assez à cran.
+42)  CARLEY
+{fearA}Qu'est-ce qui te fais peur ? {ThinkingA}Il y a trois mois, je t'ai dit de n'en parler à personne et maintenant je te dis de tout dire à tout le monde. Est-ce que tu pense qu'ils vont te tourner le dos ? {AngryC}On a failli se faire manger bordel de merde.
+43)  CARLEY
+{normalA}Les choses sont différentes aujourd'hui
+44)  CARLEY
+{fearA}J'espère que tu changeras d'avis..
+45)  CARLEY
+{NormalA}Maintenant. Humm, {fearA}il y a autre chose dont tu veux parler ?
+46)  LEE
+{thinkingA}Non, je crois que je vais y aller.
+47)  CARLEY
+{normalA}D'accord.
+161)  LEE
+{normalA}D'accord.
+48)  CARLEY
+{normalb}Bonne idée.
+49)  LEE
+{thinkingA}Je vais regarder dans cette chose.
+50)  LEE
+{normalA}On se parlera plus tard.
+51)  CARLEY
+{happyA}Je TE parlerai plus tard.
+52)  
+Tu sais quoi ce que soit sur les médocs manquants ?
+53)  
+Tu as de la craie que je pourrais t'emprunter ?
+54)  
+Tu pense quoi sur Lilly ?
+55)  LEE
+{normalA}Hé Car.
+56)  
+Tu pense qu'ils sont prêt à entendre ça ?
+57)  
+J'ai parlé à Kenny.
+62)  
+J'ai parlé à Kenny.
+58)  
+J'ai parlé à Katjaa
+63)  
+J'ai parlé à Katjaa
+59)  
+J'ai parlé à Clémentine.
+64)  
+J'ai parlé à Clémentine.
+60)  
+Je l'ai dit à Ben.
+65)  
+Je l'ai dit à Ben.
+61)  
+Je l'ai dit à Lilly.
+66)  
+Je l'ai dit à Lilly.
+67)  
+Tu te sens en sécurité ici ?
+68)  LEE
+{normalD}J'ai parlé à Kenny de mon passé.
+110)  LEE
+{normalD}J'ai parlé à Kenny de mon passé.
+69)  LEE
+{normalA}J'ai changé d'avis.
+77)  LEE
+{normalA}J'ai changé d'avis.
+92)  LEE
+{normalA}J'ai changé d'avis.
+100)  LEE
+{normalA}J'ai changé d'avis.
+102)  LEE
+{normalA}J'ai changé d'avis.
+70)  CARLEY
+{normalA}Je pensais que tu ne le ferais pas.
+78)  CARLEY
+{normalA}Je pensais que tu ne le ferais pas..
+93)  CARLEY
+{normalA}Je pensais que tu ne le ferais pas..
+101)  CARLEY
+{normalA}Je pensais que tu ne le ferais pas..
+126)  CARLEY
+{normalA}Je pensais que tu ne le ferais pas..
+71)  CARLEY
+{thinkingA}Et ?
+79)  CARLEY
+{thinkingA}Et ?
+104)  CARLEY
+{thinkingA}Et ?
+111)  CARLEY
+{thinkingA}Et ?
+72)  CARLEY
+{happyA}Ce n'était pas si dur que ça alors gros dur ?
+112)  CARLEY
+{happyA}Ce n'était pas si dur que ça alors gros dur ?
+73)  LEE
+{happyA}Il a été cool. Il est simplement inquiet pour sa famille.
+113)  LEE
+{happyA}Il a été cool. Il est simplement inquiet pour sa famille.
+74)  LEE
+{sadA}J'en sais rien. Ca fait comme je venais de lui donner des munitions contre moi dans le cas ou nous devrions prendre des décisions difficiles.
+114)  LEE
+{sadA}J'en sais rien. Ca fait comme je venais de lui donner des munitions contre moi dans le cas ou nous devrions prendre des décisions difficiles.
+75)  CARLEY
+{normalC}Ah. Eh bien, ne t'inquiète pas.
+115)  CARLEY
+{normalC}Ah. Eh bien, ne t'inquiète pas.
+76)  LEE
+{normalA}J'ai parlé à Katjaa.
+116)  LEE
+{normalA}J'ai parlé à Katjaa.
+80)  CARLEY
+{normalA}Pas encore parlé à Lilly ?
+81)  CARLEY
+{happyA}Merci de l'avoir fait.
+82)  CARLEY
+{thinkingA}Vraiment ?
+83)  LEE
+{normalA}Ouais. {sadA}Elle pense que les provisions s'épuisent.
+84)  LEE
+{thinkingA}Il y a un peu trop de débris. {normalA}Je vais me pencher là-dessus.
+85)  LEE
+{normalb}Non, pas encore. {normalA} Je vais le faire.
+86)  LEE
+{sadA}Elle allait bien, je suppose. Je pense qu'elle est plus en colère contre Kenny.
+121)  LEE
+{sadA}Elle allait bien, je suppose. Je pense qu'elle est plus en colère contre Kenny.
+87)  CARLEY
+{sadA}A cause de St. Johns ? Qu'est-ce qu'il a fait là-bas exactement ?
+119)  CARLEY
+{sadA}A cause de St. Johns ? Qu'est-ce qu'il a fait là-bas exactement ?
+88)  LEE
+{normalC}Ne commence pas.
+120)  LEE
+{normalC}Ne commence pas.
+89)  CARLEY
+{normalA}Elle t'adore. {happyA}Ne t'inquiète pas.
+122)  CARLEY
+{normalA}Elle t'adore. {happyA}Ne t'inquiète pas.
+90)  LEE
+{sadA}Je sais pas. {thinkingA}Elle est difficile à cerner.
+123)  LEE
+{sadA}Je sais pas. {thinkingA}Elle est difficile à cerner.
+91)  CARLEY
+{thinkingA}Comment elle l'a pris ?
+124)  CARLEY
+{thinkingA}Comment elle l'a pris ?
+94)  LEE
+{thinkingb}Même pas un petit peu.{normalA} Il est simplement heureux que je lui ai dit [emph] quelque chose.
+132)  LEE
+{thinkingb}Même pas un petit peu.{normalA} Il est simplement heureux que je lui ai dit [emph] quelque chose.
+95)  CARLEY
+{normalB}Tu l'as dit à Ben ?
+127)  CARLEY
+{normalB}Tu l'as dit à Ben ?
+96)  CARLEY
+{thinkingb}Je suppose qu'il ne savait pas quoi faire de cette nouvelle.
+130)  CARLEY
+{thinkingb}Je suppose qu'il ne savait pas quoi faire de cette nouvelle.
+97)  LEE
+{normalA}Peu de risque.
+129)  LEE
+{normalA}Peu de risque.
+98)  CARLEY
+{thinkingA}C'est drôle tu l'a cueilli.
+131)  CARLEY
+{thinkingA}C'est drôle tu l'a cueilli.
+99)  LEE
+{normalA} Je l'ai dit à Ben.
+128)  LEE
+{normalA} Je l'ai dit à Ben.
+103)  LEE
+{normalB}Je l'ai dit à Lilly.
+133)  LEE
+{normalB}Je l'ai dit à Lilly.
+105)  LEE
+{thinkingb}Tu avais raison, elle et Larry en ont parlé, {normalB}de toute évidence.
+109)  LEE
+{thinkingb}Tu avais raison, elle et Larry en ont parlé, {normalB}de toute évidence.
+135)  LEE
+{thinkingb}Tu avais raison, elle et Larry en ont parlé, {normalB}de toute évidence.
+138)  LEE
+{thinkingb}Tu avais raison, elle et Larry en ont parlé, {normalB}de toute évidence.
+106)  CARLEY
+{thinkingA}Eh bien, tu es à peu près tout ce qu'il lui reste.
+134)  CARLEY
+{thinkingA}Eh bien, tu es à peu près tout ce qu'il lui reste.
+107)  LEE
+{normalA} Elle était bien, cependant.
+136)  LEE
+{normalA} Elle était bien, cependant.
+108)  LEE
+{feara}Tout est allé à peu près aussi bien que tu le pensais.
+137)  LEE
+{feara}Tout est allé à peu près aussi bien que tu le pensais.
+117)  LEE
+{thinkingA}J'ai parlé à Clémentine de tout ça.
+125)  LEE
+{thinkingA}J'ai parlé à Clémentine de tout ça.
+118)  CARLEY
+{normalB}Comment elle l'a pris ?
+139)  LEE
+{thinkingA}Tu penses vraiment qu'ils sont prêts à entendre ça sur moi?
+140)  CARLEY
+{thinkingA}Prêt ou pas, ce n'est pas le problème. {normalB}Il n'y aura jamais de bon moment {sadA}mais il y en a des pires que d'autres. {normalC}Aujourd'hui ne semble pas être l'un d'eux.
+141)  CARLEY
+{thinkingA}Je sais pas, cet endroit est bien, mais nous savons tous que cela pourrait changer d'une seconde à l'autre.
+142)  LEE
+{thinkingA}Tu te sens en sécurité ici ?
+143)  CARLEY
+{normalB}Donne-moi une baignoire avec un plancher chauffant dans un appartement en haut d'un gratte-ciel avec dans la main un Malbec corsé et là ! je me sentirais en sécurité.
+144)  LEE
+{thinkingA}Tu pense quoi de Lilly ?
+145)  CARLEY
+{sadA}Je m'inquiète pour elle. C'est tout. {normalb}Elle essaie de continuer à faire tourner les choses mais ça ne fonctionne pas.
+146)  LEE
+{normalC}Alors tu en as pas du tout ?
+147)  LEE
+{thinkingA}Tu as de la craie que je pourrai t'emprunter ?
+148)  CARLEY
+{thinkingA}Quoi, Clémentine compte sur toi ?
+149)  CARLEY
+{normalA}Non, pourquoi j'en aurai ?
+150)  LEE
+{thinkingA}Tu sais quelque chose sur les médocs manquants ?
+151)  CARLEY
+{thinkingA}Tu es sérieux ?
+152)  LEE
+{normalB}Hé, fallait que je demande.
+153)  CARLEY
+[putting it on] {thinkingA}Non, inspecteur, Je ne sais rien à ce sujet.
+154)  LEE
+{happyA}Tais-toi.
+155)  
+Tu sais quelque chose sur cette lampe torche?
+156)  LEE
+{normalD}Tu sais quoi que ce soit sur cette lampe torche?
+157)  LEE
+Ca en utilise une.
+158)  CARLEY
+{normalC}Ce devrait être le cas de tout. [beat] {normalA}Quelle était la question ?
+159)  LEE
+{sadA}As-tu cassé la lampe torche ?
+160)  CARLEY
+{normalA}Non.
+162)  LEE
+{angrya}Je sais qu'elle est cassée.
+163)  CARLEY
+{normalA}Et les piles pourraient être à l'envers.
+164)  CARLEY
+{normalA}Elle est cassée.
+165)  CARLEY
+[pickup2] Mais tout le monde est différent. Qui sait comment chacun d'eux réagira.  Cela vaut peut-être la peine de réfléchir à qui tu veux parler.
+166)  CARLEY
+[pickup2] Tu n'as pas à le dire tout le monde, mais réfléchi à qui tu fais confiance et profite de l'occasion pendant que tu l'as.
+167)  
+Regarder
+168)  
+Parler à

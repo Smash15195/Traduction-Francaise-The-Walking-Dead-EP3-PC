@@ -5,7 +5,7 @@
 3)  
 Ne parlez plus à ma fille.
 4)  
-Pourquoi vous avez dit ce que vous avez dit à Clémentine ?
+Pourquoi vous avez dit ça à Clémentine ?
 5)  
 Dites MOI ce que vous lui avez dit, connard.
 6)  LEE
@@ -33,21 +33,21 @@ Dites MOI ce que vous lui avez dit, connard.
 17)  CHUCK
 [outside train] [semi sarcastic/flat, trying to get Lee's ire up]{disgustA} Comment c'était ?
 18)  LEE
-[outside train] {angryC}Comment est-ce que je peux balancer votre cul hors de ce foutu train ?
+[outside train] {angryC}Comme balancer votre cul hors de ce foutu train !
 19)  CHUCK
 [outside train] {thinkingB}Maintenant, on a tous les deux la trouille.
 20)  CHUCK
-{happyA}Maintenant j'y suis allé et je l'ai fait. J'ai perturbé le papa poule.
+{happyA}Maintenant que je lui ai dit ça. J'ai perturbé le papa poule.
 21)  CHUCK
 {thinkingB}Vous entendez toujours parler de la maman poule mais le papa poule est celui qui se faufillera et vous attaquera réellement par derrière.
 22)  CHUCK
 {thinkingA}Tout ça parce que je lui ai dit qu'elle deviendra un marcheur si elle n'est pas prudente ?
 23)  CHUCK
-{thinkingA}Je ne connais pas grand chose aux mômes, mais je peux vous dire, aussi surement que le soleil se levera demain, que {sadA}vous continuerez comme ça et cette fille ne pourra pas l'être.
+{thinkingA}Je ne connais pas grand chose aux mômes, mais je peux vous dire, aussi surement que le soleil se levera demain, que {sadA}si vous continuez comme ça, cette fille fera pas long feu.
 24)  LEE
 {angryB}Qu'est-ce que vous en savez ?
 25)  CHUCK
-{angryA}Je vous le dirai, tant que vous ne me jettez pas au dessus de la rambarde.
+{angryA}Je vous le dirai, si vous ne me jettez pas au dessus de la rambarde.
 26)  CHUCK
 {angryA}Oh, maintenant vous voulez parler.
 27)  CHUCK
@@ -55,31 +55,31 @@ Dites MOI ce que vous lui avez dit, connard.
 28)  
 J'y réfléchi.
 29)  
-Nous trouvons un bateau.
+Nous trouverons un bateau.
 30)  
-Nous faisons ce qui est mieux pour Clémentine.
+Nous ferons ce qui est mieux pour Clémentine.
 31)  LEE
 {angryA}J'y réfléchi.
 32)  CHUCK
 {angryA}Et bien continuez de réfléchir parce que ça nous tombera dessus avant de le savoir.
 33)  LEE
-{angryA}Nous trouvons un bateau.
+{angryA}Nous trouverons un bateau.
 34)  CHUCK
 {thinkingB}Vous pensez que c'est une nouvelle idée ? {angryA}Vous avez la moindre idée où vous pourrez bien en trouver ?
 35)  LEE
-{angryA}Nous faisons ce qui est mieux pour Clémentine.
+{angryA}Nous ferons ce qui est mieux pour Clémentine.
 36)  CHUCK
 {happyA}Oh! Et bien alors ! Vous avez enfin trouvé la solution ! {angryA}Peut importe.
 37)  CHUCK
 {angryA}C'est ce que je craignais.
 38)  CHUCK
-{fearA}Regardez, Asseyez-vous avec la fille et discutez-en. Trouvez une carte par tous les saints -- Je vous en donnerai une si j'en avais une.
+{fearA}Ecoutez, Asseyez-vous avec la petite et discutez-en. Trouvez une carte par tous les saints -- Je vous en donnerai une si j'en avais une.
 39)  CHUCK
 {thinkingA}Et si quelque chose vous arrivait...
 40)  LEE
 {angryA}Ca n'arrivera pas.
 41)  CHUCK
-{fearC}Si ça ARRIVAIT, {fearA}vous devez préparer la fille. Apprenez-lui à se servir d'une arme et {fearB}par pitié, coupez ses cheveux.
+{fearC}Si ça ARRIVAIT, {fearA}vous devez préparer la petite. Apprenez-lui à se servir d'une arme et {fearB}par pitié, coupez ses cheveux.
 42)  
 Comme un révolver ? Vous plaisantez ?
 43)  
@@ -121,13 +121,13 @@ Dans tous les cas, vous devrez vivre avec les conséquences.
 57)  CHUCK
 {angryA}Elle mourra comme une petite fille si vous la traitez comme ça.
 58)  CHUCK
-{angryA}Vous devez la considérer comme une personne vivante. C'est tout. Vous êtes vivant ou vous ne l'êtes pas. Vous n'êtes plus petit, vous n'êtes plus une gamine, vous n'êtes plus un gamin, vous n'êtes plus fort ou intelligent. Vous êtes vivant.
+{angryA}Vous devez la considérer comme une personne vivante. C'est tout. Vous êtes vivant ou vous ne l'êtes pas. Vous n'êtes plus petit, vous n'êtes plus une gamine, vous n'êtes plus un gamin, vous n'êtes plus fort ou intelligent. Vous êtes juste vivant.
 66)  CHUCK
-{angryA}Vous devez la considérer comme une personne vivante. C'est tout. Vous êtes vivant ou vous ne l'êtes pas. Vous n'êtes plus petit, vous n'êtes plus une gamine, vous n'êtes plus un gamin, vous n'êtes plus fort ou intelligent. Vous êtes vivant.
+{angryA}Vous devez la considérer comme une personne vivante. C'est tout. Vous êtes vivant ou vous ne l'êtes pas. Vous n'êtes plus petit, vous n'êtes plus une gamine, vous n'êtes plus un gamin, vous n'êtes plus fort ou intelligent. Vous êtes juste vivant.
 59)  CHUCK
-{fearA}Regardez ses cheveux.
+{fearA}Regardez ses cheveux...
 67)  CHUCK
-{fearA}Regardez ses cheveux.
+{fearA}Regardez ses cheveux...
 60)  CHUCK
 {thinkingA}Vous la laissez courrir partout avec une tignasse qui agit comme du velcro pour la première main qui se balladera dans le coin.
 61)  CHUCK
@@ -135,17 +135,17 @@ Dans tous les cas, vous devrez vivre avec les conséquences.
 64)  LEE
 {thinkingB}Comme un révolver ? {angryA}Vous plaisantez ?
 65)  CHUCK
-{sadA}What? Elle est trop jeune pour en tenir un ? Il n'y a plus de trop jeune, plus maintenant.
+{sadA}Quoi ? Elle est trop jeune pour en tenir un ? Il n'y a plus de trop jeune, plus maintenant.
 70)  CHUCK
 {sadA}Je ne veux pas vous dire comment faire votre boulot, mais trop de personnes sont déjà mortes...
 71)  LEE
 {sadB}Je sais.
 72)  CHUCK
-{sadB}Et voir une autre petite fille mourir doit juste me pousser à agir.
+{sadB}Et l'idée de voir une autre petite fille mourir doit juste me pousser à agir comme ça.
 73)  LEE
-{thinkingB}Je vois. Un plan, une coupe de cheveux et un pistolet. C'est un bon conseil.
+{thinkingB}Je vois. Un plan, une coupe de cheveux et un pistolet. C'est des bons conseils.
 74)  CHUCK
-{sadA}C'est quelque chose.
+{sadA}C'est tout ce que j'ai.
 75)  LEE
 {thinkingA}J'ai trouvé ces ciseaux dans votre sac.
 76)  CHUCK
@@ -169,9 +169,9 @@ Yo.
 85)  LEE
 {happyA}Et bien, la fille peut tirer.
 86)  CHUCK
-{sadA}Ca n'a pas à être joli.
+{sadA}Ca ne doit pas être folichon.
 87)  LEE
-{thinkingB}Ca le sera probablement longtemps.{sadB}
+{thinkingB}Ca le sera pas probablement avant longtemps.{sadB}
 88)  CHUCK
 {sadA}Oui.
 89)  CHUCK
@@ -205,13 +205,13 @@ Vous êtes seul alors.
 103)  CHUCK
 {sadA}Mince.
 104)  CHUCK
-{happyA}Vous en avez une ?
+{happyA}Vous avez une bouteille ?
 105)  LEE
 {thinkingB}Non.
 106)  LEE
 {thinkingA}Vous êtes seul alors.
 107)  CHUCK
-{thinkingB}Je suppose.  {sadA}J'avais des chez-moi ici ou là et ils ont juste pas compris.
+{thinkingB}Je suppose.  {sadA}J'avais des chez-moi ici ou là.
 108)  CHUCK
 {thinkingA}Je veux bien un coup à boire.
 109)  LEE
@@ -223,15 +223,15 @@ Vous êtes seul alors.
 115)  CHUCK
 {sadA}Je suppose que quelqu'un l'a fait.
 112)  LEE
-[sad] {sadC}Quel bordel.
+[sad] {sadC}Quel gâchis.
 116)  LEE
-[sad] {sadC}Quel bordel.
+[sad] {sadC}Quel gâchis.
 113)  CHUCK
 [agreeing] {sadB}Vous l'avez dit.
 117)  CHUCK
 [agreeing] {sadB}Vous l'avez dit.
 114)  LEE
-{sadB}Kenny a fini par tirer sur son fils là-bas.
+{sadB}Kenny a fini par tirer sur son fils.
 118)  LEE
 {sadC}Nous l'avons laissé. le petit de Kenny, dans les bois.
 119)  CHUCK
@@ -253,4 +253,4 @@ Vous êtes seul alors.
 127)  LEE
 {thinkingA}Portez-vous bien.
 128)  CHUCK
-{happyA}Tu l'as dit.
+{happyA}J'essaierai.

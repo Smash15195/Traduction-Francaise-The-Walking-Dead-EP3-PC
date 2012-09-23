@@ -11,17 +11,17 @@ Oui.
 6)  LEE
 {sadA}D'accord.
 7)  LEE
-[taken aback] {surpriseB}Quoi ? {angryC}Bien sur qu'il l'a fait.
+[taken aback] {surpriseB}Quoi ? {angryC}Quel con.
 8)  LEE
 {thinkingB}Qu'est-ce que Chuck a dit ?
 9)  CLEMENTINE
-A ce que Chuck a dit.
+A ce que Chuck disait.
 10)  CLEMENTINE
 Que ce qui est arrivé à Duck pourrait m'arriver.
 11)  LEE
 {sadA}Désolé. {angryB}Je vais aller lui remettre les idées en place.
 12)  CLEMENTINE
-[that was a ] Juron.
+[that was a ] Tu jure.
 13)  CLEMENTINE
 Ne soit pas faché.
 14)  LEE
@@ -31,7 +31,7 @@ Ne soit pas faché.
 16)  BEN
 {disgustA}C'est entièrement de ma faute.
 17)  BEN
-{sadC}Je suis celui qui a donné les fournitures aux bandits.
+{sadC}Je suis celui qui a donné les provisions aux bandits.
 18)  LEE
 [dead serious] {angryC}QUOI ?
 19)  
@@ -43,9 +43,9 @@ Pourquoi tu as fait ça ?
 22)  BEN
 [more broken up] {fearB}Oh merde... Qu'est-ce que j'ai fait ?
 23)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas fait c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 29)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas fait c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 24)  BEN
 [really broken up] {thinkingA}Dit quelque chose... {sadC}S'il te plait. Je mérite tout; tout ce qui arrive à cause de moi.
 25)  BEN
@@ -57,7 +57,7 @@ Pourquoi tu as fait ça ?
 39)  BEN
 [broken up] {fearA}Ils ont dit qu'ils avaient mon ami, qu'il était avec eux.
 27)  LEE
-{disgustA}Pourquoi ? {angryB}Pourquoi diable voudrais-tu faire ça ?
+{disgustA}Pourquoi ? {angryB}Pourquoi diable aurais-tu faire ça ?
 28)  BEN
 {sadB}Bien...non, Je n'ai pas une bonne excuse. {sadC}J'ai pensé que je devais. J'ai merdé. Je suis désolé.
 31)  BEN
@@ -77,21 +77,21 @@ Pourquoi tu as fait ça ?
 38)  LEE
 {disgustA}Pourquoi il faudrait que tu y ailles, dis moi ?
 40)  LEE
-{angryB}POURQUOI JE NE POURRAI PAS ?
+{angryB}POURQUOI JE NE DEVRAIS PAS ?
 41)  BEN
 {fearC}Je... Je... Je... [being threatened by Lee]
 42)  LEE
 {angryD}Je pourrai te tuer. [threatening]
 43)  LEE
-{angryC}Personne ne peut nous voir. Je peux te passer par dessus et en finir avec ça!
+{angryC}Personne ne peut nous voir. Je peux te faire passer par dessus et en finir avec toi !
 44)  BEN
 [gasping for air]{sadC}
 45)  BEN
 [pickup 2] [new read: Good read, but in context it's a little too relaxed. More panicked like he almost was killed.] [destroyed] {disgustA}Je devais le dire à quelqu'un...
 46)  BEN
-{fearC}Ils disaient qu'ils avaient mon ami! Je ne savais pas quoi faire! {fearD}LEE, S'IL TE PLAIT!
+{fearC}Ils disaient qu'ils avaient mon ami ! Je ne savais pas quoi faire ! {fearD}LEE, S'IL TE PLAIT !
 47)  LEE
-{angryC}J'en suis sur.
+{angryC}Tu m'étonnes.
 48)  BEN
 [panicked to hell] {FearD}Non-- Je-- LEE, S'IL TE PLAIT.
 49)  LEE
@@ -115,7 +115,7 @@ C'est petit.
 58)  LEE
 {thinkingA}Je n'ai pas besoin d'aller par là.
 59)  CLEMENTINE
-[no] Euh, euh.
+[no] Hum, hum.
 60)  LEE
 {thinkingA}Vide, je pense.
 61)  LEE
@@ -129,7 +129,7 @@ C'est petit.
 65)  KENNY
 {angryA}Tu peux juste me laisser seul ?
 66)  KENNY
-{angryA}Sort d'ici.
+{angryA}Bouge de là.
 67)  KENNY
 [pissed]{angryC}C'est quoi ton problème ?
 68)  LEE
@@ -139,21 +139,21 @@ C'est petit.
 70)  LEE
 {thinkingB}Il y a des ciseaux dans le sac de Chuck.
 71)  LEE
-{disgustA}Ils sont assez court comme ça.
+{disgustA}Ils sont assez propre comme ça.
 72)  LEE
-{thinkingA}J'ai trouvé ça dans votre sac, si vous voulez.
+{thinkingA}J'ai trouvé ça dans votre sac, si vous en voulez.
 73)  CHUCK
 {happyD}Bon sang, {happyB}je ne savais pas que j'avais encore ça. Merci.
 74)  CHUCK
 {happyA}Une gorgée ?
 75)  
-Bien sur.
+Bien sûr.
 76)  
-Non, je vais bien.
+Non, ça va.
 77)  LEE
-{thinkingA}Bien sur.
+{thinkingA}Bien sûr.
 78)  LEE
-[after a swig of cheap whiskey] {surpriseA}Oof.
+[after a swig of cheap whiskey] {surpriseA}Ouh.
 79)  CHUCK
 {happyB}Pas connu pour sa fin.
 80)  LEE
@@ -193,7 +193,7 @@ Regarder
 101)  
 Regarder
 93)  
-Tache de sang
+Tâche de sang
 94)  
 Ouvrir
 97)  
@@ -221,7 +221,7 @@ Bouteille de whisky
 111)  
 Sac à dos
 112)  LEE
-[pickup2] J'ai DEJA eu de la chance de le faire fonctionner.
+[pickup2] J'ai DEJA eu de la chance de la faire fonctionner.
 113)  LEE
 [pickup2] [for chucks' camp] Il a vécu ici un moment.
 114)  

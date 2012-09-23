@@ -1,0 +1,486 @@
+1)  CHUCK
+{normalA}{body-a}Ca a dû être dur pour vous, hein ? Trois adultes qui prennent soin de trois gamins ; [to Ben who is 17 and sensitive to being called a kid] sauf ton respect, mon garçon.
+2)  
+On était plus nombreux.
+3)  
+C'est ça.
+4)  
+Tout ira bien.
+5)  CHUCK
+{Normala}{Body-A}Les morts les ont eu ?
+6)  LEE
+{NormalD}{Body-B}ON était plus nombreux.
+7)  LEE
+{AngryA}{Body-B}C'est ça.
+8)  CHUCK
+{Normala}{Body-A}Votre fille, c'était pas la même chose.
+9)  CHUCK
+{Normala}{Body-A}Celui-là [points to Ben] va grandir vite.
+10)  CHUCK
+{Normala}{Body-A}Je n'en doute pas, fiston.
+14)  CHUCK
+{Normala}{Body-A}Je n'en doute pas, fiston.
+11)  LEE
+{SadA}{Body-B}Tout ira bien. {ThinkingA}Nous sommes passés par autant que n'importe qui.
+12)  BEN
+{SadA}{Body-A}Je le suis déjà.
+15)  BEN
+{SadA}{Body-A}Je le suis déjà.
+13)  CHUCK
+{Normala}{Body-A}Eh bien, on dirait que celui-là [points to Ben] va devoir grandir vite.
+16)  CHUCK
+{Normala}{Body-A}[sincere] [That's a] C'est triste.
+17)  LEE
+{AngryA}{Body-B}[stern. he does NOT want to talk] Oui.
+18)  
+Oui.
+19)  
+Non.
+20)  LEE
+{SadA}{Body-B}[regretful] Non.
+21)  CHUCK
+{Normala}{Body-A}Ah. Les vivants les ont eu.
+22)  CHUCK
+{Normala}{Body-A}[giving his question a second thought] C'est pas que ça importe beaucoup.
+23)  
+C'est une survivante.
+24)  
+Elle n'est pas ma fille.
+25)  LEE
+{NormalB}{Body-B}C'est une survivante. {HappyA}Elle l'a été depuis le premier jour.
+26)  CHUCK
+{Normala}{Body-A}Elle tient de son père, on dirait.
+28)  CHUCK
+{Normala}{Body-A}Elle tient de son père, on dirait.
+29)  CHUCK
+{Normala}{Body-A}Elle tient de son père, on dirait.
+27)  LEE
+{ThinkingA}{Body-B}Elle n'est pas...{FearA}[was going to say she's not my daughter] {NormalD}C'est une survivante.
+30)  KATJAA
+{FearB}{Body-A}[sharp] LEE ! [bringing it down, as Duck is in your arms, dying] {FearA}Lee. J'ai besoin de toi. {SadB}Tout de suite. J'ai besoin de toi pour me ramener Ken.
+31)  LEE
+[confused] {FearA}{Body-B}Qu'est-ce qui...
+32)  KATJAA
+{FearA}[your son is dying but you are in control] Pourrais-tu lui enlever ça du visage ? J'ai les mains occupées.
+33)  DUCK
+[coughing up blood. you're dying, kid]
+34)  KATJAA
+[son dying] {SadA}Il y a un chiffon juste là, Lee.
+35)  KATJAA
+[son dying] {SadB}Pourrais-tu me passer ce chiffon, je te prie ?
+36)  KATJAA
+[son dying] {FearA}Lee, je t'en prie.
+37)  KATJAA
+{SadB}{Body-A}[son dying] Laissse tomber. Vas-y.
+38)  KATJAA
+{SadB}{Body-A}[son dying] Merci. Pourrais-tu juste lui enlever ça du visage, s'il-te-plaît ?
+39)  KATJAA
+{FearA}{Body-A}[your son is dying but you are trying to hold it together] Il n'a plus beaucoup de temps. {FearB}Il faut qu'on arrête ce train.
+40)  KATJAA
+{SadB}[your son is dying and you need your husband] S'il te plait.
+41)  LEE
+{FearA}{Body-B}[somber but firm] OK.
+42)  KATJAA
+{FearA}Lee, s'il-te-plaît, ramène-le.
+43)  KATJAA
+{SadB}Il n'y a plus beaucoup de temps. Il est dans la camionnette ??. Va.
+44)  KATJAA
+{SadA}LEE. VAS-Y.
+45)  KATJAA
+{SadB}[urging him to go] LEE.
+46)  CLEMENTINE
+{SadB}[urging Lee, small] S'il te plait.
+47)  LEE
+[somber but stern] {normalD}{body-b}Kenny.
+48)  KENNY
+{NormalB}{body-A}Quoi ?
+49)  LEE
+[more stern] {AngryA}KEN.
+50)  KENNY
+[flat] {DisgustA}Qu'est-ce que c'est que ce truc ?
+51)  
+Le sang de ton fils.
+52)  
+Un début de rôdeur.
+53)  
+Rien qui semble te tenir à coeur.
+54)  LEE
+{SadA}{Body-B}Le sang de ton fils.
+55)  KENNY
+{DisgustA}{Body-A}Va-t-en d'ici, Lee.
+56)  LEE
+{FearB}Tu sais qu'il est mourant.
+57)  LEE
+{AngryB}{body-b}Le début d'un rôdeur.
+58)  KENNY
+[mad at the inference] {AngryC}{Body-A}Il va s'en SORTIR. {AngryB}on peut rejoindre la côte et peut-être rencontrer des gens qui peuvent nettoyer toute cette merde.
+59)  KENNY
+{Angryb}Personne ne connaît cette merde ! {FearA}Il va s'en sortir.
+60)  LEE
+{DisgustA}{Body-B}Rien qui semble te tenir à coeur.
+61)  KENNY
+{AngryC}{Body-a}Va te faire foutre ! {DisgustA}Tu ne SAIS pas à quoi je tiens. {FearA}Je tiens à sauver mon fils et à nous évacuer {AngryB}TOUS vers l'océan.
+62)  KENNY
+{AngryD}{Body-A}Enlevez-moi cette saleté du visage. {DisgustA}Je sais que le garçon est malade. {AngryB}Mais il va s'en tirer. {AngryC}Regardez.
+94)  KENNY
+{AngryD}{Body-A}Enlevez cette saleté de mon visage. {DisgustA}Je sais que le garçon est malade. {AngryB}Mais il va s'en tirer. {AngryC}Regardez.
+63)  
+Je suis désolé. Je sais que ça te préoccupe.
+64)  
+De la même façon que tu tenais au fils d'Hershel ?
+65)  LEE
+{AngryA}{Body-B}Il faut que tu arrête le train.
+66)  
+Tu as raison, j'en sais rien.
+67)  LEE
+{SadA}{Body-B}Je suis désolé. [comma]
+68)  KENNY
+[a mess] {FearB}Il faut juste qu'on se concentre et qu'on{FearA}rejoigne Savannah aussi vite qu'on pourra.
+69)  LEE
+{SadB}Nous n'avons plus le temps, Kenny.
+70)  LEE
+{AngryA}{Body-B}De la même façon que tu tenais au fils d'Hershel ?
+71)  KENNY
+{AngryA}{Body-A}[heavy]Non. Je ne le ferai pas.
+72)  LEE
+{AngryA}{Body-B}Tu le FERAS ?
+73)  KENNY
+{DisgustA}{Body-A}[burned, upset]Tu n'oublieras jamais ça, hein mon pote ?
+74)  KENNY
+{AngryB}{Body-A}[burned, hurt] Ca plane au-dessus de nos DEUX têtes.
+75)  KENNY
+{AngryC}{Body-A}Retournes-y et dis à ma femme que tout va allez mieux.
+83)  KENNY
+{AngryC}{Body-A}Retournes-y et dis à ma femme que tout va allez mieux.
+91)  KENNY
+{AngryC}{Body-A}Retournes-y et dis à ma femme que tout va allez mieux.
+95)  KENNY
+{AngryC}{Body-A}Retournes-y et dis à ma femme que tout va allez mieux.
+76)  LEE
+{AngryB}{Body-B}C'est ça. {AngryA}Mais tu ne t'en es jamais remis.
+77)  KENNY
+{SadB}Qui en a quelque chose à foutre ?
+78)  LEE
+{AngryA}{Body-B}T'as raison, j'en sais rien.
+79)  LEE
+{DisgustB}{Body-B}T'as tué des gens. {DisgustA}Le sang de Larry est sur tes mains. {AngryA}Et tu ne peux pas gérer, putain.
+80)  KENNY
+{AngryB}{body-A}Laisse-moi seul.
+82)  KENNY
+{AngryB}{body-A}Laisse-moi seul.
+81)  LEE
+{FearA}Kenny...
+84)  LEE
+{SadB}Je sais que ça te préoccupe. {FearA}Mais, mec... [look at you.]
+85)  
+Ce ne sera pas le cas.
+86)  
+Je suis navré.
+87)  
+Réveille-toi, bon sang, mec.
+88)  
+Silence
+89)  LEE
+{SadA}{Body-B}Ce ne sera pas le cas. {FearA}Il est en train de partir, Kenny.
+90)  LEE
+{SadB}{Body-B}Je suis navré. Je ne devrais pas parler comme ça en ce moment.
+92)  LEE
+{AngryB}{Body-B} Réveille-toi, bon sang, mec. C'est fini. {FearA}Il est mort.
+93)  KENNY
+{AngryC}{Body-A}Ne ME dis pas de me réveiller. {DisgustA}J'ai une VRAIE famille que j'essaie de protéger. Pas cette putain {AngryD}d'imitation que tu essais {AngryC}d'avoir.
+96)  
+J'ai dit d'arrêter le train.
+97)  
+Duck commence a partir.
+98)  
+Katjaa a besoin de toi.
+99)  LEE
+{AngryC}{Body-B}J'ai dit d'arrêter le train.
+100)  KENNY
+{DisgustA}{Body-A}Fais-moi plaisir.
+112)  KENNY
+{DisgustA}{Body-A}Fais-moi plaisir.
+101)  LEE
+{SadB}{Body-B}Duck commence a partir.
+102)  KENNY
+{Angryc}{Body-A}Ne cherche pas à me faire avaler ces conneries.
+103)  LEE
+{SadA}{Body-B}Katjaa a besoin de toi, Kenny.
+104)  KENNY
+{AngryC}{Body-A}Duck s'en sortira.
+105)  KENNY
+{AngryC}{Body-a}[cold] Cesse de tergiverser et sors d'ici.
+106)  KENNY
+{AngryD}{Body-a}Lâche-moi.
+107)  
+Je suis désolé, je veux juste parler.
+108)  
+Non. Tu vas commencer par écouter.
+109)  KENNY
+{AngryB}{Body-a}Oh que oui ! {FearA}Nous allons sur la côte et Duck s'en tirera.
+110)  LEE
+{Angryb}{Body-b}Non. Tu vas m'écouter. {AngryA}Ta femme et ton gosse ont besoin de toi et {AngryB}je vais m'assurer que tu arrêtes ce train.
+111)  LEE
+{AngryC}Arrête ce satané train et assume.
+113)  LEE
+{FearB}{Body-B}Je suis désolé. {FearA}Je veux juste parler. {SadB}Il faut qu'on arrête ce train parce que Kat a besoin de toi, Kenny. {SadA}Duck n'a plus beaucoup de temps.
+114)  KENNY
+{Angryb}Il s'en sortira.
+115)  KENNY
+{Angryb}Il s'en sortira.
+116)  KENNY
+{DisgustA}{Body-a}Putain, comment veux-tu {AngryC}te "calmer" {AngryA}après une journée comme ça ?!
+117)  LEE
+{FearA}{Body-B}Calme-toi et...
+118)  LEE
+{FearB}{Body-B}Purée, j'ignore ce qui ne va pas avec toi {AngryA}mais tu as besoin de le mettre de côté. {AngryC}Sois un homme, ici.
+119)  KENNY
+{AngryC}{Body-A}Tu veux un morceau de moi, {AngryD}c'est ça ?
+120)  
+Ouais, c'est ça.
+121)  
+Je veux juste parler.
+122)  LEE
+{FearA}{Body-b}Je veux juste discuter, Ken. Relax.
+123)  KENNY
+{Angryc}Alors PARLE.
+124)  KENNY
+{DisgustA}{Body-a}C'est ce que je vois.
+130)  KENNY
+{DisgustA}{Body-a}C'est ce que je vois.
+125)  LEE
+{AngryC}Tu fais comme si rien n'allait mal et {AngryD}que quelqu'un allait t'insuffler de la jugeote.
+128)  LEE
+{AngryC}Tu fais comme si rien n'allait mal et {AngryD}que quelqu'un allait t'insuffler de la jugeote.
+126)  LEE
+{AngryC}Ouais. C'est ça.
+127)  KENNY
+[getting shoved, hard, into a wall]
+129)  KENNY
+[getting shoved, hard, into a wall]
+131)  KENNY
+{AngryB}{Body-A}Quelle autre alternative ? {FearA}Il est un peu malade, mais on ne peut pas l'abandonner.
+132)  
+Arrête. Le. Train.
+133)  KENNY
+{AngryB}C'est une égratignure ! {AngryA}Il n'est pas comme les autres. Mon Dieu, {AngryC}vous êtes tous là, à empirer les choses.
+134)  
+Tu es dans le déni !
+135)  
+Je ne parle pas de Duck.
+136)  LEE
+{AngryC}Tu vas m'écouter.
+145)  LEE
+{AngryC}Tu vas m'écouter.
+137)  KENNY
+{AngryD}Sinon quoi ?
+143)  KENNY
+{AngryD}Sinon quoi ?
+138)  LEE
+{AngryD}ARRETE CE PUTAIN DE TRAIN.
+146)  LEE
+{AngryD}ARRETE CE PUTAIN DE TRAIN.
+139)  KENNY
+{AngryC}{Body-A}Va te faire foutre, Lee.
+144)  KENNY
+{AngryC}{Body-A}Va te faire foutre, Lee.
+140)  LEE
+{AngryB}{Body-B}[intimidating] Arrête le train.
+141)  LEE
+{AngryA}{Body-B}Tu es dans le déni !
+142)  KENNY
+{AngryC}{Body-A}Et toi laisse tombé ! A propos de Duck, {AngryD}et de TOUT LE MONDE !
+147)  LEE
+{FearA}{Body-B}Je ne parle pas de Duck.
+148)  KENNY
+{DisgustA}Tu n'as rien daigné foutre pour moi.
+149)  LEE
+{SadA}{Body-B}Je ne te déteste pas.
+150)  KENNY
+{DisgustA}{Body-A}Ca ne concerne pas mon fils mourant ? {AngryB}Bon sang, qu'est-ce que tu en sais ? {AngryC}T'es pas mon ami.
+151)  LEE
+{SadB}{Body-B}C'est pas comme ça.
+152)  KENNY
+{AngryC}Putain, non.
+153)  KENNY
+{AngryB}Tu crois qu'on est copains et que tu me connais ? {DisgustA}T'es qu'un con élitiste avec une bonne éducation qui peut me prendre à partie ( ??pick me apart) ?
+154)  LEE
+{SurpriseB}{Body-B}[getting shoved] Hé !
+155)  LEE
+{AngryC}{Body-B}BON SANG, KENNY, OUVRE CETTE PORTE !
+156)  
+En se bagarrant, je suppose.
+157)  
+En parlant à ton ami.
+158)  LEE
+{FearA}{Body-B}Marchons un peu, mec.
+159)  KENNY
+{AngryB}{Body-A}Peu importe.
+160)  KENNY
+{DisgustA} Hmmph.
+226)  KENNY
+{DisgustA} Hmmph.
+161)  LEE
+{DisgustA}{Body-B}En se bagarrant, je suppose.
+162)  LEE
+{SadA}{Body-B}En parlant à ton ami.
+163)  KENNY
+{Angryb}{Body-A}Alors tu veux te battre combattre.
+164)  LEE
+{AngryC}{Body-B}Arrête-moi ces conneries.
+165)  KENNY
+{DisgustA}{Body-B}Espèce de fils de pute prétentieux.
+166)  
+Tu crois que tu es la raison pour laquelle Duck a été mordu.
+167)  KENNY
+{AngryC}{Body-A}Oh que non.
+168)  
+Tu n'a pas pu sauver Shawn NI Duck.
+169)  
+Combien de fils vas-tu laisser mourir ?
+170)  LEE
+{AngryA}{Body-B}Tu n'as pas pu sauver le fils d'Hershel alors, et {AngryB}tu ne peux pas sauver Duck maintenant !
+171)  KENNY
+{AngryC}{Body-A}La ferme !
+176)  KENNY
+{AngryC}{Body-A}La ferme !
+172)  LEE
+{AngryC}Alors tu fuis ! Comme un lâche !
+173)  
+Il faut que tu dépasses tout ça.
+174)  
+Tu n'as pas tué le fils d'Hershel.
+175)  
+Cesse de penser à toi.
+177)  LEE
+{AngryC}{Body-B}Combien de fils vas-tu laisser mourir ?
+178)  KENNY
+T'es un trou du cul, tu le sais ? Tu dis juste des conneries et tu restes là...
+179)  KENNY
+Qu'est-ce que tu sais d'un fils mort ? Rien. Maintenant, tire-toi.
+180)  LEE
+{SadB}Ce n'est pas ce qui s'est produit. {SadA}Tu es venu sauver ton gamin {SadB}et quelque chose de moche est arrivé à celui d'un autre.
+181)  LEE
+{SadB}{Body-B}Tu n'as pas tué le fils d'Hershel.
+182)  KENNY
+{sadC}{Body-a}[broken] Si, je l'ai fait. {FearA}Et maintenant, ça me rattrape.
+183)  LEE
+{SadB}{Body-B}Et je suis désolé d'avoir dit sinon.
+184)  LEE
+{NormalC}{Body-B}Je vais chercher Kenny. {ThinkingA}Accroche-toi fort au cas où le train s'arrêterait brusquement.
+185)  CHUCK
+{NormalA}{Body-B}Faut arrêter ce train au plus vite.
+186)  LEE
+[angry] J'ai dit à Katjaa que je te ferais arrêter et tu sais quoi ? ce sera le cas.
+187)  LEE
+[firm] Je t'ai soutenu, Kenny. Ce que tu traverses actuellement, c'est l'enfer sur terre et tu as besoin de tes amis.
+188)  LEE
+[firm] Je sais que tu te contrefous de ce que j'ai à dire, mais je ne peux pas te laisser faire ça à ta famille.
+189)  LEE
+[angry] Je t'ai soutenu ! Ne me le fais pas regretter, merde !
+190)  LEE
+[angry] Je me contrefous qu'on ne se débrouille pas ! Je n'vais pas te laisser faire ça à Kat et Duck !!!
+191)  KENNY
+[gasping for air having been choked]
+192)  LEE
+[a little out of breath, having just choked the life out of Kenny] Je suis navré.
+193)  LEE
+Tu n'es pas un homme mauvais. Putain, ça ne veut plus rien dire. Un homme n'est pas mauvais... Un homme " est ".
+194)  LEE
+Tout ce que nous pouvons faire est de prendre soin de qui nous pouvons et de continuer à aller de l'avant.
+195)  LEE
+[final] Maintenant, arrêtons ce train.
+196)  LEE
+[angry] Tu veux blesser des gens parce que tu as peur ?! Perdre Duck ne t'a pas suffi ?! Parce que tu vas finir par TOUT PERDRE, putain, en agissant comme ça !
+197)  LEE
+[angry] Je te tuerai avant de laisser arriver ça !!!
+198)  LEE
+[angry -- pressing your forearm deep into a guy's throat]
+199)  KENNY
+[punched blocked 1]
+200)  LEE
+[block punch1]
+201)  KENNY
+[throw punch1]
+202)  LEE
+[block punch2]
+203)  KENNY
+[punched blocked 2]
+204)  KENNY
+[throw punch2]
+205)  KENNY
+[punching lee] Laissez-moi - tout seul - putain !
+206)  KENNY
+[punching lee] Je n'ai pas besoin - de toi - et Duck n'a pas - besoin de toi non plus !
+207)  KENNY
+[punching lee] Tu n'aides pas ma famille ! Tu n'aides pas Clementine ! tu n'aides PERSONNE !
+208)  KENNY
+[punching lee] Tu n'AS même pas d'enfant, tu ne sais pas ce que ça fait ! Enfoiré !
+209)  KENNY
+Putain, je te déteste, Lee ! TU M'ENTENDS ?
+210)  KENNY
+Je... Je... [you see Lee, battered to shit, a big emotional realization about your life] Je ne sais pas quoi faire.
+211)  LEE
+[having had the shit kicked out of you] Arrête le train...
+212)  KENNY
+[small, giving in] OK.
+213)  LEE
+[spitting out some blood, small]
+214)  KENNY
+{FearC}Il y avait aucune chance que ce monde laisse vivre mon fils alors que {FearB}j'ai aidé à mettre celui d'un autre en terre.
+220)  KENNY
+{FearC} Y'a aucun moyen que ce monde laisse vivre mon fils alors que {FearB}j'ai aidé à mettre celui d'un autre en terre.
+215)  LEE
+{NormalD}{Body-B}C'est pas comme ça que ça marche. {SadA}Tu le sais.
+216)  LEE
+{SadB}Arrête le train.
+217)  LEE
+{ThinkingA}{Body-B}Tu crois que tu es la raison pour laquelle Duck a été mordu.
+218)  LEE
+{ThinkingB}Comme si tu l'avais vu venir, ou quelque chose comme ça.
+219)  KENNY
+{FearB}{Body-A}Je l'ai vu venir.
+221)  LEE
+{FearB}{body-b}Il faut juste dépasser tout ça. {disgustA}Putain, mec.
+222)  LEE
+{FearA}Il n'y a plus de place pour avoir mauvaise conscience. {ThinkingB}La mauvaise merde va arriver pour le reste {FearA}de nos vies. {AngryA}C'est juste ainsi.
+223)  LEE
+{AngryB}Alors arrête ce foutu train.
+224)  LEE
+{DisgustA}Eh bien, il n'y a plus de place pour cette merde. {DisgustB}Ca n'est pas par rapport à toi. {AngryB}C'est par rapport à une femme de retour ici qui a besoin de son mari et un {AngryC}garçon qui a besoin de son père.
+225)  LEE
+{FearA}{body-B}Arrête de penser à toi, mec. {ThinkingB}Tu te sens coupable ; {AngryA}comme si tu avais tué la dernière chance d'un miracle pour Duck {AngryB}quand tu as abandonné Shawn Greene.
+227)  LEE
+{SadA}Je sais que tu tiens à Kat et Duck plus qu'à tout, {AngryA}alors qu'est-ce que c'est que ça, bordel ?
+228)  
+Parler à
+229)  
+Montrer le chiffon à
+230)  
+Saisir
+231)  
+Chiffon
+232)  
+Porte de la Cabine
+233)  
+Nettoyer
+234)  
+Porte du wagon
+235)  LEE
+{NormalC}{Body-B}[pickup2] Je n'y retourne pas jusqu'à ce que j'aie pu parler à Kenny.
+236)  
+Poing
+237)  LEE
+[pickup2] J'arrête le train. Ne bouge pas.
+238)  BEN
+[pickup2][dejected] OK.
+239)  
+Du calme.
+240)  
+(Le frapper)
+241)  
+(Reculer)
+242)  
+Qu'est-ce qui ne va pas chez toi.
+243)  
+Arrête-moi ces conneries.

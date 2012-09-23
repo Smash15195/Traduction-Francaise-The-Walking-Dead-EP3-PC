@@ -1,11 +1,11 @@
 2)  
-Carley n'avait pas à mourir.
+Carley n'aurait pas dû mourir.
 3)  
 Doug t'a sauvé la vie.
 4)  
 Autre CHOSE à me dire ?
 5)  
-Ne reste pas beaucoup d'entre nous.
+Il ne reste pas beaucoup d'entre nous.
 6)  LEE
 {thinkingA}Que fais-tu ici ?
 7)  LEE
@@ -13,13 +13,13 @@ Ne reste pas beaucoup d'entre nous.
 8)  BEN
 {fearA}Je ne crois pas.
 9)  BEN
-{fearA}Je, euh, ne pouvais plus revenir. {sadB}J'avais besoin d'un peu d'air.
+{fearA}Je, euh, ne pouvais pas revenir. {sadB}J'avais besoin d'un peu d'air.
 10)  BEN
 {sadC}Je pensais parler à Kenny...
 11)  BEN
 {sadA}Ouais... {thinkingA}Toi, moi et Kenny. Clémentine. {fearB}Le vagabond, si il est par là.
 12)  LEE
-{sadA}Ne reste pas beaucoup d'entre nous..
+{sadA}Il ne reste pas beaucoup d'entre nous..
 13)  
 Nous sommes tous des vagabonds.
 14)  
@@ -29,7 +29,7 @@ Tu vas pouvoir remonter la pente ?
 16)  BEN
 {sadA}Ouais... Je ne pense pas.
 17)  LEE
-{sadB}Ce n'est pas très utile de décrire les gens par qui ils sont.
+{sadB}Ce n'est pas très utile de décrire les gens par ce qu'ils sont.
 18)  LEE
 {sadA}Nous sommes tous des vagabonds.
 19)  BEN
@@ -52,7 +52,7 @@ me.']{fearA}Je...{fearB}personne ne voulait venir avec moi. {sadB}C'était il y a
 27)  BEN
 {sadA}J'ai perdu tout ceux que je connaissais à cause de ça. {sadB}Je ne retournerai jamais chez moi. {sadC}Qui c'est ce que sont devenus mes parents.
 28)  LEE
-{thinkingB}Tu vas être capable de remonter la pente?
+{thinkingB}Tu vas être capable de remonter la pente ?
 29)  LEE
 [a little firm] {angryA}Bien. J'espère que c'est vrai.
 30)  BEN
@@ -90,9 +90,9 @@ me.']{fearA}Je...{fearB}personne ne voulait venir avec moi. {sadB}C'était il y a
 46)  LEE
 [pickup2] {angryA}Et bien, il va falloir. Ainsi vont les choses.
 47)  LEE
-[pickup2] {angryB}Carley n'avait pas à mourir, tu sais.
+[pickup2] {angryB}Carley n'aurait pas dû mourir, tu sais.
 48)  BEN
-[pickup2] {fearB}Elle m'aurait plutôt tué.
+[pickup2] {fearB}Elle m'aurait tué sinon.
 49)  LEE
 [pickup2] [heavy] {sadB}Oui, peut-être.
 50)  BEN
@@ -116,17 +116,17 @@ Ouais.
 59)  BEN
 [pickup2] {sadC}Je suis vraiment désolé.
 60)  LEE
-[pickup2] {sadB}Laissons tomber ça maintenant, d'accord ?
+[pickup2] {sadB}Laissons tomber ça pour le moment, d'accord ?
 61)  BEN
 [pickup2] [maybe change to this?] Juste entrain de réfléchir à propos d'en parler à Kenny...
 62)  
 Qu'est-ce que tu fais ici ?
 63)  
-Je suis sérieux à propos de garder ta merde pour toi.
+Je suis sérieux, garde ta merde pour toi.
 64)  LEE
 [pickup2] {angryB}Je suis très sérieux à propos de garder tes erreurs pour toi.
 65)  BEN
-[pickup2] {sadB}Je peux dire. [being reprimanded]
+[pickup2] {sadB}Je dois rien dire. [being reprimanded]
 66)  LEE
 [pickup2]{angryA} Tu comprends pourquoi, n'est-ce pas ?
 67)  BEN

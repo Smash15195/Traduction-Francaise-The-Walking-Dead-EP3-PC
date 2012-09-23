@@ -1,0 +1,126 @@
+1)  KENNY
+[urgent, on the move, not too loud] C'est bon, filons.
+2)  BEATRICE
+AU SEC---
+20)  BEATRICE
+AU SEC---
+3)  KENNY
+{sadB} Elle est partie. On a plus beaucoup de temps.
+21)  KENNY
+{sadB} Elle est partie. On a plus beaucoup de temps.
+4)  KENNY
+{fearC}Merde ! Ils arrivent ! {angryA}Allez, Lee !
+5)  KENNY
+{disgustA}C'est solide mais nous n'avons peu de temps.
+6)  KENNY
+{disgustA}On doit nettoyer cet endroit, {fearB}mais on n'a pas toute la journée.
+7)  KENNY
+[urgent] {angryA}Prends tout ce que tu peux dans ces rayons.
+56)  KENNY
+[urgent] {angryA}Prends tout ce que tu peux dans ces rayons.
+61)  KENNY
+[urgent] {angryA}Prends tout ce que tu peux dans ces rayons.
+8)  KENNY
+[urgent] {angryA}N'oublie pas de regarder sous le comptoir, cette fois !
+57)  KENNY
+[urgent] {angryA}N'oublie pas de regarder sous le comptoir, cette fois !
+62)  KENNY
+[urgent] {angryA}N'oublie pas de regarder sous le comptoir, cette fois !
+9)  KENNY
+[urgent] {disgustA}Je vais tout récuperer tout qui est là {angryB}et on met les bouts !
+58)  KENNY
+[urgent] {disgustA}Je vais tout récuperer tout qui est là {angryB}et on met les bouts !
+63)  KENNY
+[urgent] {disgustA}Je vais tout récuperer tout qui est là {angryB}et on met les bouts !
+10)  KENNY
+[urgent] {angryA}On a pas le temps de parler !
+11)  KENNY
+[urgent] {angryA}Allez, ramasse toutes ces conneries !
+12)  LEE
+[pickup 2] [new read: - Too shoutey - kenny's reaction to his voice does not match that lee has just screamed KENNY.][urgent] {angryC}Kenny !
+13)  KENNY
+[urgent] {angryA}WHAT? [like, what do you want?] {angryC}Allez on s'y mets!
+14)  KENNY
+[urgent] {angryC}C'est bon !
+15)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+16)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+17)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+18)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+19)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+22)  LEE
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?] [urgent] {FearA}Je crois que c'est tout !
+23)  KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {sadA}Cette fille n'est pas morte pour rien alors.
+24)  KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {fearA}Saute par dessus !
+50)  KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {fearA}Saute par dessus !
+25)  LEE
+[a bunch of zombies fallign on you] {fearD}ARGH !
+26)  LEE
+[trapped]{fearC} Kenny ! AIDE MOI !
+27)  LEE
+[grabbed and bitten by zombies]
+28)  LEE
+[idle where Lee struggles to push a door off of him -- he is trapped under a pile of zombies]
+29)  LEE
+[escaping out from underneath a deadly pile of zombies] {fearC}AH !
+51)  LEE
+[escaping out from underneath a deadly pile of zombies] {fearC}AH !
+30)  LEE
+[pulling down a heavy bookshelf onto a pile of zombies] {angryC}AHH !
+31)  KENNY
+[urgent] {angryB} Dehors ! Tirons-nous de là putain !
+32)  KENNY
+[killing zombies] {angryC}HOURRA !
+33)  KENNY
+[killing zombies] {angryC}JE LES AI.
+34)  KENNY
+[killing zombies]  {angryC}AHH !
+35)  LEE
+[grabbed by zombie] {fearD}G-AH !
+36)  LEE
+[smashing a zombie in the face with a bat]{angryC}AH !
+37)  LEE
+[mashing a zombie in the face with a bat 2] {angryC}AH !
+38)  LEE
+[mashing a zombie in the face with a bat 3] AH !
+39)  LEE
+[exhale, just saved your own life]{fearC}
+40)  KENNY
+{angryB}ALLONS-Y !!!
+41)  KENNY
+{thinkingA}Allons-y, mon pote.
+42)  KENNY
+{angryB}Ils sont partout; fais bien gaffe, ok ?
+43)  LEE
+{angryC}Putain c'était quoi ?
+44)  
+Cogner
+45)  
+Flacon de Médicament
+46)  
+Boite à Pharmacie
+47)  
+Barre Énergétique
+48)  
+Comptoir
+49)  
+Rayon
+52)  KENNY
+[pickup2] LE FRIGO !
+53)  KENNY
+[pickup2] LE FRIGO !
+54)  
+Sauter par dessus
+55)  
+Renverser
+59)  
+Provisions
+60)  
+Frigo

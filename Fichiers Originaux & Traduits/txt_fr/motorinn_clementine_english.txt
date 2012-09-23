@@ -1,0 +1,190 @@
+1)  
+Il faut que je te demande quelque chose.
+2)  LEE
+{normalC}Clém, {normalA}Faut que je te parle une seconde.
+3)  CLEMENTINE
+{normalA}Dacodac.
+4)  
+J'allais en prison le jour où je t'ai rencontré.
+5)  
+Tu dois savoir que j'ai tué quelqu'un une fois.
+6)  
+Peu importe.
+7)  LEE
+{normalB}Le jour où on s'est rencontré, j'ai eu un accident de voiture.
+8)  CLEMENTINE
+{normalA}Je m'en rappelle, {sadA}ta jambe saignait.
+9)  LEE
+{sadA}La voiture ou je me trouvais était une voiture de police et je me rendais en prison pour avoir commis un crime.
+10)  LEE
+{normalB}Il faut que je te le dise maintenant {sadA} parce que je ne veux pas que tu l'apprenne autrement.
+11)  CLEMENTINE
+{sadA}D'accord.
+12)  LEE
+{normalA}Est-ce que tu veux me demander quelque chose ?
+13)  CLEMENTINE
+{sada}Je crois pas.
+14)  LEE
+{normalB}Tu peux retourner à ce que tu faisais.
+15)  LEE
+{sadA}Avant que je te rencontre et avant cette épidémie, j'ai tué quelqu'un.
+16)  CLEMENTINE
+{surprisedA}Oh. {sadA}C'est donc ça...
+17)  LEE
+{normalD}Ouais, c'est ça.
+18)  LEE
+{sadA}C'était mal et j'ai pas d'explication.
+19)  CLEMENTINE
+{sadA}Pourquoi tu me dis ça ?
+20)  LEE
+{normalb}Parce que je pouvais pas le garder pour moi plus longtemps.
+21)  LEE
+{normalD}Est-ce que tu as des questions ?
+22)  LEE
+{normalD}Tu peux retourner à ce que tu faisais.
+23)  LEE
+{thinkingA}Peu importe, en fait.
+24)  CLEMENTINE
+{fearA}Je dois m'inquiéter ?
+25)  LEE
+{fearA}Non, p'tite tête.
+26)  CLEMENTINE
+{normalA}D'accord. Je vais retourner à mes craies avant de Duck n'en cassent plus.
+29)  CLEMENTINE
+{normalA}D'accord. Je vais retourner à mes craies avant de Duck n'en cassent plus.
+27)  CLEMENTINE
+{fearA}Lee ?
+28)  CLEMENTINE
+{thinkingA}Tu as dit que tu voulez me dire quelque chose...
+30)  CLEMENTINE
+{happyA}Hé, Lee.
+87)  CLEMENTINE
+{happyA}Hé, Lee.
+89)  CLEMENTINE
+{happyA}Hé, Lee.
+91)  CLEMENTINE
+{happyA}Hé, Lee.
+93)  CLEMENTINE
+{happyA}Hé, Lee.
+95)  CLEMENTINE
+{happyA}Hé, Lee.
+31)  LEE
+{normalA}Hé, Clémentine.
+86)  LEE
+{normalA}Hé, Clémentine.
+88)  LEE
+{normalA}Hé, Clémentine.
+90)  LEE
+{normalA}Hé, Clémentine.
+92)  LEE
+{normalA}Hé, Clémentine.
+94)  LEE
+{normalA}Hé, Clémentine.
+32)  
+Qu'est-ce que tu pense de Doug ?
+33)  CLEMENTINE
+{normalD}Je vais bien.
+34)  LEE
+{normalA}Qu'est-ce que tu pense de Doug ?
+35)  LEE
+{normalD}Et toi ?
+36)  CLEMENTINE
+{sadA}Tout le monde l'est.
+37)  LEE
+{normalD}Ouais.
+38)  LEE
+{thinkingB}Cool ?
+39)  LEE
+{thinkingA}Tu pense qu'il déprime ?
+40)  CLEMENTINE
+{happya}Il sait des choses.
+41)  CLEMENTINE
+{normalA}Il est cool.
+42)  CLEMENTINE
+{thinkingA}C'est comme être triste ?
+43)  
+Est-ce que tu as de la craie rose ?
+44)  LEE
+{normalA}Est-ce que tu as de la craie rose ?
+45)  CLEMENTINE
+{thinkingb}[annoyed] Non. {thinkingA}Elle a disparue.
+46)  LEE
+{thinkingA}Hmm.
+47)  CLEMENTINE
+{normalB}Tu en veux une bleue ?
+48)  LEE
+{normalA}Non, non, ca va.
+49)  
+As-tu vu quelque chose d'étrange ?
+50)  LEE
+{thinkingA}As-tu vu quelque chose d'étrange ?
+51)  CLEMENTINE
+{normalA}Non, rien.
+52)  LEE
+{normalA}D'accord.
+53)  LEE
+{normalB}Je veux dire, autre que tout ce qui se passe en ce moment.
+54)  
+Tu n'aurais pas cassé une lampe torche ?
+55)  LEE
+{normalB}Comme quoi ?
+56)  CLEMENTINE
+{sadA}Mettre une bestiole sur son oreiller.
+57)  CLEMENTINE
+{sadA}Non, {thinkingB}Duck a dit que je l'avais fait ?
+58)  LEE
+{thinkingA}Tu l'as fait ?
+59)  LEE
+{normalA}Non. {thinkingA}Duck aurait cassé la lampe torche ?
+60)  CLEMENTINE
+{thinkingA}Je pense pas. Il vient toujours me reprocher des trucs
+61)  LEE
+{normalC}Tu n'aurais pas cassé une lampe torche accidentellement ?
+62)  CLEMENTINE
+[shy/embarassed] {sadA}Oui.
+64)  CLEMENTINE
+{thinkingA}Je n'AIME rien ici.
+65)  CLEMENTINE
+{fearA}Je sais pas. {thinkingA}Peut-être que si je savais où.
+66)  CLEMENTINE
+{normalA}Pour aller où ?
+67)  LEE
+{normalD}Est-ce que tu aime ici ?
+68)  LEE
+{thinkingA}Est-ce que tu veux partir ?
+69)  LEE
+{normalA}Ailleurs.
+70)  LEE
+{normalD}Ouais, c'est une bonne chose à savoir.
+71)  CLEMENTINE
+{happyA}D'accord.
+72)  LEE
+{normalA}Je te parlerai plus tard, Clém.
+73)  LEE
+{normalA}Alors ça dessine bien ?
+74)  CLEMENTINE
+{happyA}Good.
+75)  
+Est-ce que tu aime ici ?
+76)  
+Tu fais quoi là ?
+77)  LEE
+[pickup2]Sur quoi est-ce que tu travaille, Clém ?
+78)  CLEMENTINE
+[pickup2]C'est ce qu'on appelle un frottement de feuilles. Mon professeur Mlle Moore nous a montré comment
+les faire quand nous sommes allés au Jardin Botanique une fois.
+79)  CLEMENTINE
+[pickup2][holds up a half-completed rubbing in one hand and the leaf in the
+other] Tu vois ? Exactement pareil ! Humm, quasiment.
+80)  LEE
+[pickup2][smiles and chuckles] [pickup2]C'est vraiment quelque chose.
+81)  CLEMENTINE
+[beams] Je vais en faire un pour toi aussi !
+82)  
+Parler à
+83)  
+Montrer Sachet à
+84)  
+Interroger sur la Craie
+85)  
+Montrer Lampe Torche à

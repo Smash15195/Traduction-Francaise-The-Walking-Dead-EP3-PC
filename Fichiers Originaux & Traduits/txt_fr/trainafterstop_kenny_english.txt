@@ -1,5 +1,5 @@
 1)  KENNY
-{thinkingA}Toi et moi. On...euh. [sigh] {angryA}Fait chier. {sadA}Allons dans l'océan.
+{thinkingA}Toi et moi. On... euh. [sigh] {angryA}Fait chier. {sadA}Allons vers l'océan.
 2)  KENNY
 Ça sera génial pour aller dans l'eau.
 3)  LEE
@@ -31,7 +31,7 @@ Si jamais tu as besoin de parler...
 16)  LEE
 {sadC}Si jamais tu as besoin de parler...
 17)  LEE
-{sadB}Je voulais vous parler de mon passé.
+{sadB}Je voulais te parler de mon passé.
 18)  KENNY
 {thinkingA}Tu nous as dit que c'était le magasin de tes parents à Macon. C'est suffisant comme renseignements personnels.
 19)  LEE
@@ -63,11 +63,11 @@ Pourquoi tu ne sort pas un peu.
 32)  LEE
 {sadA}Chuck voulait savoir si tu as besoin d'un verre.
 33)  KENNY
-{thinkingA}Il en a ?
+{thinkingA}Il a à boire ?
 34)  LEE
 {sadB}Ouais.
 35)  KENNY
-{sadC}Oauis, ça m'aiderait.
+{sadC}Ouais, ça m'aiderait.
 36)  LEE
 {sadA}Sans doute.
 37)  KENNY

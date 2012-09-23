@@ -1,7 +1,7 @@
 1)  KATJAA
-{sadB}{body-a}Ken. Je... Je crois que ça y est.
+{sadB}{body-a}Ken. Je... Je crois que le moment est venu.
 2)  KENNY
-{sadA}{body-A}Le gamin s'est fait mordre. {disgustA}Au cas où tu n'aurais pas remarqué.
+{sadA}{body-A}Le gamin s'est fait mordre. {disgustA}Au cas où vous n'auriez pas remarqué.
 3)  
 Qu'est-ce qu'il vous faut ?
 4)  
@@ -49,13 +49,13 @@ Je m'en charge.
 25)  KENNY
 {disgustA}{body-A}C'est...
 26)  KATJAA
-Si tu vois laquelle, fais-moi signe.
+Si tu vois un autre moyen, dis-le moi.
 27)  KENNY
 {fearB}{body-A}Il n'y a pas une pilule, {fearB}ou autre chose qu'on pourrait lui donner....
 28)  KATJAA
 Arrête.
 29)  KENNY
-{sadA}{body-A}Ca se trouve il va simplement s'assoupir,{sadB} hein, chérie ? {disgustA}J'veux dire, merde, {sadB}c'est notre fils.
+{sadA}{body-A}Ca se trouve il va simplement s'assoupir,{sadB} hein, chérie ? {disgustA}Je veux dire, merde, {sadB}c'est notre fils.
 30)  KATJAA
 JE SAIS. Mais on sait que c'est... là[points to the brain]. C'est ça ou rien.
 31)  KENNY
@@ -71,9 +71,9 @@ Non. Tu n'es PAS obligé.
 36)  KATJAA
 Tu ne peux pas. Je t'aime, Ken. Mais c'est au-delà de tes forces.
 37)  KATJAA
-Lee, tu y vas avec lui ?
+Lee, tu reste avec lui ?
 38)  KATJAA
-Non, chérie. Reste avec Lee. Ton fils t'aime et le dernier souvenir que tu dois garder c'est notre petit garnement. Pas ça.
+Non, chérie. Reste avec Lee. Ton fils t'aime et le dernier souvenir que tu dois garder c'est celui d'un petit garnement. Pas celui-là.
 39)  KENNY
 {fearA}{body-A}Je peux pas...
 40)  KENNY
@@ -81,7 +81,7 @@ Non, chérie. Reste avec Lee. Ton fils t'aime et le dernier souvenir que tu dois 
 41)  KENNY
 [an idle of you with your face in your hands knowing your son is dying offscreen]
 42)  CLEMENTINE
-Qu'est-ce qu'il y a ?
+Qu'est-ce qu'il se passe ?
 43)  
 Duck va mourir.
 44)  
@@ -111,7 +111,7 @@ Elle le libère de ses souffrances.
 55)  LEE
 {SadA}{body-f}Ecoute, Clém. Les choses --{surpriseB}
 102)  LEE
-{SadA}{body-f}LEcoute, Clém. Les choses --{surpriseB}
+{SadA}{body-f}Ecoute, Clém. Les choses --{surpriseB}
 56)  KENNY
 [face in hands, just a total wreck] MON DIEU NOOON....!
 57)  
@@ -151,7 +151,7 @@ On doit s'occuper de Duck.
 76)  
 Donne-moi le flingue. Je vais le faire.
 77)  
-Fais-le. Finis tout ça, Kenny.
+Fais-le. Arrête tout ça, Kenny.
 78)  LEE
 {AngryA}{body-b}Donne-moi le flingue, Ken. Je vais le faire.
 79)  LEE
@@ -181,7 +181,7 @@ Non. C'est à ses parents de le faire.
 91)  LEE
 {AngryB}{body-B}Aucun parent ne devrait avoir à faire ce genre de choses.
 92)  KATJAA
-Donne-nous un moment pour nous dire au-revoir ?
+Donne-nous un moment pour lui dire au-revoir ?
 93)  KATJAA
 On a qu'à aller dans la forêt. Comme ça Clémentine ne nous verra pas.
 94)  KENNY
@@ -233,9 +233,9 @@ Mais pourtant...il s'est fait mordre.
 113)  LEE
 {FearA}{body-B}Elle {SadB}va faire en sorte qu'il ne revienne pas.
 114)  LEE
-[responding to a question that wasn't asked] {SadA}Mouais.
+[responding to a question that wasn't asked] {SadA}Ouais.
 135)  LEE
-[responding to a question that wasn't asked] {SadA}Mouais.
+[responding to a question that wasn't asked] {SadA}Ouais.
 116)  LEE
 {FearA}{body-B}Elle va le délivrer de ses souffrances.
 117)  CLEMENTINE
@@ -261,7 +261,7 @@ Tu n'en sais rien.
 127)  LEE
 {angryA}{body-f}Je vais le tuer.
 129)  LEE
-{disgustB}En faisant en sorte qu'il ne revienne pas.
+{disgustB}Je vais faire en sorte qu'il ne revienne pas.
 130)  LEE
 {disgustA}{body-f}Je vais m'assurer que tout se passe bien.
 134)  LEE
@@ -303,7 +303,7 @@ Ca va aller...
 154)  LEE
 {SadB}{Body-B}Ca va aller... {SadC}ça va--
 155)  KENNY
-[pickup2] Je...J...
+[pickup2] Je... J...
 156)  LEE
 [pickup2] Oh mon Dieu...
 157)  
@@ -323,9 +323,9 @@ Reste avec Lee. Ton fils t'aime et le dernier souvenir que tu dois garder de lui
 164)  KENNY
 [pickup2] [saying goodbye to his dead family] Au-rev... Ho. Salut, vous deux. Je vous aime tellement. [pull it back if you want, it's obviously so emotional a lot of words may not even come.]
 165)  KENNY
-{sadB}Ho non, Kat...
+{sadB}Voyons, Kat...
 166)  KATJAA
-Ecoute-moi bien. Ce que tu dis, qu'il pourrait ne pas se transformer, c'est insensé.
+Ecoute-moi bien. Ce que tu dis... qu'il pourrait ne pas se transformer... c'est insensé.
 167)  KATJAA
 Ca n'est qu'un bébé.
 168)  KATJAA

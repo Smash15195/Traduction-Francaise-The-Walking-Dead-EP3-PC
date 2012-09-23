@@ -113,7 +113,7 @@ On a de la chance, je suis toute petite.
 51)  LEE
 {angryb}{body-b}Bon sang, C'est fermé !
 52)  LEE
-{angrya}{body-b}Et bien fermé.
+{angrya}{body-b}C'est bien fermé.
 53)  LEE
 {angryc}{body-b}Merde, C'est encore fermé !
 54)  LEE
@@ -273,7 +273,7 @@ C'était idiot.
 136)  LEE
 [pickup2] On a géré.
 137)  CHRISTA
-{normalb}Ouais, on dirait. {angrya}Et si vous ne l'aviez pas géré ?
+{normalb}Ouais, on dirait. {angrya}Et si vous n'aviez pas géré ?
 138)  CHRISTA
 {thinkinga}....On dirait que ça a marché pour vous. {normalb}Il faut probablement faire un peu plus attention dans l'utilisation du pistolet. Le bruit et tout.
 139)  CLEMENTINE
@@ -317,7 +317,7 @@ Clé à molette
 158)  
 Obstacle
 159)  
-Arrache attache
+Arrache Pointe
 161)  
 On a appris que tout est dangereux.
 162)  
@@ -333,7 +333,7 @@ On a appris à ne pas avoir peur.
 167)  LEE
 [pickup2] N'y pense pas, fait le. Une vie peut en dépendre.
 168)  LEE
-[pickup2] On a appris à ne pas avoir peur. Ils auraient du nous avoir, mais on les a eus.
+[pickup2] On a appris à ne pas avoir peur. Ils auraient dû nous avoir, mais on les a eus.
 169)  CLEMENTINE
 [pickup2] Ouais, tu as raison.
 170)  LEE
@@ -393,4 +393,4 @@ Rayons vides
 193)  
 Pont
 194)  LEE
-{thinkingA}Hum.
+{thinkingA}Hum. (DEFENSE D'ENTRER - les intrus seront poursuivis)

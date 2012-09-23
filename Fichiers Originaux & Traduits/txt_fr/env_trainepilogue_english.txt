@@ -1,0 +1,90 @@
+1)  KENNY
+[flat] {normalC} Prochain arrêt, l'Atlantique.
+2)  LEE
+{thinkingA} Il nous suffit de trouver un bateau. {normalD}.
+3)  KENNY
+{sadA} We will.
+4)  LEE
+{thinkingA} Je pense qu'il est temps pour elle et moi de prendre des chemins différents. {normalD} Omid et Christa peuvent faire leur propre choix.
+5)  LEE
+{sadA} Je suis désolé, nous avons fait un plan. {thinkingA} On en a déjà parlé.
+6)  LEE
+{disgustA} Nous allons prendre notre propre chemin, {normalC} Clémentine et moi.
+7)  KENNY
+{disgustA} Putain qu'est-ce que ça veut dire ?
+8)  KENNY
+{angryA} Hmm.
+9)  KENNY
+Ce n'est pas le plan.
+10)  KENNY
+Je pensais qu'ils étaient morts.
+11)  LEE
+[pickup 2] [new read: Odd pause after 'parents' and before 'get there.'] {normalD} Nous recherchons les parents de Clémentine quand nous y serons.
+12)  LEE
+{disgustA} Eh bien, c'est le notre. {normalC} Elle et moi en avons déjà parlé.
+13)  LEE
+{thinkingA} Nous les chercherons, alors.
+14)  
+Tu pense surmonter la douleur.
+15)  
+Tu iras bien.
+16)  
+Ca devient trop mauvais.
+17)  KENNY
+{sadA} C'est pour ça que je continu de le croire.
+18)  KENNY
+{sadC} Je ne pense qu'a ça.
+19)  LEE
+{thinkingA} Essaie de penser a ce qui t'attends.
+20)  LEE
+{sadA} Tu pense surmonter la douleur.
+21)  KENNY
+{sadA} Je serai vivant, je pense. {sadC}  Avec du sang dans le coeur et dans mon cerveau du moins.
+28)  KENNY
+{sadA} Je serai vivant, je pense. {sadC} Avec du sang dans le coeur et dans mon cerveau du moins.
+22)  LEE
+{thinkingA} Tu iras bien.
+23)  LEE
+{normalD} Ca devient trop mauvais, tu sais ? {sadA} Toi, moi, {thinkingB} personne ne peut rien y faire.
+24)  KENNY
+[big sigh] {sadB} Moi, aussi.
+25)  KENNY
+{sadC} Mais il le faut.
+26)  LEE
+{sadA} Ce que nous sommes censés faire n'est plus très clair. {disgustA} Je donnerais n'importe quoi pour revenir à échauffouré au motel.
+27)  KENNY
+{sadC} Ouais. Il n'y a pas grand chose à en dire.
+29)  LEE
+{surpriseB} Putain de merde...
+30)  CAMPMAN
+[radio processed] Bonj... o... oo... quelqu'un ?...
+31)  CAMPMAN
+[radio processed] Peut pas t'attendre pour aller à Savannah, Clémentine. J'ai dit à tes parents comment tu allais et ils sont impatient de te voir. Pour le moment, j'ai beso--[radio cuts out]
+32)  LEE
+{thinkingA} Elle est plus calme que jamais.
+33)  LEE
+{disgustB} Qu'est-ce que...?
+34)  LEE
+{normalD} Je te laisse à tes pensées.
+35)  KENNY
+[heavy] {disgustA} Vous pourriez vouloir reconsidérer votre plan.
+36)  LEE
+{fearA} C'est qui ce...
+37)  KENNY
+{thinkingA} J'en sais rien, {angryA} mais nous allons savoir.
+38)  KENNY
+{disgustA} On dirait que quelqu'un sait où nous allons.
+39)  KENNY
+[pickup2] Je pensais que ce putain de truc était cassé...
+40)  LEE
+[pickup2] Moi aussi.
+41)  KENNY
+[pickup2] [alt] Eh bien, on dirait que quelqu'un sait où nous allons.
+42)  KENNY
+[pickup2] J'en sais rien. Mais je doute que nous serons content quand nous le découvrirons.
+43)  CAMPMAN
+[pickup2][radioprocessed] Peut pas t'attendre pour aller à Savannah, Clémentine. J'ai tes parents avec moi et retrouve-moi que Lee le veuille ou non. Pour le moment, j'ai beso-- [radio cuts out]
+44)  CAMPMAN
+[pickup2] Peut pas t'attendre pour aller à Savannah. Je sais que tu as dit que Lee veut t'aider, mais tes parents veulent que tu viennes toute seule, Clémentine. J'ai besoin que tu--
+45)  LEE
+[pickup2] Putain, c'était qui ça... si il a convaincu Clémentine qu'il avait ses parents...

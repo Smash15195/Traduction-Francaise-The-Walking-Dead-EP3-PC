@@ -5,11 +5,11 @@ Ou le laisser.
 3)  CHRISTA
 Je ne sais pas combien de temps il peut tenir comme ça. Si l'état de sa jambe s'aggrave nous allons devoir le porter.
 4)  LEE
-[aggressive] Putain c'est quoi ? Répondez-moi, merde !
+[aggressive] Putain qu'est-ce que ça veut dire ? Répondez-moi, merde !
 5)  CAMPMAN
 Si j'étais vous, je partirai de la rue. Maintenant.
 6)  CHRISTA
-Donc, tu comptais nous parler quand de la radio ?
+Donc, vous comptiez nous parler de la radio quand ?
 7)  LEE
 [forceful/angry] A qui tu as parlé ?
 8)  LEE
@@ -31,6 +31,6 @@ Qui êtes-vous ?
 16)  LEE
 Nous devons nous concentrer sur la recherche d'un bateau pour le moment, Clém. Comme on l'avait décidé dans le train.
 17)  LEE
-Je sais que j'ai promis que nous retrouverions tes parents. Mais Savannah est plus dangereux que je ne le pensais.
+Je sais que j'ai promis que nous retrouverions tes parents. Mais Savannah est plus dangereuse que je ne le pensais.
 18)  LEE
-On peut encore partir, Clém. Juste toi et moi. Mais Savannah est plus dangereux que je ne le pensais.
+On peut encore partir, Clém. Juste toi et moi. Mais Savannah est plus dangereuse que je ne le pensais.

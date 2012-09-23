@@ -1,0 +1,1535 @@
+1)  BEN
+{ThinkingA}Y a-t-il une façon de contourner ?
+2)  KENNY
+{ThinkingA} On dirait que non. A pied, peut-être. {AngryA}Mais on peut pas vraiment se permettre de faire ça maintenant.
+3)  LEE
+{NormalC} Ca semble être une zone sûre. {ThinkingA}Tous ces buissons arrêteraient quiconque s'y glisserait pour passer.
+4)  KENNY
+{AngryA}Et j'aimerais que tout le monde sorte du véhicule, sauf elle. {DisgustA}Je ne veux personne enfermé là-dedans avec elle.
+5)  KENNY
+{FearA} Faites gaffe là dedans.
+6)  LEE
+{ThinkingA}Quoi, Tu crois qu'il pourrait y avoir quelque chose de dangereux à l'intérieur d'une locomotive abandonnée ? [a beat]{HappyA} Ca m'avait même pas traversé l'esprit.
+7)  KATJAA
+{NormalB}Lee, si tu tombe sur quelque chose à boire, ou s'il y a un wagon-bar ou autre chose... Je crois que Duck est un peu déshydraté.
+8)  KENNY
+{DisgustA}C'est un train de marchandises, chéri.
+9)  BEN
+{NormalB} Pourquoi on n'irait pas jeter un coup d'oeil ?
+10)  LEE
+{NormalB} Ouais, vous autres, détendez-vous. {HappyA}Clém, reste près de Kenny et Kat, d'accord ?
+11)  LEE
+{ThinkingA}J'espère, mais ça a l'air d'avoir été utilisé récemment. {NormalC}Ne relâchons pas notre attention, restons sur nos gardes.
+12)  LEE
+{ThinkingA}Quelqu'un vivait ici.
+13)  BEN
+{NormalB}Ouais, mec. {ThinkingA} Merde. {FearB} Tu crois qu'il est parti ?
+14)  BEN
+{SurprisedA}Waouh.
+15)  LEE
+Je pense que ces itinéraires pourraient mener à la côte. [reading off the map]Route 27, Savannah. C'est là que Kenny nous emmenait.
+16)  LEE
+Une carte du trajet du train.
+17)  LEE
+[curious] Un presse-papier ?
+18)  LEE
+Un tas de paperasses.
+19)  LEE
+Un paquet de cartes des villes de Georgie. Rien sur le train.
+20)  LEE
+Rien sur le train.
+21)  LEE
+[curious] Bon sang. Des pages sont manquantes.
+22)  LEE
+Il n'en reste plus grand chose.
+23)  LEE
+[picking up a gross thing] {DisgustA}Eugh.
+24)  LEE
+[squinting, not really sure] Je crois voir des marques d'écritures.
+25)  LEE
+De ce bloc-note, c'est clair.
+26)  LEE
+Un crayon. Taillé, en plus.
+27)  LILLY
+{ThinkingB} Je pars.
+28)  
+ALLEZ.
+58)  
+ALLEZ.
+29)  
+Ne bouge pas.
+30)  
+Je t'en empêcherait.
+31)  LEE
+{NormalC} Allez. {AngryA} Maintenant.
+32)  LILLY
+{ThinkingB} Je ne vais pas te blesser.
+36)  LILLY
+{ThinkingB} Je ne vais pas te blesser.
+37)  LILLY
+{ThinkingB} Je ne vais pas te blesser.
+33)  LEE
+{NormalC} Ne bouge pas. {AngryC} Ne bouge pas, putain.
+34)  LEE
+{AngryC} Je vais t'arrêter.
+35)  LILLY
+{AngryB} Oh que non.
+38)  LILLY
+{FearA} Viens avec moi.
+39)  LILLY
+{ThinkingA} Nous pourrions prendre le camping car tout de suite. Il a laissé les clés dedans.
+40)  
+D'accord.
+41)  
+Pas question.
+414)  LEE
+Pas question.
+42)  
+Allons, Lilly.
+43)  LILLY
+{ThinkingA} Va chercher Clémentine.
+44)  LEE
+{NormalD} D'accord.
+45)  LILLY
+[nervous tense] {AngryA} D'accord.
+46)  LEE
+{NormalC}[seriously] Oui.
+47)  LEE
+{ThinkingA} Je vais la chercher et reviens tout de suite.
+48)  LILLY
+{FearA} Sérieux ?
+49)  LILLY
+{ThinkingB} Tu ne pourras pas le faire.
+50)  LILLY
+{SadA} Je ne pensais pas que tu dirais oui.
+51)  LEE
+{NormalC} Je ne peux pas te laisser prendre le camping car. {ThinkingB} Ne sois pas folle.
+52)  LILLY
+{SadB} Je suis navrée, Lee. Je le suis vraiment.
+53)  LEE
+{AngryC} Pas question.
+54)  LEE
+{NormalD} Allons, Lilly...
+55)  LILLY
+{AngryA} Je sais que tu as fait ce que t'as fait pour une bonn raison et {SadA} une part de moi le comprend. {AngryA} Mais l'autre part te voit le dos tourné et sait que {AngryB} j'aurais pu te tuer.
+56)  LILLY
+{ThinkingB} J'aurais pu te tuer. Je t'avais en joue quand tu était {AngryB} farfouillais là-deant.
+57)  LILLY
+{ThinkingB} Il faut que j'y aille.
+59)  
+Je te tuerai avant que ça n'arrive.
+60)  
+Je t'en prie, non.
+61)  LEE
+Parfait.
+62)  LEE
+[seeing an impressive zombie killing weapon] Fermée et rouillée, mais utile et lourde.
+63)  LEE
+[seeing an impressive zombie killing weapon] Joli.
+118)  LEE
+[seeing an impressive zombie killing weapon] Joli.
+64)  LEE
+[seeing an impressive zombie killing weapon] Ca écraserait un crâne juste comme il faut.
+65)  BEN
+Presse-la !
+66)  LEE
+Tu es sérieux, sans déc' ?
+67)  KENNY
+Cette connerie MARCHE ?
+68)  LEE
+On dirait bien.
+69)  BEN
+Ce sont juste les freins.
+70)  BEN
+Pourquoi pas ?
+71)  LEE
+Je ne sais pas, demande à Mr. Micheline là-bas.
+72)  LEE
+OK, je te l'accorde, celle-là.
+73)  BEN
+Tiens, regarde.
+74)  LEE
+Cette lumière clignote.
+75)  LEE
+[disbelief] La presser ?
+76)  KENNY
+Nom d'un chien. Comment la faire bouger ?
+77)  BEN
+Aucune idée.
+78)  KENNY
+{HappyA} Bien, jetons un coup d'oeil alentour. Peut-être que ça va quelque part où nous aimerions être.
+79)  LILLY
+{AngryA} Alors, à quoi ça ressemble ?
+80)  LILLY
+{SadA} Je suis assise ici, attachée comme un animal pendant que vous, vous décidez quoi faire de moi.
+81)  LEE
+{NormalD} Ca ne marche pas comme ça.
+82)  LEE
+{NormalD} Hé, Lilly.
+83)  LEE
+{NormalC} Lilly...
+84)  LEE
+{NormalD} [context: Say something to me] Lilly...
+85)  CHUCK
+{angryb}Ne t'avises pas de toucher à mes affaires !
+86)  
+J'ai pris la carte ferroviaire.
+87)  
+J'ai pris une bouteille d'eau.
+88)  
+C'est à vous ?
+89)  CHUCK
+{normalC}Ouais, je les ai toutes ici.
+90)  LEE
+{normalC}J'ai pris la carte ferroviaire.
+91)  LEE
+{thinkingA}Vraiment ?
+95)  LEE
+{thinkingA}Vraiment ?
+92)  CHUCK
+{normalb}Ca va, tu peux garder ça.
+94)  CHUCK
+{normalb}Ca va, tu peux garder ça.
+93)  CHUCK
+{normalA}Ouais, j'en ai plein et vous devez tous avoir soir.
+96)  CHUCK
+{angryA}Pour sûr.
+97)  LEE
+{thinkingA}Ce sont vos affaires ?
+98)  
+J'ai rien pris.
+99)  CHUCK
+{thinkingA}J'ai demandé si l'aviez touché.
+100)  LEE
+{normalC}J'ai rien pris.
+101)  LEE
+{angryA}Non.
+102)  
+Qui êtes-vous ?
+103)  CHUCK
+{thinkingA}Le gars à qui ça appartient.
+104)  LEE
+{thinkingA}Qui êtes-vous ?
+105)  CHUCK
+{thinkingA}Rien ? Y'a pas d'peur en toi, mon garçon.
+106)  CHUCK
+{normalb}J'imagine qu'il n'y a pas grand chose a récupérer.
+107)  LEE
+{normalA}Ouais.
+108)  CHUCK
+{normalC}[softens] Je m'appelle Chuck. Charles si vous faites des manières.
+109)  CHUCK
+{normalA}C'est votre groupe dehors ?
+110)  LEE
+{normalA}Lee.
+111)  LEE
+{normalA}lui aussi.
+112)  CHUCK
+{normalA}Et le gars dans la loco ?
+113)  LEE
+{thinkingA}Quoi ?
+114)  LEE
+Vous me faites encore flipper.
+115)  CHUCK
+{normalC}Je vous ai vus entrer ici et je voulais pas vous faire une peur bleue.
+116)  CHUCK
+{happyA}Mais j'ai pas pu m'empêcher de le faire.
+117)  CHUCK
+{normalC}{happyA}J'ai déjà rencontré tout le monde dehors ; ils sont tous vite venus me tenir compagnie à la chaleur des rayons de soleil.
+119)  LEE
+Elle a pas l'air ouverte.
+120)  LEE
+Je vais ramener ça à Katjaa pour Duck.
+121)  KENNY
+Putain ! Elle est en train de nous voler le van !
+138)  KENNY
+Putain : elle est en train de nous voler le van !
+753)  KENNY
+Putain : elle est en train de nous voler le van !
+756)  KENNY
+Putain : elle est en train de nous voler le van !
+122)  KENNY
+Reviens ici, salope !
+136)  KENNY
+Reviens ici, salope !
+754)  KENNY
+Reviens ici, salope !
+757)  KENNY
+Reviens ici, salope !
+123)  KENNY
+PUTAIN ! STOP !
+137)  KENNY
+PUTAIN ! STOP !
+755)  KENNY
+PUTAIN ! STOP !
+758)  KENNY
+PUTAIN ! STOP !
+124)  
+Je suis content qu'elle soit partie.
+125)  
+On est baisés.
+126)  
+Concentrons-nous sur le train.
+127)  KENNY
+{AngryB} Avec notre véhicule fiable !
+128)  LEE
+{AngryB} Je suis content qu'elle soit partie.
+129)  LEE
+{ThinkingB} Peut-être, mec. Peut-être.
+734)  LEE
+{ThinkingB} Peut-être, mec. Peut-être.
+735)  LEE
+{ThinkingB} Peut-être, mec. Peut-être.
+130)  LEE
+{AngryB} On est baisés.
+131)  KENNY
+{AngryB} Ouais, c'est clair. [fucked]
+132)  LEE
+{ThinkingA} Concentrons-nous sur le train.
+133)  KENNY
+{SadA} On fait quoi maintenant, bon sang ?!
+134)  KENNY
+[through grit teeth] {AngryA} Duck est toujours malade, tu sais. Il faut qu'on aille en ville. Sur la côte.
+135)  KENNY
+{AngryB} Eh bien, on est baisés si on trouve pas comment cette chose fonctionne. {SadA} Nous ne pouvons pas passer la nuit dehors dans cet endroit.
+139)  KENNY
+{HappyC} Bordel de merde, on est vernis !
+140)  
+Duck cependant...
+141)  
+Ouais, on l'est.
+142)  
+Cette chose est bruyante.
+143)  LEE
+{SadB} Regardez, Kenny, c'est quelque chose {ThinkingA} dont il va falloir s'occuper.
+144)  KENNY
+{AngryA}Oui et bien ?
+145)  KENNY
+{HappyA}Prenons notre putain de pied.
+146)  KENNY
+{ThinkingA}T'as pas entendu, Kat ? {AngryB} Vous y connaissez goutte, Lee.
+147)  LEE
+{SadA}Et Duck ?
+148)  LEE
+{HappyC} Ouais, on l'est. Vernis. {HappyB} Mec, c'est bon.
+149)  LEE
+{FearA} Cette chose est bruyante.
+150)  KENNY
+{ThinkingA}Alors quoi ? {AngryA}On dévale à toute berzingue les voies à quarante miles à l'heure. {HappyA}On s'en fou du bruit.
+151)  KENNY
+{HappyB}Enfin. {SadA}Quelque chose.
+152)  KENNY
+Ce machin nous emmènera tout droit à Savannah. Une centaine de tonnes d'acier. Il pourrait y avoir un millier de rôdeurs entre nous et l'océan ça n'aurait plus aucune importance !
+153)  LEE
+{HappyA} Ca m'en à tout l'air.
+154)  KENNY
+{SurprisedA} Waouh, {HappyA} c'est à ça que ça ressemble ?
+155)  LEE
+{NormalB} Nous avons trouvé ça dans le wagon là-derrière.
+156)  KENNY
+{ThinkingA} J'y crois pas...
+157)  KENNY
+{ThinkingA} Ces rails mennent tout droit à Savannah...
+158)  KENNY
+{NormalA} Bon sang... {ThinkingA} Les gars, vous pensez qu'on peut bouger c'te chose ? {HappyB} On pourrait avoir quelque chose ici.
+159)  LEE
+{NormalB} Ouaip, on est dessus.
+160)  
+C'était toi ?
+161)  BEN
+{AngryA} [emphatic] NON.
+162)  LEE
+{NormalC} D'accord, très bien.
+163)  LEE
+{AngryB} Ca l'était ?
+164)  LEE
+{NormalC} C'était toi ?
+165)  BEN
+{ThinkingB} Non pas encore...
+166)  
+Qu'aurais-tu fais avec Lilly ?
+167)  BEN
+{ThinkingA} Ouais, mais jamais comme ça.
+168)  BEN
+{FearA} Je ne sais pas. Je l'aurais laissée faire. {SadA} Je n'ai jamais vu quelqu'un tuer quiconque comme ça avant.
+169)  LEE
+{SadA} Qu'aurais-tu fais avec Lilly ?
+170)  LEE
+{ThinkingA} Tu as vu un tas d'autres choses jusqu'à présent.
+171)  
+Heureux d'être resté avec nous ?
+172)  BEN
+{FearA} C'est où avec vous, les gars, où mort. {ThinkingA} Je serais mort là-dehors dans les bois,{SadA}  comme mes camarades de classe.
+173)  LEE
+{ThinkingB} Tu crois que c'est mieux ?
+174)  LEE
+{NormalB} Tu es heureux d'être resté avec nous tout ce temps ?
+175)  BEN
+{FearB} Ouais, bien sûr.
+176)  LEE
+{ThinkingA} Vraiment ?
+177)  BEN
+{NormalC} Ouais.
+178)  LEE
+{NormalC} Plus bas, je veux pas que tu effrais les petits.
+179)  LEE
+{ThinkingA} Tu as entendu ou vu quoi que ce soit dans le coin ?
+180)  BEN
+{FearA} Aucun signe de vie dans le train.
+181)  BEN
+{AngryA} Je surveille les filles et je travaille pas sur ce {NormalB}  train méga-cool. {ThinkingB} A ton avis ? [bummed]
+182)  LEE
+{NormalB} Comment ça va, Ben?
+183)  LEE
+{NormalD} On a fait ça et ça a capoté.
+184)  BEN
+{NormalB} Eh bien, je suis sûr que vous, les gars, vous trouverez quelque chose.
+185)  BEN
+{ThinkingB} Trouver la page déchirée, j'imagine ?
+186)  LEE
+{NormalB} Nous avons trouvé un cahier dont on pense qu'il pourrait contenir des directives de départ {ThinkingB} mais la page est manquante.
+187)  KENNY
+{NormalB} Je vous prends en stop ?
+188)  KENNY
+{ThinkingA} Nous n'avons plus grand chose, alors rassemblons le peu que nous ayons.
+189)  KENNY
+{AngryA} Laissez-moi le voir.
+190)  CHUCK
+{ThinkingA} Eh bien, on dirait que vous me prenez ma maison.
+191)  CLEMENTINE
+{SadC} Duck est malade.
+192)  KENNY
+{AngryA} C'est un oui, alors.
+193)  CHUCK
+{ThinkingB} Rien trouvé de mieux pour tenir les fous-rampants à l'écart.
+194)  KATJAA
+{SadA} Il est de plus en plus malade.
+195)  KENNY
+{AngryB} Monte dans le train, Clémentine.
+196)  
+Est-ce que le train est vraiment une bonne idée ?
+197)  
+ON peut continuer à avancer si tu veux.
+198)  
+Nous ne pouvons pas ignorer ça.
+199)  KENNY
+{AngryB} OUI. {SadA} Que pouvons-nous faire ici ?
+200)  KENNY
+{AngryC} C'est TOUT VU. {AngryA} Monte, Kat.
+207)  KENNY
+{AngryC} C'est TOUT VU. {AngryA} Monte, Kat.
+210)  KENNY
+{AngryC} C'est TOUT VU. {AngryA} Monte, Kat.
+218)  KENNY
+{AngryC} C'est TOUT VU. {AngryA} Monte, Kat.
+201)  KENNY
+{AngryB} On monte dans le train et on trouvera quelque chose de mieux. C'est CA le plan.
+211)  KENNY
+{AngryB} On monte dans le train et on trouvera quelque chose de mieux. C'est CA le plan.
+202)  KATJAA
+{ThinkingA} Je crois que Lee veut simplement en parler.
+206)  KATJAA
+{ThinkingA} Je crois que Lee veut simplement en parler.
+212)  KATJAA
+{ThinkingA} Je crois que Lee veut simplement en parler.
+203)  LEE
+{ThinkingB} Le train, est-ce vraiment une bonne idée, avec Duck dans cet état... {NormalD} peut-être qu'on devrait se concentrer sur une chose à la fois.
+204)  KENNY
+{AngryA} Que oui, je le veux ! Et c'est ce que nous allons faire.
+205)  LEE
+{NormalD} Nous pouvons continuer d'avancer si c'est ce que tu veux.
+208)  LEE
+{NormalD}Nous ne pouvons pas ignorer ça. Regardez le gamin, Kenny. {SadA} C'est en train d'arriver.
+209)  KENNY
+{AngryB} Aucune merde n'est en train d'arriver. Et même si c'était le cas, {SadA} qu'est-ce qu'on peut faire ici ?
+213)  KATJAA
+{SadA} Je m'inquiète pour lui, Kenny.
+214)  KENNY
+{SadA} Moi aussi. {NormalB} Mais il va s'en sortir. Allons-y.
+215)  KENNY
+{AngryA} J'veux pas que tu fasses tout un cirque pour une écratignure. Il va guérir.
+216)  KATJAA
+[worried]{SadB}  Je n'sais pas...
+217)  KATJAA
+{ThinkingA} Peut-être qu'on pourrait juste en discuter ?
+219)  LEE
+{ThinkingA} C'est vrai, ça ?
+220)  KATJAA
+{HappyA}Ah, merci, parfait.
+221)  LEE
+{HappyA} Tiens, j'ai trouvé de l'eau.
+222)  KATJAA
+{ThinkingA} C'est tout ce à quoi je peux continuer de penser. [hushes her voice] {SadB} Parce que ça n'a aucune importance.
+223)  LEE
+Non pas vraiment.
+224)  KATJAA
+{NormalB} Il est allergique aux abeilles.
+225)  KATJAA
+{NormalC} Je sais. Eh bien, moi pas. {FearA} Mais tu as probablement raison.
+226)  CLEMENTINE
+{HappyA}Il nous a donné des bonbons. A Ben, aussi !
+227)  LEE
+{ThinkingA} Ouais...
+228)  CLEMENTINE
+{HappyB} Tu as vu Chuck !
+229)  KATJAA
+{HappyC} C'est si bien de rencontrer quelqu'un de normal pour changer.
+230)  
+Bienvenue.
+231)  
+Comment vous vous appelez ?
+232)  
+Vous avez des bonbons ?
+233)  CHUCK
+{HappyC} Merci.
+234)  CHUCK
+{HappyB} Bien sûr. Cet homme partage mon amour de la route.
+248)  CHUCK
+{HappyB} Bien sûr. Cet homme partage mon amour de la route.
+747)  CHUCK
+{HappyB} Bien sûr. Cet homme partage mon amour de la route.
+749)  CHUCK
+{HappyB} Bien sûr. Cet homme partage mon amour de la route.
+235)  LEE
+{ThinkingA} Vous avez vu Kenny ?
+745)  LEE
+{ThinkingA} Vous avez vu Kenny ?
+748)  LEE
+{ThinkingA} Vous avez vu Kenny ?
+236)  LEE
+{NormalB} Bienvenue.
+237)  LEE
+{NormalB} C'est certain.
+247)  LEE
+{NormalB} C'est certain.
+746)  LEE
+{NormalB} C'est certain.
+750)  LEE
+{NormalB} C'est certain.
+238)  LEE
+{NormalB} C'est déjà pas mal.
+239)  CHUCK
+{HappyB} Je suis d'accord.
+240)  CHUCK
+{ThinkingB} Rester en vie.
+241)  LEE
+{ThinkingB} Quel est votre jeu, mec ?
+242)  CHUCK
+{HappyA} Ce garçon a eu le dernier que j'avais sur moi.
+243)  LEE
+{NormalC} Des figurines.
+244)  LEE
+{ThinkingB} Vous avez des bonbons ?
+245)  KATJAA
+{AngryA} N'intimidez pas cet homme. {HappyB} Il est gentil. Nous en avons besoin.
+246)  KATJAA
+{NormalC} Kenny est sur le pont. Il lui a parlé.
+249)  CHUCK
+{HappyA} Pour sûr !{HappyC} Et mon garçon, comme j'en ai des histoires !
+250)  CHUCK
+{HappyA} Bien sûr, je serais heureux de vous rejoindre. D'ici là, {HappyB} je suppose que j'dois apprendre à vous connaître tous.
+251)  CHUCK
+{ThinkingB} J'ai entendu, les gars, que vous essayiez de la faire marcher. {HappyA} Bonne chance.{ThinkingA}  J'ai actionné des interrupteurs pendant une semaine, faisant pareil.
+252)  CLEMENTINE
+Tu vis dans un train ?
+253)  KENNY
+{NormalB} Ca va. Le radiateur pourrait se reposer comme il est.
+254)  LEE
+{NormalB} Hé mec, on cherche toujours dans les alentours {ThinkingA} et on n'a toujours rien trouvé.
+255)  LEE
+{ThinkingA} Z'êtes inquiet de la garder là-dedans ?
+256)  KENNY
+{HappyB} J'ai brisé une fenêtre. [sarc]{AngryA} Je voudrais pas, oh que non, qu'elle soi dehors ici avec nous.
+257)  KENNY
+{NormalB}Quoi d'neuf ?
+258)  LEE
+{NormalB} Hé, Ken.
+259)  
+J'espère que vous êtes d'accord pour ramener Lilly.
+260)  
+Je ne savais pas qu'on laissait Liily là-bas.
+261)  
+Je suis désolé pour le van.
+294)  
+Je suis désolé pour le van.
+310)  LEE
+Je suis désolé pour le van.
+262)  
+Tu veux qu'on parle de Duck ?
+263)  
+On a besoin de quelque chose pour nous aider à faire avancer le train.
+264)  
+Je travaille à faire avancer cette chose.
+265)  KENNY
+[sideways glance] {ThinkingA} On tourne une nouvelle page, hein ?
+266)  KENNY
+{NormalC}Ca va pour le moment, mais il faut qu'on s'en occupe.
+267)  LEE
+{NormalD} J'espère que c'est d'accord, le fait que j'aie choisi de garder Lilly avec nous.
+268)  LEE
+{NormalC} Je fais juste ce que je peux.
+269)  LEE
+{NormalC} Abnadonner quelqu'un sur le bord de la route, c'est la même chose qu'un meurtre.
+270)  LEE
+{NormalD} Je ne savais pas qu'on laisserait Lilly là-bas.
+271)  KENNY
+[sideways glance] {ThinkingA}Y'a pas à s'en faire.
+272)  KENNY
+{NormalC}On aurait juste eu à faire avec elle, en fait.
+273)  LEE
+{SadA} Je suis désolé pour le camping car.{ThinkingB} La garder, c'était ma mission. C'est ma faute.
+274)  KENNY
+{ThinkingA} Le radiateur est sacrément secouer, alors {HappyA} elle ne tiendra pas cinquante kilomètres. {ThinkingA}Si on trouve quoi faire avec ce train, {HappyB} alors peut-être qu'il s'avèrera qu'elle nous a fait une faveur.
+275)  LEE
+{NormalD} Tu veux parler de Duck ? {SadA} Je suis vraiment désolé, Kenny. Personne ne mérite ça.
+276)  KENNY
+{NormalC} Il n'y a rien à dire. Tu as entendu Kat, il pourrait s'en sortir.
+277)  KENNY
+{AngryB}Personne n'ignore quoi que ce soit. {NormalC}Je suis pas inquiet et tu devrais pas l'être non plus.
+278)  LEE
+{SadB} Nous ne devrions probablement pas ignorer...
+279)  LEE
+{ThinkingB}Mon Dieu, nous avons besoin d'aide pour faire marcher ce train.
+280)  KENNY
+{NormalC} Les gens prennent des notes, d'accord, quand ils travaillent sur des choses comme celle-là ? [sigh] {ThinkingA} Nous sommes malins, les gars, on peu trouver.
+281)  KENNY
+{NormalB} Nous trouverons. {ThinkingA} Tu t'es déjà attelé au comportiment moteur ?
+282)  LEE
+{NormalB} Avec les indications que j'ai pu reconstituer,{HappyA} je crois que je pourrai mettre ce truc en marche. {ThinkingA} C'est un boulot de longue haleine. {ThinkingB} Je ne connais même pas le niveau de carburant de cette chose.
+283)  KENNY
+{NormalC} Je l'aime en bonne santé.
+284)  KENNY
+{HappyA} J'ai une bonne impression de lui, ouais. {ThinkingA} Pourquoi, tu es pas un fan ?
+285)  LEE
+{ThinkingB} C'était juste bizarre de tomber sur un mec comme ça, je trouve.
+286)  LEE
+{ThinkingA}Vous croyez que Chuck soit un appui ?
+287)  LEE
+{NormalB} Je vais revenir.
+288)  KENNY
+{NormalB} Bien.
+289)  LEE
+{NormalB} Alors d'accord.
+290)  KENNY
+{NormalB} Mouep.
+291)  
+Comment va Duck ?
+297)  LEE
+Comment va Duck ?
+292)  
+Entendu quoi que ce soit de Lilly là-dedans ?
+293)  
+Vous auriez laissé Lilly ?
+295)  
+Est-ce que Clémentine a dit quelque chose ?
+296)  KATJAA
+Exactement.
+298)  LEE
+Ouais. Son corps est probablement en train de combattre quoi qu'il y ait à l'intérieur.
+299)  KATJAA
+J'en sais rien. Fatigué. Ce qui pourrait vouloir dire un tas de choses, non ?
+300)  LEE
+Entendu quoi que ce soit de Lilly là-dedans ?
+301)  KATJAA
+Elle est probablement en état de choc. Elle a fait quelque chose de monstrueux.
+302)  KATJAA
+Pas un seul coup d'oeil.
+303)  LEE
+Je n'aime pas ça.
+304)  LEE
+Alors d'accord.
+305)  LEE
+Vous auriez laissé Lilly là-bas ? Sur le bord de la route comme ça...
+306)  KATJAA
+Nous avons notre mot à dire. Oui. Je l'aurais laissée.
+307)  KATJAA
+Oui, Lee.
+308)  LEE
+Ouais ?
+309)  LEE
+Eh bien, on vas passer du temps dans ce train, et le pire n'arrivant pas toujours, le wagon est suffisamment sûr pour y dormir.
+311)  KATJAA
+Je m'inquiète. Nous sommes livrés à nous mêmes à présent.
+312)  KATJAA
+Elle est si maline, pourtant.
+313)  LEE
+Est-ce que Clementine vous a dit quoi que ce soit à propos de Duck, de Lilly ou de quoi que ce soit ? Je m'inquiète pour elle.
+314)  LEE
+Ouais, c'est vrai.
+671)  LEE
+Ouais, c'est vrai.
+315)  KATJAA
+Non. [sigh] Cette petite est une énigme.
+672)  KATJAA
+Non. [sigh] Cette petite est une énigme.
+316)  LEE
+De toute façon, fait le moi savoir si quelque chose change.
+317)  LEE
+Je ferais mieux d'y retourner.
+318)  
+Et Duck ?
+319)  
+Je ne serais pas contre aller "labourer" quelques marcheurs.
+320)  LEE
+{ThinkingA} Il faut juste qu'on trouve comment la faire démarrer.
+321)  KENNY
+{HappyA} Je suis sûr qu'on peut trouver. {NormalB} Ca peut produire quelle force ?
+454)  KENNY
+{HappyA} Je suis sûr qu'on peut trouver. {NormalB} Ca peut produire quelle force ?
+644)  KENNY
+{HappyA} Je suis sûr qu'on peut trouver. {NormalB} Ca peut produire quelle force ?
+322)  LEE
+{NormalD} Doug aurait su. Mais {ThinkingA} nous trouverons.
+323)  LEE
+{NormalB} Aucune idée, mais nous allons trouver.
+324)  KENNY
+{HappyB} J'aime entendre ça.
+332)  KENNY
+{HappyB} J'aime entendre ça.
+457)  KENNY
+{HappyB} J'aime entendre ça.
+460)  KENNY
+{HappyB} J'aime entendre ça.
+463)  KENNY
+{HappyB} J'aime entendre ça.
+325)  KENNY
+{AngryB} On peut pas agir non plus comme s'il était mort.
+326)  KENNY
+{AngryA} Et lui ?
+327)  LEE
+{NormalD} D'accord. C'est bon. [solemn]
+328)  LEE
+{HappyA} Ha, j'en sais rien.
+459)  LEE
+{HappyA} Ha, j'en sais rien.
+329)  KENNY
+{NormalB} Essaye de faire démarrer ce truc. Il doit bien y avoir une {ThinkingA} sorte de... manuel ou quelque chose.
+335)  KENNY
+{NormalB} Essaye de faire démarrer ce truc. Il doit bien y avoir une {ThinkingA} sorte de... manuel ou quelque chose.
+458)  KENNY
+{NormalB} Essaye de faire démarrer ce truc. Il doit bien y avoir une {ThinkingA} sorte de... manuel ou quelque chose.
+330)  LEE
+{SadA} Nous ne pouvons pas agir comme si rien ne lui était arrivé.
+331)  LEE
+{NormalD} Et Duck ?
+333)  LEE
+{HappyA} Je ne serais pas contre aller "labourer" quelques marcheurs.
+334)  KENNY
+{ThinkingA} Regardez....
+336)  KENNY
+{AngryA} Me faites pas marcher (??Don't give me any shit).
+465)  KENNY
+{AngryA} Me faites pas marcher (??Don't give me any shit).
+467)  KENNY
+{AngryA} Me faites pas marcher (??Don't give me any shit).
+337)  KENNY
+Ben, si tu pouvais garder un oeil sur les filles et Duck, ça serait sympa. Je vais commencer à comprendre ces commandes.
+338)  KENNY
+Eh bien mon vieux, ça pourrait être exactement ce qui nous manquait.
+339)  LEE
+[hushed] Un marcheur. Assis dans la chaise. On va l'avoir.
+340)  LEE
+[hushed] On en a un.
+341)  LEE
+[exhale, relief]
+343)  BEN
+[exhale, relief]
+342)  LEE
+je suppose qu'on doit l'examiner.
+344)  BEN
+Ouais.
+402)  LEE
+Ouais.
+345)  LEE
+[exertion, lifting a body] Eurrrgh...
+346)  BEN
+[exertion, lifting a body] Eurrgh...
+347)  KENNY
+{AngryA} Je serai à l'avant. Je ne veux plus entendre d'absurdité jusqu'à ce qu'on arrive à destination.
+348)  LEE
+Hé, Clem.
+349)  CLEMENTINE
+{NormalA}Qu'est-ce que tu vas faire avec Lilly ?
+350)  
+J'en sais rien.
+351)  
+La punir, d'une façon ou d'une autre.
+352)  
+Rien.
+353)  LEE
+J'en sais rien. Quelque chose, je suppose. Je ne sais pas ce que nous pouvons faire.
+354)  LEE
+La punir, d'une façon ou d'une autre. Elle a fait quelque chose de terrible.
+355)  CLEMENTINE
+On pourrait l'enfermer pour toujours.
+356)  LEE
+[hah] Je ne connais pas celle-là, mon coeur.
+357)  LEE
+Il n'y a rien à faire qui ne serait-ce que commencerait à convenir au crime.
+358)  LEE
+Ouais. C'est horrible.
+361)  LEE
+Ouais. C'est horrible.
+359)  CLEMENTINE
+Elle l'a tué.
+360)  CLEMENTINE
+Elle l'a tué.
+362)  LEE
+Hé, ma puce.
+363)  CLEMENTINE
+Je pense pas que Duck se sente bien.
+364)  LEE
+Hé, ma puce. Tu vas bien ?
+365)  LEE
+Moi non plus.
+366)  LEE
+Ce bonbon que Chuck t'a donné... il est bon ?
+367)  CLEMENTINE
+Il était vraiment bon.
+368)  LEE
+Le train est cool, hein ?
+369)  CLEMENTINE
+Je crois. Un peu effrayant aussi.
+370)  LEE
+Pas d'arrière-goût bizarre ?
+371)  CLEMENTINE
+[why would it?] Non.
+372)  CLEMENTINE
+Oh. Eh bien, si tu ne finis pas pas l'utiliser, je le prendrai. J'aime bien mettre des feuilles d'arbre entre les pages et y mettre de la couleur.
+373)  CLEMENTINE
+Non. Je le souhaite. Peut-être dans le van ? Pour quoi en as-tu besoin ?
+660)  CLEMENTINE
+Non. Je le souhaite. Peut-être dans le van ? Pour quoi en as-tu besoin ?
+374)  LEE
+Il y avait quelque chose d'écrit sur le cahier et j'aimerais en savoir plus.
+661)  LEE
+Il y avait quelque chose d'écrit sur le cahier et j'aimerais en savoir plus.
+375)  LEE
+Il y a un cahier sur le train. Tu aurais des crayons ou autres dans ton sac ?
+662)  LEE
+Il y a un cahier sur le train. Tu aurais des crayons ou autres dans ton sac ?
+376)  CLEMENTINE
+Ouais, c'est marrant.
+377)  LEE
+Comme, faire un frottement ?
+378)  LEE
+Hé, Chuck.
+379)  CHUCK
+Comment va ?
+380)  
+Vous venez d'où ?
+381)  
+Pourquoi êtes-vous seul ?
+385)  LEE
+Pourquoi êtes-vous seul ?
+382)  CHUCK
+Fiston. Vous avez vu où je vis.
+383)  LEE
+Vous venez d'où ? Vous vivez par ici ?
+384)  CHUCK
+Eh, vous avez encore deux gamins et celui-ci a un bon mental.
+386)  CHUCK
+Je suis désolé ; j'aime bien être au milieu de vous tous, en fait. C'est sympa.
+387)  CHUCK
+Où un truc dans le genre !
+388)  LEE
+Vous nous avez pris un mauvais jour.
+389)  LEE
+Bien, dans ce cas.
+390)  CHUCK
+Pourquoi pas ? Ca semble pas moins bien.
+391)  LEE
+Je vous reparlerai plus tard.
+392)  CHUCK
+J'espère bien.
+393)  LEE
+[surprised, a zombie just woke up right near you] Bon sang !
+394)  LEE
+Ouais. On devrait être capable de simplement suivre les étapes pour mettre le moteur en marche.
+752)  LEE
+Ouais. On devrait être capable de simplement suivre les étapes pour mettre le moteur en marche.
+395)  KENNY
+Tu peux le lire, maintenant ?
+396)  KENNY
+Il est tout à toi.
+397)  LEE
+{NormalB} Nous avons un problème.
+398)  KENNY
+[context: someone telling you he's found a problem] {ThinkingA} Quoi ?
+399)  LEE
+{ThinkingB}Nous avons toujours le reste du train attaché là-derrière.
+400)  KENNY
+Bon sang !
+401)  KENNY
+[context: I'm an idiot] Bien sûr, nous sommes encore attachés.
+403)  KENNY
+Pourrais-tu trouver où nous sommes coincés et nous DE-coincer ?
+404)  LEE
+C'est l'accélérateur.
+405)  LEE
+On dirait qu'il faudrait sortir ce taquet.
+406)  LEE
+[straining against a stuck lever] Eurrggh...
+589)  LEE
+[straining against a stuck lever] Eurrggh...
+592)  LEE
+[straining against a stuck lever] Eurrggh...
+407)  LEE
+C'est coincé.
+588)  LEE
+C'est coincé.
+593)  LEE
+C'est coincé.
+408)  LEE
+C'est ça, ce qui nous a coincés.
+409)  LEE
+Il doit forcément y avoir une meilleure façon de le faire.
+410)  KENNY
+{ThinkingA} Alors c'est bon ? On est libéré ?
+411)  LEE
+{NormalB} On dirait bien que oui.
+412)  KENNY
+[excited to get a move on] {HappyB} Super.
+413)  LEE
+Ca pourrait plaire aux gamins.
+415)  KENNY
+Ca semble bien.
+761)  KENNY
+Ca semble bien.
+416)  LEE
+[context: bad idea] Trop fort.
+417)  LEE
+Il est épinglé là-dedans pour de bon.
+418)  LEE
+Je croyais que ces choses étaient conçues pour sauver des vies.
+419)  LEE
+[frustrated] J'arrive pas à l'atteindre là-dedans.
+713)  LEE
+[frustrated] J'arrive pas à l'atteindre là-dedans.
+716)  LEE
+[frustrated] J'arrive pas à l'atteindre là-dedans.
+420)  LEE
+[smashing a zombie head] RRAAHH !
+421)  LEE
+[context: hell no] Pas sans une façon silencieuse de le tuer.
+422)  LEE
+[zombie biting you, you die] Auuugh !
+423)  LEE
+[unsure] {NormalB} Tiens.  J'ai trouvé ça... {NormalD}Si ça dit à Duck.
+424)  KATJAA
+{HappyB} Merci, c'est très attentionné de ta part.
+425)  LEE
+[confused] {ThinkingB} Quoi ?
+426)  KATJAA
+[sincere] {NormalB}Merci, Lee.
+427)  KATJAA
+No. {HappyA} Le pire désagrément que j'ai jamais eu est de lui faire utiliser une fourchette.
+428)  KATJAA
+{NormalB} La plupart des gamins sont vraiment difficiles pour ce qu'ils mangent. Ils détestent les légumes, ce genre de choses.
+429)  LEE
+{NormalD}Bien sûr.
+430)  KATJAA
+{SadA}Il n'est pas difficile, tu sais ?
+431)  LEE
+{HappyA} Pas Duck heuh ?
+432)  LEE
+{thinkingB} J'ai essayé de tirer le taquet pour le sortir, mais il n'a pas bougé.
+433)  KENNY
+{AngryA}Merde.
+434)  KENNY
+Pouvez-vous aller voir si vous pouvez nous faire DE-coincer ?
+435)  KENNY
+[frustrated] {ThinkingA} Eh bien, nous n'irons nulle part jusqu'à ce qu'il soit enlevé.
+436)  CHUCK
+[to Lee] {NormalB} Votre ami a mentionné Savannah. {ThinkingA} C'est là qu'vous allez tous ?
+437)  CHUCK
+{HappyB} Regerdez ça.
+438)  LEE
+{NormalB}J'essaie.
+439)  CHUCK
+{HappyB} Ouep.
+440)  LEE
+[reading off a map] {HappyA} La Route 27 nous y conduira tout droit.
+441)  LEE
+{HappyA} Je devrais aller montrer ça à Kenny.
+442)  KATJAA
+{HappyA} A Savannah ?
+443)  CHUCK
+{HappyC} Ouaip.
+444)  KENNY
+{NormalA}Faisons marcher ce machin et revenons sur la route.
+445)  KENNY
+[concerned] {AngryA} Je pense que nous sommes tout excéités pour le faire bouger, {FearA}mais nous devrions savoir où ça mène.
+446)  LEE
+{NormalC}Ouais, on veut pas finir par tourner en rod et se retrouver quelque part comme Atlanta.
+447)  KENNY
+{ThinkingA} Ils conduiraient pas à l'aveugle, hein ? Cependant, j'ai rien vu dans la cabine.
+448)  LEE
+{NormalB} Je vais jeter un coup d'oeil alentour.
+449)  
+Il faut juste qu'on trouve comment la faire démarrer.
+450)  
+Il faut juste qu'on trouve les commandes.
+451)  
+Il faut juste qu'on détache la voiture de queue.
+452)  KENNY
+{HappyB}Allez, voyons si elle peut bouger.
+455)  KENNY
+{HappyB}Allez, voyons si elle peut bouger.
+456)  KENNY
+{HappyB}Allez, voyons si elle peut bouger.
+453)  LEE
+{ThinkingB} Il faut juste qu'on détache la voiture de queue.
+461)  KENNY
+{ThinkingA} Une fois qu'on aura trouvé comment se détacher, tout ira bien.
+462)  KENNY
+{ThinkingA} Une fois qu'on aura trouvé comment se détacher, tout ira bien.
+464)  KENNY
+{NormalB} Faisons d'abord marcher ce truc.
+466)  KENNY
+{NormalB} Contentez-vous de nous décoincer.
+468)  KENNY
+Quoi que vous ayez fait, ça a éteints les lumières là-haut.
+469)  LEE
+[frustrated] Mince. D'accord.
+470)  KENNY
+Nan, les lumières sont à nouveau éteintes.
+471)  LEE
+[frustrated] Eugh. D'accord.
+472)  KENNY
+Les lumières sont encore éteintes.
+473)  KENNY
+Nan. Recule.
+474)  LEE
+Jusque là, c'est bon.
+475)  KENNY
+[excited] Fils de p... ! Tu as réussi a allumé le tableau de bord !
+476)  KATJAA
+Ken a décollé dans l'urgence.
+477)  LEE
+Vous avez raison.
+478)  KATJAA
+Comment ?
+479)  LEE
+J'en... n'ai aucune idée.
+480)  KATJAA
+Eh bien QUELQU'UN doit avoir su, non ?
+481)  LEE
+Nous pensons que le train pourrait en fait fonctinner. Je suis en train d'essayer de trouver comment faire démarrer le moteur.
+482)  LEE
+Même chose... du genre. J'ai trouvé des instructions, mais j'n'arrive pas à les lire.
+483)  KATJAA
+Oh, eh bien, je suis sûr que quelqu'un pourra vous aider.
+484)  KATJAA
+Est-ce que Ken va bien ? Qu'est-ce qu'il fait ?
+485)  LEE
+Il met tout son coeur à trouver comment marche le train.
+486)  KATJAA
+Et vous ?
+487)  LEE
+{NormalC} Ouais, eh bien, il ne parle pas.
+488)  BEN
+{NormalC} Ce gars dans la cabine savait probablement.
+489)  LEE
+{ThinkingB} J'n'ai aucune idée de comment faire démarrer le moteur.
+490)  BEN
+{ThinkingA} Eh bien, IL a dû l'apprendre quelque part.
+491)  KENNY
+{ThinkingA} Vous me le demandez à MOI ? Qu'est-ce que j'y connais, aux trains ?
+492)  LEE
+{NormalD} Plus que moi.
+493)  LEE
+{NormalC} J'arrive pas à nous libérer. {ThinkingA} Une idée ?
+494)  KENNY
+{NormalC} Désolé, mec.
+495)  LEE
+Merde, c'est ça ! les instructions sur le démarrage du moteur.
+496)  LEE
+La porte du wagon.
+497)  LEE
+Je peux entrer là-bas.
+498)  LEE
+Ca mène hors du wagon.
+499)  LEE
+Il pourrait y avoir quelque chose à l'intérieur.
+500)  LEE
+Il pourrait y avoir quelque chose à l'intérieur.
+501)  LEE
+Il pourrait y avoir quelque chose à l'intérieur.
+502)  LEE
+Il pourrait y avoir quelque chose à l'intérieur.
+503)  LEE
+La porte est fermée.
+732)  LEE
+La porte est fermée.
+733)  LEE
+La porte est fermée.
+504)  LEE
+[moving a heavy rolling door] Eurrrghh !
+505)  LEE
+[pickup2] Merde. Cassé.
+506)  LEE
+[pickup2][context: After a lot of work, you moved a stubborn thing] Là.
+591)  LEE
+[pickup2][context: After a lot of work, you moved a stubborn thing] Là.
+594)  LEE
+[pickup2][context: After a lot of work, you moved a stubborn thing] Là.
+507)  LEE
+[pickup2][straining to move a stuck thing] Eurgh.
+590)  LEE
+[pickup2][straining to move a stuck thing] Eurgh.
+595)  LEE
+[pickup2][straining to move a stuck thing] Eurgh.
+508)  CHUCK
+{SadA} Je suis terriblement désolé que votre fils ne se sente pas bien.
+509)  KATJAA
+{HappyB} J'apprécie votre sollicitude. [warm]
+510)  CHUCK
+{HappyA} Eh bien, avec un peu de Tebrazid je suis sûr qu'il sera en pleine forme en moins de deux.
+511)  CHUCK
+{HappyC} Et je peux vous offrir tout ce que j'ai, {NormalA} bien que je n'ai pas grand chose.
+512)  KATJAA
+{HappyC} Merci... Nous aimerions pouvoir faire de même.
+513)  KENNY
+{ThinkingA} Pourquoi on ne s'éloignerait pas...
+514)  KATJAA
+[ignoring kenny] {NormalB} Restez avec nous, {HappyA} nous aimerions avoir de la compagnie.
+515)  
+Porte du Wagon
+517)  
+Porte du Wagon
+516)  
+Porte de la Cabine
+518)  
+Utiliser
+521)  
+Utiliser
+522)  
+Utiliser
+583)  
+Utiliser
+584)  
+Utiliser
+613)  
+Utiliser
+655)  
+Utiliser
+767)  
+Utiliser
+519)  
+Regarder
+520)  
+Regarder
+523)  
+Regarder
+526)  
+Regarder
+528)  
+Regarder
+533)  
+Regarder
+535)  
+Regarder
+537)  
+Regarder
+539)  
+Regarder
+542)  
+Regarder
+543)  
+Regarder
+545)  
+Regarder
+554)  
+Regarder
+558)  
+Regarder
+559)  
+Regarder
+561)  
+Regarder
+568)  
+Regarder
+570)  
+Regarder
+572)  
+Regarder
+581)  
+Regarder
+582)  
+Regarder
+607)  
+Regarder
+611)  
+Regarder
+612)  
+Regarder
+654)  
+Regarder
+656)  
+Regarder
+524)  LEE
+{normalB}C'est verrouillé.
+525)  
+Ouvrir
+529)  
+Ouvrir
+531)  
+Ouvrir
+534)  
+Ouvrir
+536)  
+Ouvrir
+538)  
+Ouvrir
+540)  
+Ouvrir
+555)  
+Ouvrir
+556)  
+Ouvrir
+736)  
+Ouvrir
+527)  
+Echelle
+530)  
+Porte du Camping Car
+532)  
+Compartiment Moteur
+541)  
+Prendre
+544)  
+Prendre
+546)  
+Prendre
+547)  
+Clé anglaise
+548)  
+Clé à molette
+549)  
+Arrache pic
+550)  
+Interrupteur
+623)  
+Interrupteur
+551)  
+Tourner à gauche
+657)  
+Tourner à gauche
+552)  
+Tourner à droite
+659)  
+Tourner à droite
+553)  
+Utiliser le bloc avec
+626)  
+Utiliser le bloc avec
+628)  
+Utiliser le bloc avec
+630)  
+Utiliser le bloc avec
+632)  
+Utiliser le bloc avec
+634)  
+Utiliser le bloc avec
+636)  
+Utiliser le bloc avec
+638)  
+Utiliser le bloc avec
+640)  
+Utiliser le bloc avec
+642)  
+Utiliser le bloc avec
+658)  
+Utiliser le bloc avec
+766)  
+Utiliser le bloc avec
+557)  
+Déverrouiller
+560)  
+Claquer
+562)  
+Saisir
+569)  
+Saisir
+573)  
+Saisir
+563)  
+Frapper
+564)  
+Frapper
+565)  
+Frapper
+576)  
+Frapper
+577)  
+Frapper
+578)  
+Frapper
+566)  
+Tirer
+575)  
+Tirer
+567)  
+Eau
+571)  
+Ramasser
+574)  
+Examiner
+610)  
+Examiner
+579)  
+Portière
+580)  
+Crayon
+585)  
+Levier
+586)  
+Levier
+587)  
+Levier
+596)  
+Barre de coupleur
+597)  
+Taquet de coupleur
+598)  
+Carte
+599)  
+Marcheur
+600)  
+Croquettes
+601)  
+Boucle de Ceinture de Sécurité
+602)  
+Boîte à carte
+603)  
+Ingénieur
+604)  
+Panneau de Contrôle
+765)  
+Console
+605)  
+Bloc-note
+606)  
+Accélérateur
+608)  
+Utiliser Crayon sur
+609)  
+Déchirer le Papier
+614)  
+Parler à
+617)  
+Parler à
+619)  
+Parler à
+615)  
+Donner l'eau à
+616)  
+Donner les croquettes à
+618)  
+Montrer la Carte à
+620)  
+Montrer la Carte à
+621)  
+J'arrive pas à nous décoincer.
+622)  
+Tourner le Bouton
+624)  
+Actionner Disjoncteur
+625)  
+Basculer (Toggle)
+627)  
+Basculer (Toggle)
+629)  
+Basculer (Toggle)
+631)  
+Basculer (Toggle)
+633)  
+Basculer (Toggle)
+635)  
+Basculer (Toggle)
+637)  
+Basculer (Toggle)
+639)  
+Tourner
+641)  
+Tourner
+643)  LEE
+[pickup2] {ThinkingA} Il faut juste qu'on comprennen les commandes.
+645)  LEE
+[pickup2] Je n'ai aucune idée de la manière d'utiliser ces trucs.
+646)  LEE
+[pickup2] [a futile attempt to start an engine] Rien.
+647)  LEE
+[pickup2] Ca pourrait être l'interrupteur du moteur.
+648)  LEE
+[pickup2] On dirait pas que le moteur a du jus.
+649)  LEE
+[pickup2][calling to someone far away] Hé Kenny, on est détachés !
+650)  LEE
+[pickup2][calling to someone far away] Hé Kenny, on est détachés !
+651)  LEE
+[pickup2][calling to someone far away] Hé Kenny, on est détachés !
+652)  LEE
+[pickup2] J'ai pris une bouteille d'eau.
+653)  LEE
+[pickup2] Un interrupteur.
+663)  CLEMENTINE
+[pickup2] Well, if you're not using it, I'd take it. I'm out of paper and there's all sorts of new leaves around here.
+664)  LEE
+[pickup2] C'est un vieux foyer. Il est tout sale, maintenant.
+665)  LEE
+[pickup2] Il est tout sale, maintenant, cependant. Rien à en tirer.
+666)  LEE
+[pickup2] Je peux libérer ce truc si j'arrive à briser cette gangue de rouille.
+667)  LEE
+[pickup2] Nous avons besoin d'une sacrée force pour briser toute cette rouille avant que je puisse retirer quoi que ce soit.
+668)  LEE
+[pickup2] J'sais pas trop. [heavy]
+673)  LEE
+[pickup2] J'sais pas trop. [heavy]
+669)  KATJAA
+[pickup2] Pauvre Doug. [overwhelmed] Mon Dieu. Comment ca a pu arriver ?
+670)  LEE
+[pickup2]Est-ce que Clémentine a dit quelque chose à propos de Doug ou... Duck ? Je m'inquiète pour elle.
+674)  KATJAA
+[pickup2] Pauvre Carley.[overwhelmed] Mon Dieu. Comment ça a pu arriver ?
+675)  KATJAA
+[pickup2] Ca va ? Je sais que vous l'aimiez bien.
+676)  
+J'vais bien.
+690)  
+J'vais bien.
+677)  
+C'est du passé.
+678)  
+Je m'y suis fait, à présent.
+692)  
+Je m'y suis fait, à présent.
+679)  KATJAA
+[pickup2] Je suis navrée. [seeing]Vous ne voulez pas en parler.
+693)  KATJAA
+[pickup2] Je suis navrée. [seeing]Vous ne voulez pas en parler.
+680)  KATJAA
+[pickup2] Je l'aimais beaucoup. Il avait passé du temps en Belgique. [revealing a fact]
+696)  KATJAA
+[pickup2] Je l'aimais beaucoup. Il avait passé du temps en Belgique. [revealing a fact]
+703)  KATJAA
+[pickup2] Je l'aimais beaucoup. Il avait passé du temps en Belgique. [revealing a fact]
+681)  LEE
+[pickup2] Je vais bien. C'est juste du gâchis. C'était un gars bien.
+682)  KATJAA
+[pickup2] Oui. [sigh] C'est encore plus loin à présent. [her homeland feels further away with the woman she shared knowledge of it with dead]
+697)  KATJAA
+[pickup2] Oui. [sigh] C'est encore plus loin à présent. [her homeland feels further away with the woman she shared knowledge of it with dead]
+705)  KATJAA
+[pickup2] Oui. [sigh] C'est encore plus loin à présent. [her homeland feels further away with the woman she shared knowledge of it with dead]
+683)  LEE
+[pickup2] Là d'où vient votre famille.
+698)  LEE
+[pickup2] Là d'où vient votre famille.
+704)  LEE
+[pickup2] Là d'où vient votre famille.
+684)  LEE
+[pickup2] En effet. C'est pas le moment pour, vous savez, la romance, mais ouais... Elle me [quoting katjaa] plaisait beaucoup, ouais.
+685)  LEE
+[pickup2] J'Y étais, Kat.
+701)  LEE
+[pickup2] J'Y étais, Kat.
+686)  LEE
+[pickup2] Je m'y suis fait, maintenant. Nous tous ici, n'est-ce pas ?
+699)  LEE
+[pickup2] Je m'y suis fait, maintenant. Nous tous ici, n'est-ce pas ?
+687)  KATJAA
+[pickup2] Elle l'a assassinée, Lee.
+688)  KATJAA
+[pickup2] Je suis navrée.
+700)  KATJAA
+[pickup2] Je suis navrée.
+689)  KATJAA
+[pickup2] Tu te tenais juste à coté... Tu vas bien ?
+691)  
+J'étais... C'était horrible.
+694)  KATJAA
+[pickup2] Bon Dieu, je suis navrée que Clémentine et toi ayez dû voir ça.
+695)  LEE
+[pickup2] J'étais... C'était horrible. -- Une des pires choses que j'aie jamais vu.
+702)  KATJAA
+[pickup2] Elle l'a assassiné, Lee.
+706)  KATJAA
+[pickup2] Je suis navrée, Lee.
+707)  LEE
+[pickup2] Ne le soyez pas. Je l'aimais bien, mais elle est partie, à présent.
+708)  LEE
+[pickup2] Je vais bien. Ne t'inquiéte pas pour moi.
+709)  KATJAA
+[pickup2] C'est le cas.
+710)  
+Feu de camp
+711)  LEE
+[pickup2] Zut. Pas de place.
+714)  LEE
+[pickup2] Zut. Pas de place.
+717)  LEE
+[pickup2] Zut. Pas de place.
+712)  LEE
+[pickup2] Y'a ucun moyen de l'atteindre. [zombie]
+715)  LEE
+[pickup2] Y'a ucun moyen de l'atteindre. [zombie]
+718)  LEE
+[pickup2] Y'a ucun moyen de l'atteindre. [zombie]
+719)  LEE
+[pickup2][deep breath, psyching yourself up] D'accord.
+720)  LEE
+[pickup2][to the zombie] Tu vas pas aimer.
+721)  LEE
+[pickup2] Cette porte va faire mal.
+722)  LEE
+[pickup2]Est-ce que Clémentine a dit quelque chose à prpopos de Carley ou... de Duck ? Je m'inquiète pour elle.
+723)  BEN
+[pickup2] Je crois pas que ce mec revienne...
+724)  LEE
+[pickup2] Bon sang...
+725)  KENNY
+[pickup2] Maintenant ça me parle !
+726)  LEE
+[pickup2][Noticing the zombie in the cab]{SurpriseA} Merde.
+727)  LEE
+[pickup2]{NormalD} Il me verra si je viens dans ce sens.
+728)  LEE
+[pickup2]{ThinkingA}Il me verra si j'essaie d'aller dans ce sens.
+729)  LEE
+[pickup2] C'est en bon état pour une épave.
+730)  LEE
+[pickup2]  C'est un sacré bazard.
+731)  LEE
+[pickup2][disappointed] {NormalD} 
+Déraillé.
+737)  
+Utiliser Clé anglaise avec
+738)  
+Utiliser Arrache-pique avec
+739)  
+Utiliser Clé à molette avec
+740)  
+Utiliser Pistolet avec
+741)  
+Attrape-vache
+742)  
+Feuille de Métal
+743)  
+Roues de Train
+744)  
+Photographie
+751)  
+Déjeuner moisi
+759)  LEE
+Ici, Kenny.
+760)  LEE
+Devrais pouvoir de simplement suivre les étapes pour démarrer le moteur.
+762)  KENNY
+Wauoh !
+763)  KENNY
+En route.
+764)  LEE
+Merde.
