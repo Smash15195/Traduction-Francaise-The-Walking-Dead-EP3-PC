@@ -3,11 +3,11 @@ Nous sommes presque à la rivière ! Tu veux monter sur un bateau ou attendre jusq
 2)  KENNY
 Ou le laisser.
 3)  CHRISTA
-Je ne sais pas combien de temps il peut tenir comme ça. Si l'état de sa jambe s'aggrave nous allons devoir le porter.
+Je ne sais pas combien de temps il peut tenir comme ça. Si l'état de sa jambe s'aggrave, nous allons devoir le porter.
 4)  LEE
-[aggressive] Putain qu'est-ce que ça veut dire ? Répondez-moi, merde !
+[aggressive] Putain, qu'est-ce que ça veut dire ? Répondez-moi, merde !
 5)  CAMPMAN
-Si j'étais vous, je partirai de la rue. Maintenant.
+Si j'étais vous, je partirais de la rue. Maintenant.
 6)  CHRISTA
 Donc, vous comptiez nous parler de la radio quand ?
 7)  LEE
@@ -25,7 +25,7 @@ Vous n'avez aucune idée de ce j'endure. Et vous pouvez être sûr de rien savoir s
 13)  BEN
 J'ai cru devoir lui dire la vérité. C'est ma faute si Katjaa et Duck ont été tués.
 14)  KENNY
-[still fuming/drunk] C'est la seule chose qui me reste putain, et vous voulez me la prendre aussi ? Va te faire foutre !
+[still fuming/drunk] C'est la seule chose qui me reste putain, et vous voulez me la prendre aussi ? Allez vous faire foutre !
 15)  VERNON
 Qui êtes-vous ?
 16)  LEE

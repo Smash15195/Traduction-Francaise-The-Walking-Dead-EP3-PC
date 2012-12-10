@@ -69,7 +69,7 @@ Kenny n'a pas apprécié.
 26)  
 Kenny n'a pas apprécié.
 27)  
-Kenny a remarqué que votre indifférence.
+Kenny a remarqué votre indifférence.
 28)  
 Vous avez choisi de tirer sur la jeune femme.
 29)  
@@ -109,29 +109,29 @@ Clémentine comprend ce que vous avez fait.
 45)  
 Vous avez choisi de rien dire de votre passé à Clémentine.
 46)  
-Ben n'oublira ça.
+Ben n'oublira pas ça.
 51)  
-Ben n'oublira ça.
+Ben n'oubliera pas ça.
 66)  
-Ben n'oublira ça.
+Ben n'oubliera pas ça.
 176)  
-Ben n'oublira ça.
+Ben n'oubliera pas ça.
 47)  
-Vous n'avez pas révéler votre passé à Ben.
+Vous n'avez pas révélé votre passé à Ben.
 48)  
-Lilly n'oublira ça.
+Lilly n'oubliera pas ça.
 172)  
-Lilly n'oublira ça.
+Lilly n'oubliera pas ça.
 174)  
-Lilly n'oublira ça.
+Lilly n'oubliera pas ça.
 49)  
-Vous n'avez pas révéler votre passé à Lilly.
+Vous n'avez pas révélé votre passé à Lilly.
 50)  
 Vous ne voulez pas de l'aide de Duck, mais il ne l'a pas vraiment entendu.
 53)  
 Ben a été blessé par votre accusation.
 54)  
-Carley n'oublira ça.
+Carley n'oubliera pas ça.
 55)  
 Vous avez fait rester en arrière Lilly.
 56)  
@@ -141,7 +141,7 @@ Katjaa est reconnaissante pour votre aide.
 58)  
 Katjaa apprécie votre préoccupation.
 59)  
-Vous avez dit à Lilly que vous irez avec elle.
+Vous avez dit à Lilly que vous iriez avec elle.
 60)  
 Vous avez dit à Lilly que vous ne quitteriez pas le groupe.
 61)  
@@ -155,7 +155,7 @@ Vous avez évité la question de Chuck.
 64)  
 Chuck a remarqué votre intérêt pour son histoire.
 65)  
-Clémentine remarqué ce que vous ressentez pour Lilly.
+Clémentine a remarqué ce que vous ressentez pour Lilly.
 67)  
 Vous avez chamboulé Kenny.
 69)  
@@ -163,17 +163,17 @@ Vous avez chamboulé Kenny.
 68)  
 Vous avez pu faire entendre raison à votre ami.
 70)  
-Vous avez parlé a Kenny pendant l'arrêt du train.
+Vous avez parlé à Kenny pendant l'arrêt du train.
 71)  
 Katjaa est d'accord avec votre suggestion.
 72)  
 Kenny est d'accord.
 73)  
-Kenny et Katjaa vous remercie de votre gentillesse.
+Kenny et Katjaa vous remercient de votre gentillesse.
 74)  
 Clémentine se souviendra de votre honnêteté.
 75)  
-Vous avez choisi de rien lui dire.
+Vous avez choisi de ne rien lui dire.
 76)  
 Vous avez décidé de laisser le père finir.
 77)  
@@ -183,7 +183,7 @@ Vous avez choisi de laisser Kenny tirer sur Duck.
 79)  
 Chuck n'aime pas ça.
 80)  
-Vous en êtes arrivé à menacé Ben
+Vous en êtes arrivé à menacer Ben.
 81)  
 Ben sent à quel point vous êtes déçu.
 82)  
@@ -193,19 +193,19 @@ Vous avez partagé un verre avec Chuck.
 84)  
 Vous avez décidé de ne pas partager de verre avec Chuck.
 85)  
-Vous avez appris à Clémentine a se protéger.
+Vous avez appris à Clémentine à se protéger.
 86)  
 Les cheveux de Clémentine sont mieux protégés maintenant.
 121)  
 Les cheveux de Clémentine sont mieux protégés maintenant.
 87)  
-Vous avez vraiment blesser les sentiments de Clémentine.
+Vous avez vraiment blessé les sentiments de Clémentine.
 88)  
 Cela a vraiment bouleversé Clémentine.
 89)  
 Vous et Clémentine avez fait un plan pour trouver un bateau.
 90)  
-Vous et Clémentine avez fait un plan pour trouver ses parents.
+Vous et Clémentine avez fait un plan pour retrouver ses parents.
 91)  
 Vous et Clémentine avez fait un plan pour trouver votre propre chemin.
 92)  
@@ -215,13 +215,13 @@ Ils s'en souviendront.
 165)  
 Ils s'en souviendront.
 93)  
-Les étrangers ne semblent pas content de votre réponse.
+Les étrangers ne semblent pas contents de votre réponse.
 94)  
 Les étrangers semblent se méfier de vous.
 95)  
 Les étrangers nous
 96)  
-Vous vous rejoingnez avec Omid sur une certaine histoire du Sud.
+Vous vous rejoignez avec Omid sur une certaine histoire du Sud.
 97)  
 Omid et Christa se souviendront de ce que vous avez dit à propos de Ben.
 98)  
@@ -231,11 +231,11 @@ Ils se souviendront de ce que vous avez dit.
 100)  
 Ils se souviendront de ce que vous avez dit à propos de Chuck.
 101)  
-Christa n'oublira ça.
+Christa n'oubliera pas ça.
 102)  
-You made a risky decision in order to slow them down.
+Vous avez pris une décision risquée afin de les ralentir.
 103)  
-Vous poussé Omid.
+Vous avez poussé Omid.
 104)  
 Lilly s'en souviendra.
 154)  
@@ -247,7 +247,7 @@ Tape m'en cinq !
 107)  
 Vous avez ignoré Duck.
 108)  
-Vous avez fait une journée pour Duck.
+Vous avez gâché la journée de Duck.
 109)  
 Lilly l'a remarqué.
 155)  
@@ -259,7 +259,7 @@ Chuck a vu au-travers de votre mensonge.
 113)  
 Clémentine a remarqué votre silence.
 114)  
-Ben est reconnaissant pour votre loyauté.
+Ben vous est reconnaissant pour votre loyauté.
 116)  
 Vous avez convaincu Kenny d'arrêter le train.
 117)  
@@ -275,11 +275,11 @@ Ben s'en souviendra.
 123)  
 Clementine s'en souviendra.
 124)  
-Vous avez appris qu'Omid s'intéresse à l'histoire du Sud.
+Vous avez appris qu'Omid s'intéressait à l'histoire du Sud.
 125)  
 Christa et Omid se souviendront de ce que vous avez dit.
 126)  
-Christa a remarqué que votre silence.
+Christa a remarqué votre silence.
 127)  
 Christa n'a pas apprécié que vous vous immisciez dans ses affaires.
 128)  
@@ -313,7 +313,7 @@ Vous avez récupéré 19 articles.
 140)  
 Vous avez récupéré 20 articles.
 141)  
-Vous avez dit à Lilly que vous vouliez laisser.
+Vous avez dit à Lilly que vous vouliez la laisser.
 142)  
 On dirait que Duck va vous aider de toute manière.
 143)  
@@ -339,7 +339,7 @@ Kenny a remarqué ça.
 153)  
 Kenny s'en souviendra.
 156)  
-Tout le monde remarque que vous pris le parti de Lilly.
+Tout le monde remarque que vous avez pris le parti de Lilly.
 157)  
 Tout le monde l'a remarqué.
 158)  

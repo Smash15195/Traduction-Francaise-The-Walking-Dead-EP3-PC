@@ -7,7 +7,7 @@ Kenny, tu as une seconde ?
 4)  LEE
 {sadA}C'est important.
 5)  KENNY
-{sadA}Oh non, {angryA}qu'est-ce que cette diablesse t'as fait...
+{sadA}Oh non, {angryA}qu'est-ce que cette diablesse t'a fait...
 6)  LEE
 {disgustA}Tais-toi.
 7)  LEE
@@ -31,21 +31,21 @@ C'est rien.
 12)  KENNY
 {normalC}Euh...
 13)  LEE
-{sada}Je sais.{fearA} Je n'ai rien dit quand je vous ai rencontré parce que j'étais avec la petite et, tu sais, j'étais inquiet...
+{sada}Je sais.{fearA} Je n'ai rien dit quand je vous ai rencontrés parce que j'étais avec la petite et, tu sais, j'étais inquiet...
 53)  LEE
-{sada}Je sais.{fearA} Je n'ai rien dit quand je vous ai rencontré parce que j'étais avec la petite et, tu sais, j'étais inquiet...
+{sada}Je sais.{fearA} Je n'ai rien dit quand je vous ai rencontrés parce que j'étais avec la petite et, tu sais, j'étais inquiet...
 14)  KENNY
-{thinkingA}Je viens fracassé la tête d'un gars avec un bloc de sel de cinquante livres. Tu m'as vu le faire, non ?
+{thinkingA}Je viens de fracasser la tête d'un gars avec un bloc de sel de cinquante livres. Tu m'as vu le faire, non ?
 15)  LEE
 {normalB}Ouais.
 16)  KENNY
-[pickup 2] [bad read: Emphasis is off. Should be on "everything this mess has got us doing NOW, Lee.' Not 'DOIN now, Lee.'] Et tu me parle que qui nous étions avant ? {disgustA}Q'est-ce que ça peut foutre ?{thinkingA} C'est de tout ce bordel qu'il faut se préocuper en ce moment, Lee. Merde.
+[pickup 2] [bad read: Emphasis is off. Should be on "everything this mess has got us doing NOW, Lee.' Not 'DOIN now, Lee.'] Et tu me parles de qui nous étions avant ? {disgustA}Q'est-ce que ça peut foutre ?{thinkingA} C'est de tout ce bordel qu'il faut se préocuper en ce moment, Lee. Merde.
 17)  KENNY
 {angryA}Duck est en sécurité ?
 18)  LEE
 {sadA}Bien sûr.
 19)  KENNY
-{thinkingA}Alors dis rien. {angryA}Tu ne nous doit aucunes explications.
+{thinkingA}Alors dis rien. {angryA}Tu ne nous doit aucune explication.
 20)  LEE
 {SadA}J'étais sur le chemin de la prison il y a trois mois.
 60)  LEE
@@ -73,7 +73,7 @@ Ce n'était pour attouchement sur mineur au moins ?
 28)  LEE
 {thinkingA}Alors ça va, on est OK ?
 29)  KENNY
-{thinkingA}Lee, Ecoute, c'est de tout ce bordel qu'il faut se préocuper en ce moment. {sadA}Je suis désolé que tu as vécu tout ce que tu as vécu. {normalA}Ouais, on est “OK.”
+{thinkingA}Lee, Ecoute, c'est de tout ce bordel qu'il faut se préocuper en ce moment. {sadA}Je suis désolé que tu aies vécu tout ce que tu as vécu. {normalA}Ouais, on est “OK.”
 30)  LEE
 {sadA}Oublie ça. Ca ne fait rien.
 66)  LEE
@@ -91,7 +91,7 @@ Ce n'était pour attouchement sur mineur au moins ?
 35)  KENNY
 {angrya}Laisse tomber, mon pote.
 39)  KENNY
-{disgustA}D'accord, [a little sarcastic] {normalA}Je devrais m'assoir ?
+{disgustA}D'accord, [a little sarcastic] {normalA}Je devrais m'asseoir ?
 40)  LEE
 {angryA}Arrête.
 41)  LEE
@@ -141,7 +141,7 @@ Ce n'était pour attouchement sur mineur au moins ?
 68)  KENNY
 {thinkingA}Alors, ce n'est pas important ?
 69)  KENNY
-{angrya}Tu accouche ou tu me fous la paix ?
+{angrya}Tu accouches ou tu me fous la paix ?
 70)  
 Katjaa, je peux te parler une seconde ?
 71)  LEE
@@ -165,7 +165,7 @@ Oublie ça.
 81)  LEE
 {NormalC}Tu dis ça comme si c'était mon boulot.
 82)  KATJAA
-[worried] Eh bien donne moi les détails ?
+[worried] Eh bien, donne moi les détails !
 83)  
 Très bien.
 84)  LEE
@@ -187,7 +187,7 @@ Très bien.
 91)  LEE
 {SadC}Il lui a fracassé le crâne.
 89)  LEE
-{SadA}J'ai tenu Lilly et Kenny... {SadB}s'est assuré que Larry ne revienne pas.
+{SadA}J'ai tenu Lilly et Kenny... {SadB}il s'est assuré que Larry ne revienne pas.
 90)  KATJAA
 {fearB}[a tiny gasp, you've just heard something shocking]
 95)  KATJAA
@@ -201,7 +201,7 @@ Non.
 99)  KATJAA
 {ThinkingA}L'avez-vous tué ?
 100)  LEE
-{AngryB}They haven't.
+{AngryB}Non.
 101)  KATJAA
 [frustrated] {AngryA}Bien, merci. {ThinkingA}Je ne suis pas heureuse de l'entendre, {AngryA}mais merci.
 102)  KATJAA
@@ -213,7 +213,7 @@ Non.
 105)  KATJAA
 [sigh, unhappy] {fearB}Pourquoi ?
 106)  KATJAA
-{NormalB}Dis-moi ce qui s'est passé quand vous avez été enfermé dans la chambre froide. {AngryA}A la ferme.
+{NormalB}Dis-moi ce qui s'est passé quand vous avez été enfermés dans la chambre froide. {AngryA}A la ferme.
 107)  LEE
 {SadA}Lui et ma femme {SadB}étaient...
 108)  LEE
@@ -231,7 +231,7 @@ Non.
 116)  KATJAA
 {normalC}Qu'est-ce qui te préoccupe ?
 117)  KATJAA
-{FearA}Tu m'inquiète. Je vais y aller.
+{FearA}Tu m'inquiètes. Je vais y aller.
 118)  
 Tu dois faire plus d'effort avec Lilly.
 119)  
@@ -255,13 +255,13 @@ Vous savez ce qui est arrivé à cette lampe torche ?
 128)  LEE
 {normalA}Vous savez quelque chose sur ce qui est arrivé à cette lampe torche ?
 129)  KENNY
-{thinkingA}Fais chier, {fearA}on en a pas beaucoup en plus.
+{thinkingA}Fait chier, {fearA}on en a pas beaucoup en plus.
 130)  LEE
 {normalC}Ouais, c'est bien le problème. Le verre et l'ampoule sont complètement foutus.
 131)  KATJAA
-[reminded] {NormalA}J'ai vu du verre brisé près de la machine à glace. {ThinkingA}J'avais l'intention de tout nettoyer avant que les enfants se blessent dessus; {NormalA} Mais j'ai oublié.
+[reminded] {NormalA}J'ai vu du verre brisé près de la machine à glace. {ThinkingA}J'avais l'intention de tout nettoyer avant que les enfants se blessent dessus. {NormalA} Mais j'ai oublié.
 132)  KATJAA
-{sadA}Je suis désolée, {normalB}Tu vas bien Lee ?
+{sadA}Je suis désolée, {normalB}tu vas bien Lee ?
 133)  LEE
 {normalA}Hé vous deux, comment vous allez ?
 134)  KATJAA
@@ -281,7 +281,7 @@ Vous auriez vu de la craie dans le coin ?
 141)  LEE
 {normalA}Vous auriez vu de la craie dans le coin ?
 142)  KATJAA
-{HappyC}Ha, oui, {HappyA}Clémentine adore dessiné avec.
+{HappyC}Ha, oui, {HappyA}Clémentine adore dessiner avec.
 143)  KATJAA
 {NormalA}Désolé, Lee.
 144)  LEE
@@ -339,7 +339,7 @@ Interroger sur la Craie
 170)  LEE
 [pickup2] J'avais déjà tué. Je veux dire avant l'apparition des marcheurs.
 171)  LEE
-[pickup2] Tu m'as toujours me regardé de manière aimable et je me demande si tu pourras toujours le faire si tu savais que je suis un criminel.
+[pickup2] Tu m'as toujours me regardé de manière aimable et je me demande si tu pourras toujours le faire si tu sais que je suis un criminel.
 172)  LEE
 <<id:>>{disgustA}Tais-toi.
 173)  LEE

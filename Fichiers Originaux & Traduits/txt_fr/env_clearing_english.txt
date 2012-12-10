@@ -37,7 +37,7 @@ Kenny, je t'aime énormément. J'aime notre fils par-dessus tout.
 19)  KENNY
 {fearA}{body-A}Qu'est-ce qu'on va faire ?
 20)  KENNY
-{fearA}{body-A}Mais {fearB}{body-A}si il...
+{fearA}{body-A}Mais {fearB}{body-A}s'il...
 21)  KATJAA
 On ne peut pas le laisser devenir l'un de ces monstres.
 22)  
@@ -55,7 +55,7 @@ Si tu vois un autre moyen, dis-le moi.
 28)  KATJAA
 Arrête.
 29)  KENNY
-{sadA}{body-A}Ca se trouve il va simplement s'assoupir,{sadB} hein, chérie ? {disgustA}Je veux dire, merde, {sadB}c'est notre fils.
+{sadA}{body-A}Si ça se trouve, il va simplement s'assoupir,{sadB} hein, chérie ? {disgustA}Je veux dire, merde, {sadB}c'est notre fils.
 30)  KATJAA
 JE SAIS. Mais on sait que c'est... là[points to the brain]. C'est ça ou rien.
 31)  KENNY
@@ -97,11 +97,11 @@ Je croyais qu'il allait mourir.
 96)  CLEMENTINE
 Je croyais qu'il allait mourir.
 49)  CLEMENTINE
-Qu'est-ce qu'elle fait Katjaa ?
+Qu'est-ce qu'elle fait, Katjaa ?
 50)  LEE
 {SadA}{body-F}Rien, {NormalD}tout va bien.
 51)  CLEMENTINE
-Non c'est pas vrai.
+Non, c'est pas vrai.
 52)  
 Elle est allée le tuer.
 53)  
@@ -113,7 +113,7 @@ Elle le libère de ses souffrances.
 102)  LEE
 {SadA}{body-f}Ecoute, Clém. Les choses --{surpriseB}
 56)  KENNY
-[face in hands, just a total wreck] MON DIEU NOOON....!
+[face in hands, just a total wreck] MON DIEU, NOOON.... !
 57)  
 Ca ne t'arrivera jamais.
 58)  
@@ -135,19 +135,19 @@ Les zombies ne sont pas morts. Les gens ne meurent plus. Du moins plus comme ava
 66)  LEE
 [pickup 2] [ new read: - A little too 'by the book' order. Duck just was killed, could be more empathatic.] {DisgustB}{body-F}Ben, amène Clémentine dans le train, d'accord ? {AngryA}{body-B}Et ouvre les yeux.
 67)  KENNY
-{SurprisedA}{body-A}[horrified] Guh!
+{SurprisedA}{body-A}[horrified] Geuh !
 68)  KENNY
 {FearC}{body-A}KAT ! KAT ! KATJAA !
 70)  
 On doit s'occuper de Duck.
 72)  KENNY
-{SadA}{body-A}[emotionally dead] Qu'est-ce qu'on fait.
+{SadA}{body-A}[emotionally dead] Qu'est-ce qu'on fait ?
 73)  KENNY
 {FearC}{body-A}Pourquoi, Kat ? Oh bon Dieu, chérie...
 74)  KENNY
 {SadB}{body-A}[whatever you feel like "saying," you're over the body of your dead wife]
 75)  KENNY
-{FearC}{body-A}Tu as dit que tu pouvais le faire, Kat, {SadB} bordel de dieu, ytu as dit que tu pouvais le faire !
+{FearC}{body-A}Tu as dit que tu pouvais le faire, Kat, {SadB} bordel de dieu, tu as dit que tu pouvais le faire !
 76)  
 Donne-moi le flingue. Je vais le faire.
 77)  
@@ -163,9 +163,9 @@ Fais-le. Arrête tout ça, Kenny.
 82)  KATJAA
 Il a raison.
 83)  KATJAA
-Shush.
+Chut.
 84)  KENNY
-{normalC}{body-A}Leea raison. {sadA}{body-A}Et me sors pas ton numéro à la {sadB}"c'est moi qui l'ai mis au monde". [with a pained smile]
+{normalC}{body-A}Lee a raison. {sadA}{body-A}Et me sors pas ton numéro à la {sadB}"c'est moi qui l'ai mis au monde". [with a pained smile]
 85)  KATJAA
 Et je suis sa mère.
 86)  LEE
@@ -225,9 +225,9 @@ Oh.
 133)  CLEMENTINE
 Oh.
 111)  CLEMENTINE
-Mais pourtant...il s'est fait mordre.
+Mais pourtant... il s'est fait mordre.
 131)  CLEMENTINE
-Mais pourtant...il s'est fait mordre.
+Mais pourtant... il s'est fait mordre.
 112)  LEE
 {SadA}Elle {SadB}va faire en sorte qu'il ne revienne pas.
 113)  LEE
@@ -283,7 +283,7 @@ Mais qu'est-ce qui s'est passé ?
 142)  LEE
 {FearA}{Body-B}Il faut encore s'occuper de Duck.
 143)  LEE
-[pickup 2'] [ new read: 'by herself' is a weird read, almost angrily choked off, but it reads strange, not emotional. Could be more sad/angry.] {SadB}{body-B}Je n'aurais jamais du la laisser venir ici {AngryA}toute seule.
+[pickup 2'] [ new read: 'by herself' is a weird read, almost angrily choked off, but it reads strange, not emotional. Could be more sad/angry.] {SadB}{body-B}Je n'aurais jamais dû la laisser venir ici {AngryA}toute seule.
 145)  DUCK
 [an idle of really small, sick breathing]
 146)  DUCK
@@ -301,7 +301,7 @@ Ca va aller...
 153)  LEE
 {AngryD}{Body-B}[emotional] FAIS-LE !
 154)  LEE
-{SadB}{Body-B}Ca va aller... {SadC}ça va--
+{SadB}{Body-B}Ca va aller... {SadC}Ca va--
 155)  KENNY
 [pickup2] Je... J...
 156)  LEE
@@ -329,7 +329,7 @@ Ecoute-moi bien. Ce que tu dis... qu'il pourrait ne pas se transformer... c'est 
 167)  KATJAA
 Ca n'est qu'un bébé.
 168)  KATJAA
-Ca aurait été différent si il avait été plus vieux.
+Ca aurait été différent s'il avait été plus vieux.
 169)  KATJAA
 Laisse-moi le faire.
 170)  KENNY

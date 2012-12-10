@@ -21,9 +21,9 @@ Que ce qui est arrivé à Duck pourrait m'arriver.
 11)  LEE
 {sadA}Désolé. {angryB}Je vais aller lui remettre les idées en place.
 12)  CLEMENTINE
-[that was a ] Tu jure.
+[that was a ] Tu jures.
 13)  CLEMENTINE
-Ne soit pas faché.
+Ne sois pas faché.
 14)  LEE
 [jerked out of his own thoughts] {surpriseB}Hein ?
 15)  BEN
@@ -35,7 +35,7 @@ Ne soit pas faché.
 18)  LEE
 [dead serious] {angryC}QUOI ?
 19)  
-Je pourrai te tuer.
+Je pourrais te tuer.
 20)  
 Bon Dieu, Ben...
 21)  
@@ -43,9 +43,9 @@ Pourquoi tu as fait ça ?
 22)  BEN
 [more broken up] {fearB}Oh merde... Qu'est-ce que j'ai fait ?
 23)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas, c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 29)  BEN
-{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
+{sadC}Au moment où j'ai réalisé qu'ils ne l'avaient pas, c'était trop tard... {fearB}ils ont dit qu'ils me tueraient. Nous tueraient tous. {sadC}Je suis désolé, Lee.
 24)  BEN
 [really broken up] {thinkingA}Dit quelque chose... {sadC}S'il te plait. Je mérite tout; tout ce qui arrive à cause de moi.
 25)  BEN
@@ -57,7 +57,7 @@ Pourquoi tu as fait ça ?
 39)  BEN
 [broken up] {fearA}Ils ont dit qu'ils avaient mon ami, qu'il était avec eux.
 27)  LEE
-{disgustA}Pourquoi ? {angryB}Pourquoi diable aurais-tu faire ça ?
+{disgustA}Pourquoi ? {angryB}Pourquoi diable aurais-tu fait ça ?
 28)  BEN
 {sadB}Bien...non, Je n'ai pas une bonne excuse. {sadC}J'ai pensé que je devais. J'ai merdé. Je suis désolé.
 31)  BEN
@@ -69,7 +69,7 @@ Pourquoi tu as fait ça ?
 34)  BEN
 [sad, choked up] {sadC}D'accord.
 35)  LEE
-{angryB}Non. Juste... Ne dit rien à personne. {angryC}Tu ne peux pas revenir en arrière, d'accord ?
+{angryB}Non. Juste... Ne dis rien à personne. {angryC}Tu ne peux pas revenir en arrière, d'accord ?
 36)  BEN
 [sad] {disgustA}Oui.
 37)  BEN
@@ -81,7 +81,7 @@ Pourquoi tu as fait ça ?
 41)  BEN
 {fearC}Je... Je... Je... [being threatened by Lee]
 42)  LEE
-{angryD}Je pourrai te tuer. [threatening]
+{angryD}Je pourrais te tuer. [threatening]
 43)  LEE
 {angryC}Personne ne peut nous voir. Je peux te faire passer par dessus et en finir avec toi !
 44)  BEN

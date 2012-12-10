@@ -1,7 +1,7 @@
 1)  
 Il faut que je te demande quelque chose.
 2)  LEE
-{normalC}Clém, {normalA}Faut que je te parle une seconde.
+{normalC}Clém, {normalA}faut que je te parle une seconde.
 3)  CLEMENTINE
 {normalA}Dacodac.
 4)  
@@ -17,7 +17,7 @@ Peu importe.
 9)  LEE
 {sadA}La voiture ou je me trouvais était une voiture de police et je me rendais en prison pour avoir commis un crime.
 10)  LEE
-{normalB}Il faut que je te le dise maintenant {sadA} parce que je ne veux pas que tu l'apprenne autrement.
+{normalB}Il faut que je te le dise maintenant {sadA} parce que je ne veux pas que tu l'apprennes autrement.
 11)  CLEMENTINE
 {sadA}D'accord.
 12)  LEE
@@ -49,13 +49,13 @@ Peu importe.
 25)  LEE
 {fearA}Non, p'tite tête.
 26)  CLEMENTINE
-{normalA}D'accord. Je vais retourner à mes craies avant de Duck n'en cassent plus.
+{normalA}D'accord. Je vais retourner à mes craies avant de Duck n'en casse plus.
 29)  CLEMENTINE
-{normalA}D'accord. Je vais retourner à mes craies avant de Duck n'en cassent plus.
+{normalA}D'accord. Je vais retourner à mes craies avant de Duck n'en casse plus.
 27)  CLEMENTINE
 {fearA}Lee ?
 28)  CLEMENTINE
-{thinkingA}Tu as dit que tu voulez me dire quelque chose...
+{thinkingA}Tu as dit que tu voulais me dire quelque chose...
 30)  CLEMENTINE
 {happyA}Hé, Lee.
 87)  CLEMENTINE
@@ -81,11 +81,11 @@ Peu importe.
 94)  LEE
 {normalA}Hé, Clémentine.
 32)  
-Qu'est-ce que tu pense de Doug ?
+Qu'est-ce que tu penses de Doug ?
 33)  CLEMENTINE
 {normalD}Je vais bien.
 34)  LEE
-{normalA}Qu'est-ce que tu pense de Doug ?
+{normalA}Qu'est-ce que tu penses de Doug ?
 35)  LEE
 {normalD}Et toi ?
 36)  CLEMENTINE
@@ -95,7 +95,7 @@ Qu'est-ce que tu pense de Doug ?
 38)  LEE
 {thinkingB}Cool ?
 39)  LEE
-{thinkingA}Tu pense qu'il déprime ?
+{thinkingA}Tu penses qu'il déprime ?
 40)  CLEMENTINE
 {happya}Il sait des choses.
 41)  CLEMENTINE
@@ -149,7 +149,7 @@ Tu n'aurais pas cassé une lampe torche ?
 66)  CLEMENTINE
 {normalA}Pour aller où ?
 67)  LEE
-{normalD}Est-ce que tu aime ici ?
+{normalD}Est-ce que tu aimes ici ?
 68)  LEE
 {thinkingA}Est-ce que tu veux partir ?
 69)  LEE
@@ -161,15 +161,15 @@ Tu n'aurais pas cassé une lampe torche ?
 72)  LEE
 {normalA}Je te parlerai plus tard, Clém.
 73)  LEE
-{normalA}Alors ça dessine bien ?
+{normalA}Alors, ça dessine bien ?
 74)  CLEMENTINE
-{happyA}Good.
+{happyA}Super.
 75)  
-Est-ce que tu aime ici ?
+Est-ce que tu aimes ici ?
 76)  
-Tu fais quoi là ?
+Tu fais quoi, là ?
 77)  LEE
-[pickup2]Sur quoi est-ce que tu travaille, Clém ?
+[pickup2]Sur quoi est-ce que tu travailles, Clém ?
 78)  CLEMENTINE
 [pickup2]C'est ce qu'on appelle un frottement de feuilles. Mon professeur Mlle Moore nous a montré comment
 les faire quand nous sommes allés au Jardin Botanique une fois.

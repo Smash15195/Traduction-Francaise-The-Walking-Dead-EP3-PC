@@ -27,19 +27,19 @@ AU SEC---
 62)  KENNY
 [urgent] {angryA}N'oublie pas de regarder sous le comptoir, cette fois !
 9)  KENNY
-[urgent] {disgustA}Je vais tout récuperer tout qui est là {angryB}et on met les bouts !
+[urgent] {disgustA}Je vais tout récuperer tout ce qui est là {angryB}et on met les bouts !
 58)  KENNY
-[urgent] {disgustA}Je vais tout récuperer tout qui est là {angryB}et on met les bouts !
+[urgent] {disgustA}Je vais tout récuperer tout ce qui est là {angryB}et on met les bouts !
 63)  KENNY
-[urgent] {disgustA}Je vais tout récuperer tout qui est là {angryB}et on met les bouts !
+[urgent] {disgustA}Je vais tout récuperer tout ce qui est là {angryB}et on met les bouts !
 10)  KENNY
-[urgent] {angryA}On a pas le temps de parler !
+[urgent] {angryA}On n'a pas le temps de parler !
 11)  KENNY
 [urgent] {angryA}Allez, ramasse toutes ces conneries !
 12)  LEE
 [pickup 2] [new read: - Too shoutey - kenny's reaction to his voice does not match that lee has just screamed KENNY.][urgent] {angryC}Kenny !
 13)  KENNY
-[urgent] {angryA}WHAT? [like, what do you want?] {angryC}Allez on s'y mets!
+[urgent] {angryA}WHAT? [like, what do you want?] {angryC}Allez on s'y met !
 14)  KENNY
 [urgent] {angryC}C'est bon !
 15)  BEATRICE
@@ -75,7 +75,7 @@ AU SEC---
 30)  LEE
 [pulling down a heavy bookshelf onto a pile of zombies] {angryC}AHH !
 31)  KENNY
-[urgent] {angryB} Dehors ! Tirons-nous de là putain !
+[urgent] {angryB} Dehors ! Tirons-nous de là, putain !
 32)  KENNY
 [killing zombies] {angryC}HOURRA !
 33)  KENNY
@@ -97,9 +97,9 @@ AU SEC---
 41)  KENNY
 {thinkingA}Allons-y, mon pote.
 42)  KENNY
-{angryB}Ils sont partout; fais bien gaffe, ok ?
+{angryB}Ils sont partout; fais bien gaffe, OK ?
 43)  LEE
-{angryC}Putain c'était quoi ?
+{angryC}Putain, c'était quoi ?
 44)  
 Cogner
 45)  

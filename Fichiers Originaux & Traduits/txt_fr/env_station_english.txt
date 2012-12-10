@@ -31,7 +31,7 @@ Je crois que je l'ai ouverte.
 16)  CLEMENTINE
 Oui.
 17)  LEE
-{happyc}Et bien, on a une sacrée chance.
+{happyc}Eh bien, on a une sacrée chance.
 18)  CLEMENTINE
 Viens. Fais attention.
 19)  LEE
@@ -45,15 +45,15 @@ Viens. Fais attention.
 22)  CLEMENTINE
 Ca ne doit pas être si dur.
 24)  LEE
-{normala}{body-B}Sautes si tu peux.
+{normala}{body-B}Saute si tu peux.
 25)  CLEMENTINE
 On reste pas ensemble ?
 26)  LEE
-{angrya}Si il n'y a pas des marcheurs ici, {happya}tu n'auras rien à craindre.
+{angrya}S'il n'y a pas de marcheurs ici, {happya}tu n'auras rien à craindre.
 27)  CLEMENTINE
 C'est trop haut pour sauter.
 28)  LEE
-{normald}Et bien, tu penses qu'on devrait faire quoi ?
+{normald}Eh bien, tu penses qu'on devrait faire quoi ?
 29)  CLEMENTINE
 Grr... bien. Tu peux me rapprocher, s'il te plait ?
 30)  CLEMENTINE
@@ -103,7 +103,7 @@ Bon. On a besoin de quoi ?
 46)  CLEMENTINE
 Ouais, certaine.
 47)  LEE
-{normalb}{body-b}Les clés sont sur le mur en face. {angrya}Attrappe les et ouvre la porte.
+{normalb}{body-b}Les clés sont sur le mur en face. {angrya}Attrappe-les et ouvre la porte.
 48)  LEE
 {thinkinga}{body-b}C'est bien fermé à clé, {normalc}mais il y a une petite ouverture au-dessus.
 49)  CLEMENTINE
@@ -331,7 +331,7 @@ On a appris à ne pas avoir peur.
 166)  CLEMENTINE
 [pickup2] C'est si dur.
 167)  LEE
-[pickup2] N'y pense pas, fait le. Une vie peut en dépendre.
+[pickup2] N'y pense pas, fais-le. Une vie peut en dépendre.
 168)  LEE
 [pickup2] On a appris à ne pas avoir peur. Ils auraient dû nous avoir, mais on les a eus.
 169)  CLEMENTINE
@@ -341,7 +341,7 @@ On a appris à ne pas avoir peur.
 171)  LEE
 [pickup2] Moi non plus.
 172)  CLEMENTINE
-[pickup2] Pardon. Je ferai mieux. Je ne veux pas qu'on meurt.
+[pickup2] Pardon. Je ferai mieux. Je ne veux pas qu'on meure.
 173)  LEE
 [pickup2] [to Clem] Prête à y aller ?
 174)  CLEMENTINE
@@ -369,7 +369,7 @@ On a appris à ne pas avoir peur.
 185)  LEE
 [pickup2] Quelqu'un doit être bien désespéré....
 186)  LEE
-[pickup2] Il y a un peu d'espace là haut, mais pas beaucoup.
+[pickup2] Il y a un peu d'espace là-haut, mais pas beaucoup.
 187)  
 Chariot élévateur
 188)  
@@ -393,4 +393,4 @@ Rayons vides
 193)  
 Pont
 194)  LEE
-{thinkingA}Hum. (DEFENSE D'ENTRER - les intrus seront poursuivis)
+{thinkingA}Hum. (DEFENSE D'ENTRER - Les intrus seront poursuivis)

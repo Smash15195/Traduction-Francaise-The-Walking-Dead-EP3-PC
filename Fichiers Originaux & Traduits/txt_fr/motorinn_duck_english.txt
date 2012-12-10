@@ -1,9 +1,9 @@
 1)  
 Tu as trouvé quelque chose d'autre ?
 2)  
-Tu n'as pas casser la lampe de poche, hein ?
+Tu n'as pas cassé la lampe de poche, hein ?
 3)  
-Tu semble en savoir beaucoup sur tout ça...
+Tu sembles en savoir beaucoup sur tout ça...
 4)  LEE
 {normalA}Tu as trouvé quelque chose d'autre ?
 5)  DUCK
@@ -11,15 +11,15 @@ Tu semble en savoir beaucoup sur tout ça...
 6)  LEE
 {thinkingA}[confused] D'accord.
 7)  LEE
-{normalB}Tu n'as pas casser la lampe torche, hein ?
+{normalB}Tu n'as pas cassé la lampe torche, hein ?
 8)  DUCK
-{sadB}Non. Papa et maman ne me laisse pas toucher à leur affaire. Lilly non plus.
+{sadB}Non. Papa et maman ne me laissent pas toucher à leurs affaires. Lilly non plus.
 9)  LEE
-{normalC}C'est surement mieux comme ça.
+{normalC}C'est sûrement mieux comme ça.
 10)  DUCK
 {happyC}Non ! Je suis un gentil garçon.
 11)  LEE
-{thinkingA}Tu semble en savoir beaucoup...{thinkingB} la craie, tu as trouvé des éraflures ici, ça va te sembler dingue, mais tu n'as rien a voir avec tout ça, hein ?
+{thinkingA}Tu sembles en savoir beaucoup...{thinkingB} La craie, tu as trouvé des éraflures ici, ça va te sembler dingue, mais tu n'as rien a voir avec tout ça, hein ?
 12)  LEE
 {angrya}Reste derrière le portail.
 13)  DUCK

@@ -17,7 +17,7 @@
 9)  LEE
 {angryb}[annoyed] Je sais qui c'est.
 10)  
-Tu peux m'aider. Mais ne le dit à personne.
+Tu peux m'aider. Mais ne le dis à personne.
 11)  
 Non. Si tu dis quoi que ce soit, il y aura des problèmes.
 12)  
@@ -27,7 +27,7 @@ Bien, tu es Robin.
 20)  DUCK
 {happya}Top secret !
 14)  LEE
-{NormalC} Tu peux m'aider. {angryA}Mais ne le dit à personne.
+{NormalC} Tu peux m'aider. {angryA}Mais ne le dis à personne.
 15)  LEE
 {normalC}Ouais. Génial.
 16)  DUCK
@@ -35,9 +35,9 @@ Bien, tu es Robin.
 27)  DUCK
 {fearA}[small] Qu'est-ce que je dois faire ?
 17)  LEE
-{thinkingA}Je sais pas. {normalC}Jette un oeil. Fais moi savoir si tu trouve un truc {disgustA}bizarre.
+{thinkingA}Je sais pas. {normalC}Jette un oeil. Fais moi savoir si tu trouves un truc {disgustA}bizarre.
 28)  LEE
-{thinkingA}Je sais pas. {normalC}Jette un oeil. Fais moi savoir si tu trouve un truc {disgustA}bizarre.
+{thinkingA}Je sais pas. {normalC}Jette un oeil. Fais moi savoir si tu trouves un truc {disgustA}bizarre.
 18)  DUCK
 {happyA}Je suis sur l'affaire !
 29)  DUCK
@@ -53,7 +53,7 @@ Bien, tu es Robin.
 23)  DUCK
 Je ne le répéterai à personne.
 24)  LEE
-{angryb}La partie à propos de ne pas m'aider. {angryC}Tu ne m'aide pas.
+{angryb}La partie à propos de ne pas m'aider. {angryC}Tu ne m'aides pas.
 25)  DUCK
 {happyB}Ouais !
 26)  LEE
@@ -87,7 +87,7 @@ Je ne le répéterai à personne.
 44)  DUCK
 {happyb}C'est peut-être un signe !
 45)  LEE
-{normalB}Ca se pourait. {thinkingA}C'est de la craie rose, {thinkingb}étrange.
+{normalB}Ca se pourrait. {thinkingA}C'est de la craie rose, {thinkingb}étrange.
 46)  DUCK
 {thinkingA}D'accord, {happyA}Retour à l'enquête !
 47)  LEE
@@ -179,17 +179,17 @@ Euh, rude journée, j'imagine.
 110)  LEE
 {sadA}Ce qui veut dire.
 82)  CARLEY
-Eh bien, je pense que tu as bien agit aujourd'hui. Et je me surprends à le penser la plupart du temps.
+Eh bien, je pense que tu as bien agi aujourd'hui. Et je me surprends à le penser la plupart du temps.
 117)  CARLEY
 Eh bien, je pense que tu as bien agit aujourd'hui. Et je me surprends à le penser la plupart du temps.
 83)  CARLEY
-Ca vaudrait probablement la peine donner des nouvelles à Lily à propos du matériel manquant.
+Ca vaudrait probablement la peine de donner des nouvelles à Lily à propos du matériel manquant.
 112)  CARLEY
-Ca vaudrait probablement la peine donner des nouvelles à Lily à propos du matériel manquant.
+Ca vaudrait probablement la peine de donner des nouvelles à Lily à propos du matériel manquant.
 84)  CARLEY
-Avec la façon dont elle prends tout, je ne veux pas la voir devenir paranoïaque.
+Avec la façon dont elle prend tout, je ne veux pas la voir devenir paranoïaque.
 114)  CARLEY
-Avec la façon dont elle prends tout, je ne veux pas la voir devenir paranoïaque.
+Avec la façon dont elle prend tout, je ne veux pas la voir devenir paranoïaque.
 85)  LEE
 {normalA}Merci.
 116)  LEE
@@ -207,9 +207,9 @@ Elle s'en remettra.
 118)  
 Elle s'en remettra.
 89)  KATJAA
-{normalB}Essai de comprendre, Ken.
+{normalB}Essaie de comprendre, Ken.
 120)  KATJAA
-{normalB}Essai de comprendre, Ken.
+{normalB}Essaie de comprendre, Ken.
 90)  LEE
 {normalC}Elle s'en remettra.
 119)  LEE
@@ -257,7 +257,7 @@ silence
 101)  KENNY
 {angryb}Tout ce que je sais, c'est que quand cette merde arrive, c'est moi le putain de méchant. {angryA}Je voudrais pouvoir te remercier une fois. {angryB}JUSTE UNE FOIS.
 102)  KENNY
-{sadA}Elle a raison sur une chose. Rien de tout cela devient plus facile.
+{sadA}Elle a raison sur une chose. Rien de tout cela ne devient plus facile.
 131)  
 Regarder
 133)  
@@ -323,7 +323,7 @@ Taper dans la Main
 159)  LEE
 [pickup2] Quelqu'un a probablement simplement été maladroit.
 160)  LEE
-[pickup2] Ca ne pas être juste une coïncidence.
+[pickup2] Ca ne peut pas être juste une coïncidence.
 161)  KENNY
 [pickup2] [alt] Hé -- elle ne nous aide pas, hein ?
 162)  KATJAA

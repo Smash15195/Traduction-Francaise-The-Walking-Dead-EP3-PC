@@ -9,7 +9,7 @@ J'ai besoin de te dire quelque chose.
 5)  
 J'ai été condamné pour meutre.
 6)  
-J'étais sur en transfert pour la prison avant tout ça.
+J'étais en transfert pour la prison avant tout ça.
 7)  
 Oublie ça.
 8)  LEE
@@ -19,15 +19,15 @@ Oublie ça.
 19)  BEN
 {surprisedA}Ouah, {sadB}sérieusement ?
 10)  LEE
-{thinkingA}Pourquoi je plaisanterai avec ça ?
+{thinkingA}Pourquoi je plaisanterais avec ça ?
 11)  BEN
 {surprisedA}J'en sais rien,{feara} euh...{sadA} wouoh.
 12)  LEE
-{normalD}Tu fais parti du groupe et tu devrais le savoir.
+{normalD}Tu fais partie du groupe et tu devrais le savoir.
 13)  BEN
-{fearb}J'avais jamais vu de meurtrier avant. {sadB}Eh bien, j'aurais pas dû dire ça.
+{fearb}J'avais jamais vu de meurtrier avant. {sadB}Euh, j'aurais pas dû dire ça.
 14)  LEE
-{normalD}Je compris ce que tu voulais dire.
+{normalD}Je comprends ce que tu voulais dire.
 15)  BEN
 {normalb}Merci de me faire confiance.{fearA} Je, euh, je...
 24)  BEN
@@ -77,13 +77,13 @@ Tu te sens utile dans le groupe ?
 39)  BEN
 {fearb}Elle me fout les glandes.
 40)  LEE
-{thinkingA}C'est plutôt {normalc}normal comme sentiments.
+{thinkingA}C'est plutôt {normalc}normal comme sentiment.
 41)  BEN
 {fearA}J'ai juste peur qu'elle craque.
 42)  
-Qu'est-ce que tu pense de Lilly ?
+Qu'est-ce que tu penses de Lilly ?
 43)  LEE
-{normalA}Ouais. Comment va le moral.
+{normalA}Ouais. Comment va le moral ?
 44)  BEN
 {thinkingA}Je vais bien. {feara}Ca aide, hein ?
 45)  LEE
@@ -107,9 +107,9 @@ Tu étais déjà venu à Macon avant ?
 54)  LEE
 {thinkingb}J'ai grandi à Macon.
 55)  BEN
-{happya}C'est super génial. {sadA}Je veux dire, plus maintenant mais je pari que ça l'était.
+{happya}C'est super génial. {sadA}Je veux dire, plus maintenant mais je parie que ça l'était.
 56)  BEN
-{thinkingA}Je n'avais pas de raisons d'y venir. {normalb}Mes parents me permettait de prendre la voiture pour aller en ville le week-end. {thinkingb}Mais faire quoi à Macon ? {normalA}C'est une pure perte de temps par rapport à Atlanta.
+{thinkingA}Je n'avais pas de raisons d'y venir. {normalb}Mes parents me permettaient de prendre la voiture pour aller en ville le week-end. {thinkingb}Mais faire quoi à Macon ? {normalA}C'est une pure perte de temps par rapport à Atlanta.
 57)  BEN
 {surprisedA}Oh. {fearA} Je ne voulais pas dire que c'est pourri ou quoi que ce soit.
 58)  LEE
@@ -131,7 +131,7 @@ Une lampe torche a été cassée. C'était toi ?
 66)  BEN
 {fearA}Non.
 67)  LEE
-{normala}Tu n'aurais pas de problèmes si c'était le cas. {thinkingA}Je sais que tu es stressé, peut-être es-tu sorti pour aller à la salle de bain, l'a cassée, eu peur et la jetée.
+{normala}Tu n'aurais pas de problèmes si c'était le cas. {thinkingA}Je sais que tu es stressé, peut-être es-tu sorti pour aller à la salle de bain, l'a cassée, a eu peur et l'a jetée.
 68)  BEN
 {thinkingb}C'est du troisième degré ? {fearb}Je n'ai cassé aucune lampe torche.
 69)  LEE
@@ -147,7 +147,7 @@ Tu aurais une craie que je pourrais t'emprunter ?
 74)  LEE
 {normalA}Hé Ben, j'ai besoin d'un morceau de craie. Est-ce que tu sais ou je peux en trouver ?
 75)  BEN
-{thinkingb}Eh bien, je ne joue pas avec ces trucs. J'ai mes... {normalb}euh, mes pensées et je viens de lire la Bible que j'ai trouvé dans ma chambre.
+{thinkingb}Eh bien, je ne joue pas avec ces trucs. J'ai mes... {normalb}euh, mes pensées et je viens de lire la Bible que j'ai trouvée dans ma chambre.
 76)  BEN
 {thinkingA}Pourquoi j'en aurais ?
 77)  BEN

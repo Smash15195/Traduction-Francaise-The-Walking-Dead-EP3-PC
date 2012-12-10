@@ -21,7 +21,7 @@ Dites MOI ce que vous lui avez dit, connard.
 11)  CHUCK
 [outside train] {sadB}Parce c'est le cas.
 10)  LEE
-[outside train]{angryA}Je m'en fous des raisons que vous avez eu de faire ça, {angryB}aucune raison d'aller dire à ma fille qu'elle va mourir!
+[outside train]{angryA}Je m'en fous des raisons que vous avez eu de faire ça, {angryB}aucune raison d'aller dire à ma fille qu'elle va mourir !
 12)  LEE
 [outside train] {angryA}Dites-le à moi connard, ce que vous avez dit à ma fille.
 14)  LEE
@@ -37,7 +37,7 @@ Dites MOI ce que vous lui avez dit, connard.
 19)  CHUCK
 [outside train] {thinkingB}Maintenant, on a tous les deux la trouille.
 20)  CHUCK
-{happyA}Maintenant que je lui ai dit ça. J'ai perturbé le papa poule.
+{happyA}Maintenant que je lui ai dit ça, j'ai perturbé le papa poule.
 21)  CHUCK
 {thinkingB}Vous entendez toujours parler de la maman poule mais le papa poule est celui qui se faufillera et vous attaquera réellement par derrière.
 22)  CHUCK
@@ -59,7 +59,7 @@ Nous trouverons un bateau.
 30)  
 Nous ferons ce qui est mieux pour Clémentine.
 31)  LEE
-{angryA}J'y réfléchi.
+{angryA}J'y réfléchis.
 32)  CHUCK
 {angryA}Et bien continuez de réfléchir parce que ça nous tombera dessus avant de le savoir.
 33)  LEE
@@ -69,7 +69,7 @@ Nous ferons ce qui est mieux pour Clémentine.
 35)  LEE
 {angryA}Nous ferons ce qui est mieux pour Clémentine.
 36)  CHUCK
-{happyA}Oh! Et bien alors ! Vous avez enfin trouvé la solution ! {angryA}Peut importe.
+{happyA}Oh ! Eh bien alors ! Vous avez enfin trouvé la solution ! {angryA}Peut importe.
 37)  CHUCK
 {angryA}C'est ce que je craignais.
 38)  CHUCK
@@ -153,7 +153,7 @@ Dans tous les cas, vous devrez vivre avec les conséquences.
 77)  LEE
 {thinkingB}Il y avait une carte de Savannah dans la cabine.
 78)  CHUCK
-{thinkingB}C'est là où j'aurai regardé.
+{thinkingB}C'est là où j'aurais regardé.
 79)  LEE
 {thinkingA}J'en parlerai avec Clémentine et m'assurerai qu'elle comprenne les chose avant qu'on arrive.
 80)  CHUCK
@@ -167,7 +167,7 @@ Yo.
 84)  LEE
 {happyB}Entre trouver un bateau et chercher ses parents, je pense que Clém et moi avons un bon plan pour Savannah.
 85)  LEE
-{happyA}Et bien, la fille peut tirer.
+{happyA}Eh bien, la fille peut tirer.
 86)  CHUCK
 {sadA}Ca ne doit pas être folichon.
 87)  LEE

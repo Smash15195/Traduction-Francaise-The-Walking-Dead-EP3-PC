@@ -5,7 +5,7 @@ Coté Gauche du Camping Car
 3)  
 Coté Droit du Camping Car
 4)  LEE
-[temp] Euh, ok.
+[temp] Euh, OK.
 5)  CLEMENTINE
 [temp] J'ai peur ! Tue cet homme !!1!1
 6)  BANDITLEADER
@@ -13,7 +13,7 @@ Coté Droit du Camping Car
 7)  BANDIT1
 [pickup1] [gleeful] Ouais !
 8)  BANDITLEADER
-[pickup1][spotting Lee] Bouge plus troud'cul!
+[pickup1][spotting Lee] Bouge plus trouduc' !
 9)  LEE
 [pickup1] Doucement...
 10)  
@@ -21,17 +21,17 @@ Nous pouvons continuer le marché.
 11)  
 Pourquoi faites vous ça ?
 12)  
-Et les têtes de noeuds, vous feriez mieux de partir.
+Eh les têtes de noeuds, vous feriez mieux de partir.
 13)  LEE
 [pickup1] Nous avons plein de provisions. Nous pouvons continuer le marché.
 14)  LEE
-[pickup1] Pourquoi faites vous ça ? Merde foutez-nous la paix !
+[pickup1] Pourquoi faites-vous ça ? Merde, foutez-nous la paix !
 15)  LEE
 [pickup1][aggressive, threatening] Est-ce que vous pensez que tout va se passer comme vous voulez ? La meilleure chose pour vous est de partir d'ici.
 16)  BANDITLEADER
 [pickup1] [condescending laughter] Écoutez-moi ce fils de pute !
 17)  BANDITLEADER
-[pickup1] Pourquoi ?! connard ! Pourquoi ?! Parce qu'on le veux, voilà pourquoi !
+[pickup1] Pourquoi ?! Connard ! Pourquoi ?! Parce qu'on le veux, voilà pourquoi !
 18)  BANDITLEADER
 [pickup1][over-the-top] VOUS CROYEZ QUE C'EST UNE PUTAIN DE PLAISANTERIE !?
 19)  
@@ -83,7 +83,7 @@ Bon Dieu !
 38)  LEE
 [pickup1] [being shot at] Sans blague !
 39)  KENNY
-[pickup1] Occupe ces bâtards ! Faut couvrir les notres et les faire monter dans le Camping Car !
+[pickup1] Occupe ces bâtards ! Faut couvrir les nôtres et les faire monter dans le Camping Car !
 40)  BEN
 [pickup1][high-energy, you are being shot at]A L'AIDE ! Bon sang !
 41)  LEE
@@ -95,13 +95,13 @@ Bon Dieu !
 44)  LEE
 [pickup1][high-energy, people are being shot at] Je t'ai Ben !
 45)  BEN
-[pickup1][panicking, you are being shot at] Faites-moi sortir d'ici ! Je vous en pris !
+[pickup1][panicking, you are being shot at] Faites-moi sortir d'ici ! Je vous en prie !
 46)  LEE
 [pickup1][high-energy, people are being shot at] Doug, bouge pas !
 47)  DOUG
 [pickup1][high-energy, you are being shot at] Lee ! A l'aide !
 48)  LEE
-[pickup1][high-energy, people are being shot at] Attends Doug !
+[pickup1][high-energy, people are being shot at] Attends, Doug !
 49)  DOUG
 [pickup1][panicking, people are being shot at] Merde, c'est pas bon !
 50)  LEE
@@ -139,7 +139,7 @@ Bon Dieu !
 66)  CLEMENTINE
 [pickup1][crying, you are being shot at] A l'aide !
 67)  LEE
-[pickup1][high-energy, people are being shot at] Je ne vais pas les laisserai pas te faire du mal !
+[pickup1][high-energy, people are being shot at] Je ne les laisserai pas te faire du mal !
 68)  CLEMENTINE
 [pickup1][crying, you are being shot at] J'ai peur !
 69)  LEE
@@ -155,7 +155,7 @@ Bon Dieu !
 74)  LEE
 [pickup1][high-energy, people are being shot at] Duck, ne t'inquiète pas !
 75)  LEE
-[pickup1][high-energy, people are being shot at] Baisse toi, Duck !
+[pickup1][high-energy, people are being shot at] Baisse-toi, Duck !
 76)  DUCK
 [pickup1][crying, people are being shot at] Arrêtez-les !
 77)  LEE
@@ -283,11 +283,11 @@ On l'emmerde ! Laissons-la ici !
 137)  LEE
 [pickup1] Quoi ?
 138)  LILLY
-[pickup1] Fais les parler .
+[pickup1] Fais les parler.
 139)  BANDITLEADER
 [pickup1] [far away, through a door]VOUS AVEZ FAIT LA PLUS GROSSE CONNERIE DE VOTRE VIE !
 140)  LILLY
-[pickup1] Fait ce qu'il faut pour l'empêcher d'appuyer sur la gâchette !
+[pickup1] Fais ce qu'il faut pour l'empêcher d'appuyer sur la gâchette !
 141)  LEE
 [pickup1] Merde.
 142)  LEE
@@ -303,13 +303,13 @@ On l'emmerde ! Laissons-la ici !
 150)  BANDITLEADER
 [pickup2] ...Vraiment ?
 151)  BANDITLEADER
-[pickup2] On veut deux fois plus que vous avez à nous donner !
+[pickup2] On veut deux fois plus que ce vous avez à nous donner !
 152)  BANDITLEADER
 [pickup2] FERME-LA OU JE VAIS--
 155)  BANDITLEADER
 [pickup2] Eh bien... Je suppose que nous devons régler certains points, alors !
 156)  BANDIT1
-[pickup2] J'aime pas les trucs amiable !
+[pickup2] J'aime pas les trucs amiables !
 157)  BANDIT2
 [pickup3] Il se cache derrière le camping car ! Bougez vos culs et encerclez-les !
 158)  BANDIT2

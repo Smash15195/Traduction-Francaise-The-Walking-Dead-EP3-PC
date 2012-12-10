@@ -11,7 +11,7 @@ Je dois prendre soin de ma famille. Je dois être sûr que ceux que je prends avec
 5)  LEE
 Attendez, je sais que-
 6)  KENNY
-Lee, vous avez laisser Duck en danger deux fois !
+Lee, vous avez laissé Duck en danger deux fois !
 7)  DUCK
 Ahhhh !!
 8)  KENNY
@@ -19,7 +19,7 @@ Je ne l'oublirai pas.
 9)  LEE
 Il y des rumeurs qui disent que vous voudriez partir d'ici.
 10)  KENNY
-Eh bien, "ici" n'est pas bon pour nous tous. Vous devriez penser venir avec nous. Vous et Clem.
+Eh bien, "ici" n'est pas bon pour nous tous. Vous devriez songer à venir avec nous. Vous et Clém.
 11)  BANDIT2
 Personne n'essayera de te couper quoi que ce soit !
 12)  BEN
@@ -35,7 +35,7 @@ C'est vrai. Je sais qui vous êtes. Et je sais que vous êtes un tueur.
 17)  LILLY
 IL EST PAS MORT !  Venez m'aider !
 18)  KENNY
-Voyons ! Nous savons que ce type ne peut pas être sauver !
+Voyons ! Nous savons que ce type ne peut pas être sauvé !
 19)  KENNY
 Nnnggh !!
 20)  LILLY
@@ -45,13 +45,13 @@ On dirait une voiture...
 22)  KENNY
 Il y a paquet de provisions et de matériel là-dedans !
 23)  LEE
-Nous devons les prendre Clémentine.  Nous en avons besoin pour survivre.
+Nous devons les prendre, Clémentine.  Nous en avons besoin pour survivre.
 24)  JOLENE
-Ne t'inquiète pas ma petite.  Les bandits n'ont d'yeux que pour cette ferme.  Aussi longtemps qu'ils leur donneront de la nourriture, tu seras en sécurité.
+Ne t'inquiète, pas ma petite.  Les bandits n'ont d'yeux que pour cette ferme.  Aussi longtemps qu'ils leur donneront de la nourriture, tu seras en sécurité.
 25)  LEE
 [to Clementine]Tu as raison. Nous ne devrions pas les prendre.
 26)  KENNY
-Nous autres voulont les prendre.
+Nous autres voulons les prendre.
 27)  KENNY
 Vous avez sauvé Duck de ces monstres...
 28)  KENNY

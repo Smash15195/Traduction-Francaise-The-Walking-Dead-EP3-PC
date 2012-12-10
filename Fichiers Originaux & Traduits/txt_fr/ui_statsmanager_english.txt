@@ -39,7 +39,7 @@ desc_achieved_StatsItem_Chapter8
 20)  
 desc_unachieved_StatsItem_Chapter8
 21)  
-Au revoir, dit-elle Calmement
+Au revoir, dit-elle calmement
 22)  
 Mauvais Sang
 23)  

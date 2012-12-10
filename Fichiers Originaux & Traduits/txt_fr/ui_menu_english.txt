@@ -5,7 +5,7 @@ Partie 3
 3)  
 CHOISIR
 4)  
-BACK
+RETOUR
 5)  
 RETOUR
 6)  
@@ -71,7 +71,7 @@ CONTINUER
 35)  
 ÉPISODE 4: A CHAQUE DETOUR
 36)  
-ÉPISODE 5: PLUS DE TEMPS A PERDRET
+ÉPISODE 5: PLUS DE TEMPS A PERDRE
 37)  
 AIDE & OPTIONS
 38)  
@@ -171,7 +171,7 @@ A CHAQUE DETOUR
 78)  
 PLUS DE TEMPS
 79)  
-La progréssion est enregistrés chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez ou éteignez pas votre console alors que l'indicateur est sur l'écran.
+La progression est enregistrés chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez ou éteignez pas votre console alors que l'indicateur est sur l'écran.
 80)  
 REMBOBINER
 81)  
@@ -195,11 +195,11 @@ Vous avez déjà acheté cet épisode. Pour télécharger, rendez-vous à votre domicil
 91)  
 QUITTER LE JEU
 92)  
-Achat échoué. S'il vous plaît vérifier votre connexion réseau et essayez à nouveau.
+Achat échoué. Veuillez vérifier votre connexion réseau et essayez à nouveau.
 93)  
 Impossible de se connecter au serveur.
 94)  
-Le téléchargement a échoué. S'il vous plaît vérifier votre connexion réseau et essayez à nouveau.
+Le téléchargement a échoué. Veuillez vérifier votre connexion réseau et essayez à nouveau.
 95)  
 101 DECISION 1 TITLE
 96)  
@@ -409,9 +409,9 @@ ANNULER
 199)  
 PROCHAINEMENT
 200)  
-Tout progrès réalisés depuis la derniere sauvegarde automatique sera perdu. Etes-vous sûr de vouloir quitter le jeu ?
+Tout progrès réalisé depuis la derniere sauvegarde automatique sera perdu. Etes-vous sûr de vouloir quitter le jeu ?
 217)  
-Tout progrès réalisés depuis la derniere sauvegarde automatique sera perdu. Etes-vous sûr de vouloir quitter le jeu ?
+Tout progrès réalisé depuis la derniere sauvegarde automatique sera perdu. Etes-vous sûr de vouloir quitter le jeu ?
 201)  
 STANDARD:
 202)  
@@ -426,7 +426,7 @@ Utiliser          pour déplacer Lee et explorer le monde.
 
           bouge le réticule et vous permet d'interagir avec les choses que vous voyez.
 
-Appuyer        ,        ,        , et        pour choisir des actions ou des réponses et parfois exploser une tête de zombie.
+Appuyer sur        ,        ,        , et        pour choisir des actions ou des réponses et parfois exploser une tête de zombie.
 206)  
 NOTIFICATIONS HISTORIQUE
 207)  
@@ -448,15 +448,15 @@ TROPHÉES
 214)  
 Les réglages peuvent être modifiés ultérieurement dans l'aide et le menu Options.
 215)  
-Votre console ne peut pas se connecter au Xbox LIVE. S'il vous plaît connectez-vous au Xbox LIVE pour accéder à cette fonctionnalité.
+Votre console ne peut pas se connecter au Xbox LIVE. Veuillez vous connecter au Xbox LIVE pour accéder à cette fonctionnalité.
 216)  
 You must be signed into PlayStation   Network in order to access this feature.
 218)  
 DÉTECTER ZONES ACTIVES
 219)  
-Ce jeu s'adapte à vos choix, le rembobinage va supprimer tout progres réalisé apres le point de contrôle, mais conserver toutes les décisions prises avant le point de contrôle.
+Ce jeu s'adapte à vos choix, le rembobinage va supprimer tout progrès réalisé après le point de contrôle, mais conservera toutes les décisions prises avant le point de contrôle.
 
-Voulez-vous revenir à ce point de contrôle ?
+Souhaitez-vous revenir à ce point de contrôle ?
 220)  
 DÉVERROUILLER ÉPISODE 1
 221)  
@@ -475,9 +475,9 @@ APPUYEZ SUR START
 227)  
 CLIQUEZ POUR CONTINUER
 228)  
-Le service en ligne est désactivé sur votre compte PlayStation Network en raison des restrictions de contrôle parental.
+Le service en ligne est désactivé sur votre compte PlayStation Network en raison des restrictions du contrôle parental.
 230)  
-Voulez-vous garder cette nouvelle résolution ? Les anciens parametres seront repris dans les 10 secondes.
+Voulez-vous garder cette nouvelle résolution ? Les anciens paramêtres seront repris dans les 10 secondes.
 231)  
 Les réglages sont modifiable dans la catégorie Gameplay.
 232)  
@@ -487,9 +487,9 @@ SENSIBILITÉ DE LA SOURIS
 234)  
 Votre compte Telltale ne dispose pas actuellement d'une licence pour ce jeu. Aimeriez-vous aller sur le site de Telltale Games pour acheter le jeu maintenant ?
 235)  
-Le compte Telltale vous avez entré n'est pas autorisé à exécuter ce jeu. Vous pouvez essayer de ré-entrer les informations de connexion pour un compte qui possede le jeu, ou visiter le site Telltale afin d'autoriser ce compte en achetant une copie.
+Le compte Telltale vous avez entré n'est pas autorisé à exécuter ce jeu. Vous pouvez essayer de ré-entrer les informations de connexion pour un compte qui possède le jeu, ou visiter le site Telltale afin d'autoriser ce compte en achetant une copie.
 236)  
-Impossible d'établir une connexion vers les serveurs de Telltale afin de vérifier le statut ce compte. S'il vous plaît assurez-vous que vous disposez d'une connexion Internet active.
+Impossible d'établir une connexion vers les serveurs de Telltale afin de vérifier le statut ce compte. Veuillez vous assurer que vous disposez d'une connexion Internet active.
 237)  
 Ressaisissez info
 238)  
@@ -503,7 +503,7 @@ Une erreur inconnue s'est produite ! Veuillez redémarrer l'application et essaye
 242)  
 Le contenu a été téléchargé, mais une erreur s'est produite en essayant de l'installer. Veuillez redémarrer l'application et essayez à nouveau.
 243)  
-Connexion perdue pendant le téléchargement des données. Veuillez vous assurer que vous disposez d'une connexion Internet active et ré-essayer le téléchargement.
+Connexion perdue pendant le téléchargement des données. Veuillez vous assurer que vous disposez d'une connexion Internet active et réessayer le téléchargement.
 244)  
 STATUT DES ÉPISODES
 250)  
@@ -534,7 +534,7 @@ Les dernières mises à jour ont été installées. Le jeu va redémarrer.
 261)  
 Impossible de terminer l'achat: ce compte n'en a pas la permission.
 262)  
-Impossible de terminer l'achat: ce compte ne peut actuellement pas faire de paiements.
+Impossible de terminer l'achat: ce compte ne peut actuellement pas effectuer de paiements.
 263)  
 Impossible de terminer l'achat: une erreur réseau s'est produite.
 264)  

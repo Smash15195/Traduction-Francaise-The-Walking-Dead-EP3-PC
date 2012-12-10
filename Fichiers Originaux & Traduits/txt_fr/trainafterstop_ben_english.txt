@@ -17,7 +17,7 @@ Il ne reste pas beaucoup d'entre nous.
 10)  BEN
 {sadC}Je pensais parler à Kenny...
 11)  BEN
-{sadA}Ouais... {thinkingA}Toi, moi et Kenny. Clémentine. {fearB}Le vagabond, si il est par là.
+{sadA}Ouais... {thinkingA}Toi, moi et Kenny. Clémentine. {fearB}Le vagabond, s'il est par là.
 12)  LEE
 {sadA}Il ne reste pas beaucoup d'entre nous..
 13)  
@@ -50,7 +50,7 @@ me.']{fearA}Je...{fearB}personne ne voulait venir avec moi. {sadB}C'était il y a
 26)  LEE
 {sadB}Je ne sais pas si nous pouvons compter sur Kenny.
 27)  BEN
-{sadA}J'ai perdu tout ceux que je connaissais à cause de ça. {sadB}Je ne retournerai jamais chez moi. {sadC}Qui c'est ce que sont devenus mes parents.
+{sadA}J'ai perdu tout ceux que je connaissais à cause de ça. {sadB}Je ne retournerai jamais chez moi. {sadC}Qui sait ce que sont devenus mes parents.
 28)  LEE
 {thinkingB}Tu vas être capable de remonter la pente ?
 29)  LEE
@@ -118,7 +118,7 @@ Ouais.
 60)  LEE
 [pickup2] {sadB}Laissons tomber ça pour le moment, d'accord ?
 61)  BEN
-[pickup2] [maybe change to this?] Juste entrain de réfléchir à propos d'en parler à Kenny...
+[pickup2] [maybe change to this?] Juste en train de réfléchir à propos d'en parler à Kenny...
 62)  
 Qu'est-ce que tu fais ici ?
 63)  

@@ -13,7 +13,7 @@ Qu'est-ce que tu pense de Lilly ?
 7)  DOUG
 {fearA}Non, rien du tout. Je ne peux pas boire une tasse de thé sans trembler de partout.
 8)  DOUG
-{happyA}Puisque qu'on en parle, tu savais que, même si la craie est traditionnellement connu pour être du carbonate de calcium, celles qui sont utilisés dans les salles de classe sont en fait constituée de gypse, et ça grâce aux conditions minières favorables du pays ?
+{happyA}Puisque qu'on en parle, tu savais que, même si la craie est traditionnellement connue pour être du carbonate de calcium, celles qui sont utilisées dans les salles de classe sont en fait constituée de gypse, et ça grâce aux conditions minières favorables du pays ?
 9)  LEE
 {thinkingB}Doug, non-je-le-savais-pas.
 10)  DOUG
@@ -41,7 +41,7 @@ Tu sais quelque chose sur cette lampe torche ?
 21)  DOUG
 {happyA}Eh bien, je peux te dire que --
 22)  LEE
-{thinkingb}Oh oh oh -- Je sais que tu sais tout sur les lampes torche. {normalC} Je te demande si tu sais comment elle a été cassée. Lilly l'a trouvé dans une benne à ordures.
+{thinkingb}Oh oh oh -- Je sais que tu sais tout sur les lampes torche. {normalC} Je te demande si tu sais comment elle a été cassée. Lilly l'a trouvée dans une benne à ordures.
 23)  DOUG
 {normalA}Oh. Non, je sais pas. Je vais garder un oeil ouvert, au cas où.
 24)  DOUG
@@ -53,11 +53,11 @@ Tu sais quelque chose sur cette lampe torche ?
 27)  LEE
 {happyA}Le mur est primordial.
 28)  DOUG
-{sada}Je le pense. Je me sens inutile pour la surveillance, je ne suis pas un fana d'armes et j'aimerai juste être plus utile.
+{sada}Je le pense. Je me sens inutile pour la surveillance, je ne suis pas un fana d'armes et j'aimerais juste être plus utile.
 29)  LEE
 {thinkingA}Sur quoi tu travailles ?
 30)  DOUG
-{normalB}Je pense que si nous pouvons garder quiconque à distance ou qu'ils nous laissent tranquille, c'est un bon endroit.
+{normalB}Je pense que si nous pouvons garder quiconque à distance ou qu'ils nous laissent tranquilles, c'est un bon endroit.
 31)  DOUG
 {thinkingA}Et, tu sais, ils ont arrêté de nous attaquer. {normalB}Ils nous ont peut-être oubliés.
 32)  LEE
@@ -65,9 +65,9 @@ Tu sais quelque chose sur cette lampe torche ?
 33)  DOUG
 {thinkingA}Hmm. La sécurité a toujours été un peu une chose insaisissable pour moi...
 34)  LEE
-{normalA}Je veux dire au motel, en opposition à un lieu nouveau.
+{normalA}Je veux dire au motel, par opposition à un lieu nouveau.
 35)  LEE
-{thinkingA}Ou peut-être quelqu'un les a convaincus que nous valont plus vivants.
+{thinkingA}Ou peut-être quelqu'un les a convaincus que nous valons plus vivants.
 36)  LEE
 {normalA}On se voit plus tard, Doug.
 37)  DOUG
@@ -107,7 +107,7 @@ Tu sais quelque chose sur cette lampe torche ?
 40)  LEE
 {sadA}J'espère que Doug se sent plus utile maintenant.
 41)  LEE
-{thinkingA}Je devrais montrer ça à Lilly avant de faire des accusations.
+{thinkingA}Je devrais montrer ça à Lilly avant de porter des accusations.
 42)  
 Parler à
 43)  
@@ -117,6 +117,6 @@ Montrer Sachet à
 45)  
 Interroger sur la Craie
 46)  DOUG
-[pickup2] Je vais cassé ces meubles pour rafistoler le mur. Si nous continuons comme cela, nous aurons la moitié du Travelier empilés ici avant de nous en rendre compte.
+[pickup2] Je vais casser ces meubles pour rafistoler le mur. Si nous continuons comme cela, nous aurons la moitié du Travelier empilés ici avant de nous en rendre compte.
 47)  
 Parler à

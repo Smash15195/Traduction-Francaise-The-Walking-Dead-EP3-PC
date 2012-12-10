@@ -21,7 +21,7 @@ Il y a des cartes dans le coin ?
 11)  KENNY
 {sadA}J'en sais rien.
 12)  LEE
-{thinkingB}Je, euh, je veux voir avec Clém la configuration des lieux pour notre arrivé à Savannah..
+{thinkingB}Je, euh, je veux voir avec Clém la configuration des lieux pour notre arrivée à Savannah..
 13)  
 Si jamais tu as besoin de parler...
 14)  LEE
@@ -43,7 +43,7 @@ Si jamais tu as besoin de parler...
 22)  LEE
 {sadB}Je te parlerai plus tard, Kenny. [kat/duck dead]
 23)  LEE
-{thinkingA}Fais-moi le moi savoir quand on arrivera ou si tu vois quoi que ce soit.
+{thinkingA}Fais-le moi savoir quand on arrivera ou si tu vois quoi que ce soit.
 24)  LEE
 {sadB}Ken--
 25)  LEE
@@ -59,7 +59,7 @@ Chuck voulait savoir si tu as besoin d'un verre.
 30)  
 Il y autre chose avec Chuck ?
 31)  
-Pourquoi tu ne sort pas un peu.
+Pourquoi tu ne sors pas un peu.
 32)  LEE
 {sadA}Chuck voulait savoir si tu as besoin d'un verre.
 33)  KENNY
@@ -71,13 +71,13 @@ Pourquoi tu ne sort pas un peu.
 36)  LEE
 {sadA}Sans doute.
 37)  KENNY
-{thinkingA}Tu garde un oeil ici ?
+{thinkingA}Tu gardes un oeil ici ?
 38)  LEE
 {thinkingA}Il y autre chose avec Chuck ?
 39)  KENNY
 {sadC}Alors d'accord.
 40)  LEE
-{thinkingB}Pourquoi tu ne sort pas un peu. T'aérer l'esprit.
+{thinkingB}Pourquoi tu ne sors pas un peu. T'aérer l'esprit.
 41)  KENNY
 {sadC}J'en sais rien...
 42)  KENNY
